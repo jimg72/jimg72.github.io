@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>start</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        body {
+            background: #f5f6f7 none;
+            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            }
+
+        #container {
+            margin: 0 auto;
+            min-width: 640px;
+            max-width: 1024px;
+            }
+
+        #primary {
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+            }
+
+        p {
+            color: #333;
+            font-size: 24px;
+            line-height: 36px;
+            margin: 0;
+            padding: 0;
+            border-bottom: 1px solid #333;
+            }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            }
+
+        ul li {
+            font-size: 20px;
+            line-height: 30px;
+            margin: 0;
+            padding: 0;
+            }
+
+        a {
+            color: #06c;
+            text-decoration: none;
+            }
+
+        a:hover, a:active {
+            color: #c66;
+            }
+
+        .box {
+            text-align: left;
+            float: left;
+            margin: 0 40px 20px 0;
+            width: 200px;
+            }
+    </style>
+</head>
+
+<body>
+
+    <!-- <li><a target="_blank" href=""></a></li> -->
+
+    <div id="container">
+        <div id="primary">
+
+            <div class="box">
+                <p>Archie Manning</p>
+                <ul>
+                    <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_nkw=%22archie+manning%22&_sacat=212&_sop=1">ALL [ending soonest]</a></li>
+                </ul>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <script src="masonry.pkgd.min.js"></script>
+
+    <script type="text/javascript">
+        var container = document.querySelector('#primary');
+        var msnry = new Masonry(container, {
+            itemSelector: '.box'
+        });
+    </script>
+</body>
+
+</html>
