@@ -24,7 +24,7 @@
             line-height: 36px;
             margin: 0;
             padding: 0;
-            border-bottom: 1px solid #333;
+            border-bottom: 1px solid #c66;
         }
 
         ul {
@@ -53,22 +53,27 @@
         #container {
             margin: 20px auto;
             min-width: 640px;
-            max-width: 1024px;
+            max-width: 1200px;
         }
 
         .grid {
             margin: 0 auto;
             text-align: left;
+            border-top: 1px solid #06c;
         }
 
-        .grid-item {
-            width: 20%;
+        /* clearfix */
+        .grid:after {
+            content: '';
+            display: block;
+            clear: both;
         }
 
         .grid-item {
             float: left;
             margin: 0 0 20px 0;
-            padding: 0 0 20px 0;
+            padding: 0 20px 0 0;
+            width: 220px;
         }
     </style>
 </head>
@@ -114,6 +119,28 @@
                             target="_blank">9</a></li>
                 </ul>
             </div>
+
+            <div class="grid-item">
+                <p>Matt Corral</p>
+                <ul>
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22matt+corral%22&_sacat=212&_sop=1"
+                            target="_blank">ALL - ending soonest</a></li>
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22matt+corral%22&_sacat=212&_sop=10"
+                            target="_blank">ALL - newly listed</a></li>
+                    <li><a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22matt+corral%22+%222012%22&_sop=10"
+                            target="_blank">Rookie</a>
+                        / <a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22matt+corral%22+%222004%22&_sop=10&rt=nc&Graded=Yes&_dcat=261328"
+                            target="_blank">Graded</a></li>
+                </ul>
+            </div>
+
+        </div> <!-- grid -->
+
+        <div class="grid">
 
             <div class="grid-item">
                 <p>Elijah Moore</p>
@@ -200,18 +227,26 @@
             </div>
 
             <div class="grid-item">
-                <p>Tony Conner</p>
+                <p>Evan Engram</p>
                 <ul>
-                    <li><a href="https://www.ebay.com/sch/i.html?_nkw=%22tony+conner%22&_sacat=212&_sop=1"
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22evan+engram%22&_sacat=212&_sop=1"
                             target="_blank">ALL - ending soonest</a></li>
-                    <li><a href="https://www.ebay.com/sch/i.html?_nkw=%22tony+conner%22&_sacat=212&_sop=10"
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22evan+engram%22&_sacat=212&_sop=10"
                             target="_blank">ALL - newly listed</a></li>
-                    <li><a href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22tony+conner%22+%222017%22&_sop=10"
+                    <li><a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22evan+engram%22+%222016%22&_sop=10"
                             target="_blank">Rookie</a>
-                        / <a href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22tony+conner%22+%222017%22&_sop=10&rt=nc&Graded=Yes&_dcat=261328"
+                        / <a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22evan+engram%22+%222016%22&_sop=10&rt=nc&Graded=Yes&_dcat=261328"
                             target="_blank">Graded</a></li>
                 </ul>
             </div>
+
+        </div> <!-- grid -->
+
+        <div class="grid">
 
             <div class="grid-item">
                 <p>Tony Conner</p>
@@ -226,8 +261,28 @@
                             target="_blank">Graded</a></li>
                 </ul>
             </div>
-        </div>
-    </div>
+
+            <div class="box">
+                <p>Cody Core</p>
+                <ul>
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22NAME_HERE%22&_sacat=212&_sop=1"
+                            target="_blank">ALL - ending soonest</a></li>
+                    <li><a
+                            href="https://www.ebay.com/sch/i.html?_nkw=%22NAME_HERE%22&_sacat=212&_sop=10"
+                            target="_blank">ALL - newly listed</a></li>
+                    <li><a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22NAME_HERE%22+%222016%22&_sop=10"
+                            target="_blank">Rookie</a>
+                        / <a
+                            href="https://www.ebay.com/sch/212/i.html?_from=R40&_nkw=%22NAME_HERE%22+%222016%22&_sop=10&rt=nc&Graded=Yes&_dcat=261328"
+                            target="_blank">Graded</a></li>
+                </ul>
+            </div>
+
+        </div> <!-- grid -->
+
+    </div> <!-- container -->
 
     <script src="../masonry.pkgd.min.js"></script>
 
