@@ -71,6 +71,7 @@
             background: #eee;
             float: left;
             margin: 0 0 20px 0;
+            padding: 0 20px 0;
         }
     </style>
 </head>
@@ -234,13 +235,12 @@
     <script src="../masonry.pkgd.min.js"></script>
 
 
-
-<script type="text/javascript">
-    var container = document.querySelector('.grid');
-    var msnry = new Masonry(container, {
-        itemSelector: '.grid-item'
-    });
-</script>
+    <script type="text/javascript">
+        var container = document.querySelector('.grid');
+        var msnry = new Masonry(container, {
+            itemSelector: '.grid-item'
+        });
+    </script>
 </body>
 
 </html>
