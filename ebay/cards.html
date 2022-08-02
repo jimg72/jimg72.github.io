@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ebay - cards</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store,
+            must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <style>
+        body {
+            background: #fff none;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        p {
+            color: #333;
+            font-size: 24px;
+            line-height: 36px;
+            margin: 0;
+            padding: 0;
+            border-bottom: 1px solid #c66;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        ul li {
+            font-size: 20px;
+            line-height: 30px;
+            margin: 0;
+            padding: 0;
+        }
+
+        a {
+            color: #06c;
+            text-decoration: none;
+        }
+
+        p a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        a:hover,
+        a:active {
+            color: #c66;
+        }
+
+        #container {
+            margin: 20px auto 0 auto;
+            min-width: 640px;
+            max-width: 1024px;
+        }
+
+        .grid {
+            margin: 0 auto;
+            text-align: left;
+            border-top: 2px solid #06c;
+        }
+
+        /* clearfix */
+        .grid:after {
+            content: '';
+            display: block;
+            clear: both;
+        }
+
+        .grid-item {
+            float: left;
+            margin: 0 0 20px 0;
+            padding: 0 20px 0 0;
+            width: 220px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <div class="grid">
+
+            <div class="grid-item">
+                <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/145446?CollectionID=1" target="_blank">AJ Brown
+                        </a></p>
+                <ul>
+                    <li><a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&Graded=Yes&_nkw=%222019%22+%22prizm%22+(%22aj%22%2C%22a.j.%22)+%22brown%22+(10%2C+psa10)&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_sop=10&Grade=10"
+                            target="_blank">2019 Prizm PSA 10</a></li>
+                    <li><a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&Graded=Yes&_nkw=%222019%22+%22prizm%22+%22draft+picks%22+(%22aj%22%2C%22a.j.%22)+%22brown%22+(10%2C+psa10)&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_sop=10&Grade=10"
+                            target="_blank">2019 Prizm Draft Picks PSA 10</a></li>
+
+                </ul>
+            </div>
+
+            <div class="grid-item">
+                <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/145446?CollectionID=1" target="_blank">DK
+                        Metcalf</a></p>
+                <ul>
+                    <li><a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&Graded=Yes&_nkw=%222019%22+%22prizm%22+(%22dk%22%2C%22d.k.%22)+%22metcalf%22+(10%2C+psa10)&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_sop=10&Grade=10"
+                        target="_blank">2019 Prizm PSA 10</a></li>
+                    <li><a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&LH_TitleDesc=0&Graded=Yes&_nkw=%222019%22+%22prizm%22+%22draft+picks%22+(%22dk%22%2C%22d.k.%22)+%22metcalf%22+(10%2C+psa10)&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_sop=10&Grade=10"
+                        target="_blank">2019 Prizm Draft Picks PSA 10</a></li>
+
+                </ul>
+            </div>
+
+
+            "2019" "prizm" ("aj","a,j.") "brown" (10, psa10)
+        </div> <!-- grid -->
+
+    </div> <!-- container -->
+
+    <script src="../masonry.pkgd.min.js"></script>
+
+
+    <script type="text/javascript">
+        var container = document.querySelector('.grid');
+        var msnry = new Masonry(container, {
+            itemSelector: '.grid-item'
+        });
+    </script>
+</body>
+
+</html>
