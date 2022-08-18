@@ -3,6 +3,7 @@
 import sqlite3
 from sqlite3 import Error
 
+
 def create_connection(db_file):
     """ create a database connection to the SQLite database
         specified by the db_file
@@ -16,6 +17,7 @@ def create_connection(db_file):
         print(e)
 
     return conn
+
 
 def select_all_keywords(conn):
     """
@@ -31,14 +33,16 @@ def select_all_keywords(conn):
     for row in rows:
         print(row)
 
+
 def main():
-    database = r"cards.sqlite"
+    database = r"source/cards.sqlite"
 
     # create a database connection
     conn = create_connection(database)
     with conn:
         print("1. Query all keywords")
         select_all_keywords(conn)
+
 
 if __name__ == '__main__':
     main()
