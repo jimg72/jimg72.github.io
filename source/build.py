@@ -32,7 +32,7 @@ def select_all_keywords(conn):
         print(row)
 
 def main():
-    database = r"database/cards.sqlite"
+    database = r"cards.sqlite"
 
     # create a database connection
     conn = create_connection(database)
