@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>football test</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store,
+            must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" type="text/css" href="style4col.css" />
+</head>
+
+<body>
+    <div id="container">
+        <div class="grid">
+            {% for player in site.data.players %}
+            <div class="grid-item">
+                <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1" target="_blank">{{ player.name }}</a></p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+
+
+
+
+    <script src="../masonry.pkgd.min.js"></script>
+
+
+    <script type="text/javascript">
+        var container = document.querySelector('.grid');
+        var msnry = new Masonry(container, {
+            itemSelector: '.grid-item'
+        });
+    </script>
+</body>
+
+</html>
