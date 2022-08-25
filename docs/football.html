@@ -21,10 +21,19 @@ permalink: /football.html
 <body>
     <div id="container">
         <div class="grid">
-            {% for player in site.data.players %}
+            {% for player in site.data.football01 %}
             <div class="grid-item">
                 <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1" target="_blank">{{ player.name }}</a></p>
+                <ul>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}&_sop=1" target="_blank">ALL - ending soonest</a>
+                    </li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}&_sop=10" target="_blank">ALL - newly listed</a>
+                    </li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}+{{ player.rookie_year }}&_sop=10" target="_blank">Rookie</a> / <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}+{{ player.rookie_year }}+psa+-%28bgs%2Csgc%29&_sop=10" target="_blank">Graded</a></li>
+                </ul>
             </div>
+
+
             {% endfor %}
         </div>
     </div>
