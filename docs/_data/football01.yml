@@ -1,9 +1,9 @@
 - name: Archie Manning
   tcdb_id: 11402
-  encoded_name: %22archie+manning%22
+  encoded_name: "%22archie+manning%22"
   rookie_year: 1972
 
 - name: Eli Manning
   tcdb_id: 11403
-  encoded_name: %eli+manning%22
+  encoded_name: "%eli+manning%22"
   rookie_year: 2004
