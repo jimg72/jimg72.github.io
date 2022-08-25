@@ -1,12 +1,8 @@
 {
-    "players": [
-        {
-            "player_name": "Eli Manning",
-            "tcdb_id": "11403"
-        },
-        {
-            "player_name": "Archie Manning",
-            "tcdb_id": "11402"
-        }
-    ]
+    "Archie Manning": {
+        "tcdb_id": "11402"
+    },
+    "Eli Manning": {
+        "tcdb_id": "11403"
+    }
 }
