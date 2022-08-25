@@ -17,7 +17,7 @@
         <div class="grid">
             {% for player in site.data.players %}
             <div class="grid-item">
-                <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ member.tcdb_id }}?CollectionID=1" target="_blank">{{ member.name }}</a></p>
+                <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1" target="_blank">{{ player.name }}</a></p>
             </div>
             {% endfor %}
         </div>
