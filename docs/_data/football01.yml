@@ -1,9 +1,53 @@
-- name: Archie Manning
+- player: Archie Manning
   tcdb_id: 11402
-  encoded_name: "%22archie+manning%22"
+  player_str: archie+manning
   rookie_year: 1972
+  cards:
+  - search_name: 1972 Topps PSA 10
+    search_str: 1972 topps psa 10 -(auto,autograph,bgs,sgc,signed)
+  - search_name: 1973 Topps PSA 10
+    search_str: 1973 topps psa 10 -(auto,autograph,bgs,sgc,signed)
+  - search_name: 1974 Topps PSA 10
+    search_str: 1973 topps psa 10 -(auto,autograph,bgs,sgc,signed)
+  - search_name: 1975 Topps
+    search_str: 1975 topps -(auto,autograph,signed)
+  - search_name: 1980 Topps PSA 10
+    search_str: 1980 topps psa 10 -(auto,autograph,bgs,sgc,signed)
+  - search_name: 1972 Sunoco Stamps PSA
+    search_str: 1972 sunoco stamps psa 10
+  - search_name: 1978 Slim Jim PSA
+    search_str: 1978 slim jim psa
+  - search_name: 1978 Topps Holsum PSA
+    search_str: 1978 topps holsum psa
+  - search_name: 1979 NFLPA Pennant PSA
+    search_str: 1979 nflpa pennant stickers psa
+  - search_name: 1979 Saints Coke PSA
+    search_str: 1979 saints coke psa
+  - search_name: 1980 Topps Super PSA
+    search_str: 1980 topps super psa
+  - search_name: 1981 MSA Disc PSA
+    search_str: 1981 (msa,schechter,disc,discs) psa
+  - search_name: 1981 Topps Stickers PSA
+    search_str: 1981 topps stickers psa
+  - search_name: 2019 Panini Prizm Blue
+    search_str: 2019 panini prizm blue -(red,wave)
+  - search_name: 2019 Panini Prizm Randoms
+    search_str: 2019 panini prizm (camo,disco,hyper,neon,pink,sparkle)
 
-- name: Eli Manning
+- player: Eli Manning
   tcdb_id: 11403
-  encoded_name: "%eli+manning%22"
+  player_str: eli+manning
   rookie_year: 2004
+  cards:
+  - search_name: 2004 Bowman PSA 10
+    search_str: 2004 bowman psa 10 -(auto,bgs,chrome,finest,premiere,pristine,sgc,signature,super,topps,total)
+  - search_name: 2004 Score Glossy PSA 10
+    search_str: 2004 score glossy psa 10 -(bgs,sgc)
+  - search_name: 2004 Topps PSA 10
+    search_str: 2004 topps psa 10 -(auto,bgs,bowman,chrome,finest,premiere,pristine,sgc,signature,super,total)
+  - search_name: 2004 SP Game-Used PSA
+    search_str: 2004 sp game used psa -(bgs,sgc)
+  - search_name: 2012 Panini Prizm Silver
+    search_str: 2012 panini prizm silver
+  - search_name: 2013 Panini Prizm Randoms
+    search_str: 2013 panini prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
