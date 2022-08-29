@@ -1,6 +1,6 @@
 ---
 layout: null
-title: "Football Players"
+title: "Football Cards"
 permalink: /football.html
 ---
 
@@ -8,7 +8,7 @@ permalink: /football.html
 <html>
 
 <head>
-    <title>football test</title>
+    <title>ebay – football</title>
     <meta http-equiv="Cache-Control" content="no-cache, no-store,
             must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
@@ -25,12 +25,12 @@ permalink: /football.html
             <div class="grid-item">
                 <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1" target="_blank">{{ player.player }}</a></p>
                 <ul>
-                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}&_sop=1" target="_blank">ALL - ending soonest</a></li>
-                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}&_sop=10" target="_blank">ALL - newly listed</a></li>
-                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}+{{ player.rookie_year }}&_sop=10" target="_blank">Rookie</a> / <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.encoded_name }}+psa+-%28bgs%2Csgc%29&_sop=10" target="_blank">Graded</a></li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1" target="_blank">ALL - ending soonest</a></li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10" target="_blank">ALL - newly listed</a></li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10" target="_blank">Rookie</a> / <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10" target="_blank">Graded</a></li>
 
                     {% for card in player.cards %}
-                    <li><a href="https://www.ebay.com/sch/i.html?_from=R40&_nkw={{ player.player_str }}+{{ card.search_str | cgi_escape }}&_sacat=261328&_sop=10" target="_blank">{{ card.search_name }}</a></li>
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10" target="_blank">{{ card.search_name }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
