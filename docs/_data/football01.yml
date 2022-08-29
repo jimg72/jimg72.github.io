@@ -1,6 +1,6 @@
 - player: Archie Manning
   tcdb_id: 11402
-  player_str: archie+manning
+  player_str: archie manning
   rookie_year: 1972
   cards:
   - search_name: 1972 Topps PSA 10
@@ -36,7 +36,7 @@
 
 - player: Eli Manning
   tcdb_id: 11403
-  player_str: eli+manning
+  player_str: eli manning
   rookie_year: 2004
   cards:
   - search_name: 2004 Bowman PSA 10
@@ -54,7 +54,7 @@
 
 - player: Deuce McAllister
   tcdb_id: 11498
-  player_str: deuce+mcallister
+  player_str: deuce (mcallister,mcalister)
   rookie_year: 2001
   cards:
   - search_name: 2021 Panini Prizm Blue
