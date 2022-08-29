@@ -51,3 +51,25 @@
     search_str: 2012 panini prizm silver
   - search_name: 2013 Panini Prizm Randoms
     search_str: 2013 panini prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
+
+- player: Deuce McAllister
+  tcdb_id: 11498
+  player_str: deuce+mcallister
+  rookie_year: 2001
+  cards:
+  - search_name: 2021 Panini Prizm Blue
+    search_str: 2021 panini prizm blue -(light,red,select,shimmer,spectra,wave)
+  - search_name: 2021 Panini Prizm Camo
+    search_str: 2021 panini prizm camo -(select,spectra)
+  - search_name: 2021 Panini Prizm Checker
+    search_str: 2021 panini prizm checker (black,red,white) -(select,spectra)
+  - search_name: 2021 Panini Prizm Green
+    search_str: 2021 panini prizm green (ice,scope) -(select,spectra)
+  - search_name: 2021 Panini Prizm Pink
+    search_str: 2021 panini prizm pink -(select,spectra)
+  - search_name: 2021 Panini Prizm Purple
+    search_str: 2021 panini prizm purple -(ice,select,spectra)
+  - search_name: 2021 Panini Prizm Randoms
+    search_str: 2021 panini prizm (hyper,snake,skin,snakeskin) -(select,spectra)
+  - search_name: 2021 Panini Prizm Red
+    search_str: 2021 panini prizm red -(blue,ice,wave,white)
