@@ -51,8 +51,16 @@
     search_str: 2012 panini prizm silver
   - search_name: 2013 Panini Prizm Randoms
     search_str: 2013 panini prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
-  - search_name: National Treasures
-    search_str: national (treasure,treasures) /99 -(playoff)
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+
+- player: A.J.  Brown
+  tcdb_id: 215446
+  player_str: (a.j.,aj) brown
+  rookie_year: 2019
+  cards:
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
 
 - player: Deuce McAllister
   tcdb_id: 11498
@@ -75,3 +83,11 @@
     search_str: 2021 panini prizm (hyper,snake,skin,snakeskin) -(select,spectra)
   - search_name: 2021 Panini Prizm Red
     search_str: 2021 panini prizm red -(blue,ice,wave,white)
+
+- player: D.K. Metcalf
+  tcdb_id: 145446
+  player_str: (d.k.,dk) metcalf
+  rookie_year: 2019
+  cards:
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
