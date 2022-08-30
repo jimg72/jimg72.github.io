@@ -61,6 +61,8 @@
   player_str: (a.j.,aj) brown
   rookie_year: 2019
   cards:
+  - search_name: Immaculate
+    search_str: immaculate /99
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
 
@@ -91,5 +93,7 @@
   player_str: (d.k.,dk) metcalf
   rookie_year: 2019
   cards:
+  - search_name: Immaculate
+    search_str: immaculate /99
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
