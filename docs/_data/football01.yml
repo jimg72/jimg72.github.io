@@ -48,9 +48,13 @@
   - search_name: 2004 SP Game-Used PSA
     search_str: 2004 sp game used psa -(bgs,sgc)
   - search_name: 2012 Panini Prizm Silver
-    search_str: 2012 panini prizm silver
+    search_str: 2012 panini prizm silver -(fabric)
   - search_name: 2013 Panini Prizm Randoms
     search_str: 2013 panini prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
+  - search_name: 2014 Panini Prizm Randoms
+    search_str: 2014 panini prizm (blue,camo,orange,purple,silver) -(select,silver,green,marshalls,cornerstones)
+  - search_name: Immaculate
+    search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
 
