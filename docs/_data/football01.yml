@@ -47,6 +47,8 @@
     search_str: 2013 prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
   - search_name: 2014 Panini Prizm Randoms
     search_str: 2014 prizm (blue,camo,orange,purple,silver) -(select,silver,green,marshalls,cornerstones)
+  - search_name: 2019 Panini Prizm Blue
+    search_str: 2019 prizm blue -(wave,red) -(base,legacy,mosaic,optic,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Checker
     search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(select,spectra)
   - search_name: Immaculate
