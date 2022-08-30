@@ -3,16 +3,8 @@
   player_str: archie manning
   rookie_year: 1972
   cards:
-  - search_name: 1972 Topps PSA 10
-    search_str: 1972 topps psa 10 -(auto,autograph,bgs,sgc,signed)
-  - search_name: 1973 Topps PSA 10
-    search_str: 1973 topps psa 10 -(auto,autograph,bgs,sgc,signed)
-  - search_name: 1974 Topps PSA 10
-    search_str: 1973 topps psa 10 -(auto,autograph,bgs,sgc,signed)
-  - search_name: 1975 Topps
-    search_str: 1975 topps -(auto,autograph,signed)
-  - search_name: 1980 Topps PSA 10
-    search_str: 1980 topps psa 10 -(auto,autograph,bgs,sgc,signed)
+  - search_name: Topps PSA 10
+    search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
   - search_name: 1972 Sunoco Stamps PSA
     search_str: 1972 sunoco stamps psa 10
   - search_name: 1978 Slim Jim PSA
