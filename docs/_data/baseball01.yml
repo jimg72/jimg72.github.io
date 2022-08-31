@@ -1,0 +1,79 @@
+- player: Chris Coghlan
+  tcdb_id: 28385
+  player_str: chris coghlan
+  rookie_year: 2007
+
+- player: Zack Cozart
+  tcdb_id: 33364
+  player_str: zack cozart
+  rookie_year: 2007
+
+- player: David Dellucci
+  tcdb_id: 1439
+  player_str: david dellucci
+  rookie_year: 1998
+
+- player: Chris Ellis
+  tcdb_id: 61794
+  player_str: chris ellis
+  rookie_year: 2014
+
+- player: Jeff Fassero
+  tcdb_id: 1775
+  player_str: jeff fassero
+  rookie_year: 1991
+
+- player: Nick Fortes
+  tcdb_id: 108058
+  player_str: nick fortes
+  rookie_year: 2022
+
+- player: Gunnar Hoglund
+  tcdb_id: 261309
+  player_str: gunnar hoglund
+  rookie_year: 2021
+  cards:
+  - search_name: 2021 Panini Prizm
+    search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
+  - search_name: 2021 Panini Prizm SN
+    search_str: prizm (/23,/25,/35,/50,/75,/99)
+
+- player: Don Kessinger
+  tcdb_id: 3091
+  player_str: don kessinger
+  rookie_year: 1966
+
+- player: Lance Lynn
+  tcdb_id: 3560
+  player_str: lance lynn
+  rookie_year: 2011
+
+- player: Doug Nikhazy
+  tcdb_id: 76482
+  player_str: doug nikhazy
+  rookie_year: 2021
+  cards:
+    - search_name: 2021 Panini Prizm
+      search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
+    - search_name: 2021 Panini Prizm SN
+      search_str: prizm (/23,/25,/35,/50,/75,/99)
+
+- player: Drew Pomeranz
+  tcdb_id: 36863
+  player_str: drew pomeranz
+  rookie_year: 2010
+
+- player: Ryan Rolison
+  tcdb_id: 110875
+  player_str: ryan rolison
+  rookie_year: 2018
+
+- player: Seth Smith
+  tcdb_id: 5491
+  player_str: seth smith
+  rookie_year: 2004
+
+- player: Chris Snopek
+  tcdb_id: 21570
+  player_str: chris snopek
+  rookie_year: 1993
