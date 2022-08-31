@@ -22,11 +22,11 @@
   - search_name: 1981 Topps Stickers PSA
     search_str: 1981 topps stickers psa
   - search_name: 2019 Panini Prizm Blue
-    search_str: 2019 prizm blue -(red,wave)
+    search_str: 2019 prizm blue -(red,wave) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Checker
-    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(select,spectra)
+    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Randoms
-    search_str: 2019 prizm (camo,disco,hyper,neon,pink,sparkle)
+    search_str: 2019 prizm (camo,disco,hyper,neon,pink,sparkle) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
 
 - player: Eli Manning
   tcdb_id: 11403
@@ -48,9 +48,9 @@
   - search_name: 2014 Panini Prizm Randoms
     search_str: 2014 prizm (blue,camo,orange,purple,silver) -(select,silver,green,marshalls,cornerstones)
   - search_name: 2019 Panini Prizm Blue
-    search_str: 2019 prizm blue -(wave,red) -(base,legacy,mosaic,optic,playoff,select,spectra)
+    search_str: 2019 prizm blue -(wave,red) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Checker
-    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(select,spectra)
+    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: Immaculate
     search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
@@ -78,19 +78,19 @@
   rookie_year: 2001
   cards:
   - search_name: 2021 Panini Prizm Blue
-    search_str: 2021 prizm blue -(light,red,select,shimmer,spectra,wave)
+    search_str: 2021 prizm blue -(light,red,shimmer,wave,base) -(legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Camo
-    search_str: 2021 prizm camo -(select,spectra)
+    search_str: 2021 prizm camo -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Checker
-    search_str: 2021 prizm (checker,checkerboard) (black,red,white) -(select,spectra)
+    search_str: 2021 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Green
-    search_str: 2021 prizm green (ice,scope) -(select,spectra)
+    search_str: 2021 prizm green (ice,scope) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Pink
-    search_str: 2021 prizm pink -(select,spectra)
+    search_str: 2021 prizm pink -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Purple
-    search_str: 2021 prizm purple -(ice,select,spectra)
+    search_str: 2021 prizm purple -(ice,base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Randoms
-    search_str: 2021 prizm (hyper,snake,skin,snakeskin) -(select,spectra)
+    search_str: 2021 prizm (hyper,snake,skin,snakeskin) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Red
     search_str: 2021 prizm red -(blue,ice,wave,white)
 
