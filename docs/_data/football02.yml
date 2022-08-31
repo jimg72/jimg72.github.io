@@ -1,4 +1,28 @@
+- player:
+  tcdb_id:
+  player_str:
+  rookie_year:
+- player: Matt Corral
+  tcdb_id: 224252
+  player_str: matt (corral,coral)
+  rookie_year: 2022
+- player: Evan Engram
+  tcdb_id: 141612
+  player_str: evan engram
+  rookie_year: 2017
+- player: Dawson Knox
+  tcdb_id: 218824
+  player_str: dawson knox
+  rookie_year:
+- player: Laremy Tunsil
+  tcdb_id: 95697
+  player_str: laremy tunsil
+  rookie_year: 2016
 - player: Wesley Walls
   tcdb_id: 13295
   player_str: wesley walls
   rookie_year: 1989
+- player: Patrick Willis
+  tcdb_id: 13520
+  player_str: patrick willis
+  rookie_year: 2007

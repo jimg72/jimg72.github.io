@@ -109,3 +109,8 @@
     search_str: immaculate
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+
+- player: Elijah Moore
+  tcdb_id: 292120
+  player_str: elijah moore
+  rookie_year: 2021
