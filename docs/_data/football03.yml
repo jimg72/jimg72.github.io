@@ -27,6 +27,9 @@
   tcdb_id: 40109
   player_str: brandon bolden
   rookie_year: 2012
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Tim Bowens
   tcdb_id: 21921
@@ -37,16 +40,25 @@
   tcdb_id: 146923
   player_str: tony conner
   rookie_year: 2017
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Cody Core
   tcdb_id: 97921
   player_str: cody core
   rookie_year: 2016
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Dontario Drummond
   tcdb_id: 337717
   player_str: dontario drummond
   rookie_year: 2021
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Jerrion Ealy
   tcdb_id: 333587
@@ -62,6 +74,9 @@
   tcdb_id: 70611
   player_str: senquez golson
   rookie_year: 2015
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: BenJarvus GE
   tcdb_id: 26530
@@ -87,6 +102,9 @@
   tcdb_id: 143670
   player_str: chad kelly
   rookie_year: 2017
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Bruiser Kinard
   tcdb_id: 11060
@@ -102,6 +120,9 @@
   tcdb_id: 216133
   player_str: damarkus lodge
   rookie_year: 2019
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Ken Lucas
   tcdb_id: 26937
@@ -117,11 +138,17 @@
   tcdb_id: 48824
   player_str: donte moncrief
   rookie_year: 2014
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Robert Nkemdiche
   tcdb_id: 95761
   player_str: robert nkemdiche
   rookie_year: 2016
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Freddie Joe Nunn
   tcdb_id: 11950
@@ -132,6 +159,9 @@
   tcdb_id: 27222
   player_str: michael oher
   rookie_year: 2009
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Scottie Phillips
   tcdb_id: 251477
@@ -172,11 +202,17 @@
   tcdb_id: 95752
   player_str: laquon treadwell
   rookie_year: 2016
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Bo Wallace
   tcdb_id: 65691
   player_str: bo wallace
   rookie_year: 2015
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Mike Wallace
   tcdb_id: 27766
@@ -192,8 +228,14 @@
   tcdb_id: 190993
   player_str: jordan wilkins
   rookie_year: 2018
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Kenny Yeboah
   tcdb_id: 292137
   player_str: kenny yeboah
   rookie_year: 2021
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
