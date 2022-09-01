@@ -6,19 +6,30 @@
   tcdb_id: 141612
   player_str: evan engram
   rookie_year: 2017
+  cards:
+  - search_name: Panini Prizm
+    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+
 - player: Dawson Knox
   tcdb_id: 218824
   player_str: dawson knox
-  rookie_year:
+  rookie_year: 2018
+  cards:
+  - search_name: Panini Prizm
+    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+
 - player: Laremy Tunsil
   tcdb_id: 95697
   player_str: laremy tunsil
   rookie_year: 2016
-- player: Wesley Walls
-  tcdb_id: 13295
-  player_str: wesley walls
-  rookie_year: 1989
+  cards:
+  - search_name: Panini Prizm
+    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+
 - player: Patrick Willis
   tcdb_id: 13520
   player_str: patrick willis
   rookie_year: 2007
+  cards:
+  - search_name: Panini Prizm
+    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
