@@ -28,7 +28,7 @@
   - search_name: 2019 Panini Prizm Randoms
     search_str: 2019 prizm (camo,disco,hyper,neon,pink,sparkle) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: Panini Prizm
-    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Eli Manning
   tcdb_id: 11403
@@ -58,7 +58,7 @@
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
   - search_name: Panini Prizm
-    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: A.J. Brown
   tcdb_id: 215446
@@ -75,6 +75,8 @@
     search_str: immaculate
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+  - search_name: Panini Prizm
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Deuce McAllister
   tcdb_id: 11498
@@ -98,7 +100,7 @@
   - search_name: 2021 Panini Prizm Red
     search_str: 2021 prizm red -(blue,ice,wave,white)
   - search_name: Panini Prizm
-    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: D.K. Metcalf
   tcdb_id: 145446
@@ -116,7 +118,7 @@
   - search_name: National Treasure
     search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
   - search_name: Panini Prizm
-    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Elijah Moore
   tcdb_id: 292120
@@ -124,4 +126,4 @@
   rookie_year: 2021
   cards:
   - search_name: Panini Prizm
-    search_str: prizm -(brillance,brilliance,certified,contenders,cornerstones,fleer,glass,illumination,legacy,marshal) -(marshall,marshalls,marshals,mosaic,optic,pass,penmenship,phoenix,playoff,prestige) -(score,select,shining,spectra,super,topps,touchdown,trifecta)
+    search_str: prizm -(brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear,glass) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
