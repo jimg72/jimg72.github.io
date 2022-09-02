@@ -34,9 +34,7 @@ permalink: /baseball.html
                 </ul>
             </div>
             {% endfor %}
-        </div>
 
-        <div class="grid">
             {% for player in site.data.baseball02 %}
             <div class="grid-item">
                 <p><a href="https://www.tcdb.com/CollectionSummaryP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1" target="_blank">{{ player.player }}</a></p>
