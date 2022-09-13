@@ -5,8 +5,8 @@
   cards:
   - search_name: Topps PSA 10
     search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
-  - search_name: "archie manning" 1972 Sunoco Stamps PSA
-    search_str: 1972 sunoco stamps psa 10
+  - search_name: 1972 Sunoco Stamps PSA
+    search_str: "archie manning" 1972 sunoco stamps psa 10
   - search_name: 1978 Slim Jim PSA
     search_str: 1978 slim jim psa
   - search_name: 1978 Topps Holsum PSA
