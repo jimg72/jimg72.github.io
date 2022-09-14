@@ -39,8 +39,6 @@
     search_str: 2004 bowman psa 10 -(auto,bgs,chrome,finest,premiere,pristine,sgc,signature,super,topps,total)
   - search_name: 2004 Score Glossy PSA 10
     search_str: 2004 score glossy psa 10 -(bgs,sgc)
-  - search_name: 2004 Topps PSA 10
-    search_str: 2004 topps psa 10 -(auto,bgs,bowman,chrome,finest,premiere,pristine,sgc,signature,super,total)
   - search_name: 2004 SP Game-Used PSA
     search_str: 2004 sp game used psa -(bgs,sgc)
   - search_name: 2012 Panini Prizm Silver
@@ -65,8 +63,6 @@
   player_str: (a.j.,aj) brown
   rookie_year: 2019
   cards:
-  - search_name: 2019 Prizm PSA 10
-    search_str: 2019 panini prizm psa 10 -(auto,autograph,autographed,chronicles,contenders,crusade,donruss,dp,draft) -(gear,jersey,jerseys,legacy,lot,mosaic,optic,patch,phoenix) -(premier,relic,rp,score,select,set,spectra,stars,unparalleled)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
   - search_name: 2019 Prizm Draft PSA 10
@@ -98,7 +94,9 @@
   - search_name: 2021 Panini Prizm Randoms
     search_str: 2021 prizm (hyper,snake,skin,snakeskin) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2021 Panini Prizm Red
-    search_str: 2021 prizm red -(blue,ice,wave,white)
+    search_str: 2021 prizm red -(blue,ice,wave,white,select)
+  - search_name: 2021 Panini Prizm SN
+    search_str: prizm (/15,/25,/35,/49,/50,/60,/79,/125,/175)
   - search_name: 2021 Select Autograph
     search_str: 2021 select -base
   - search_name: Panini Prizm Parallels
@@ -109,8 +107,6 @@
   player_str: (d.k.,dk) metcalf
   rookie_year: 2019
   cards:
-  - search_name: 2019 Prizm PSA 10
-    search_str: 2019 panini prizm psa 10 -(auto,autograph,autographed,chronicles,contenders,crusade,donruss,dp,draft) -(gear,jersey,jerseys,legacy,lot,mosaic,optic,patch,phoenix) -(premier,relic,rp,score,select,set,spectra,stars,unparalleled)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
   - search_name: 2019 Prizm Draft PSA 10
@@ -127,6 +123,8 @@
   player_str: elijah moore
   rookie_year: 2021
   cards:
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver

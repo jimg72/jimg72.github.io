@@ -15,6 +15,8 @@
   player_str: dawson knox
   rookie_year: 2018
   cards:
+  - search_name: 2019 Prizm PSA 10
+    search_str: 2019 panini prizm psa 10 -(auto,autograph,autographed,chronicles,contenders,crusade,donruss,dp,draft) -(gear,jersey,jerseys,legacy,lot,mosaic,optic,patch,phoenix) -(premier,relic,rp,score,select,set,spectra,stars,unparalleled)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
