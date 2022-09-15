@@ -24,7 +24,7 @@
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
-    search_str: national (treasure,treasures)
+    search_str: national (treasure,treasures) -digital
   - search_name: 2019 Panini Prizm Blue
     search_str: 2019 prizm blue -(red,wave) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Checker
@@ -58,7 +58,7 @@
   - search_name: Immaculate
     search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
-    search_str: national (treasure,treasures)
+    search_str: national (treasure,treasures) -digital
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
@@ -118,7 +118,7 @@
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
-    search_str: national (treasure,treasures)
+    search_str: national (treasure,treasures) -digital
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
@@ -128,7 +128,7 @@
   rookie_year: 2021
   cards:
   - search_name: National Treasure
-    search_str: national (treasure,treasures)
+    search_str: national (treasure,treasures) -digital
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver
@@ -142,6 +142,6 @@
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
-    search_str: national (treasure,treasures)
+    search_str: national (treasure,treasures) -digital
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
