@@ -121,6 +121,10 @@
     search_str: national (treasure,treasures) -digital
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: Panini Prizm Blue/Green Ice
+    search_str: prizm ice (blue,green) -(orange,red)
+  - search_name: Panini Prizm Purple /125
+    search_str: prizm purple 125
 
 - player: Elijah Moore
   tcdb_id: 292120
