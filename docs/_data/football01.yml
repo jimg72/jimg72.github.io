@@ -21,6 +21,10 @@
     search_str: 1981 (msa,schechter,disc,discs) psa
   - search_name: 1981 Topps Stickers PSA
     search_str: 1981 topps stickers psa
+  - search_name: Immaculate
+    search_str: immaculate
+  - search_name: National Treasure
+    search_str: national (treasure,treasures)
   - search_name: 2019 Panini Prizm Blue
     search_str: 2019 prizm blue -(red,wave) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: 2019 Panini Prizm Checker
@@ -54,7 +58,7 @@
   - search_name: Immaculate
     search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
-    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+    search_str: national (treasure,treasures)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
@@ -70,7 +74,7 @@
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
-    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+    search_str: national (treasure,treasures)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
@@ -114,7 +118,7 @@
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
-    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+    search_str: national (treasure,treasures)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
@@ -124,8 +128,20 @@
   rookie_year: 2021
   cards:
   - search_name: National Treasure
-    search_str: national (treasure,treasures) /99 -(auto,autograph,century,colossal,deebo,gear,jersey,materials,moments) -(patch,playoff,relic,rpa,sunday,tremendous)
+    search_str: national (treasure,treasures)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver
     search_str: prizm silver -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta) -(draft,dp)
+
+- player: Patrick Willis
+  tcdb_id: 13520
+  player_str: patrick willis
+  rookie_year: 2007
+  cards:
+  - search_name: Immaculate
+    search_str: immaculate
+  - search_name: National Treasure
+    search_str: national (treasure,treasures)
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
