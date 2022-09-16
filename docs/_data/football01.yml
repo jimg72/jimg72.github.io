@@ -67,10 +67,10 @@
   player_str: (a.j.,aj) brown
   rookie_year: 2019
   cards:
+  - search_name: 2019 Prizm PSA 10
+    search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
-  - search_name: 2019 Prizm Draft PSA 10
-    search_str: 2019 panini prizm (draft picks,dp) psa 10 -(auto,autograph,autographed,chronicles,contenders,crusade,donruss,gear,jersey) -(jerseys,legacy,lot,mosaic,optic,patch,phoenix,premier) -(relic,rp,score,select,set,spectra,stars,unparalleled)
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
@@ -111,10 +111,10 @@
   player_str: (d.k.,dk) metcalf
   rookie_year: 2019
   cards:
+  - search_name: 2019 Prizm PSA 10
+    search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
-  - search_name: 2019 Prizm Draft PSA 10
-    search_str: 2019 panini prizm (draft picks,dp) psa 10 -(auto,autograph,autographed,chronicles,contenders,crusade,donruss,gear,jersey) -(jerseys,legacy,lot,mosaic,optic,patch,phoenix,premier) -(relic,rp,score,select,set,spectra,stars,unparalleled)
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
