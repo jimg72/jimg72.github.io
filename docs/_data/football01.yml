@@ -133,6 +133,8 @@
   cards:
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
+  - search_name: 2021 Prizm PSA 10
+    search_str: 2021 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver
