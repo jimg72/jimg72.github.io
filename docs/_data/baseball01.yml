@@ -27,6 +27,9 @@
   tcdb_id: 108058
   player_str: nick fortes
   rookie_year: 2022
+  cards:
+  - search_name: 2021 Topps Chrome
+    search_str: 2022 topps chrome -break -1987
 
 - player: Gunnar Hoglund
   tcdb_id: 261309
