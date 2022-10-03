@@ -30,6 +30,8 @@
   cards:
   - search_name: 2021 Topps Chrome
     search_str: 2022 topps chrome -break -1987
+  - search_name: 2022 Prizm
+    search_str: prizm
 
 - player: Gunnar Hoglund
   tcdb_id: 261309
