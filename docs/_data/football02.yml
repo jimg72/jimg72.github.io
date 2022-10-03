@@ -2,6 +2,10 @@
   tcdb_id: 224252
   player_str: matt (corral,coral)
   rookie_year: 2022
+  cards:
+  - search_name: Immaculate
+    search_str: immaculate
+
 - player: Evan Engram
   tcdb_id: 141612
   player_str: evan engram
