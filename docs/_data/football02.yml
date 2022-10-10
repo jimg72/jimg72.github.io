@@ -14,7 +14,7 @@
   - search_name: Donruss Elite 103
     search_str: elite 103
   - search_name: Immaculate
-    search_str: immaculate
+    search_str: immaculate -(caps,glove,gloves,patch,rpa,howell)
 
 - player: Evan Engram
   tcdb_id: 141612
