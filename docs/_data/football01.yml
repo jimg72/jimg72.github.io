@@ -45,16 +45,22 @@
     search_str: 2004 score glossy psa 10 -(bgs,sgc)
   - search_name: 2004 SP Game-Used PSA
     search_str: 2004 sp game used psa -(bgs,sgc)
-  - search_name: 2012 Panini Prizm Silver
-    search_str: 2012 prizm silver -(fabric)
-  - search_name: 2013 Panini Prizm Randoms
-    search_str: 2013 prizm (blue,camo,green,orange,purple,silver) -(brilliance,cornerstones,select)
-  - search_name: 2014 Panini Prizm Randoms
-    search_str: 2014 prizm (blue,camo,orange,purple,silver) -(select,silver,green,marshalls,cornerstones)
-  - search_name: 2019 Panini Prizm Blue
-    search_str: 2019 prizm blue -(wave,red) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2019 Panini Prizm Checker
-    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
+  - search_name: 2013 Panini Prizm Parallels
+    search_str: 2013 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2014 Panini Prizm Parallels
+    search_str: 2014 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2015 Panini Prizm Parallels
+    search_str: 2015 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2016 Panini Prizm Parallels
+    search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+    - search_name: 2017 Panini Prizm Parallels
+    search_str: 2017 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+    - search_name: 2018 Panini Prizm Parallels
+    search_str: 2018 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+    - search_name: 2019 Panini Prizm Parallels
+    search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: Flawless
+    search_str: flawless
   - search_name: Immaculate
     search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
@@ -71,6 +77,8 @@
     search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
+  - search_name: Flawless
+    search_str: flawless
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
@@ -83,26 +91,13 @@
   player_str: deuce (mcallister,mcalister)
   rookie_year: 2001
   cards:
-  - search_name: 2021 Panini Prizm Blue
-    search_str: 2021 prizm blue -(light,red,shimmer,wave,base) -(legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Camo
-    search_str: 2021 prizm camo -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Checker
-    search_str: 2021 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Green
-    search_str: 2021 prizm green (ice,scope) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Purple
-    search_str: 2021 prizm purple -(ice,base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Randoms
-    search_str: 2021 prizm (hyper,snake,skin,snakeskin) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2021 Panini Prizm Red
-    search_str: 2021 prizm red -(blue,ice,wave,white,select)
-  - search_name: 2021 Panini Prizm SN
-    search_str: prizm (15,25,35,49,50,60,79,125,175)
-  - search_name: 2021 Select Autograph
-    search_str: 2021 select -base
+
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2021 Panini Prizm SN
+    search_str: prizm (5,10,15,25,35,49,50,60,79,125,175)
+  - search_name: 2021 Select Autograph
+    search_str: 2021 select -base
 
 - player: D.K. Metcalf
   tcdb_id: 145446
@@ -113,6 +108,8 @@
     search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: 2019 Prizm Silver PSA 10
     search_str: 2019 panini prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc)
+  - search_name: Flawless
+    search_str: flawless
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
@@ -129,6 +126,8 @@
   player_str: elijah moore
   rookie_year: 2021
   cards:
+  - search_name: Flawless
+    search_str: flawless
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
   - search_name: 2021 Prizm PSA 10
@@ -143,6 +142,8 @@
   player_str: patrick willis
   rookie_year: 2007
   cards:
+  - search_name: Flawless
+    search_str: flawless
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
