@@ -25,12 +25,6 @@
     search_str: immaculate
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
-  - search_name: 2019 Panini Prizm Blue
-    search_str: 2019 prizm blue -(red,wave) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2019 Panini Prizm Checker
-    search_str: 2019 prizm (checker,checkerboard) (black,red,white) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
-  - search_name: 2019 Panini Prizm Randoms
-    search_str: 2019 prizm (camo,disco,hyper,neon,pink,sparkle) -(base,legacy,mosaic,optic,phoenix,playoff,select,spectra)
   - search_name: Panini Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
