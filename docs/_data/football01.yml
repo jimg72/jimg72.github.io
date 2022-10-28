@@ -1,6 +1,7 @@
 - player: Archie Manning
   tcdb_id: 11402
   player_str: archie manning
+  comc_str: Archie+Manning
   rookie_year: 1972
   cards:
   - search_name: Topps PSA 10
@@ -31,6 +32,7 @@
 - player: Eli Manning
   tcdb_id: 11403
   player_str: eli manning
+  comc_str: Eli+Manning
   rookie_year: 2004
   cards:
   - search_name: 2004 Bowman PSA 10
@@ -88,6 +90,7 @@
 - player: Deuce McAllister
   tcdb_id: 11498
   player_str: deuce (mcallister,mcalister)
+  comc_str: Deuce+McAllister
   rookie_year: 2001
   cards:
   - search_name: Panini Prizm Parallels
@@ -100,6 +103,7 @@
 - player: D.K. Metcalf
   tcdb_id: 145446
   player_str: (d.k.,dk) metcalf
+  comc_str: D%7B46%7DK%7B46%7D+Metcalf
   rookie_year: 2019
   cards:
   - search_name: 2019 Prizm PSA 10
@@ -122,6 +126,7 @@
 - player: Elijah Moore
   tcdb_id: 292120
   player_str: elijah moore
+  comc_str: Elijah+Moore
   rookie_year: 2021
   cards:
   - search_name: Flawless
@@ -138,6 +143,7 @@
 - player: Patrick Willis
   tcdb_id: 13520
   player_str: patrick willis
+  comc_str: Patrick+Willis
   rookie_year: 2007
   cards:
   - search_name: Flawless
