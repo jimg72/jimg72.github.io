@@ -97,7 +97,7 @@
     search_str: prizm (5,10,15,25,35,49,50,60,79,125,175)
   - search_name: 2021 Select Autograph
     search_str: 2021 select -base
-  - search_name: 2021 Panini Prizm Red Black Checker
+  - search_name: 2021 Panini Prizm Red Checker
     search_str: 2021 prizm red black (checker, checkerboard)
   - search_name: 2021 Panini Prizm Blue
     search_str: 2021 prizm blue -(shimmer,ice,wave,red,huddle,select,disco,light)
