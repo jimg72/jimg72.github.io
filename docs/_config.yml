@@ -21,7 +21,7 @@
 title: Jim's Stuff
 email: jimg@pobox.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi I'm Jim. This is my <a rel="me" href="https://techhub.social/@bigjim">Mastodon</a> link.
+  Hi I'm Jim.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jimg72.github.io/"
 twitter_username: bigjim
