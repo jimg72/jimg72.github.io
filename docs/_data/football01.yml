@@ -143,6 +143,20 @@
   - search_name: 2021 Panini Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
+- player: Dawson Knox
+  tcdb_id: 218824
+  player_str: dawson knox
+  rookie_year: 2018
+  cards:
+  - search_name: 2019 Prizm PSA 10
+    search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
+  - search_name: 2019 Panini Prizm Parallels
+    search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2020 Panini Prizm Parallels
+    search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2021 Panini Prizm Parallels
+    search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
 - player: Elijah Moore
   tcdb_id: 292120
   player_str: elijah moore
@@ -159,6 +173,26 @@
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver
     search_str: prizm silver -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta) -(draft,dp)
+
+- player: Evan Engram
+  tcdb_id: 141612
+  player_str: evan engram
+  rookie_year: 2017
+  cards:
+  - search_name: Panini Prizm Parallels
+    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Laremy Tunsil
+  tcdb_id: 95697
+  player_str: laremy tunsil
+  rookie_year: 2016
+  cards:
+  - search_name: 2016 Panini Prizm Parallels
+    search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2020 Panini Prizm Parallels
+    search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+  - search_name: 2021 Panini Prizm Parallels
+    search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
 
 - player: Patrick Willis
   tcdb_id: 13520
