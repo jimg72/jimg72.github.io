@@ -13,6 +13,11 @@
   player_str: taylor broadway
   rookie_year: 2021
 
+- player: Derek Diamond
+  tcdb_id: 227101
+  player_str: derek diamond
+  rookie_year: 2021
+
 - player: Thomas Dillard
   tcdb_id: 116833
   player_str: thomas dillard
@@ -21,6 +26,11 @@
 - player: Hayden Dunhurst
   tcdb_id: 249995
   player_str: hayden dunhurst
+  rookie_year: 2022
+
+- player: Tim Elko
+  tcdb_id: 150638
+  player_str: tim elko
   rookie_year: 2022
 
 - player: Stephen Head
