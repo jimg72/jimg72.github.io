@@ -71,7 +71,7 @@
   rookie_year: 2019
   cards:
   - search_name: 2019 Prizm Silver PSA 10
-    search_str: 2019 prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc,jersey,relic,relics)
+    search_str: prizm silver -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
   - search_name: Flawless
     search_str: flawless -(jersey,logo,patch,rpa)
   - search_name: Immaculate
