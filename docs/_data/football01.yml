@@ -146,6 +146,7 @@
 - player: Dawson Knox
   tcdb_id: 218824
   player_str: dawson knox
+  comc_str: dawson+knox
   rookie_year: 2018
   cards:
   - search_name: 2019 Prizm PSA 10
@@ -177,6 +178,7 @@
 - player: Evan Engram
   tcdb_id: 141612
   player_str: evan engram
+  comc_str: evan+engram
   rookie_year: 2017
   cards:
   - search_name: Panini Prizm Parallels
@@ -185,6 +187,7 @@
 - player: Laremy Tunsil
   tcdb_id: 95697
   player_str: laremy tunsil
+  comc_str: laremy+tunsil
   rookie_year: 2016
   cards:
   - search_name: 2016 Panini Prizm Parallels

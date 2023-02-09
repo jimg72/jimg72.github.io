@@ -1,6 +1,7 @@
 - player: Snoop Conner
   tcdb_id: 357468
   player_str: snoop conner
+  comc_str: snoop+conner
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite
@@ -9,6 +10,7 @@
 - player: Matt Corral
   tcdb_id: 224252
   player_str: matt (corral,coral)
+  comc_str: matt+corral
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite 103
@@ -19,6 +21,7 @@
 - player: Mike Wallace
   tcdb_id: 27766
   player_str: mike wallace
+  comc_str: mike+wallace
   rookie_year: 2009
   cards:
   - search_name: 2012 Panini Prizm Parallels
@@ -37,11 +40,13 @@
 - player: Wesley Walls
   tcdb_id: 13295
   player_str: wesley walls
+  comc_str: wesley+walls
   rookie_year: 1989
 
 - player: Sam Williams
   tcdb_id: 351024
   player_str: sam williams
+  comc_str: sam+williams
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite
