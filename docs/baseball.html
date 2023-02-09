@@ -23,7 +23,7 @@ permalink: /baseball.html
         <div class="grid">
             {% for player in site.data.baseball01 %}
             <div class="grid-item">
-                <p><a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}" target="_blank">{{ player.player }}</a></p>
+                <p><a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}" target="_blank">{{ player.player }}</a> <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1&Filter=W" target="_blank">w</a></p>
                 <ul>
                     <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10" target="_blank">new</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1" target="_blank">ending</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10" target="_blank">rookies</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10" target="_blank">graded</a></li>
                     <li><a href="https://www.comc.com/Cards,sr,={{player.player | cgi_escape}},i100" target="_blank">COMC Newly Added</a></li>
@@ -37,7 +37,7 @@ permalink: /baseball.html
 
             {% for player in site.data.baseball02 %}
             <div class="grid-item">
-                <p><a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}" target="_blank">{{ player.player }}</a></p>
+                <p><a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}" target="_blank">{{ player.player }}</a> <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1&Filter=W" target="_blank">w</a></p>
                 <ul>
                     <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10" target="_blank">new</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1" target="_blank">ending</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10" target="_blank">rookies</a> &mdash; <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10" target="_blank">graded</a></li>
                     <li><a href="https://www.comc.com/Cards,sr,={{player.player | cgi_escape}},i100" target="_blank">COMC Newly Added</a></li>
