@@ -2,6 +2,7 @@
   tcdb_id: 374745
   player_str: david delucia
   rookie_year: 2022
+  cards:
     - search_name: 2022 Bowman Chrome 499
       search_str: bowman 499
     - search_name: 2022 Bowman Chrome 250
@@ -15,10 +16,11 @@
     - search_name: 2022 Panini Prizm
       search_str: prizm
 
-- player: Derek Diamon
+- player: Derek Diamond
   tcdb_id: 227101
-  player_str: david delucia
+  player_str: derek diamond
   rookie_year: 2022
+  cards:
     - search_name: 2022 Panini Prizm
       search_str: prizm
 
@@ -26,6 +28,7 @@
   tcdb_id: 249995
   player_str: hayden dunhurst
   rookie_year: 2022
+  cards:
     - search_name: 2022 Bowman Chrome 250
       search_str: bowman 250
     - search_name: 2022 Bowman Chrome 199
