@@ -29,14 +29,22 @@
   player_str: hayden dunhurst
   rookie_year: 2022
   cards:
+    - search_name: 2022 Bowman  250
+      search_str: bowman -chrome 250
+    - search_name: 2022 Bowman  199
+      search_str: bowman -chrome 199
+    - search_name: 2022 Bowman  150
+      search_str: bowman -chrome 150
+    - search_name: 2022 Bowman SN
+      search_str: bowman -chrome (99,75,71,50,25,5)
     - search_name: 2022 Bowman Chrome 250
-      search_str: bowman 250
+      search_str: bowman chrome 250
     - search_name: 2022 Bowman Chrome 199
-      search_str: bowman 199
+      search_str: bowman chrome 199
     - search_name: 2022 Bowman Chrome 150
-      search_str: bowman 150
+      search_str: bowman chrome 150
     - search_name: 2022 Bowman Chrome SN
-      search_str: bowman (99,75,71,50,25,5)
+      search_str: bowman chrome (99,75,71,50,25,5)
     - search_name: 2022 Panini Prizm
       search_str: prizm
 
