@@ -1,6 +1,6 @@
 - player: Dylan DeLucia
   tcdb_id: 374745
-  player_str: david delucia
+  player_str: dylan delucia
   rookie_year: 2022
   cards:
     - search_name: 2022 Bowman Chrome 499
@@ -11,7 +11,7 @@
       search_str: bowman 199
     - search_name: 2022 Bowman Chrome 150
       search_str: bowman 150
-    - search_name: 2022 Bowman Chrome (99,75,71,50,25,5)
+    - search_name: 2022 Bowman Chrome SN
       search_str: bowman (99,75,71,50,25,5)
     - search_name: 2022 Panini Prizm
       search_str: prizm
@@ -35,7 +35,7 @@
       search_str: bowman 199
     - search_name: 2022 Bowman Chrome 150
       search_str: bowman 150
-    - search_name: 2022 Bowman Chrome (99,75,50,25,5)
+    - search_name: 2022 Bowman Chrome SN
       search_str: bowman (99,75,71,50,25,5)
     - search_name: 2022 Panini Prizm
       search_str: prizm
