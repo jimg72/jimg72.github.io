@@ -1,27 +1,46 @@
-- player: Chris Coghlan
-  tcdb_id: 28385
-  player_str: chris coghlan
-  rookie_year: 2007
+- player: Dylan DeLucia
+  tcdb_id: 374745
+  player_str: david delucia
+  rookie_year: 2022
+    - search_name: 2022 Bowman Chrome 499
+      search_str: bowman 499
+    - search_name: 2022 Bowman Chrome 250
+      search_str: bowman 250
+    - search_name: 2022 Bowman Chrome 199
+      search_str: bowman 199
+    - search_name: 2022 Bowman Chrome 150
+      search_str: bowman 150
+    - search_name: 2022 Bowman Chrome (99,75,71,50,25,5)
+      search_str: bowman (99,75,71,50,25,5)
+    - search_name: 2022 Panini Prizm
+      search_str: prizm
 
-- player: Zack Cozart
-  tcdb_id: 33364
-  player_str: zack cozart
-  rookie_year: 2007
+- player: Derek Diamon
+  tcdb_id: 227101
+  player_str: david delucia
+  rookie_year: 2022
+    - search_name: 2022 Panini Prizm
+      search_str: prizm
 
-- player: David Dellucci
-  tcdb_id: 1439
-  player_str: david dellucci
-  rookie_year: 1998
+- player: Hayden Dunhurst
+  tcdb_id: 249995
+  player_str: hayden dunhurst
+  rookie_year: 2022
+    - search_name: 2022 Bowman Chrome 250
+      search_str: bowman 250
+    - search_name: 2022 Bowman Chrome 199
+      search_str: bowman 199
+    - search_name: 2022 Bowman Chrome 150
+      search_str: bowman 150
+    - search_name: 2022 Bowman Chrome (99,75,50,25,5)
+      search_str: bowman (99,75,71,50,25,5)
+    - search_name: 2022 Panini Prizm
+      search_str: prizm
 
 - player: Chris Ellis
   tcdb_id: 61794
   player_str: chris ellis
   rookie_year: 2014
-
-- player: Jeff Fassero
-  tcdb_id: 1775
-  player_str: jeff fassero
-  rookie_year: 1991
 
 - player: Nick Fortes
   tcdb_id: 108058
@@ -42,11 +61,6 @@
     search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
   - search_name: 2021 Panini Prizm SN
     search_str: prizm (/23,/25,/35,/50,/75,/99)
-
-- player: Don Kessinger
-  tcdb_id: 3091
-  player_str: don kessinger
-  rookie_year: 1966
 
 - player: Lance Lynn
   tcdb_id: 3560
@@ -72,13 +86,3 @@
   tcdb_id: 110875
   player_str: ryan rolison
   rookie_year: 2018
-
-- player: Seth Smith
-  tcdb_id: 5491
-  player_str: seth smith
-  rookie_year: 2004
-
-- player: Chris Snopek
-  tcdb_id: 21570
-  player_str: chris snopek
-  rookie_year: 1993
