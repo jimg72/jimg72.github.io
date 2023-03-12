@@ -3,50 +3,50 @@
   player_str: dylan delucia
   rookie_year: 2022
   cards:
-    - search_name: 2022 Bowman Chrome 499
-      search_str: bowman 499
-    - search_name: 2022 Bowman Chrome 250
-      search_str: bowman 250
-    - search_name: 2022 Bowman Chrome 199
-      search_str: bowman 199
-    - search_name: 2022 Bowman Chrome 150
-      search_str: bowman 150
-    - search_name: 2022 Bowman Chrome SN
-      search_str: bowman (99,75,71,50,25,5)
-    - search_name: 2022 Panini Prizm
-      search_str: prizm
+  - search_name: 2022 Bowman Chrome 499
+    search_str: bowman 499
+  - search_name: 2022 Bowman Chrome 250
+    search_str: bowman 250
+  - search_name: 2022 Bowman Chrome 199
+    search_str: bowman 199
+  - search_name: 2022 Bowman Chrome 150
+    search_str: bowman 150
+  - search_name: 2022 Bowman Chrome SN
+    search_str: bowman (99,75,71,50,25,5)
+  - search_name: 2022 Panini Prizm
+    search_str: prizm
 
 - player: Derek Diamond
   tcdb_id: 227101
   player_str: derek diamond
   rookie_year: 2022
   cards:
-    - search_name: 2022 Panini Prizm
-      search_str: prizm
+  - search_name: 2022 Panini Prizm
+    search_str: prizm
 
 - player: Hayden Dunhurst
   tcdb_id: 249995
   player_str: hayden dunhurst
   rookie_year: 2022
   cards:
-    - search_name: 2022 Bowman  250
-      search_str: bowman -chrome 250
-    - search_name: 2022 Bowman  199
-      search_str: bowman -chrome 199
-    - search_name: 2022 Bowman  150
-      search_str: bowman -chrome 150
-    - search_name: 2022 Bowman SN
-      search_str: bowman -chrome (99,75,71,50,25,5)
-    - search_name: 2022 Bowman Chrome 250
-      search_str: bowman chrome 250
-    - search_name: 2022 Bowman Chrome 199
-      search_str: bowman chrome 199
-    - search_name: 2022 Bowman Chrome 150
-      search_str: bowman chrome 150
-    - search_name: 2022 Bowman Chrome SN
-      search_str: bowman chrome (99,75,71,50,25,5)
-    - search_name: 2022 Panini Prizm
-      search_str: prizm
+  - search_name: 2022 Bowman  250
+    search_str: bowman -chrome 250
+  - search_name: 2022 Bowman  199
+    search_str: bowman -chrome 199
+  - search_name: 2022 Bowman  150
+    search_str: bowman -chrome 150
+  - search_name: 2022 Bowman SN
+    search_str: bowman -chrome (99,75,71,50,25,5)
+  - search_name: 2022 Bowman Chrome 250
+    search_str: bowman chrome 250
+  - search_name: 2022 Bowman Chrome 199
+    search_str: bowman chrome 199
+  - search_name: 2022 Bowman Chrome 150
+    search_str: bowman chrome 150
+  - search_name: 2022 Bowman Chrome SN
+    search_str: bowman chrome (99,75,71,50,25,5)
+  - search_name: 2022 Panini Prizm
+    search_str: prizm
 
 - player: Chris Ellis
   tcdb_id: 61794
@@ -68,6 +68,22 @@
   player_str: gunnar hoglund
   rookie_year: 2021
   cards:
+  - search_name: 2021 Bowman  250
+    search_str: bowman -chrome 250
+  - search_name: 2021 Bowman  199
+    search_str: bowman -chrome 199
+  - search_name: 2021 Bowman  150
+    search_str: bowman -chrome 150
+  - search_name: 2021 Bowman SN
+    search_str: bowman -chrome (99,50,25,5)
+  - search_name: 2021 Bowman Chrome 250
+    search_str: bowman chrome 250
+  - search_name: 2021 Bowman Chrome 199
+    search_str: bowman chrome 199
+  - search_name: 2021 Bowman Chrome 150
+    search_str: bowman chrome 150
+  - search_name: 2021 Bowman Chrome SN
+    search_str: bowman chrome (99,75,50,25,5)
   - search_name: 2021 Panini Prizm
     search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
   - search_name: 2021 Panini Prizm SN
@@ -83,10 +99,26 @@
   player_str: doug nikhazy
   rookie_year: 2021
   cards:
-    - search_name: 2021 Panini Prizm
-      search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
-    - search_name: 2021 Panini Prizm SN
-      search_str: prizm (/23,/25,/35,/50,/75,/99)
+  - search_name: 2021 Bowman  250
+    search_str: bowman -chrome 250
+  - search_name: 2021 Bowman  199
+    search_str: bowman -chrome 199
+  - search_name: 2021 Bowman  150
+    search_str: bowman -chrome 150
+  - search_name: 2021 Bowman SN
+    search_str: bowman -chrome (99,50,25,5)
+  - search_name: 2021 Bowman Chrome 250
+    search_str: bowman chrome 250
+  - search_name: 2021 Bowman Chrome 199
+    search_str: bowman chrome 199
+  - search_name: 2021 Bowman Chrome 150
+    search_str: bowman chrome 150
+  - search_name: 2021 Bowman Chrome SN
+    search_str: bowman chrome (99,75,50,25,5)
+  - search_name: 2021 Panini Prizm
+    search_str: prizm -(edition,leaf,standouts,tickets,pink,thunderstruck)
+  - search_name: 2021 Panini Prizm SN
+    search_str: prizm (/23,/25,/35,/50,/75,/99)
 
 - player: Drew Pomeranz
   tcdb_id: 36863
