@@ -35,8 +35,6 @@
   comc_str: Eli+Manning
   rookie_year: 2004
   cards:
-  - search_name: 2004 Bowman PSA 10
-    search_str: 2004 bowman psa 10 -(auto,bgs,chrome,finest,premiere,pristine,sgc,signature,super,topps,total)
   - search_name: 2004 Score Glossy PSA 10
     search_str: 2004 score glossy psa 10 -(bgs,sgc)
   - search_name: 2004 SP Game-Used PSA
@@ -72,8 +70,8 @@
   comc_str: A%7B46%7DJ%7B46%7D+Brown
   rookie_year: 2019
   cards:
-  - search_name: 2019 Prizm Silver PSA 10
-    search_str: prizm silver -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
+  - search_name: 2019 Prizm PSA 10
+    search_str: prizm psa 10 -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
   - search_name: Flawless
     search_str: flawless -(jersey,logo,patch,rpa)
   - search_name: Immaculate
@@ -158,8 +156,8 @@
   comc_str: D%7B46%7DK%7B46%7D+Metcalf
   rookie_year: 2019
   cards:
-  - search_name: 2019 Prizm Silver PSA 10
-    search_str: (d.k.,dk) metcalf 2019 prizm silver psa 10 -(auto,bgs,blue,lazer,legacy,optic,orange,red,rpa,select,sgc,jersey,relic,relics)
+  - search_name: 2019 Prizm PSA 10
+    search_str: prizm psa 10 -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
   - search_name: Flawless
     search_str: flawless -(jersey,logo,patch,rpa)
   - search_name: Immaculate
