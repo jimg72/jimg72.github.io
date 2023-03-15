@@ -212,12 +212,6 @@
   comc_str: laremy+tunsil
   rookie_year: 2016
   cards:
-  - search_name: Flawless
-    search_str: flawless
-  - search_name: Immaculate
-    search_str: immaculate -digital
-  - search_name: National Treasure
-    search_str: national (treasure,treasures) -digital
   - search_name: 2016 Panini Prizm Parallels
     search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2020 Panini Prizm Parallels
