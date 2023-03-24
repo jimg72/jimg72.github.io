@@ -54,7 +54,10 @@
   - search_name: 2019 Panini Prizm Parallels
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Panini Prizm
-    search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super) (black,blue,camo,checker,finite,forest,gold,green,huddle,hyper,ice,navy,neon,orange,pandora,pink,purple,red,scope,shimmer,silver,snakeskin,sparkle,stars,vinyl,wave,white,yellow)
+    search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
+  - search_name: 2022 Panini Prizm 2
+    search_str: 2022 prizm (black,blue,camo,checker,finite,forest,gold,green,huddle,hyper,ice,navy,neon,orange,pandora,pink,purple,red,scope,shimmer,silver,snakeskin,sparkle,stars,vinyl,wave,white,yellow)
+
   - search_name: Flawless
     search_str: flawless -(jersey,logo,patch,rpa)
   - search_name: Immaculate
