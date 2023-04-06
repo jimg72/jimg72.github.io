@@ -33,11 +33,18 @@ permalink: /football.html
             text-decoration: underline;
         }
 
-        .grid {
-            text-align: left;
+        /* clearfix */
+        .grid:after {
+            content: '';
+            display: block;
+            clear: both;
+        }
+
+        .grid-item {
             float: left;
-            margin: 0 20px 10px 0;
-            width: 180px;
+            margin: 0 0 20px 0;
+            padding: 0 20px 0 0;
+            width: 321px;
         }
     </style>
 </head>
