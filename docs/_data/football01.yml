@@ -34,7 +34,7 @@
   tcdb_id: 11403
   player_str: eli manning
   comc_str:  eli+manning
-. tcdb_str:  eli-manning
+  tcdb_str:  eli-manning
   rookie_year: 2004
   cards:
   - search_name: 2004 Donruss Classics
@@ -76,7 +76,7 @@
   tcdb_id: 215446
   player_str: (a.j.,aj) brown
   comc_str:  a%7b46%7dj%7b46%7d+brown
-. tcdb_str:  aj-brown
+  tcdb_str:  aj-brown
   rookie_year: 2019
   cards:
   - search_name: 2019 Prizm PSA 10
@@ -100,7 +100,7 @@
   tcdb_id: 357468
   player_str: snoop conner
   comc_str:  snoop+conner
-. tcdb_str:  snoop-conner
+  tcdb_str:  snoop-conner
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite
@@ -112,7 +112,7 @@
   tcdb_id: 224252
   player_str: matt (corral,coral)
   comc_str:  matt+corral
-. tcdb_str:  matt-corral
+  tcdb_str:  matt-corral
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite 103
@@ -126,7 +126,7 @@
   tcdb_id: 11498
   player_str: deuce (mcallister,mcalister)
   comc_str:  deuce+mcallister
-. tcdb_str:  deuce-mcallister
+  tcdb_str:  deuce-mcallister
   rookie_year: 2001
   cards:
   - search_name: Panini Prizm Parallels
@@ -154,7 +154,7 @@
   tcdb_id: 145446
   player_str: (d.k.,dk) metcalf
   comc_str:  D%7B46%7DK%7B46%7D+Metcalf
-. tcdb_str:  dk-metcalf
+  tcdb_str:  dk-metcalf
   rookie_year: 2019
   cards:
   - search_name: 2019 Prizm PSA 10
@@ -178,7 +178,7 @@
   tcdb_id: 218824
   player_str: dawson knox
   comc_str:  dawson+knox
-. tcdb_str:  dawson-knox
+  tcdb_str:  dawson-knox
   rookie_year: 2018
   cards:
   - search_name: 2019 Prizm PSA 10
@@ -196,7 +196,7 @@
   tcdb_id: 292120
   player_str: elijah moore
   comc_str:  Elijah+Moore
-. tcdb_str:  Elijah-Moore
+  tcdb_str:  Elijah-Moore
   rookie_year: 2021
   cards:
   - search_name: Flawless
@@ -214,7 +214,7 @@
   tcdb_id: 141612
   player_str: evan engram
   comc_str:  evan+engram
-. tcdb_str:  evan-engram
+  tcdb_str:  evan-engram
   rookie_year: 2017
   cards:
   - search_name: Flawless
@@ -226,7 +226,7 @@
   tcdb_id: 95697
   player_str: laremy tunsil
   comc_str:  laremy+tunsil
-. tcdb_str:  laremy-tunsil
+  tcdb_str:  laremy-tunsil
   rookie_year: 2016
   cards:
   - search_name: 2016 Panini Prizm Parallels
@@ -242,7 +242,7 @@
   tcdb_id: 27766
   player_str: mike wallace
   comc_str:  mike+wallace
-. tcdb_str:  mike-wallace
+  tcdb_str:  mike-wallace
   rookie_year: 2009
   cards:
   - search_name: 2012 Panini Prizm Parallels
@@ -262,7 +262,7 @@
   tcdb_id: 351024
   player_str: sam williams
   comc_str:  sam+williams
-. tcdb_str:  sam-williams
+  tcdb_str:  sam-williams
   rookie_year: 2022
   cards:
   - search_name: Donruss Elite
@@ -274,7 +274,7 @@
   tcdb_id: 13520
   player_str: patrick willis
   comc_str:  patrick+willis
-. tcdb_str:  patrick-willis
+  tcdb_str:  patrick-willis
   rookie_year: 2007
   cards:
   - search_name: Flawless
