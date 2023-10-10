@@ -80,7 +80,7 @@
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Snoop Conner
@@ -92,7 +92,7 @@
   cards:
   - search_name: Donruss Elite
     search_str: elite
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Matt Corral
@@ -106,7 +106,7 @@
     search_str: elite 103
   - search_name: Immaculate
     search_str: immaculate -(caps,glove,gloves,patch,rpa,howell) -digital
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Deuce McAllister
@@ -118,24 +118,24 @@
   cards:
   - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2021 Panini Prizm Red Checker
-    search_str: 2021 prizm red black (checker, checkerboard)
-  - search_name: 2021 Panini Prizm Blue
+  - search_name: 2021 Prizm Blue
     search_str: 2021 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
-  - search_name: 2021 Panini Prizm Camo
+  - search_name: 2021 Prizm Camo
     search_str: 2021 prizm camo
-  - search_name: 2021 Panini Prizm Gold
+  - search_name: 2021 Prizm Gold
     search_str: 2021 prizm gold -select
-  - search_name: 2021 Panini Prizm Green Ice
+  - search_name: 2021 Prizm Green Ice
     search_str: 2021 prizm green ice -scope
-  - search_name: 2021 Panini Prizm No Huddle
+  - search_name: 2021 Prizm No Huddle
     search_str: 2021 prizm huddle -blue -purple
-  - search_name: 2021 Panini Prizm Purple Pulsar
-    search_str: 2021 prizm purple pulsar -(power,checker,checkerboard,ice)
-  - search_name: 2021 Panini Prizm Red
+  - search_name: 2021 Prizm Red
     search_str: 2021 prizm red -(ice,wave,blue,select,shimmer)
-  - search_name: 2022 Panini Prizm
-    search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
+  - search_name: 2022 Prizm Blue
+    search_str: 2022 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
+  - search_name: 2022 Prizm Gold
+    search_str: 2022 prizm gold -select
+  - search_name: 2022 Prizm Green Shimmer
+    search_str: 2022 prizm green shimmer -(ice,scope)
 
 - player: D.K. Metcalf
   tcdb_id: 145446
@@ -158,7 +158,7 @@
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Dawson Knox
@@ -176,7 +176,7 @@
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Elijah Moore
@@ -194,7 +194,7 @@
     search_str: 2021 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
   - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: Panini Prizm Silver
+  - search_name: Prizm Silver
     search_str: prizm silver -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta) -(draft,dp)
 
 - player: Evan Engram
@@ -222,7 +222,7 @@
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Mike Wallace
@@ -254,7 +254,7 @@
   cards:
   - search_name: Donruss Elite
     search_str: elite
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Patrick Willis
