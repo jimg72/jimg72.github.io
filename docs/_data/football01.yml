@@ -1,6 +1,6 @@
 - player: Archie Manning
   tcdb_id: 11402
-  player_str: "archie+manning"
+  player_str: archie+manning
   comc_str:  archie+manning
   tcdb_str:  archie-manning
   rookie_year: 1972
@@ -27,32 +27,28 @@
 
 - player: Eli Manning
   tcdb_id: 11403
-  player_str: eli manning
+  player_str: eli+manning
   comc_str:  eli+manning
   tcdb_str:  eli-manning
   rookie_year: 2004
   cards:
   - search_name: 2004 Donruss Classics
     search_str: 2004 donruss classics
-  - search_name: 2004 Score Glossy PSA 10
-    search_str: 2004 score glossy psa 10 -(bgs,sgc)
-  - search_name: 2004 SP Game-Used PSA
-    search_str: 2004 sp game used psa -(bgs,sgc)
-  - search_name: 2013 Panini Prizm Parallels
+  - search_name: 2013 Prizm Parallels
     search_str: 2013 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2014 Panini Prizm Parallels
+  - search_name: 2014 Prizm Parallels
     search_str: 2014 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2015 Panini Prizm Parallels
+  - search_name: 2015 Prizm Parallels
     search_str: 2015 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2016 Panini Prizm Parallels
+  - search_name: 2016 Prizm Parallels
     search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2017 Panini Prizm Parallels
+  - search_name: 2017 Prizm Parallels
     search_str: 2017 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2018 Panini Prizm Parallels
+  - search_name: 2018 Prizm Parallels
     search_str: 2018 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2019 Panini Prizm Parallels
+  - search_name: 2019 Prizm Parallels
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2022 Panini Prizm
+  - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Panini Prizm 1
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super) (black,blue,camo,checker,forest,gold,green,huddle,hyper,navy)
@@ -64,8 +60,8 @@
     search_str: immaculate -(dual,game,patch)
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
-  - search_name: Panini Prizm Parallels
-    search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+  - search_name: White Sparkle
+    search_str: white sparkle
 
 - player: A.J. Brown
   tcdb_id: 215446
