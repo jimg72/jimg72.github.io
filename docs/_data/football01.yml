@@ -85,7 +85,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, pandora, rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, pandora, rocket, stars, sparkle) -(diamond,logos)
 
 - player: Snoop Conner
   tcdb_id: 357468
@@ -94,8 +94,6 @@
   tcdb_str:  snoop-conner
   rookie_year: 2022
   cards:
-  - search_name: Donruss Elite
-    search_str: elite
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
@@ -108,10 +106,12 @@
   tcdb_str:  matt-corral
   rookie_year: 2022
   cards:
-  - search_name: Donruss Elite 103
-    search_str: elite 103
+  - search_name: Flawless
+    search_str: flawless
   - search_name: Immaculate
-    search_str: immaculate -(caps,glove,gloves,patch,rpa,howell) -digital
+    search_str: immaculate
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) -digital
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
@@ -124,6 +124,12 @@
   tcdb_str:  deuce-mcallister
   rookie_year: 2001
   cards:
+  - search_name: Flawless
+    search_str: flawless
+  - search_name: Immaculate
+    search_str: immaculate
+  - search_name: National Treasure
+    search_str: national (treasure,treasures) -digital
   - search_name: 2021 Prizm Blue
     search_str: 2021 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
   - search_name: 2021 Prizm Camo
