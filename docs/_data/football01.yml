@@ -1,28 +1,12 @@
 - player: Archie Manning
   tcdb_id: 11402
-  player_str: archie manning
+  player_str: archie+manning
   comc_str:  archie+manning
   tcdb_str:  archie-manning
   rookie_year: 1972
   cards:
   - search_name: Topps PSA 10
     search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
-  - search_name: 1972 Sunoco Stamps PSA
-    search_str: 1972 sunoco stamps psa 10
-  - search_name: 1978 Slim Jim PSA
-    search_str: 1978 slim jim psa
-  - search_name: 1978 Topps Holsum PSA
-    search_str: 1978 topps holsum psa
-  - search_name: 1979 NFLPA Pennant PSA
-    search_str: 1979 nflpa pennant stickers psa
-  - search_name: 1979 Saints Coke PSA
-    search_str: 1979 saints coke psa
-  - search_name: 1980 Topps Super PSA
-    search_str: 1980 topps super psa
-  - search_name: 1981 MSA Disc PSA
-    search_str: 1981 (msa,schechter,disc,discs) psa
-  - search_name: 1981 Topps Stickers PSA
-    search_str: 1981 topps stickers psa
   - search_name: Immaculate
     search_str: immaculate
   - search_name: National Treasure
