@@ -74,7 +74,7 @@ permalink: /football.html
 
                     {% for card in player.cards %}
                     <li class="list-unstyled"><a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22{{ player.player_str | cgi_escape }}%22+{{ card.search_str | cgi_escape }}&_sop=10"
+                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
                             target="_blank">{{ card.search_name }}</a></li>
                     {% endfor %}
                 </ul>

@@ -1,6 +1,6 @@
 - player: Archie Manning
   tcdb_id: 11402
-  player_str: archie+manning
+  player_str: "archie+manning"
   comc_str:  archie+manning
   tcdb_str:  archie-manning
   rookie_year: 1972
