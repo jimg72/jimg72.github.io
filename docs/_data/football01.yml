@@ -58,10 +58,6 @@
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
-  - search_name: 2022 Panini Prizm 1
-    search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super) (black,blue,camo,checker,forest,gold,green,huddle,hyper,navy)
-  - search_name: 2022 Panini Prizm 2
-    search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super) (orange,pink,purple,red,silver,snakeskin,sparkle,stars,yellow))
 
 - player: A.J. Brown
   tcdb_id: 215446
@@ -78,11 +74,11 @@
     search_str: immaculate -digital
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
-  - search_name: 2019 Panini Prizm Parallels
+  - search_name: 2019 Prizm Parallels
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2020 Panini Prizm Parallels
+  - search_name: 2020 Prizm Parallels
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2021 Panini Prizm Parallels
+  - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Panini Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
@@ -120,7 +116,7 @@
   tcdb_str:  deuce-mcallister
   rookie_year: 2001
   cards:
-  - search_name: Panini Prizm Parallels
+  - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2021 Panini Prizm Red Checker
     search_str: 2021 prizm red black (checker, checkerboard)
@@ -156,11 +152,11 @@
     search_str: immaculate -digital
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
-  - search_name: 2019 Panini Prizm Parallels
+  - search_name: 2019 Prizm Parallels
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2020 Panini Prizm Parallels
+  - search_name: 2020 Prizm Parallels
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2021 Panini Prizm Parallels
+  - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Panini Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
@@ -174,11 +170,11 @@
   cards:
   - search_name: 2019 Prizm PSA 10
     search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
-  - search_name: 2019 Panini Prizm Parallels
+  - search_name: 2019 Prizm Parallels
     search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2020 Panini Prizm Parallels
+  - search_name: 2020 Prizm Parallels
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2021 Panini Prizm Parallels
+  - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Panini Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
@@ -196,7 +192,7 @@
     search_str: national (treasure,treasures) -digital
   - search_name: 2021 Prizm PSA 10
     search_str: 2021 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
-  - search_name: Panini Prizm Parallels
+  - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: Panini Prizm Silver
     search_str: prizm silver -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta) -(draft,dp)
@@ -210,7 +206,7 @@
   cards:
   - search_name: Flawless
     search_str: flawless
-  - search_name: Panini Prizm Parallels
+  - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
 
 - player: Laremy Tunsil
@@ -220,11 +216,11 @@
   tcdb_str:  laremy-tunsil
   rookie_year: 2016
   cards:
-  - search_name: 2016 Panini Prizm Parallels
+  - search_name: 2016 Prizm Parallels
     search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2020 Panini Prizm Parallels
+  - search_name: 2020 Prizm Parallels
     search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2021 Panini Prizm Parallels
+  - search_name: 2021 Prizm Parallels
     search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Panini Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
@@ -236,17 +232,17 @@
   tcdb_str:  mike-wallace
   rookie_year: 2009
   cards:
-  - search_name: 2012 Panini Prizm Parallels
+  - search_name: 2012 Prizm Parallels
     search_str: 2012 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2013 Panini Prizm Parallels
+  - search_name: 2013 Prizm Parallels
     search_str: 2013 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2014 Panini Prizm Parallels
+  - search_name: 2014 Prizm Parallels
     search_str: 2014 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2015 Panini Prizm Parallels
+  - search_name: 2015 Prizm Parallels
     search_str: 2015 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2016 Panini Prizm Parallels
+  - search_name: 2016 Prizm Parallels
     search_str: 2016 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-  - search_name: 2017 Panini Prizm Parallels
+  - search_name: 2017 Prizm Parallels
     search_str: 2017 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
 
 - player: Sam Williams
@@ -274,5 +270,5 @@
     search_str: immaculate
   - search_name: National Treasure
     search_str: national (treasure,treasures) -digital
-  - search_name: Panini Prizm Parallels
+  - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
