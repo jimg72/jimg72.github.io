@@ -59,7 +59,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: A.J. Brown
   tcdb_id: 215446
@@ -85,7 +85,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle) -(diamond,logos)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle) -(diamond,logos)
 
 - player: Snoop Conner
   tcdb_id: 357468
@@ -97,7 +97,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: Matt Corral
   tcdb_id: 224252
@@ -115,7 +115,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: Deuce McAllister
   tcdb_id: 11498
@@ -173,7 +173,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle) -(diamond,logos)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle) -(diamond,logos)
 
 - player: Dawson Knox
   tcdb_id: 218824
@@ -223,7 +223,7 @@
   - search_name: Prizm Parallels
     search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: Laremy Tunsil
   tcdb_id: 95697
@@ -241,7 +241,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: Mike Wallace
   tcdb_id: 27766
@@ -275,7 +275,7 @@
   - search_name: 2022 Prizm
     search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
   - search_name: 2022 Optic Parallels
-    search_str: 2022 optic (emoji, fire, holo, jazz, pandora rocket, stars, sparkle)
+    search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
 
 - player: Patrick Willis
   tcdb_id: 13520
