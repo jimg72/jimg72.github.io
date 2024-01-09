@@ -2,6 +2,7 @@ body {
     background: #2e2e2e none;
     margin-top: 10px;
     font-size: 1.1rem;
+    color: #6c99bb;
 }
 
 a:not([class]) {
@@ -10,7 +11,7 @@ a:not([class]) {
 }
 
 a:not([class]):hover {
-    color: #6c99bb;
+    color: #e5b567;
     text-decoration: underline;
 }
 
