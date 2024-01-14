@@ -28,9 +28,8 @@ permalink: /football.html
 
                 <ul>
                     <li class="list-unstyled"><strong>{{ player.player }} <a
-                                href="http://192.168.4.200:5001/player/?playerID={{ player.tcdb_str }}" target="_blank">a</a> <a
-                                href="http://192.168.4.200:5001/player/?cStatus=Want+List&cYear=ALL&cBrand=ALL&cNbr=ALL&cSN=ALL&cAUTO=ALL&cMEM=ALL&cRC=ALL&cGRADED=ALL&playerID={{ player.tcdb_str }}"
-                                target="_blank">w</a></strong></li>
+                                href="http://127.0.0.1:5001/search/?selSport=Football&selPlayer={{ player.player_str | cgi_escape }}"
+                                target="_blank">carddb</a></strong></li>
                     <li class="list-unstyled"><a
                             href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
                             target="_blank">new</a> / <a
@@ -56,9 +55,8 @@ permalink: /football.html
             <div class="grid-item">
                 <ul>
                     <li class="list-unstyled"><strong>{{ player.player }} <a
-                                href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}" target="_blank">a</a> <a
-                                href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.tcdb_id }}?CollectionID=1&Filter=W"
-                                target="_blank">w</a></strong></li>
+                                href="http://127.0.0.1:5001/search/?selSport=Football&selPlayer={{ player.player_str | cgi_escape }}"
+                                target="_blank">carddb</a></strong></li>
                     <li class="list-unstyled"><a
                             href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
                             target="_blank">new</a> / <a

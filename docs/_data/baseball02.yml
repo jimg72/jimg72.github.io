@@ -28,11 +28,6 @@
   player_str: taylor broadway
   rookie_year: 2021
 
-- player: Thomas Dillard
-  tcdb_id: 116833
-  player_str: thomas dillard
-  rookie_year: 2020
-
 - player: Tim Elko
   tcdb_id: 150638
   player_str: tim elko
@@ -48,11 +43,6 @@
   player_str: stephen head
   rookie_year: 2003
 
-- player: Cooper Johnson
-  tcdb_id: 99457
-  player_str: cooper johnson
-  rookie_year: 2019
-
 - player: Tyler Keenan
   tcdb_id: 260701
   player_str: tyler keenan
@@ -62,11 +52,6 @@
   tcdb_id: 3091
   player_str: don kessinger
   rookie_year: 1966
-
-- player: Grae Kessinger
-  tcdb_id: 125559
-  player_str: grae kessinger
-  rookie_year: 2019
 
 - player: Bobby Kielty
   tcdb_id: 3096
@@ -107,8 +92,3 @@
   tcdb_id: 61292
   player_str: bobby wahl
   rookie_year: 2014
-
-- player: J.B. Woodman
-  tcdb_id: 119694
-  player_str: j.b. woodman
-  rookie_year: 2016
