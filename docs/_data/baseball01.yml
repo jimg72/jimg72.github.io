@@ -144,6 +144,8 @@
       search_str: 2014 bowman (499,399,250,150,99,75,50,35,25,15,5) -(auto,autograph)
     - search_name: 2014 Bowman Auto
       search_str: 2014 bowman (150,99,50,35,25,15,10,5) (auto,autograph)
+    - search_name: Panini Prizm
+      search_str: prizm
 
 - player: Auston Bousfield
   tcdb_id: 60672
@@ -152,6 +154,8 @@
   cards:
     - search_name: 2014 Bowman
       search_str: 2014 bowman (399,150,99,75,50,25,5)
+    - search_name: Panini Prizm
+      search_str: prizm
 
 - player: Nick Fortes
   tcdb_id: 108058
