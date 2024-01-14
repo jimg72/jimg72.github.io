@@ -80,6 +80,7 @@
   tcdb_id: 110875
   player_str: ryan rolison
   rookie_year: 2020
+  cards:
     - search_name: 2020 Bowman
       search_str: 2020 bowman (499,250,199,150,99,75,71,50,25,5) -(auto,autograph)
     - search_name: 2020 Bowman Auto
@@ -91,6 +92,7 @@
   tcdb_id: 125559
   player_str: grae kessinger
   rookie_year: 2019
+  cards:
     - search_name: 2019 Bowman
       search_str: 2019 bowman (499,250,150,99,50,25,5)
 
@@ -161,8 +163,10 @@
   tcdb_id: 3560
   player_str: lance lynn
   rookie_year: 2011
+  cards:
 
 - player: Drew Pomeranz
   tcdb_id: 36863
   player_str: drew pomeranz
   rookie_year: 2010
+  cards:
