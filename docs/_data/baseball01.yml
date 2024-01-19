@@ -23,20 +23,24 @@
   player_str: calvin harris
   rookie_year: 2023
   cards:
-    - search_name: 2023 Bowman
-      search_str: 2023 bowman (199,150,125,99,75,54,50,49,25,10) -(auto,autograph)
     - search_name: 2023 Bowman Auto
-      search_str: 2023 bowman (199,150,125,99,75,54,50,49,25,10) (auto,autograph)
+      search_str: 2023 bowman (199,150,125,99,75,54,50,49,25,10)
+
+- player: Tim Elko
+  tcdb_id: 150638
+  player_str: tim elko
+  rookie_year: 2023
+  cards:
+    - search_name: 2023 Bowman Auto
+      search_str: 2023 bowman
 
 - player: Dylan DeLucia
   tcdb_id: 374745
   player_str: dylan delucia
   rookie_year: 2022
   cards:
-    - search_name: 2022 Bowman
-      search_str: 2022 bowman (199,150,99,75,71,50,25,5) -(auto,autograph)
     - search_name: 2022 Bowman Auto
-      search_str: 2022 bowman (199,150,99,75,71,50,25,5) (auto,autograph)
+      search_str: 2022 bowman (199,150,99,75,71,50,25,5)
     - search_name: Panini Prizm
       search_str: prizm
 
@@ -82,9 +86,7 @@
   rookie_year: 2020
   cards:
     - search_name: 2020 Bowman
-      search_str: 2020 bowman (499,250,199,150,99,75,71,50,25,5) -(auto,autograph)
-    - search_name: 2020 Bowman Auto
-      search_str: 2020 bowman (499,250,199,150,99,75,71,50,25,5) (auto,autograph)
+      search_str: 2020 bowman (499,250,199,150,99,75,71,50,25,5)
     - search_name: Panini Prizm
       search_str: prizm
 
