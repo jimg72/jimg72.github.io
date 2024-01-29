@@ -7,6 +7,8 @@
   cards:
     - search_name: Topps PSA 10
       search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
+    - search_name: Flawless
+      search_str: flawless
     - search_name: Immaculate
       search_str: immaculate
     - search_name: National Treasure
@@ -32,15 +34,13 @@
   rookie_year: 2004
   cards:
     - search_name: Flawless
-      search_str: flawless -(jersey,logo,patch,rpa)
+      search_str: flawless
     - search_name: Immaculate
       search_str: immaculate -(dual,game,patch)
     - search_name: National Treasure
       search_str: national (treasure,treasures) -digital
     - search_name: White Sparkle
       search_str: white sparkle
-    - search_name: 2004 Donruss Classics
-      search_str: 2004 donruss classics
     - search_name: 2013 Prizm Parallels
       search_str: 2013 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2014 Prizm Parallels
@@ -55,10 +55,14 @@
       search_str: 2018 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2019 Prizm Parallels
       search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2022 Prizm
-      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
-    - search_name: 2022 Optic Parallels
-      search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
+    - search_name: 2020 Prizm Parallels
+      search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2021 Prizm Parallels
+      search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2022 Prizm Parallels
+      search_str: 2022 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2023 Prizm Parallels
+      search_str: 2023 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
 
 - player: A.J. Brown
   tcdb_id: 215446
@@ -67,36 +71,24 @@
   tcdb_str: aj-brown
   rookie_year: 2019
   cards:
-    - search_name: 2019 Prizm PSA 10
-      search_str: prizm psa 10 -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
     - search_name: Flawless
       search_str: flawless
     - search_name: Immaculate
       search_str: immaculate -digital
     - search_name: National Treasure
       search_str: national (treasure,treasures) -digital
+    - search_name: 2019 Prizm PSA 10
+      search_str: prizm psa 10 -(dp,draft) -(optic,donruss,select,legacy,spectra,mosaic,phoenix,premier) -(absolute,chronicles,illusions) -(dual,gear,auto,crusade,jersey,patch,field,lot)
     - search_name: 2019 Prizm Parallels
       search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2020 Prizm Parallels
       search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2021 Prizm Parallels
       search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2022 Prizm
-      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
-    - search_name: 2022 Optic Parallels
-      search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle) -(diamond,logos)
-
-- player: Snoop Conner
-  tcdb_id: 357468
-  player_str: snoop conner
-  comc_str: snoop+conner
-  tcdb_str: snoop-conner
-  rookie_year: 2022
-  cards:
-    - search_name: 2022 Prizm
-      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
-    - search_name: 2022 Optic Parallels
-      search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
+    - search_name: 2022 Prizm Parallels
+      search_str: 2022 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2023 Prizm Parallels
+      search_str: 2023 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
 
 - player: Matt Corral
   tcdb_id: 224252
@@ -131,8 +123,6 @@
       search_str: national (treasure,treasures) -digital
     - search_name: 2021 Prizm Blue
       search_str: 2021 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
-    - search_name: 2021 Prizm Camo
-      search_str: 2021 prizm camo
     - search_name: 2021 Prizm Gold
       search_str: 2021 prizm gold -select
     - search_name: 2021 Prizm Green Ice
@@ -147,6 +137,8 @@
       search_str: 2022 prizm gold -select
     - search_name: 2022 Prizm Green Shimmer
       search_str: 2022 prizm green shimmer -(ice,scope)
+    - search_name: 2022 Prizm Sparkle
+      search_str: 2022 prizm sparkle (blue,gold)
 
 - player: D.K. Metcalf
   tcdb_id: 145446
@@ -169,10 +161,10 @@
       search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2021 Prizm Parallels
       search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2022 Prizm
-      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
-    - search_name: 2022 Optic Parallels
-      search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle) -(diamond,logos)
+    - search_name: 2022 Prizm Parallels
+      search_str: 2022 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2023 Prizm Parallels
+      search_str: 2023 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
 
 - player: Dawson Knox
   tcdb_id: 218824
@@ -185,12 +177,6 @@
       search_str: 2019 prizm psa 10 -(bgs,sgc) -(crusade,optic,premier,select,sensational)
     - search_name: 2019 Prizm Parallels
       search_str: 2019 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2020 Prizm Parallels
-      search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2021 Prizm Parallels
-      search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
-    - search_name: 2022 Prizm
-      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
 
 - player: Jonathan Mingo
   tcdb_id: 388581
@@ -249,6 +235,18 @@
       search_str: 2020 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
     - search_name: 2021 Prizm Parallels
       search_str: 2021 prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+    - search_name: 2022 Prizm
+      search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
+    - search_name: 2022 Optic Parallels
+      search_str: 2022 optic (emoji, fire, holo, jazz, pandora, rocket, stars, sparkle)
+
+- player: Snoop Conner
+  tcdb_id: 357468
+  player_str: snoop conner
+  comc_str: snoop+conner
+  tcdb_str: snoop-conner
+  rookie_year: 2022
+  cards:
     - search_name: 2022 Prizm
       search_str: 2022 prizm -(certified,chronicles,contenders,fleer,leaf,legacy,mosaic,pick,optic) -(phoenix,playoff,zenith,prestige,score,select,spectra,stars,super)
     - search_name: 2022 Optic Parallels
