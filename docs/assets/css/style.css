@@ -41,3 +41,7 @@ a:not([class]):hover {
     margin: 0 10px 10px 0;
     width: 300px;
 }
+
+.list-unstyled {
+    list-style-type: none;
+}
