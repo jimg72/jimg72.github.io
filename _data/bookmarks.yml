@@ -23,3 +23,22 @@
       link_url: https://www.tcdb.com/
     - link_name: Terapeak
       link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
+
+- category: shopping
+  links:
+    - link_name: Amazon
+      link_url: https://www.amazon.com
+    - link_name: Best Buy
+      link_url: https://www.bestbuy.com
+    - link_name: Camel
+      link_url: https://camelcamelcamel.com
+    - link_name: Craigslist
+      link_url: https://dallas.craigslist.org
+    - link_name: eBay
+      link_url: https://www.ebay.com/
+    - link_name: Nordstrom
+      link_url: https://www.nordstrom.com
+    - link_name: Nordstrom Rack
+      link_url: https://www.nordstromrack.com
+    - link_name: WireCutter
+      link_url: https://thewirecutter.com
