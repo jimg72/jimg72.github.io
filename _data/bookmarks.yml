@@ -45,7 +45,7 @@
 
 - category: Entertainment
   links:
-    - link_name: Disney+
+    - link_name: DisneyPlus
       link_url: https://www.disneyplus.com
     - link_name: HD Cars
       link_url: https://www.hdcarwallpapers.com
@@ -62,7 +62,7 @@
     - link_name: YouTube
       link_url: https://www.youtube.com
     - link_name: YouTube TV
-     link_url: https://tv.youtube.com
+      link_url: https://tv.youtube.com
 
 - category: Sports
   links:
@@ -86,9 +86,9 @@
      - link_name: Raindrop
        link_url: https://app.raindrop.io/my/0
      - link_name: PO Box
-       link_url: https://pobox.com/
+       link_url: https://pobox.com
      - link_name: Wikipedia
-       link_url: https://en.wikipedia.org/
+       link_url: https://en.wikipedia.org
 
  - category: News
    links:
@@ -127,8 +127,8 @@
        link_url: https://www.instagram.com
      - link_name: Telegram
        link_url: https://web.telegram.org/#/im
-     - link_name: https://twitter.com
-       link_url: Twitter
+     - link_name: Twitter
+       link_url: https://twitter.com
 
  - category: Travel
    links:
