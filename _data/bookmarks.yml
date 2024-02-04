@@ -3,7 +3,7 @@
 #     - link_name:
 #       link_url:
 
-- category: cards
+- category: Cards
   links:
     - link_name: ebay - baseball
       link_url: https://jimg72.github.io/baseball.html
@@ -24,7 +24,7 @@
     - link_name: Terapeak
       link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
 
-- category: shopping
+- category: Shopping
   links:
     - link_name: Amazon
       link_url: https://www.amazon.com
@@ -42,3 +42,106 @@
       link_url: https://www.nordstromrack.com
     - link_name: WireCutter
       link_url: https://thewirecutter.com
+
+- category: Entertainment
+  links:
+    - link_name: Disney+
+      link_url: https://www.disneyplus.com
+    - link_name: HD Cars
+      link_url: https://www.hdcarwallpapers.com
+    - link_name: IMDb
+      link_url: https://www.imdb.com
+    - link_name: Metacritic
+      link_url: https://www.metacritic.com
+    - link_name: Netflix
+      link_url: https://www.netflix.com
+    - link_name: Reddit
+      link_url: https://reddit.com
+    - link_name: Video Poker
+      link_url: https://wizardofodds.com/play/video-poker/multi-hand/
+    - link_name: YouTube
+      link_url: https://www.youtube.com
+    - link_name: YouTube TV
+     link_url: https://tv.youtube.com
+
+- category: Sports
+  links:
+  - link_name: Athletic
+    link_url: https://theathletic.com
+  - link_name: ESPN
+    link_url: https://espn.com
+  - link_name: ESPN Fantasy
+    link_url: https://www.espn.com/fantasy
+#  - link_name: Yahoo Fantasy
+#    link_url: https://football.fantasysports.yahoo.com/f1/308989/10
+  - link_name: Baseball-Ref
+    link_url: https://www.baseball-reference.com
+  - link_name: Rotowire
+    link_url: https://www.rotowire.com
+
+ - category: Apps
+   links:
+     - link_name: Inoreader
+       link_url: https://www.inoreader.com
+     - link_name: Raindrop
+       link_url: https://app.raindrop.io/my/0
+     - link_name: PO Box
+       link_url: https://pobox.com/
+     - link_name: Wikipedia
+       link_url: https://en.wikipedia.org/
+
+ - category: News
+   links:
+     - link_name: CNN
+       link_url: https://www.cnn.com
+     - link_name: Drudge Report
+       link_url: https://www.drudgereport.com
+     - link_name: Texas Monthly
+       link_url: https://www.texasmonthly.com
+     - link_name: VOX
+       link_url: https://www.vox.com
+
+- category: Tech
+   links:
+     - link_name: Hacker News
+       link_url: https://news.ycombinator.com
+     - link_name: Stack Overflow
+       link_url: https://stackoverflow.com
+     - link_name: Techmeme
+       link_url: https://techmeme.com
+     - link_name: The Verge
+       link_url: https://www.theverge.com
+
+- category: Pokemon
+   links:
+     - link_name: PokemonGo Wiki
+       link_url: https://gamepress.gg/pokemongo/
+     - link_name: PVPoke Home
+       link_url: https://pvpoke.com
+     - link_name: Leek Duck
+       link_url: https://leekduck.com
+
+ - category: Social
+   links:
+     - link_name: Instagram
+       link_url: https://www.instagram.com
+     - link_name: Telegram
+       link_url: https://web.telegram.org/#/im
+     - link_name: https://twitter.com
+       link_url: Twitter
+
+ - category: Travel
+   links:
+     - link_name: Marriott
+       link_url: https://www.marriott.com
+     - link_name: Southwest
+       link_url: https://www.southwest.com
+     - link_name: Swabiz
+       link_url: https://www.swabiz.com
+
+ - category: Edu
+   links:
+     - link_name: Snowflake
+       link_url: https://learn.snowflake.com/en/courses
+     - link_name: Udemy
+       link_url: https://www.udemy.com
