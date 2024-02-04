@@ -1,8 +1,6 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     background: #2e2e2e none;
     margin-top: 10px;
-    font-size: 1.1rem;
     color: #6c99bb;
 }
 
@@ -25,23 +23,17 @@ a:not([class]):hover {
 .box {
     text-align: left;
     float: left;
-    margin: 0 20px 10px 0;
+    margin: 0 20px 20px 0;
     width: 180px;
 }
 
-/* clearfix */
-.grid:after {
-    content: '';
-    display: block;
-    clear: both;
-}
-
-.grid-item {
-    float: left;
-    margin: 0 10px 10px 0;
-    width: 300px;
+ul li {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    line-height: 1.25;
 }
 
 .list-unstyled {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
