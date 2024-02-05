@@ -85,6 +85,8 @@
   links:
     - link_name: Ghost Archive
       link_url: https://ghostarchive.org
+    - link_name: Github
+      link_url: https://github.com
     - link_name: Inoreader
       link_url: https://www.inoreader.com
     - link_name: Raindrop
