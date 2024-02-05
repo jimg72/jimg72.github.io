@@ -89,3 +89,48 @@
       link_url: https://pobox.com
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
+
+- category: Tech
+   links:
+     - link_name: Hacker News
+       link_url: https://news.ycombinator.com
+     - link_name: Stack Overflow
+       link_url: https://stackoverflow.com
+     - link_name: Techmeme
+       link_url: https://techmeme.com
+     - link_name: The Verge
+       link_url: https://www.theverge.com
+
+- category: Pokemon
+   links:
+     - link_name: PokemonGo Wiki
+       link_url: https://gamepress.gg/pokemongo/
+     - link_name: PVPoke Home
+       link_url: https://pvpoke.com
+     - link_name: Leek Duck
+       link_url: https://leekduck.com
+
+- category: Social
+   links:
+     - link_name: Instagram
+       link_url: https://www.instagram.com
+     - link_name: Telegram
+       link_url: https://web.telegram.org/#/im
+     - link_name: Twitter
+       link_url: https://twitter.com
+
+- category: Travel
+   links:
+     - link_name: Marriott
+       link_url: https://www.marriott.com
+     - link_name: Southwest
+       link_url: https://www.southwest.com
+     - link_name: Swabiz
+       link_url: https://www.swabiz.com
+
+- category: Edu
+   links:
+     - link_name: Snowflake
+       link_url: https://learn.snowflake.com/en/courses
+     - link_name: Udemy
+       link_url: https://www.udemy.com
