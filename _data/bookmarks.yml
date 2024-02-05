@@ -42,3 +42,24 @@
       link_url: https://www.nordstromrack.com
     - link_name: WireCutter
       link_url: https://thewirecutter.com
+
+- category: Entertainment
+  links:
+    - link_name: DisneyPlus
+      link_url: https://www.disneyplus.com
+    - link_name: HD Cars
+      link_url: https://www.hdcarwallpapers.com
+    - link_name: IMDb
+      link_url: https://www.imdb.com
+    - link_name: Metacritic
+      link_url: https://www.metacritic.com
+    - link_name: Netflix
+      link_url: https://www.netflix.com
+    - link_name: Reddit
+      link_url: https://reddit.com
+    - link_name: Video Poker
+      link_url: https://wizardofodds.com/play/video-poker/multi-hand/
+    - link_name: YouTube
+      link_url: https://www.youtube.com
+    - link_name: YouTube TV
+      link_url: https://tv.youtube.com
