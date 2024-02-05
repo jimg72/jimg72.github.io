@@ -132,5 +132,7 @@
   links:
     - link_name: Snowflake
       link_url: https://learn.snowflake.com/en/courses
+    - link_name: Streamlit
+      link_url: https://30days.streamlit.app
     - link_name: Udemy
       link_url: https://www.udemy.com
