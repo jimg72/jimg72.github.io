@@ -24,25 +24,6 @@
     - link_name: Terapeak
       link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
 
-- category: Shopping
-  links:
-    - link_name: Amazon
-      link_url: https://www.amazon.com
-    - link_name: Best Buy
-      link_url: https://www.bestbuy.com
-    - link_name: Camel
-      link_url: https://camelcamelcamel.com
-    - link_name: Craigslist
-      link_url: https://dallas.craigslist.org
-    - link_name: eBay
-      link_url: https://www.ebay.com/
-    - link_name: Nordstrom
-      link_url: https://www.nordstrom.com
-    - link_name: Nordstrom Rack
-      link_url: https://www.nordstromrack.com
-    - link_name: WireCutter
-      link_url: https://thewirecutter.com
-
 - category: Entertainment
   links:
     - link_name: DisneyPlus
@@ -64,6 +45,25 @@
     - link_name: YouTube TV
       link_url: https://tv.youtube.com
 
+- category: Shopping
+  links:
+    - link_name: Amazon
+      link_url: https://www.amazon.com
+    - link_name: Best Buy
+      link_url: https://www.bestbuy.com
+    - link_name: Camel
+      link_url: https://camelcamelcamel.com
+    - link_name: Craigslist
+      link_url: https://dallas.craigslist.org
+    - link_name: eBay
+      link_url: https://www.ebay.com/
+    - link_name: Nordstrom
+      link_url: https://www.nordstrom.com
+    - link_name: Nordstrom Rack
+      link_url: https://www.nordstromrack.com
+    - link_name: WireCutter
+      link_url: https://thewirecutter.com
+
 - category: Sports
   links:
     - link_name: Athletic
@@ -78,3 +78,14 @@
       link_url: https://www.baseball-reference.com
     - link_name: Rotowire
       link_url: https://www.rotowire.com
+
+ - category: Apps
+   links:
+     - link_name: Inoreader
+       link_url: https://www.inoreader.com
+     - link_name: Raindrop
+       link_url: https://app.raindrop.io/my/0
+     - link_name: PO Box
+       link_url: https://pobox.com
+     - link_name: Wikipedia
+       link_url: https://en.wikipedia.org
