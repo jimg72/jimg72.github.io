@@ -79,13 +79,13 @@
     - link_name: Rotowire
       link_url: https://www.rotowire.com
 
- - category: Apps
-   links:
-     - link_name: Inoreader
-       link_url: https://www.inoreader.com
-     - link_name: Raindrop
-       link_url: https://app.raindrop.io/my/0
-     - link_name: PO Box
-       link_url: https://pobox.com
-     - link_name: Wikipedia
-       link_url: https://en.wikipedia.org
+- category: Apps
+  links:
+    - link_name: Inoreader
+      link_url: https://www.inoreader.com
+    - link_name: Raindrop
+      link_url: https://app.raindrop.io/my/0
+    - link_name: PO Box
+      link_url: https://pobox.com
+    - link_name: Wikipedia
+      link_url: https://en.wikipedia.org
