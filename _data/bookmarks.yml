@@ -11,6 +11,8 @@
       link_url: https://jimg72.github.io/football.html
     - link_name: 130 Point
       link_url: https://130point.com
+    - link_name: breakninja
+      link_url: https://www.breakninja.com
     - link_name: Cardboard Connection
       link_url: https://www.cardboardconnection.com
     - link_name: COMC
@@ -81,6 +83,8 @@
 
 - category: Apps
   links:
+    - link_name: Ghost Archive
+      link_url: https://ghostarchive.org
     - link_name: Inoreader
       link_url: https://www.inoreader.com
     - link_name: Raindrop
