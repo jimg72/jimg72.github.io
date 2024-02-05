@@ -63,3 +63,18 @@
       link_url: https://www.youtube.com
     - link_name: YouTube TV
       link_url: https://tv.youtube.com
+
+- category: Sports
+  links:
+    - link_name: Athletic
+      link_url: https://theathletic.com
+    - link_name: ESPN
+      link_url: https://espn.com
+    - link_name: ESPN Fantasy
+      link_url: https://www.espn.com/fantasy
+    #  - link_name: Yahoo Fantasy
+    #    link_url: https://football.fantasysports.yahoo.com/f1/308989/10
+    - link_name: Baseball-Ref
+      link_url: https://www.baseball-reference.com
+    - link_name: Rotowire
+      link_url: https://www.rotowire.com
