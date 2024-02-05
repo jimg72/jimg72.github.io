@@ -91,7 +91,7 @@
       link_url: https://en.wikipedia.org
 
 - category: Tech
-   links:
+  links:
      - link_name: Hacker News
        link_url: https://news.ycombinator.com
      - link_name: Stack Overflow
@@ -111,7 +111,7 @@
        link_url: https://leekduck.com
 
 - category: Social
-   links:
+  links:
      - link_name: Instagram
        link_url: https://www.instagram.com
      - link_name: Telegram
@@ -120,7 +120,7 @@
        link_url: https://twitter.com
 
 - category: Travel
-   links:
+  links:
      - link_name: Marriott
        link_url: https://www.marriott.com
      - link_name: Southwest
@@ -129,7 +129,7 @@
        link_url: https://www.swabiz.com
 
 - category: Edu
-   links:
+  links:
      - link_name: Snowflake
        link_url: https://learn.snowflake.com/en/courses
      - link_name: Udemy
