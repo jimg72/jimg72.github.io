@@ -19,12 +19,12 @@ permalink: /start.html
 
 <body>
     <div class="container" id="primary">
-        {% for search in site.data.comc %}
+        {% for player in site.data.comc %}
         <div class="box">
             <ul class="list-unstyled">
-                <li><strong>{{ bookmark.category }}</strong></li>
-                {% for link in bookmark.links %}
-                <li><a target="_blank" href="https://www.comc.com/{{ search.link_url }}">{{ search.link_name }}</a></li>
+                <li><strong>{{ player.player }}</strong></li>
+                {% for link in player.links %}
+                <li><a target="_blank" href="https://www.comc.com/{{ link.link_url }}">{{ link.link_name }}</a></li>
                 {% endfor %}
             </ul>
         </div>
