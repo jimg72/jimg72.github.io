@@ -4,10 +4,6 @@
       link_url: Cards,sq,=Eli+Manning+2012+Prizm+124
     - link_name: 2013 Prizm 159
       link_url: Cards,sq,=Eli+Manning+2013+Prizm+159
-    - link_name: 2013 Prizm 16
-      link_url: Cards,sq,=Eli+Manning+2013+Prizm+16
-    - link_name: 2013 Prizm 25
-      link_url: Cards,sq,=Eli+Manning+2013+Prizm+25
     - link_name: 2014 Prizm 23
       link_url: Cards,sq,=Eli+Manning+2014+Prizm+23
     - link_name: 2015 Prizm 10
@@ -16,8 +12,6 @@
       link_url: Cards,sq,=Eli+Manning+2015+Prizm+22
     - link_name: 2015 Prizm Draft 40
       link_url: Cards,sq,=Eli+Manning+2015+Prizm+40
-    - link_name: 2015 Prizm AM14
-      link_url: Cards,sq,=Eli+Manning+2015+Prizm+AM14
     - link_name: 2016 Prizm 186
       link_url: Cards,sq,=Eli+Manning+2016+Prizm+186
     - link_name: 2016 Prizm Draft 19
@@ -28,8 +22,6 @@
       link_url: Cards,sq,=Eli+Manning+2016+Prizm+34
     - link_name: 2016 Prizm Draft 37
       link_url: Cards,sq,=Eli+Manning+2016+Prizm+37
-    - link_name: 2016 Prizm 5
-      link_url: Cards,sq,=Eli+Manning+2016+Prizm+5
     - link_name: 2017 Prizm 14
       link_url: Cards,sq,=Eli+Manning+2017+Prizm+14
     - link_name: 2017 Prizm 150
@@ -53,38 +45,22 @@
   links:
     - link_name: 2019 Prizm Draft 133
       link_url: Cards,sq,=Metcalf+2019+Prizm+133
-    - link_name: 2019 Prizm Draft 3
-      link_url: Cards,sq,=Metcalf+2019+Prizm+3
     - link_name: 2019 Prizm 343
       link_url: Cards,sq,=Metcalf+2019+Prizm+343
-    - link_name: 2020 Prizm 27
-      link_url: Cards,sq,=Metcalf+2020+Prizm+27
     - link_name: 2020 Prizm 292
       link_url: Cards,sq,=Metcalf+2020+Prizm+292
     - link_name: 2020 Prizm Draft 41
       link_url: Cards,sq,=Metcalf+2020+Prizm+41
-    - link_name: 2020 Prizm 8
-      link_url: Cards,sq,=Metcalf+2020+Prizm+8
-    - link_name: 2021 Prizm 31
-      link_url: Cards,sq,=Metcalf+2021+Prizm+31
     - link_name: 2021 Prizm 42
       link_url: Cards,sq,=Metcalf+2021+Prizm+42
     - link_name: 2021 Prizm Draft 57
       link_url: Cards,sq,=Metcalf+2021+Prizm+57
-    - link_name: 2021 Prizm B-16
-      link_url: Cards,sq,=Metcalf+2021+Prizm+B-16
     - link_name: 2021 Prizm CB-9
       link_url: Cards,sq,=Metcalf+2021+Prizm+CB-9
-    - link_name: 2021 Prizm F-10
-      link_url: Cards,sq,=Metcalf+2021+Prizm+F-10
-    - link_name: 2021 Prizm I-32
-      link_url: Cards,sq,=Metcalf+2021+Prizm+I-32
     - link_name: 2021 Prizm M-DM
       link_url: Cards,sq,=Metcalf+2021+Prizm+M-DM
     - link_name: 2022 Prizm 256
       link_url: Cards,sq,=Metcalf+2022+Prizm+256
-    - link_name: 2022 Prizm AO-11
-      link_url: Cards,sq,=Metcalf+2022+Prizm+AO-11
     - link_name: 2023 Prizm 257
       link_url: Cards,sq,=Metcalf+2023+Prizm+257
     - link_name: 2023 Prizm Draft 33
@@ -96,26 +72,12 @@
       link_url: Cards,sq,=Brown+2019+Prizm+105
     - link_name: 2019 Prizm 344
       link_url: Cards,sq,=Brown+2019+Prizm+344
-    - link_name: 2019 Prizm Draft 5
-      link_url: Cards,sq,=Brown+2019+Prizm+5
     - link_name: 2020 Prizm Draft 1
       link_url: Cards,sq,=Brown+2020+Prizm+1
     - link_name: 2020 Prizm 101
       link_url: Cards,sq,=Brown+2020+Prizm+101
-    - link_name: 2020 Prizm 20
-      link_url: Cards,sq,=Brown+2020+Prizm+20
-    - link_name: 2020 Prizm 4
-      link_url: Cards,sq,=Brown+2020+Prizm+4
     - link_name: 2021 Prizm 1
       link_url: Cards,sq,=Brown+2021+Prizm+1
-    - link_name: 2021 Prizm 30
-      link_url: Cards,sq,=Brown+2021+Prizm+30
-    - link_name: 2021 Prizm B-17
-      link_url: Cards,sq,=Brown+2021+Prizm+B-17
-    - link_name: 2021 Prizm F-8
-      link_url: Cards,sq,=Brown+2021+Prizm+F-8
-    - link_name: 2021 Prizm I-31
-      link_url: Cards,sq,=Brown+2021+Prizm+I-31
     - link_name: 2022 Prizm 236
       link_url: Cards,sq,=Brown+2022+Prizm+236
     - link_name: 2023 Prizm Draft 134
@@ -124,15 +86,9 @@
       link_url: Cards,sq,=Brown+2023+Prizm+236
     - link_name: 2023 Prizm CBD-2
       link_url: Cards,sq,=Brown+2023+Prizm+CBD-2
-    - link_name: 2023 Prizm F-23
-      link_url: Cards,sq,=Brown+2023+Prizm+F-23
-    - link_name: 2023 Prizm H-6
-      link_url: Cards,sq,=Brown+2023+Prizm+H-6
 
 - player: Evan Engram
   links:
-    - link_name: 2017 Prizm 20
-      link_url: Cards,sq,=Evan+Engram+2017+Prizm+20
     - link_name: 2017 Prizm 299
       link_url: Cards,sq,=Evan+Engram+2017+Prizm+299
     - link_name: 2017 Prizm 4
@@ -145,40 +101,6 @@
       link_url: Cards,sq,=Evan+Engram+2020+Prizm+159
     - link_name: 2023 Prizm 135
       link_url: Cards,sq,=Evan+Engram+2023+Prizm+135
-
-- player: Mike Wallace
-  links:
-    - link_name: 2012 Prizm 153
-      link_url: Cards,sq,=Mike+Wallace+2012+Prizm+153
-    - link_name: 2012 Prizm 3
-      link_url: Cards,sq,=Mike+Wallace+2012+Prizm+3
-    - link_name: 2013 Prizm 58
-      link_url: Cards,sq,=Mike+Wallace+2013+Prizm+58
-    - link_name: 2014 Prizm 107
-      link_url: Cards,sq,=Mike+Wallace+2014+Prizm+107
-    - link_name: 2015 Prizm 108
-      link_url: Cards,sq,=Mike+Wallace+2015+Prizm+108
-    - link_name: 2015 Prizm Draft 75
-      link_url: Cards,sq,=Mike+Wallace+2015+Prizm+75
-    - link_name: 2016 Prizm 58
-      link_url: Cards,sq,=Mike+Wallace+2016+Prizm+58
-    - link_name: 2017 Prizm 158
-      link_url: Cards,sq,=Mike+Wallace+2017+Prizm+158
-
-- player: Zach Evans
-  links:
-    - link_name: 2023 Prizm Draft 125
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+125
-    - link_name: 2023 Prizm 321
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+321
-    - link_name: 2023 Prizm 359
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+359
-    - link_name: 2023 Prizm Draft HP-21
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+HP-21
-    - link_name: 2023 Prizm Draft II-22
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+II-22
-    - link_name: 2023 Prizm Draft SO-24
-      link_url: Cards,sq,=Zach+Evans+2023+Prizm+SO-24
 
 - player: Laquon Treadwell
   links:
@@ -195,6 +117,23 @@
     - link_name: 2017 Prizm 63
       link_url: Cards,sq,=Laquon+Treadwell+2017+Prizm+63
 
+- player: Mike Wallace
+  links:
+    - link_name: 2012 Prizm 153
+      link_url: Cards,sq,=Mike+Wallace+2012+Prizm+153
+    - link_name: 2013 Prizm 58
+      link_url: Cards,sq,=Mike+Wallace+2013+Prizm+58
+    - link_name: 2014 Prizm 107
+      link_url: Cards,sq,=Mike+Wallace+2014+Prizm+107
+    - link_name: 2015 Prizm 108
+      link_url: Cards,sq,=Mike+Wallace+2015+Prizm+108
+    - link_name: 2015 Prizm Draft 75
+      link_url: Cards,sq,=Mike+Wallace+2015+Prizm+75
+    - link_name: 2016 Prizm 58
+      link_url: Cards,sq,=Mike+Wallace+2016+Prizm+58
+    - link_name: 2017 Prizm 158
+      link_url: Cards,sq,=Mike+Wallace+2017+Prizm+158
+
 - player: Laremy Tunsil
   links:
     - link_name: 2016 Prizm Draft 231
@@ -207,17 +146,6 @@
       link_url: Cards,sq,=Laremy+Tunsil+2022+Prizm+114
     - link_name: 2023 Prizm 122
       link_url: Cards,sq,=Laremy+Tunsil+2023+Prizm+122
-
-- player: Elijah Moore
-  links:
-    - link_name: 2021 Prizm Draft 124
-      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+124
-    - link_name: 2021 Prizm 346
-      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+346
-    - link_name: 2021 Prizm II-15
-      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+II-15
-    - link_name: 2021 Prizm V-346
-      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+V-346
 
 - player: Dawson Knox
   links:
@@ -240,6 +168,24 @@
       link_url: Cards,sq,=Donte+Moncrief+2016+Prizm+152
     - link_name: 2017 Prizm 136
       link_url: Cards,sq,=Donte+Moncrief+2017+Prizm+136
+
+- player: Zach Evans
+  links:
+    - link_name: 2023 Prizm Draft 125
+      link_url: Cards,sq,=Zach+Evans+2023+Prizm+125
+    - link_name: 2023 Prizm 321
+      link_url: Cards,sq,=Zach+Evans+2023+Prizm+321
+    - link_name: 2023 Prizm 359
+      link_url: Cards,sq,=Zach+Evans+2023+Prizm+359
+
+- player: Elijah Moore
+  links:
+    - link_name: 2021 Prizm Draft 124
+      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+124
+    - link_name: 2021 Prizm 346
+      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+346
+    - link_name: 2021 Prizm V-346
+      link_url: Cards,sq,=Elijah+Moore+2021+Prizm+V-346
 
 - player: Senquez Golson
   links:
