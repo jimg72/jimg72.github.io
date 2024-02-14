@@ -12,6 +12,34 @@
     - link_name: 2014 Bowman Chrome
       link_url: Cards,sq,=Auston+Bousfield+2014+Bowman+CDP127
 
+- player: Calvin Harris
+  links:
+    - link_name: 2022 Bowman Auto
+      link_url: Cards,sq,=Calvin+Harris+2023+Bowman+CDA-CHA
+
+- player: Chris Ellis
+  links:
+    - link_name: 2014 Bowman Paper
+      link_url: Cards,sq,=Chris+Ellis+2014+Bowman+DP67
+    - link_name: 2014 Bowman Chrome
+      link_url: Cards,sq,=Chris+Ellis+2014+Bowman+CDP67
+    - link_name: 2014 Bowman Auto
+      link_url: Cards,sq,=Chris+Ellis+2014+Bowman+BCA-CE
+
+- player: Copper Johnson
+  links:
+    - link_name: 2019 Bowman Paper
+      link_url: Cards,sq,=Copper+Johnson+2019+Bowman+BD-200
+    - link_name: 2019 Bowman Chrome
+      link_url: Cards,sq,=Copper+Johnson+2019+Bowman+BDC-200
+
+- player: Dallas Woolfolk
+  links:
+    - link_name: 2018 Bowman Paper
+      link_url: Cards,sq,=Dallas+Woolfolk+2019+Bowman+BD-127
+    - link_name: 2018 Bowman Chrome
+      link_url: Cards,sq,=Dallas+Woolfolk+2019+Bowman+BDC-127
+
 - player: Doug Nikhazy
   links:
     - link_name: 2021 Bowman Paper
@@ -34,3 +62,58 @@
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BDC-78
     - link_name: 2021 Bowman Auto
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+CDA-GH
+
+- player: Grae Kessinger
+  links:
+    - link_name: 2018 Bowman Paper
+      link_url: Cards,sq,=Grae+Kessinger+2018+Bowman+BD-145
+    - link_name: 2018 Bowman Chrome
+      link_url: Cards,sq,=Grae+Kessinger+2018+Bowman+BDC-145
+
+- player: Hayden Dunhurst
+  links:
+    - link_name: 2022 Bowman Paper
+      link_url: Cards,sq,=Hayden+Dunhurst+2022+Bowman+BD-44
+    - link_name: 2022 Bowman Chrome
+      link_url: Cards,sq,=Hayden+Dunhurst+2022+Bowman+BDC-44
+
+- player: Jacob Gonzalez
+  links:
+    - link_name: 2023 Bowman Paper
+      link_url: Cards,sq,=Jacob+Gonzalez+2023+Bowman+BD-167
+    - link_name: 2023 Bowman Chrome
+      link_url: Cards,sq,=Jacob+Gonzalez+2023+Bowman+BDC-167
+    - link_name: 2023 Bowman Auto
+      link_url: Cards,sq,=Jacob+Gonzalez+2023+Bowman+CDA-JGO
+
+- player: J.B. Woodman
+  links:
+    - link_name: 2016 Bowman Paper
+      link_url: Cards,sq,=J%7B46%7DB%7B46%7D+Woodman+2016+Bowman+BD-88
+    - link_name: 2016 Bowman Chrome
+      link_url: Cards,sq,=J%7B46%7DB%7B46%7D+Woodman+2016+Bowman+CBD-88
+
+- player: Kemp Alderman
+  links:
+    - link_name: 2023 Bowman Paper
+      link_url: Cards,sq,=Kemp+Alderman+2023+Bowman+BD-123
+    - link_name: 2023 Bowman Chrome
+      link_url: Cards,sq,=Kemp+Alderman+2023+Bowman+BDC-123
+    - link_name: 2023 Bowman Auto
+      link_url: Cards,sq,=Kemp+Alderman+2023+Bowman+CDA-KA
+
+- player: Ryan Rolison
+  links:
+    - link_name: 2018 Bowman Paper
+      link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+BD-64
+    - link_name: 2023 Bowman Chrome
+      link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+BDC-64
+    - link_name: 2023 Bowman Auto
+      link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+CDA-RR
+
+- player: Thomas Dillard
+  links:
+    - link_name: 2019 Bowman Paper
+      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BD-32
+    - link_name: 2019 Bowman Chrome
+      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BDC-32
