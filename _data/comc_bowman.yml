@@ -50,8 +50,6 @@
 
 - player: Gunnar Hoglund
   links:
-    - link_name: 2021 Bowman B21-GH
-      link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+B21-GH
     - link_name: 2021 Bowman BD-78
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BD-78
     - link_name: 2021 Bowman BDC-78
@@ -64,12 +62,6 @@
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+FF-2
     - link_name: 2021 Bowman GNS-17
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+GNS-17
-    - link_name: 2022 Bowman 71
-      link_url: Cards,sq,=Gunnar+Hoglund+2022+Bowman+71
-    - link_name: 2022 Bowman PA-GH
-      link_url: Cards,sq,=Gunnar+Hoglund+2022+Bowman+PA-GH
-    - link_name: 2022 Bowman TOP-45
-      link_url: Cards,sq,=Gunnar+Hoglund+2022+Bowman+TOP-45
 
 - player: Tyler Keenan
   links:
@@ -88,28 +80,38 @@
       link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+CDA-DN
     - link_name: 2021 Bowman FF-10
       link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+FF-10
-    - link_name: 2022 Bowman TOP-70
-      link_url: Cards,sq,=Doug+Nikhazy+2022+Bowman+TOP-70
 
-- player: Anthony Servideo
+- player: Thomas Dillard
   links:
-    - link_name: 2021 Bowman TOP-38
-      link_url: Cards,sq,=Anthony+Servideo+2021+Bowman+TOP-38
+    - link_name: 2019 Bowman BD-32
+      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BD-32
+    - link_name: 2019 Bowman BDC-32
+      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BDC-32
+    - link_name: 2020 Bowman BSPA-TDI
+      link_url: Cards,sq,=Thomas+Dillard+2020+Bowman+BSPA-TDI
+    - link_name: 2020 Bowman CPA-TDI
+      link_url: Cards,sq,=Thomas+Dillard+2020+Bowman+CPA-TDI
 
-- player: Derek Diamond
+- player: Cooper Johnson
   links:
-    - link_name: 2018 Bowman UAN-4
-      link_url: Cards,sq,=Derek+Diamond+2018+Bowman+UAN-4
+    - link_name: 2019 Bowman BD-200
+      link_url: Cards,sq,=Cooper+Johnson+2019+Bowman+BD-200
+    - link_name: 2019 Bowman BDC-200
+      link_url: Cards,sq,=Cooper+Johnson+2019+Bowman+BDC-200
+    - link_name: 2020 Bowman BSPA-CJ
+      link_url: Cards,sq,=Cooper+Johnson+2020+Bowman+BSPA-CJ
+    - link_name: 2020 Bowman CPA-CJ
+      link_url: Cards,sq,=Cooper+Johnson+2020+Bowman+CPA-CJ
 
-- player: Jerrion Ealy
+- player: Grae Kessinger
   links:
-    - link_name: 2018 Bowman UAA-8
-      link_url: Cards,sq,=Jerrion+Ealy+2018+Bowman+UAA-8
+    - link_name: 2019 Bowman BD-145
+      link_url: Cards,sq,=Grae+Kessinger+2019+Bowman+BD-145
+    - link_name: 2019 Bowman BDC-145
+      link_url: Cards,sq,=Grae+Kessinger+2019+Bowman+BDC-145
 
 - player: Ryan Rolison
   links:
-    - link_name: 2018 Bowman B18-RR
-      link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+B18-RR
     - link_name: 2018 Bowman BD-64
       link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+BD-64
     - link_name: 2018 Bowman BDC-64
@@ -120,16 +122,12 @@
       link_url: Cards,sq,=Ryan+Rolison+2018+Bowman+CDA-RR
     - link_name: 2019 Bowman BCP-196
       link_url: Cards,sq,=Ryan+Rolison+2019+Bowman+BCP-196
-    - link_name: 2020 Bowman 92CP-RR
-      link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+92CP-RR
     - link_name: 2020 Bowman BCP-137
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BCP-137
     - link_name: 2020 Bowman BD-36
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BD-36
     - link_name: 2020 Bowman BFE-137
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BFE-137
-    - link_name: 2020 Bowman BHP-137
-      link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BHP-137
     - link_name: 2020 Bowman BP-137
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BP-137
     - link_name: 2021 Bowman TP-COL
@@ -147,44 +145,9 @@
 - player: JB Woodman
   links:
     - link_name: 2016 Bowman BD-88
-      link_url: Cards,sq,=Woodman+2016+Bowman+BD-88
+      link_url: Cards,sq,=JB+Woodman+2016+Bowman+BD-88
     - link_name: 2016 Bowman BDC-88
-      link_url: Cards,sq,=Woodman+2016+Bowman+BDC-88
-
-- player: Thomas Dillard
-  links:
-    - link_name: 2015 Bowman UAA-5
-      link_url: Cards,sq,=Thomas+Dillard+2015+Bowman+UAA-5
-    - link_name: 2019 Bowman BD-32
-      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BD-32
-    - link_name: 2019 Bowman BDC-32
-      link_url: Cards,sq,=Thomas+Dillard+2019+Bowman+BDC-32
-    - link_name: 2020 Bowman BSPA-TDI
-      link_url: Cards,sq,=Thomas+Dillard+2020+Bowman+BSPA-TDI
-    - link_name: 2020 Bowman CPA-TDI
-      link_url: Cards,sq,=Thomas+Dillard+2020+Bowman+CPA-TDI
-
-- player: Cooper Johnson
-  links:
-    - link_name: 2015 Bowman UAA-10
-      link_url: Cards,sq,=Cooper+Johnson+2015+Bowman+UAA-10
-    - link_name: 2019 Bowman BD-200
-      link_url: Cards,sq,=Cooper+Johnson+2019+Bowman+BD-200
-    - link_name: 2019 Bowman BDC-200
-      link_url: Cards,sq,=Cooper+Johnson+2019+Bowman+BDC-200
-    - link_name: 2020 Bowman BSPA-CJ
-      link_url: Cards,sq,=Cooper+Johnson+2020+Bowman+BSPA-CJ
-    - link_name: 2020 Bowman CPA-CJ
-      link_url: Cards,sq,=Cooper+Johnson+2020+Bowman+CPA-CJ
-
-- player: Grae Kessinger
-  links:
-    - link_name: 2015 Bowman UAA-12
-      link_url: Cards,sq,=Grae+Kessinger+2015+Bowman+UAA-12
-    - link_name: 2019 Bowman BD-145
-      link_url: Cards,sq,=Grae+Kessinger+2019+Bowman+BD-145
-    - link_name: 2019 Bowman BDC-145
-      link_url: Cards,sq,=Grae+Kessinger+2019+Bowman+BDC-145
+      link_url: Cards,sq,=JB+Woodman+2016+Bowman+BDC-88
 
 - player: Auston Bousfield
   links:
@@ -195,8 +158,6 @@
 
 - player: Chris Ellis
   links:
-    - link_name: 2014 Bowman 89
-      link_url: Cards,sq,=Chris+Ellis+2014+Bowman+89
     - link_name: 2014 Bowman BCA-CE
       link_url: Cards,sq,=Chris+Ellis+2014+Bowman+BCA-CE
     - link_name: 2014 Bowman CDP67
@@ -225,15 +186,11 @@
 
 - player: Stuart Turner
   links:
-    - link_name: 2014 Bowman 265
-      link_url: Cards,sq,=Stuart+Turner+2014+Bowman+265
     - link_name: 2014 Bowman BCP84
       link_url: Cards,sq,=Stuart+Turner+2014+Bowman+BCP84
 
 - player: Bobby Wahl
   links:
-    - link_name: 2014 Bowman 230
-      link_url: Cards,sq,=Bobby+Wahl+2014+Bowman+230
     - link_name: 2014 Bowman BCP79
       link_url: Cards,sq,=Bobby+Wahl+2014+Bowman+BCP79
     - link_name: 2015 Bowman BCAP-BW
@@ -241,37 +198,28 @@
     - link_name: 2015 Bowman BCP172
       link_url: Cards,sq,=Bobby+Wahl+2015+Bowman+BCP172
 
+- player: Austin Wright
+  links:
+    - link_name: 2014 Bowman BCP80
+      link_url: Cards,sq,=Austin+Wright+2014+Bowman+BCP80
+    - link_name: 2014 Bowman BP80
+      link_url: Cards,sq,=Austin+Wright+2014+Bowman+BP80
+
 - player: Michael Snyder
   links:
-    - link_name: 2013 Bowman 194
-      link_url: Cards,sq,=Michael+Snyder+2013+Bowman+194
     - link_name: 2013 Bowman BCP46
       link_url: Cards,sq,=Michael+Snyder+2013+Bowman+BCP46
     - link_name: 2013 Bowman BP46
       link_url: Cards,sq,=Michael+Snyder+2013+Bowman+BP46
-    - link_name: 2013 Bowman DIR-MS
-      link_url: Cards,sq,=Michael+Snyder+2013+Bowman+DIR-MS
-    - link_name: 2013 Bowman MS
-      link_url: Cards,sq,=Michael+Snyder+2013+Bowman+MS
 
 - player: Anthony Alford
   links:
     - link_name: 2012 Bowman BB22
       link_url: Cards,sq,=Anthony+Alford+2012+Bowman+BB22
-    - link_name: 2012 Bowman BBC-AA
-      link_url: Cards,sq,=Anthony+Alford+2012+Bowman+BBC-AA
-    - link_name: 2013 Bowman 84
-      link_url: Cards,sq,=Anthony+Alford+2013+Bowman+84
     - link_name: 2013 Bowman BBC-AA
       link_url: Cards,sq,=Anthony+Alford+2013+Bowman+BBC-AA
     - link_name: 2013 Bowman BCP208
       link_url: Cards,sq,=Anthony+Alford+2013+Bowman+BCP208
-    - link_name: 2016 Bowman 96BB-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+96BB-AA
-    - link_name: 2016 Bowman 96BBA-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+96BBA-AA
-    - link_name: 2016 Bowman B16-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+B16-AA
     - link_name: 2016 Bowman BCP59
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+BCP59
     - link_name: 2016 Bowman BD-170
@@ -284,20 +232,6 @@
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+BTP-41
     - link_name: 2016 Bowman CPA-AA
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+CPA-AA
-    - link_name: 2016 Bowman IBPA-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+IBPA-AA
-    - link_name: 2016 Bowman NGP-29
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+NGP-29
-    - link_name: 2016 Bowman PA-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+PA-AA
-    - link_name: 2016 Bowman PCA-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+PCA-AA
-    - link_name: 2016 Bowman PP-24
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+PP-24
-    - link_name: 2016 Bowman TP-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+TP-AA
-    - link_name: 2016 Bowman TPA-AA
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+TPA-AA
     - link_name: 2016 Bowman TT-AP
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+TT-AP
     - link_name: 2016 Bowman UA-AA
@@ -306,25 +240,10 @@
       link_url: Cards,sq,=Anthony+Alford+2017+Bowman+AFL-AA
     - link_name: 2017 Bowman AFLR-AA
       link_url: Cards,sq,=Anthony+Alford+2017+Bowman+AFLR-AA
-    - link_name: 2017 Bowman BNG-AA
-      link_url: Cards,sq,=Anthony+Alford+2017+Bowman+BNG-AA
     - link_name: 2017 Bowman BTP-51
       link_url: Cards,sq,=Anthony+Alford+2017+Bowman+BTP-51
-    - link_name: 2017 Bowman PCA-AA
-      link_url: Cards,sq,=Anthony+Alford+2017+Bowman+PCA-AA
-    - link_name: 2017 Bowman TOCA-AA
-      link_url: Cards,sq,=Anthony+Alford+2017+Bowman+TOCA-AA
-    - link_name: 2017 Bowman TP-AA
-      link_url: Cards,sq,=Anthony+Alford+2017+Bowman+TP-AA
-    - link_name: 2017 Bowman TPA-AA
-      link_url: Cards,sq,=Anthony+Alford+2017+Bowman+TPA-AA
     - link_name: 2018 Bowman BTP-74
       link_url: Cards,sq,=Anthony+Alford+2018+Bowman+BTP-74
-
-- player: Dalton Dulin
-  links:
-    - link_name: 2012 Bowman UA-DDU
-      link_url: Cards,sq,=Dalton+Dulin+2012+Bowman+UA-DDU
 
 - player: Alex Yarbrough
   links:
@@ -339,8 +258,6 @@
   links:
     - link_name: 2011 Bowman BDPP50
       link_url: Cards,sq,=David+Goforth+2011+Bowman+BDPP50
-    - link_name: 2014 Bowman AR-DG
-      link_url: Cards,sq,=David+Goforth+2014+Bowman+AR-DG
 
 - player: Drew Pomeranz
   links:
@@ -348,12 +265,8 @@
       link_url: Cards,sq,=Drew+Pomeranz+2010+Bowman+BC16
     - link_name: 2010 Bowman BDPP82
       link_url: Cards,sq,=Drew+Pomeranz+2010+Bowman+BDPP82
-    - link_name: 2010 Bowman BSP-DP
-      link_url: Cards,sq,=Drew+Pomeranz+2010+Bowman+BSP-DP
     - link_name: 2010 Bowman USA-BC16
       link_url: Cards,sq,=Drew+Pomeranz+2010+Bowman+USA-BC16
-    - link_name: 2011 Bowman BPP50
-      link_url: Cards,sq,=Drew+Pomeranz+2011+Bowman+BPP50
     - link_name: 2011 Bowman DP
       link_url: Cards,sq,=Drew+Pomeranz+2011+Bowman+DP
     - link_name: 2011 Bowman FGJP-DP
@@ -368,14 +281,8 @@
       link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+212
     - link_name: 2012 Bowman 31
       link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+31
-    - link_name: 2012 Bowman 32
-      link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+32
-    - link_name: 2012 Bowman 69
-      link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+69
     - link_name: 2012 Bowman BB5
       link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+BB5
-    - link_name: 2012 Bowman JP-DP
-      link_url: Cards,sq,=Drew+Pomeranz+2012+Bowman+JP-DP
     - link_name: 2014 Bowman 216
       link_url: Cards,sq,=Drew+Pomeranz+2014+Bowman+216
 
@@ -395,8 +302,19 @@
   links:
     - link_name: 2009 Bowman BDPP35
       link_url: Cards,sq,=Jordan+Henry+2009+Bowman+BDPP35
-    - link_name: 2010 Bowman BPA-JH
-      link_url: Cards,sq,=Jordan+Henry+2010+Bowman+BPA-JH
+
+- player: Lance Lynn
+  links:
+    - link_name: 2009 Bowman BCP115
+      link_url: Cards,sq,=Lance+Lynn+2009+Bowman+BCP115
+    - link_name: 2011 Bowman 65
+      link_url: Cards,sq,=Lance+Lynn+2011+Bowman+65
+    - link_name: 2013 Bowman 55
+      link_url: Cards,sq,=Lance+Lynn+2013+Bowman+55
+    - link_name: 2013 Bowman 95
+      link_url: Cards,sq,=Lance+Lynn+2013+Bowman+95
+    - link_name: 2015 Bowman 46
+      link_url: Cards,sq,=Lance+Lynn+2015+Bowman+46
 
 - player: Zack Cozart
   links:
@@ -419,39 +337,16 @@
     - link_name: 2008 Bowman BCP236
       link_url: Cards,sq,=Will+Kline+2008+Bowman+BCP236
 
-- player: Lance Lynn
-  links:
-    - link_name: 2008 Bowman BSP-LL
-      link_url: Cards,sq,=Lance+Lynn+2008+Bowman+BSP-LL
-    - link_name: 2009 Bowman BCP115
-      link_url: Cards,sq,=Lance+Lynn+2009+Bowman+BCP115
-    - link_name: 2011 Bowman 65
-      link_url: Cards,sq,=Lance+Lynn+2011+Bowman+65
-    - link_name: 2013 Bowman 55
-      link_url: Cards,sq,=Lance+Lynn+2013+Bowman+55
-    - link_name: 2013 Bowman 95
-      link_url: Cards,sq,=Lance+Lynn+2013+Bowman+95
-    - link_name: 2015 Bowman 46
-      link_url: Cards,sq,=Lance+Lynn+2015+Bowman+46
-
 - player: Chris Coghlan
   links:
-    - link_name: 2007 Bowman BBP58
-      link_url: Cards,sq,=Chris+Coghlan+2007+Bowman+BBP58
     - link_name: 2007 Bowman BC233
       link_url: Cards,sq,=Chris+Coghlan+2007+Bowman+BC233
     - link_name: 2007 Bowman BDPP95
       link_url: Cards,sq,=Chris+Coghlan+2007+Bowman+BDPP95
-    - link_name: 2007 Bowman BHP44
-      link_url: Cards,sq,=Chris+Coghlan+2007+Bowman+BHP44
     - link_name: 2009 Bowman 139
       link_url: Cards,sq,=Chris+Coghlan+2009+Bowman+139
-    - link_name: 2009 Bowman BS-CC
-      link_url: Cards,sq,=Chris+Coghlan+2009+Bowman+BS-CC
     - link_name: 2010 Bowman 157
       link_url: Cards,sq,=Chris+Coghlan+2010+Bowman+157
-    - link_name: 2010 Bowman 46
-      link_url: Cards,sq,=Chris+Coghlan+2010+Bowman+46
     - link_name: 2010 Bowman 48
       link_url: Cards,sq,=Chris+Coghlan+2010+Bowman+48
     - link_name: 2010 Bowman BT98
@@ -461,30 +356,10 @@
     - link_name: 2011 Bowman 118
       link_url: Cards,sq,=Chris+Coghlan+2011+Bowman+118
 
-- player: Taylor Hightower
-  links:
-    - link_name: 2007 Bowman AFLAC-TH
-      link_url: Cards,sq,=Taylor+Hightower+2007+Bowman+AFLAC-TH
-
-- player: Austin Wright
-  links:
-    - link_name: 2007 Bowman AFLAC-AW
-      link_url: Cards,sq,=Austin+Wright+2007+Bowman+AFLAC-AW
-    - link_name: 2014 Bowman 184
-      link_url: Cards,sq,=Austin+Wright+2014+Bowman+184
-    - link_name: 2014 Bowman BCP80
-      link_url: Cards,sq,=Austin+Wright+2014+Bowman+BCP80
-    - link_name: 2014 Bowman BP80
-      link_url: Cards,sq,=Austin+Wright+2014+Bowman+BP80
-
 - player: Mark Holliman
   links:
     - link_name: 2006 Bowman BC124
       link_url: Cards,sq,=Mark+Holliman+2006+Bowman+BC124
-    - link_name: 2006 Bowman BHP20
-      link_url: Cards,sq,=Mark+Holliman+2006+Bowman+BHP20
-    - link_name: 2006 Bowman BHP34
-      link_url: Cards,sq,=Mark+Holliman+2006+Bowman+BHP34
 
 - player: Alex Presley
   links:
@@ -495,33 +370,21 @@
 
 - player: Matt Tolbert
   links:
-    - link_name: 2006 Bowman 47
-      link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+47
     - link_name: 2006 Bowman B41
       link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+B41
     - link_name: 2006 Bowman BC41
       link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+BC41
-    - link_name: 2006 Bowman BHP62
-      link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+BHP62
-    - link_name: 2006 Bowman BO47
-      link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+BO47
-    - link_name: 2006 Bowman BSP-CMT
-      link_url: Cards,sq,=Matt+Tolbert+2006+Bowman+BSP-CMT
     - link_name: 2007 Bowman BDPP104
       link_url: Cards,sq,=Matt+Tolbert+2007+Bowman+BDPP104
     - link_name: 2008 Bowman 218
       link_url: Cards,sq,=Matt+Tolbert+2008+Bowman+218
-    - link_name: 2008 Bowman BS-CMT
-      link_url: Cards,sq,=Matt+Tolbert+2008+Bowman+BS-CMT
-    - link_name: 2008 Bowman CMT
-      link_url: Cards,sq,=Matt+Tolbert+2008+Bowman+CMT
 
 - player: TJ Beam
   links:
     - link_name: 2005 Bowman 253
-      link_url: Cards,sq,=Beam+2005+Bowman+253
+      link_url: Cards,sq,=TJ+Beam+2005+Bowman+253
     - link_name: 2006 Bowman BDP41
-      link_url: Cards,sq,=Beam+2006+Bowman+BDP41
+      link_url: Cards,sq,=TJ+Beam+2006+Bowman+BDP41
 
 - player: Eric Fowler
   links:
@@ -530,18 +393,8 @@
 
 - player: Matt Maloney
   links:
-    - link_name: 2005 Bowman 281
-      link_url: Cards,sq,=Matt+Maloney+2005+Bowman+281
     - link_name: 2005 Bowman BDP73
       link_url: Cards,sq,=Matt+Maloney+2005+Bowman+BDP73
-    - link_name: 2005 Bowman BS-MAM
-      link_url: Cards,sq,=Matt+Maloney+2005+Bowman+BS-MAM
-    - link_name: 2006 Bowman BDP73
-      link_url: Cards,sq,=Matt+Maloney+2006+Bowman+BDP73
-    - link_name: 2006 Bowman SG-MM
-      link_url: Cards,sq,=Matt+Maloney+2006+Bowman+SG-MM
-    - link_name: 2007 Bowman SG-MM
-      link_url: Cards,sq,=Matt+Maloney+2007+Bowman+SG-MM
 
 - player: Seth Smith
   links:
@@ -549,14 +402,8 @@
       link_url: Cards,sq,=Seth+Smith+2004+Bowman+74
     - link_name: 2004 Bowman BDP74
       link_url: Cards,sq,=Seth+Smith+2004+Bowman+BDP74
-    - link_name: 2004 Bowman BS-SSM
-      link_url: Cards,sq,=Seth+Smith+2004+Bowman+BS-SSM
     - link_name: 2008 Bowman 217
       link_url: Cards,sq,=Seth+Smith+2008+Bowman+217
-    - link_name: 2008 Bowman BS-SS
-      link_url: Cards,sq,=Seth+Smith+2008+Bowman+BS-SS
-    - link_name: 2008 Bowman SS
-      link_url: Cards,sq,=Seth+Smith+2008+Bowman+SS
 
 - player: Ryan Bukvich
   links:
@@ -571,15 +418,8 @@
       link_url: Cards,sq,=Mike+Rosamond+2002+Bowman+171
     - link_name: 2002 Bowman 179
       link_url: Cards,sq,=Mike+Rosamond+2002+Bowman+179
-    - link_name: 2002 Bowman 86
-      link_url: Cards,sq,=Mike+Rosamond+2002+Bowman+86
     - link_name: 2017 Bowman 179
       link_url: Cards,sq,=Mike+Rosamond+2017+Bowman+179
-
-- player: Adam Walker
-  links:
-    - link_name: 2002 Bowman 142
-      link_url: Cards,sq,=Adam+Walker+2002+Bowman+142
 
 - player: Bobby Kielty
   links:
@@ -601,15 +441,9 @@
   links:
     - link_name: 1993 Bowman 259
       link_url: Cards,sq,=Chris+Snopek+1993+Bowman+259
-    - link_name: 1994 Bowman 43
-      link_url: Cards,sq,=Chris+Snopek+1994+Bowman+43
     - link_name: 1994 Bowman 539
       link_url: Cards,sq,=Chris+Snopek+1994+Bowman+539
     - link_name: 1995 Bowman 147
       link_url: Cards,sq,=Chris+Snopek+1995+Bowman+147
-    - link_name: 1996 Bowman 104
-      link_url: Cards,sq,=Chris+Snopek+1996+Bowman+104
     - link_name: 1996 Bowman 180
       link_url: Cards,sq,=Chris+Snopek+1996+Bowman+180
-    - link_name: 1997 Bowman 141
-      link_url: Cards,sq,=Chris+Snopek+1997+Bowman+141
