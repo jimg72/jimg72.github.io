@@ -1,6 +1,8 @@
 - player: Gunnar Hoglund
   links:
     - link_name: 2021 Bowman
+      link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BD-78
+    - link_name: 2021 Bowman Chrome
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BDC-78
     - link_name: 2021 Bowman Auto
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+CDA-GH
@@ -9,5 +11,7 @@
   links:
     - link_name: 2021 Bowman
       link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BD-143
+    - link_name: 2021 Bowman Chrome
+      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BDC-143
     - link_name: 2021 Bowman Auto
       link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+CDA-DN
