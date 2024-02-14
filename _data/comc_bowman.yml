@@ -1,3 +1,26 @@
+- player: Anthony Alford
+  links:
+    - link_name: 2014 Bowman Paper
+      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+BD-170
+    - link_name: 2014 Bowman Chrome
+      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+BDC-170
+
+- player: Auston Bousfield
+  links:
+    - link_name: 2014 Bowman Paper
+      link_url: Cards,sq,=Auston+Bousfield+2014+Bowman+DP127
+    - link_name: 2014 Bowman Chrome
+      link_url: Cards,sq,=Auston+Bousfield+2014+Bowman+CDP127
+
+- player: Doug Nikhazy
+  links:
+    - link_name: 2021 Bowman Paper
+      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BD-143
+    - link_name: 2021 Bowman Chrome
+      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BDC-143
+    - link_name: 2021 Bowman Auto
+      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+CDA-DN
+
 - player: Dylan DeLucia
   links:
     - link_name: 2022 Bowman Auto
@@ -5,18 +28,9 @@
 
 - player: Gunnar Hoglund
   links:
-    - link_name: 2021 Bowman
+    - link_name: 2021 Bowman Paper
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BD-78
     - link_name: 2021 Bowman Chrome
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+BDC-78
     - link_name: 2021 Bowman Auto
       link_url: Cards,sq,=Gunnar+Hoglund+2021+Bowman+CDA-GH
-
-- player: Doug Nikhazy
-  links:
-    - link_name: 2021 Bowman
-      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BD-143
-    - link_name: 2021 Bowman Chrome
-      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+BDC-143
-    - link_name: 2021 Bowman Auto
-      link_url: Cards,sq,=Doug+Nikhazy+2021+Bowman+CDA-DN
