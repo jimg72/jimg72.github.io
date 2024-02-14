@@ -7,7 +7,6 @@ permalink: /football.html
     <div class="grid">
         {% for player in site.data.football01 %}
         <div class="grid-item">
-
             <ul>
                 <li class="list-unstyled"><strong>{{ player.player }} <a
                             href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
