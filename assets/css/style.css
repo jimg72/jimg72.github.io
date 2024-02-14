@@ -40,7 +40,7 @@ ul li {
 }
 
 /* clearfix */
-#primary:after {
+.grid:after {
     content: '';
     display: block;
     clear: both;

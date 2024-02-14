@@ -3,15 +3,14 @@ layout: grid
 title: "Start"
 permalink: /start.html
 ---
-<div class="grid">
-    {% for bookmark in site.data.bookmarks %}
-    <div class="grid-item">
-        <ul class="list-unstyled">
-            <li><strong>{{ bookmark.category }}</strong></li>
-            {% for link in bookmark.links %}
-            <li><a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a></li>
-            {% endfor %}
-        </ul>
-    </div>
-    {% endfor %}
+
+{% for bookmark in site.data.bookmarks %}
+<div class="grid-item">
+    <ul class="list-unstyled">
+        <li><strong>{{ bookmark.category }}</strong></li>
+        {% for link in bookmark.links %}
+        <li><a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
+{% endfor %}
