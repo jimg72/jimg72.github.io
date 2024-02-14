@@ -1,90 +1,63 @@
 ---
-layout: null
+layout: grid
 title: "Football Cards"
 permalink: /football.html
 ---
+<div class="container">
+    <div class="grid">
+        {% for player in site.data.football01 %}
+        <div class="grid-item">
 
-<!DOCTYPE html>
-<html lang="en">
+            <ul>
+                <li class="list-unstyled"><strong>{{ player.player }} <a
+                            href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
+                            target="_blank">db</a></strong></li>
+                <li class="list-unstyled"><a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
+                        target="_blank">new</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
+                        target="_blank">ending</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10"
+                        target="_blank">rookies</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
+                        target="_blank">graded</a></li>
+                <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
+                        Added</a></li>
 
-<head>
-    <title>ebay – football</title>
-    <meta charset="utf-8" />
-    <meta name="keywords" content="football" />
-    <meta name="description" content="ebay and comc links for football cards" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-</head>
-
-<body>
-    <div class="container">
-        <div class="grid">
-            {% for player in site.data.football01 %}
-            <div class="grid-item">
-
-                <ul>
-                    <li class="list-unstyled"><strong>{{ player.player }} <a
-                                href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
-                                target="_blank">db</a></strong></li>
-                    <li class="list-unstyled"><a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
-                            target="_blank">new</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
-                            target="_blank">ending</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10"
-                            target="_blank">rookies</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
-                            target="_blank">graded</a></li>
-                    <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
-                            Added</a></li>
-
-                    {% for card in player.cards %}
-                    <li class="list-unstyled"><a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
-                            target="_blank">{{ card.search_name }}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-            {% endfor %}
-
-            {% for player in site.data.football02 %}
-            <div class="grid-item">
-                <ul>
-                    <li class="list-unstyled"><strong>{{ player.player }} <a
-                                href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
-                                target="_blank">db</a></strong></li>
-                    <li class="list-unstyled"><a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
-                            target="_blank">new</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
-                            target="_blank">ending</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10"
-                            target="_blank">rookies</a> / <a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
-                            target="_blank">graded</a></li>
-                    <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
-                            Added</a></li>
-
-                    {% for card in player.cards %}
-                    <li class="list-unstyled"><a
-                            href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
-                            target="_blank">{{ card.search_name }}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-            {% endfor %}
+                {% for card in player.cards %}
+                <li class="list-unstyled"><a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
+                        target="_blank">{{ card.search_name }}</a></li>
+                {% endfor %}
+            </ul>
         </div>
+        {% endfor %}
+
+        {% for player in site.data.football02 %}
+        <div class="grid-item">
+            <ul>
+                <li class="list-unstyled"><strong>{{ player.player }} <a
+                            href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
+                            target="_blank">db</a></strong></li>
+                <li class="list-unstyled"><a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
+                        target="_blank">new</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
+                        target="_blank">ending</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10"
+                        target="_blank">rookies</a> / <a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
+                        target="_blank">graded</a></li>
+                <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
+                        Added</a></li>
+
+                {% for card in player.cards %}
+                <li class="list-unstyled"><a
+                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
+                        target="_blank">{{ card.search_name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
     </div>
-
-    <script src="assets/js/masonry.pkgd.min.js"></script>
-
-    <script type="text/javascript">
-        var container = document.querySelector('.grid');
-        var msnry = new Masonry(container, {
-            itemSelector: '.grid-item'
-        });
-    </script>
-</body>
-
-</html>
+</div>
