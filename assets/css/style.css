@@ -26,15 +26,17 @@ ul li {
     padding: 0;
 }
 
-.container-narrow {
+.container {
     margin: 20px auto 0 auto;
+}
+
+.container-narrow {
     min-width: 640px;
     max-width: 1024px;
 }
 
 .container-wide {
-    margin: 20px auto 0 auto;
-    min-width: 640px;
+    min-width: 800px;
     max-width: 1440px;
 }
 
