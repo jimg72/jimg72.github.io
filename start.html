@@ -4,15 +4,17 @@ title: "Start"
 permalink: /start.html
 ---
 
-<div class="container" id="primary">
-    {% for bookmark in site.data.bookmarks %}
-    <div class="box">
-        <ul class="list-unstyled">
-            <li><strong>{{ bookmark.category }}</strong></li>
-            {% for link in bookmark.links %}
-            <li><a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a></li>
-            {% endfor %}
-        </ul>
+<div class="container">
+    <div class="grid">
+        {% for bookmark in site.data.bookmarks %}
+        <div class="box">
+            <ul class="list-unstyled">
+                <li><strong>{{ bookmark.category }}</strong></li>
+                {% for link in bookmark.links %}
+                <li><a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>

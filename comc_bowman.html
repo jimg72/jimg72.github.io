@@ -4,15 +4,17 @@ title: "COMC Bowman Baseball Links"
 permalink: /comc_bowman.html
 ---
 
-<div class="container" id="primary">
-    {% for player in site.data.comc_bowman %}
-    <div class="box">
-        <ul class="list-unstyled">
-            <li><strong>{{ player.player }}</strong></li>
-            {% for link in player.links %}
-            <li><a target="_blank" href="https://www.comc.com/{{ link.link_url }}">{{ link.link_name }}</a></li>
-            {% endfor %}
-        </ul>
+<div class="container">
+    <div class="grid">
+        {% for player in site.data.comc_bowman %}
+        <div class="box">
+            <ul class="list-unstyled">
+                <li><strong>{{ player.player }}</strong></li>
+                {% for link in player.links %}
+                <li><a target="_blank" href="https://www.comc.com/{{ link.link_url }}">{{ link.link_name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
