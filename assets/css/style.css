@@ -32,7 +32,7 @@ ul li {
     max-width: 1024px;
 }
 
-.box {
+.grid-item {
     text-align: left;
     float: left;
     margin: 0 20px 20px 0;
