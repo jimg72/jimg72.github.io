@@ -132,8 +132,6 @@
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BHP-137
     - link_name: 2020 Bownman BP-137
       link_url: Cards,sq,=Ryan+Rolison+2020+Bowman+BP-137
-    - link_name: 2021 Bownman NNO
-      link_url: Cards,sq,=Ryan+Rolison+2021+Bowman+NNO
     - link_name: 2021 Bownman TP-COL
       link_url: Cards,sq,=Ryan+Rolison+2021+Bowman+TP-COL
     - link_name: 2022 Bownman BTP-80
@@ -149,9 +147,9 @@
 - player: JB Woodman
   links:
     - link_name: 2016 Bownman BD-88
-      link_url: Cards,sq,=JB+Woodman+2016+Bowman+BD-88
+      link_url: Cards,sq,=Woodman+2016+Bowman+BD-88
     - link_name: 2016 Bownman BDC-88
-      link_url: Cards,sq,=JB+Woodman+2016+Bowman+BDC-88
+      link_url: Cards,sq,=Woodman+2016+Bowman+BDC-88
 
 - player: Thomas Dillard
   links:
@@ -290,8 +288,6 @@
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+IBPA-AA
     - link_name: 2016 Bownman NGP-29
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+NGP-29
-    - link_name: 2016 Bownman NNO
-      link_url: Cards,sq,=Anthony+Alford+2016+Bowman+NNO
     - link_name: 2016 Bownman PA-AA
       link_url: Cards,sq,=Anthony+Alford+2016+Bowman+PA-AA
     - link_name: 2016 Bownman PCA-AA
@@ -523,9 +519,9 @@
 - player: TJ Beam
   links:
     - link_name: 2005 Bownman 253
-      link_url: Cards,sq,=TJ+Beam+2005+Bowman+253
+      link_url: Cards,sq,=Beam+2005+Bowman+253
     - link_name: 2006 Bownman BDP41
-      link_url: Cards,sq,=TJ+Beam+2006+Bowman+BDP41
+      link_url: Cards,sq,=Beam+2006+Bowman+BDP41
 
 - player: Eric Fowler
   links:
@@ -617,4 +613,3 @@
       link_url: Cards,sq,=Chris+Snopek+1996+Bowman+180
     - link_name: 1997 Bownman 141
       link_url: Cards,sq,=Chris+Snopek+1997+Bowman+141
-
