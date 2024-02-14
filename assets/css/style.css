@@ -26,17 +26,30 @@ ul li {
     padding: 0;
 }
 
-.container {
+.container-narrow {
     margin: 20px auto 0 auto;
     min-width: 640px;
     max-width: 1024px;
+}
+
+.container-wide {
+    margin: 20px auto 0 auto;
+    min-width: 640px;
+    max-width: 1440px;
 }
 
 .grid-item {
     text-align: left;
     float: left;
     margin: 0 20px 20px 0;
+}
+
+.grid-item-narrow {
     width: 180px;
+}
+
+.grid-item-wide {
+    width: 240px;
 }
 
 /* clearfix */
