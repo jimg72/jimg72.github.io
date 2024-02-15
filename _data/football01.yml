@@ -301,3 +301,236 @@
       search_str: national (treasure,treasures) -digital
     - search_name: Prizm Parallels
       search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+
+- player: Quincy Adeboyejo
+  tcdb_id: 144895
+  player_str: quincy adeboyejo
+  comc_str: quincy adeboyejo
+  rookie_year: 2013
+
+- player: Kent Austin
+  tcdb_id: 59141
+  player_str: kent austin
+  rookie_year: 1988
+
+- player: John Avery
+  tcdb_id: 25835
+  player_str: john avery
+  rookie_year: 1998
+
+- player: Randy Baldwin
+  tcdb_id: 18206
+  player_str: randy baldwin
+  rookie_year: 1991
+
+- player: Tony Bennett
+  tcdb_id: 8792
+  player_str: tony bennett
+  rookie_year: 1990
+
+- player: Brandon Bolden
+  tcdb_id: 40109
+  player_str: brandon bolden
+  rookie_year: 2012
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Tim Bowens
+  tcdb_id: 21921
+  player_str: tim bowens
+  rookie_year: 1994
+
+- player: Tony Conner
+  tcdb_id: 146923
+  player_str: tony conner
+  rookie_year: 2017
+
+- player: Cody Core
+  tcdb_id: 97921
+  player_str: cody core
+  rookie_year: 2016
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Dontario Drummond
+  tcdb_id: 337717
+  player_str: dontario drummond
+  rookie_year: 2021
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Jerrion Ealy
+  tcdb_id: 333587
+  player_str: jerrion ealy
+  rookie_year: 2022
+
+- player: John Fourcade
+  tcdb_id: 9971
+  player_str: john fourcade
+  rookie_year: 1990
+
+- player: Senquez Golson
+  tcdb_id: 70611
+  player_str: senquez golson
+  rookie_year: 2015
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: BenJarvus GE
+  tcdb_id: 26530
+  player_str: benjarvus green ellis
+  rookie_year: 2009
+
+- player: Shay Hodge
+  tcdb_id: 36086
+  player_str: shay hodge
+  rookie_year: 2010
+
+- player: Peria Jerry
+  tcdb_id: 26767
+  player_str: peria jerry
+  rookie_year: 2009
+
+- player: Benito Jones
+  tcdb_id: 258413
+  player_str: benito jones
+  rookie_year: 2020
+
+- player: Chad Kelly
+  tcdb_id: 143670
+  player_str: chad kelly
+  rookie_year: 2017
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Bruiser Kinard
+  tcdb_id: 11060
+  player_str: bruiser kinard
+  rookie_year: 1955
+
+- player: Greg Little
+  tcdb_id: 269677
+  player_str: greg little
+  rookie_year: 2011
+
+- player: DaMarkus Lodge
+  tcdb_id: 216133
+  player_str: damarkus lodge
+  rookie_year: 2019
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Ken Lucas
+  tcdb_id: 26937
+  player_str: ken lucas
+  rookie_year: 2001
+
+- player: Dexter McCluster
+  tcdb_id: 33851
+  player_str: dexter mccluster
+  rookie_year: 2010
+
+- player: Donte Moncrief
+  tcdb_id: 48824
+  player_str: donte moncrief
+  rookie_year: 2014
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Robert Nkemdiche
+  tcdb_id: 95761
+  player_str: robert nkemdiche
+  rookie_year: 2016
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Freddie Joe Nunn
+  tcdb_id: 11950
+  player_str: freddie joe nunn
+  rookie_year: 1986
+
+- player: Michael Oher
+  tcdb_id: 27222
+  player_str: michael oher
+  rookie_year: 2009
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Scottie Phillips
+  tcdb_id: 251477
+  player_str: scottie phillips
+  rookie_year: 2020
+
+- player: Cody Prewitt
+  tcdb_id: 70595
+  player_str: cody prewitt
+  rookie_year: 2015
+
+- player: Kelvin Pritchett
+  tcdb_id: 19130
+  player_str: kelvin pritchett
+  rookie_year: 1991
+
+- player: Rick Razzano
+  tcdb_id: 27360
+  player_str: rick razzano
+  rookie_year: 2005
+
+- player: Jevan Snead
+  tcdb_id: 33878
+  player_str: jevan snead
+  rookie_year: 2010
+
+- player: Damore'ea S
+  tcdb_id: 143730
+  player_str: damore'ea stringfellow
+  rookie_year: 2017
+
+- player: Jordan Ta'amu
+  tcdb_id: 218775
+  player_str: jordan ta'amu
+  rookie_year: 2017
+
+- player: Laquon Treadwell
+  tcdb_id: 95752
+  player_str: laquon treadwell
+  rookie_year: 2016
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Bo Wallace
+  tcdb_id: 65691
+  player_str: bo wallace
+  rookie_year: 2015
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)
+
+- player: Wesley Walls
+  tcdb_id: 13295
+  player_str: wesley walls
+  comc_str: wesley+walls
+  rookie_year: 1989
+
+- player: Jordan Wilkins
+  tcdb_id: 190993
+  player_str: jordan wilkins
+  rookie_year: 2018
+
+- player: Kenny Yeboah
+  tcdb_id: 292137
+  player_str: kenny yeboah
+  rookie_year: 2021
+  cards:
+    - search_name: Panini Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,super,topps,touchdown,trifecta)

@@ -8,12 +8,11 @@ permalink: /football.html
     <div class="grid">
         {% for player in site.data.football01 %}
         <div class="grid-item grid-item-wide">
-            <ul>
-                <li class="list-unstyled"><strong>{{ player.player }} <a
+            <ul class="list-unstyled">
+                <li><strong>{{ player.player }} <a
                             href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
                             target="_blank">db</a></strong></li>
-                <li class="list-unstyled"><a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
+                <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
                         target="_blank">new</a> / <a
                         href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
                         target="_blank">ending</a> / <a
@@ -21,41 +20,11 @@ permalink: /football.html
                         target="_blank">rookies</a> / <a
                         href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
                         target="_blank">graded</a></li>
-                <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
+                <li><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
                         Added</a></li>
 
                 {% for card in player.cards %}
-                <li class="list-unstyled"><a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
-                        target="_blank">{{ card.search_name }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endfor %}
-    </div>
-
-    <div class="grid">
-        {% for player in site.data.football02 %}
-        <div class="grid-item grid-item-wide">
-            <ul>
-                <li class="list-unstyled"><strong>{{ player.player }} <a
-                            href="http://192.168.4.200:5001/search/?selSport=Football&selPlayer={{ player.player | cgi_escape }}"
-                            target="_blank">db</a></strong></li>
-                <li class="list-unstyled"><a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=10"
-                        target="_blank">new</a> / <a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}&_sop=1"
-                        target="_blank">ending</a> / <a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ player.rookie_year }}&_sop=10"
-                        target="_blank">rookies</a> / <a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
-                        target="_blank">graded</a></li>
-                <li class="list-unstyled"><a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank">COMC Newly
-                        Added</a></li>
-
-                {% for card in player.cards %}
-                <li class="list-unstyled"><a
-                        href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
+                <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.player_str | cgi_escape }}+{{ card.search_str | cgi_escape }}&_sop=10"
                         target="_blank">{{ card.search_name }}</a></li>
                 {% endfor %}
             </ul>
