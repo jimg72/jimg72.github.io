@@ -3,20 +3,27 @@
 #     - link_name:
 #       link_url:
 
+- category: Card Pages
+  links:
+    - link_name: Baseball Searches
+      link_url: https://jimg72.github.io/baseball.html
+    - link_name: Football Searches
+      link_url: https://jimg72.github.io/football.html
+    - link_name: COMC Bowman Baseball
+      link_url: https://jimg72.github.io/comc_bownman.html
+    - link_name: COMC Prizm Football
+      link_url: https://jimg72.github.io/comc_prizm.html
+
 - category: Cards
   links:
-    - link_name: ebay - baseball
-      link_url: https://jimg72.github.io/baseball.html
-    - link_name: ebay - football
-      link_url: https://jimg72.github.io/football.html
-    - link_name: 130 Point
-      link_url: https://130point.com
-    - link_name: breakninja
-      link_url: https://www.breakninja.com
-    - link_name: Cardboard Connection
-      link_url: https://www.cardboardconnection.com
     - link_name: COMC
       link_url: https://www.comc.com
+    - link_name: Ole Miss Cards
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/,sr
+    - link_name: 130 Point
+      link_url: https://130point.com
+    - link_name: Cardboard Connection
+      link_url: https://www.cardboardconnection.com
     - link_name: PSA Pop Report
       link_url: https://www.psacard.com/pop
     - link_name: PSA Set Registry
