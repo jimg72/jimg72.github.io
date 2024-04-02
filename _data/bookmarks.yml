@@ -114,6 +114,19 @@
     - link_name: The Verge
       link_url: https://www.theverge.com
 
+- category: Reading
+  links:
+    - link_name: CNN
+      link_url: https://www.cnn.com
+    - link_name: Drudge Report
+      link_url: https://www.drudgereport.com
+    - link_name: Five Thirty Eight
+      link_url: https://fivethirtyeight.com
+    - link_name: Texas Monthly
+      link_url: https://www.texasmonthly.com
+    - link_name: VOX
+      link_url: https://www.vox.com
+
 - category: Pokemon
   links:
     - link_name: PokemonGo Wiki
