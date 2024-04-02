@@ -103,17 +103,6 @@
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 
-- category: Tech
-  links:
-    - link_name: Hacker News
-      link_url: https://news.ycombinator.com
-    - link_name: Stack Overflow
-      link_url: https://stackoverflow.com
-    - link_name: Techmeme
-      link_url: https://techmeme.com
-    - link_name: The Verge
-      link_url: https://www.theverge.com
-
 - category: Reading
   links:
     - link_name: CNN
@@ -126,6 +115,17 @@
       link_url: https://www.texasmonthly.com
     - link_name: VOX
       link_url: https://www.vox.com
+      
+- category: Tech
+  links:
+    - link_name: Hacker News
+      link_url: https://news.ycombinator.com
+    - link_name: Stack Overflow
+      link_url: https://stackoverflow.com
+    - link_name: Techmeme
+      link_url: https://techmeme.com
+    - link_name: The Verge
+      link_url: https://www.theverge.com
 
 - category: Pokemon
   links:
