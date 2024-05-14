@@ -156,6 +156,10 @@
 
 - category: Edu
   links:
+    - link_name: Blinkist
+      link_url: https://www.blinkist.com/en/app/for-you
+    - link_name: Percipio
+      link_url: https://cgi.percipio.com
     - link_name: Snowflake
       link_url: https://learn.snowflake.com/en/courses
     - link_name: Streamlit
