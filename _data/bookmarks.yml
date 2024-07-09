@@ -100,6 +100,8 @@
       link_url: https://app.raindrop.io/my/0
     - link_name: PO Box
       link_url: https://pobox.com
+    - link_name: Twingate
+      link_url: https://twingate.com/
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 
