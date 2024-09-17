@@ -1,19 +1,17 @@
-- player: Manning, Archie
+- player: Archie Manning
   pid: 11402
   comc_str: archie manning
   ebay_str: archie+manning
   tcdb_str: archie-manning
-  rookie_year: 1972
   searches:
     - search_name: Topps PSA 10
       search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
 
-- player: Manning, Eli
+- player: Eli Manning
   pid: 11403
   comc_str: eli+manning
   ebay_str: eli+manning
   tcdb_str: eli-manning
-  rookie_year: 2004
   searches:
     - search_name: Flawless
       search_str: flawless
@@ -24,12 +22,26 @@
     - search_name: White Sparkle
       search_str: white sparkle
 
-- player: Willis, Patrick
+- player: Deuce McAllister
+  pid: 11498
+  comc_str: deuce+mcallister
+  ebay_str: (deuce,duece) (mcallister,mcalister)
+  tcdb_str: deuce-mcallister
+  searches:
+    - search_name: Rookies
+      search_str: 2001
+    - search_name: 2021 Prizm Blue
+      search_str: 2021 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
+    - search_name: 2021 Prizm Red
+      search_str: 2021 prizm red -(ice,wave,blue,select,shimmer)
+    - search_name: 2022 Prizm Blue
+      search_str: 2022 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
+
+- player: Patrick Willis
   pid: 13520
   comc_str: patrick willis
   ebay_str: patrick+willis
   tcdb_str: patrick-willis
-  rookie_year: 2007
   searches:
     - search_name: Flawless
       search_str: flawless -(jersey,logo,patch,rpa)

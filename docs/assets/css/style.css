@@ -15,9 +15,9 @@ a:not([class]):hover {
 }
 
 ul li {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-    font-size: 1rem;
-    line-height: 1.4;
+    font-family: "Cascadia Mono", Menlo, Monaco, "Courier New", monospace;
+    font-size: 1.1rem;
+    line-height: 1.5;
 }
 
 .list-unstyled {
@@ -41,9 +41,11 @@ ul li {
 }
 
 .grid-item {
+    border-left: 2px solid #cc6600;
     text-align: left;
     float: left;
     margin: 0 20px 20px 0;
+    padding: 0 0 0 8px;
 }
 
 .grid-item-narrow {
@@ -51,7 +53,7 @@ ul li {
 }
 
 .grid-item-wide {
-    width: 265px;
+    width: 300px;
 }
 
 /* clearfix */
