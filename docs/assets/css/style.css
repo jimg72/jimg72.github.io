@@ -36,7 +36,7 @@ ul li {
 }
 
 .container-wide {
-    min-width: 800px;
+    min-width: 640px;
     max-width: 1440px;
 }
 
