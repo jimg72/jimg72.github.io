@@ -12,7 +12,12 @@
     <meta http-equiv="Expires" content="0" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/css/bs_custom.css" />
+    <script src="/assets/js/obfuscateEmail.js"></script>
+    <script>
+        var link = document.getElementById("contact-link");
+        link.addEventListener("click", obfuscateEmail);
+    </script>
+
 </head>
 
 <body>
