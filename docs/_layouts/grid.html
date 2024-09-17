@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>{{ page.title | strip_html | xml_escape }}</title>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="links" />
+    <meta name="description" content="links" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <script src="/assets/js/masonry.pkgd.min.js"></script>
+</head>
+
+<body>
+    {{ content }}
+
+    <script type="text/javascript">
+        var container = document.querySelector('.container');
+        var msnry = new Masonry(container, {
+            itemSelector: '.grid-item'
+        });
+    </script>
+
+</body>
+
+</html>
