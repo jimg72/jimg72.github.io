@@ -1,0 +1,41 @@
+- player: Manning, Archie
+  pid: 11402
+  comc_str: archie manning
+  ebay_str: archie+manning
+  tcdb_str: archie-manning
+  rookie_year: 1972
+  searches:
+    - search_name: Topps PSA 10
+      search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
+
+- player: Manning, Eli
+  pid: 11403
+  comc_str: eli+manning
+  ebay_str: eli+manning
+  tcdb_str: eli-manning
+  rookie_year: 2004
+  searches:
+    - search_name: Flawless
+      search_str: flawless
+    - search_name: Immaculate
+      search_str: immaculate -(dual,game,patch)
+    - search_name: National Treasure
+      search_str: national (treasure,treasures) -digital
+    - search_name: White Sparkle
+      search_str: white sparkle
+
+- player: Willis, Patrick
+  pid: 13520
+  comc_str: patrick willis
+  ebay_str: patrick+willis
+  tcdb_str: patrick-willis
+  rookie_year: 2007
+  searches:
+    - search_name: Flawless
+      search_str: flawless -(jersey,logo,patch,rpa)
+    - search_name: Immaculate
+      search_str: immaculate
+    - search_name: National Treasure
+      search_str: national (treasure,treasures) -digital
+    - search_name: Prizm Parallels
+      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)

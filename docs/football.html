@@ -1,0 +1,19 @@
+---
+layout: grid
+title: "Football Cards"
+permalink: /football.html
+---
+
+<div class="container container-wide">
+    <div class="grid">
+        {% for player in site.data.football_players %}
+        <div class="grid-item grid-item-wide">
+            <ul class="list-unstyled">
+                <li><strong>{{ player.player }}</strong></li>
+                <li><a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters">Collection
+                        Filter</a></li>
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</div>
