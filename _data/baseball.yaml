@@ -1,0 +1,39 @@
+- player:
+  pid:
+  comc_str:
+  ebay_str:
+  tcdb_str:
+  rookie_year:
+  searches:
+
+- player: Alderman, Kemp
+  pid: 262090
+  comc_str: kemp alderman
+  ebay_str: kemp+alderman
+  tcdb_str: kemp-alderman
+  rookie_year: 2023
+  searches:
+    - search_name: 2023 Bowman
+      search_str: 2023 bowman -(auto,autograph)
+    - search_name: 2023 Bowman Auto
+      search_str: 2023 bowman (auto,autograph)
+
+- player: Kessinger, Grae
+  pid: 125559
+  comc_str: grae kessinger
+  ebay_str: grae+kessinger
+  tcdb_str: grae-kessinger
+  rookie_year: 2019
+  searches:
+    - search_name: 2019 Bowman
+      search_str: 2019 bowman
+
+- player: Lynn, Lance
+  pid: 3560
+  comc_str: lance lynn
+  ebay_str: lance+lynn
+  tcdb_str: lance-lynn
+  rookie_year: 2011
+  searches:
+    - search_name: 2011 Bowman
+      search_str: 2011 bowman
