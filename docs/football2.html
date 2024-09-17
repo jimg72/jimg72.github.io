@@ -1,0 +1,43 @@
+---
+layout: bootstrap
+title: "Football Cards"
+permalink: /football2.html
+---
+
+<div class="container-sm mx-auto">
+    <div class="row pb-3">
+        <div class="col">
+            <div class="row row-cols-1">
+                {% for player in site.data.football_players %}
+                <div class="col pb-2 col-sm-3 mono">
+                    <li><strong>{{ player.player }}</strong></li>
+                    <li>TCDb
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}/col/1/yea/0/?sTeam="
+                            target="_blank">Cards</a>
+                        |
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters"
+                            target="_blank">Filter</a>
+                    </li>
+                    <li>COMC
+                        <a href="https://www.comc.com/Cards,sr,i100,={{ player.comc_str }}" target="_blank"> Newly
+                            Added</a>
+                    <li>eBay
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}&_sop=10"
+                            target="_blank">new</a>
+                        | <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}&_sop=1"
+                            target="_blank">ending</a>
+                        | <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
+                            target="_blank">graded</a>
+                    </li>
+                    </li>
+                    {% for search in player.searches %}
+                    <li><a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}+{{ search.search_str | string }}&_sop=10"
+                            target="_blank">{{ search.search_name }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

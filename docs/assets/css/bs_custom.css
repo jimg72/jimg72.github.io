@@ -1,0 +1,15 @@
+a:not([class]) {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:not([class]):hover {
+    color: #cc6600;
+    text-decoration: underline;
+}
+
+.mono {
+    font-family: "Cascadia Mono", Menlo, Monaco, "Courier New", monospace;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
