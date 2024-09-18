@@ -15,6 +15,8 @@
   ebay_str: eli+manning
   tcdb_str: eli-manning
   searches:
+    - search_name: Rookies 2004
+      search_str: 2004
     - search_name: Flawless
       search_str: flawless
     - search_name: Immaculate
@@ -30,8 +32,10 @@
   ebay_str: (deuce,duece) (mcallister,mcalister)
   tcdb_str: deuce-mcallister
   searches:
-    - search_name: Rookies
+    - search_name: Rookies 2001
       search_str: 2001
+    - search_name: Modern
+      search_str: -(pick,complete,set) -(2001,2002,2003,2004,2005,2006,2007,2008,2009)
     - search_name: 2021 Prizm Blue
       search_str: 2021 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
     - search_name: 2021 Prizm Red
@@ -45,6 +49,8 @@
   comc_str: a%7b46%7dj%7b46%7d+brown
   tcdb_str: aj-brown
   searches:
+    - search_name: Rookies 2019
+      search_str: 2019
 
 - player: D.K. Metcalf
   pid: 145446
@@ -52,6 +58,8 @@
   comc_str: D%7B46%7DK%7B46%7D+Metcalf
   tcdb_str: dk-metcalf
   searches:
+    - search_name: Rookies 2019
+      search_str: 2019
 
 - player: Patrick Willis
   pid: 13520
@@ -59,6 +67,8 @@
   ebay_str: patrick+willis
   tcdb_str: patrick-willis
   searches:
+    - search_name: Rookies 2007
+      search_str: 2007
     - search_name: Flawless
       search_str: flawless -(jersey,logo,patch,rpa)
     - search_name: Immaculate
@@ -72,6 +82,8 @@
   comc_str: matt+corral
   tcdb_str: matt-corral
   searches:
+    - search_name: Rookies 2022
+      search_str: 2022
 
 - player: Jonathan Mingo
   pid: 388581
@@ -79,6 +91,8 @@
   comc_str: jonathan+mingo
   tcdb_str: jonathan-mingo
   searches:
+    - search_name: Rookies 2023
+      search_str: 2023
 
 - player: Dawson Knox
   pid: 218824
@@ -86,13 +100,17 @@
   comc_str: dawson+knox
   tcdb_str: dawson-knox
   searches:
+  - search_name: Rookies 2019
+    search_str: 2019
 
 - player: Elijah Moore
   pid: 292120
   ebay_str: elijah moore
-  comc_str: Elijah+Moore
-  tcdb_str: Elijah-Moore
+  comc_str: elijah+moore
+  tcdb_str: elijah-moore
   searches:
+  - search_name: Rookies 2021
+    search_str: 2021
 
 - player: Evan Engram
   pid: 141612
@@ -100,6 +118,8 @@
   comc_str: evan+engram
   tcdb_str: evan-engram
   searches:
+    - search_name: Rookies 2017
+      search_str: 2017
 
 - player: Laremy Tunsil
   pid: 95697
@@ -107,4 +127,5 @@
   comc_str: laremy+tunsil
   tcdb_str: laremy-tunsil
   searches:
-
+    - search_name: Rookies 2015
+      search_str: 2016
