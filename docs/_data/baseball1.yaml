@@ -93,6 +93,7 @@
   comc_str: jacob+gonzalez
   ebay_str: jacob+gonzalez
   tcdb_str: jacob-gonzalez
+  searches:
     - search_name: 2023 Bowman
       search_str: 2023 Bowman
     - search_name: 2024 Bowman
