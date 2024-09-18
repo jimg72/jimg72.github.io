@@ -4,6 +4,12 @@
   ebay_str: kemp+alderman
   tcdb_str: kemp-alderman
   searches:
+    - search_name: 2023 Bowman
+      search_str: 2023 Bowman
+    - search_name: 2024 Bowman
+      search_str: 2024 Bowman
+    - search_name: 2024 Topps Debut
+      search_str: 2024 Topps Debut
 
 - player: Anthony Alford
   pid: 60846
@@ -87,7 +93,12 @@
   comc_str: jacob+gonzalez
   ebay_str: jacob+gonzalez
   tcdb_str: jacob-gonzalez
-  searches:
+    - search_name: 2023 Bowman
+      search_str: 2023 Bowman
+    - search_name: 2024 Bowman
+      search_str: 2024 Bowman
+    - search_name: 2024 Topps Debut
+      search_str: 2024 Topps Debut
 
 - player: Calvin Harris
   pid: 258572
