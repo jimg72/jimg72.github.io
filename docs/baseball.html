@@ -31,7 +31,7 @@ permalink: /baseball.html
             <br>
             {% for search in player.searches %}
             ebay <a
-                href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}+{{ search.search_str | string }}&_sop=10"
+                href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str | cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
                 target="_blank">{{ search.search_name }}</a><br>
             {% endfor %}
         </div>
@@ -59,7 +59,7 @@ permalink: /baseball.html
                 target="_blank">new</a>
             | <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}&_sop=1"
                 target="_blank">ending</a>
-            | <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str | cgi_escape }}+psa+-%28bgs%2Csgc%29&_sop=10"
+            | <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str | cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
                 target="_blank">graded</a>
             <br>
             {% for search in player.searches %}
