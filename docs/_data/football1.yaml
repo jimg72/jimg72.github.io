@@ -37,6 +37,20 @@
     - search_name: 2022 Prizm Blue
       search_str: 2022 prizm blue -(shimmer,wave,red,huddle,select,disco,light)
 
+- player: A.J. Brown
+  pid: 215446
+  ebay_str: (a.j.,aj) brown
+  comc_str: a%7b46%7dj%7b46%7d+brown
+  tcdb_str: aj-brown
+  searches:
+
+- player: D.K. Metcalf
+  pid: 145446
+  ebay_str: (d.k.,dk) metcalf
+  comc_str: D%7B46%7DK%7B46%7D+Metcalf
+  tcdb_str: dk-metcalf
+  searches:
+
 - player: Patrick Willis
   pid: 13520
   comc_str: patrick willis
@@ -49,5 +63,46 @@
       search_str: immaculate
     - search_name: National Treasure
       search_str: national (treasure,treasures) -digital
-    - search_name: Prizm Parallels
-      search_str: prizm -(base,brillance,brilliance,certified,chronicles,contenders,cornerstones,fireworks,fleer,gear) -(hype,illumination,instant,leaf,legacy,marshal,marshall,marshalls,marshals,mosaic) -(optic,pass,patch,penmenship,phoenix,playoff,premier,prestige,score,select) -(sensational,shining,spectra,stars,super,topps,touchdown,trifecta)
+
+- player: Matt Corral
+  pid: 224252
+  ebay_str: matt (corral,coral)
+  comc_str: matt+corral
+  tcdb_str: matt-corral
+  searches:
+
+- player: Jonathan Mingo
+  pid: 388581
+  ebay_str: jonathan mingo
+  comc_str: jonathan+mingo
+  tcdb_str: jonathan-mingo
+  searches:
+
+- player: Dawson Knox
+  pid: 218824
+  ebay_str: dawson knox
+  comc_str: dawson+knox
+  tcdb_str: dawson-knox
+  searches:
+
+- player: Elijah Moore
+  pid: 292120
+  ebay_str: elijah moore
+  comc_str: Elijah+Moore
+  tcdb_str: Elijah-Moore
+  searches:
+
+- player: Evan Engram
+  pid: 141612
+  ebay_str: evan engram
+  comc_str: evan+engram
+  tcdb_str: evan-engram
+  searches:
+
+- player: Laremy Tunsil
+  pid: 95697
+  ebay_str: laremy tunsil
+  comc_str: laremy+tunsil
+  tcdb_str: laremy-tunsil
+  searches:
+

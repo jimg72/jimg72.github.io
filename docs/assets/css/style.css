@@ -1,16 +1,16 @@
 body {
-    background: #f0f0f0 none;
+    background: #f7f7f7 none;
     margin-top: 10px;
-    color: #444;
+    color: #14213d;
 }
 
 a:not([class]) {
-    color: #0066cc;
+    color: #006ba6;
     text-decoration: none;
 }
 
 a:not([class]):hover {
-    color: #cc6600;
+    color: #ce1126;
     text-decoration: underline;
 }
 
@@ -28,6 +28,7 @@ ul li {
 
 .container {
     margin: 0 auto;
+    padding: 0;
 }
 
 .container-narrow {
@@ -40,12 +41,19 @@ ul li {
     max-width: 1440px;
 }
 
+hr.style1 {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 0 0 40px 0;
+    padding: 0;
+}
+
 .grid-item {
-    border-left: 2px solid #cc6600;
     text-align: left;
     float: left;
-    margin: 0 20px 20px 0;
-    padding: 0 0 0 8px;
+    margin: 0 20px 40px 0;
+    padding: 0;
 }
 
 .grid-item-narrow {
