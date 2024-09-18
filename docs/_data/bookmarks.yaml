@@ -3,23 +3,14 @@
 #     - link_name:
 #       link_url:
 
-- category: Card Pages
-  links:
-    - link_name: Baseball Searches
-      link_url: https://jimg72.github.io/baseball.html
-    - link_name: Football Searches
-      link_url: https://jimg72.github.io/football.html
-    - link_name: COMC Bowman Baseball
-      link_url: https://jimg72.github.io/comc_bowman.html
-    - link_name: COMC Prizm Football
-      link_url: https://jimg72.github.io/comc_prizm.html
-
 - category: Cards
   links:
-    - link_name: COMC
-      link_url: https://www.comc.com
-    - link_name: Ole Miss Cards
-      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/,sr
+    - link_name: TCDb
+      link_url: https://www.tcdb.com/Collection.cfm/member/Rebels72/collection/1
+    - link_name: Baseball Players
+      link_url: https://jimg72.github.io/baseball.html
+    - link_name: Football Players
+      link_url: https://jimg72.github.io/football.html
     - link_name: 130 Point
       link_url: https://130point.com
     - link_name: Cardboard Connection
@@ -28,10 +19,23 @@
       link_url: https://www.psacard.com/pop
     - link_name: PSA Set Registry
       link_url: https://www.psacard.com/psasetregistry/mysetregistry/dashboard
-    - link_name: TCDb
-      link_url: https://www.tcdb.com/
     - link_name: Terapeak
       link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
+
+- category: Buy Cards
+  links:
+    - link_name: COMC
+      link_url: https://www.comc.com
+    - link_name: COMC - Ole Miss Cards
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/,sr
+    - link_name: eBay
+      link_url: https://www.ebay.com/
+    - link_name: My Slabs
+      link_url: https://myslabs.com/
+    - link_name: Pristine Auctions
+      link_url: https://www.pristineauction.com/
+    - link_name: Whatnot
+      link_url: https://www.whatnot.com/
 
 - category: Entertainment
   links:
@@ -47,8 +51,6 @@
       link_url: https://www.netflix.com
     - link_name: Reddit
       link_url: https://reddit.com
-    - link_name: Video Poker
-      link_url: https://wizardofodds.com/play/video-poker/multi-hand/
     - link_name: YouTube
       link_url: https://www.youtube.com
     - link_name: YouTube TV
@@ -64,29 +66,14 @@
       link_url: https://camelcamelcamel.com
     - link_name: Craigslist
       link_url: https://dallas.craigslist.org
-    - link_name: eBay
-      link_url: https://www.ebay.com/
+    - link_name: Nomad's Nation
+      link_url: https://district.net/nomads
     - link_name: Nordstrom
       link_url: https://www.nordstrom.com
     - link_name: Nordstrom Rack
       link_url: https://www.nordstromrack.com
     - link_name: WireCutter
       link_url: https://thewirecutter.com
-
-- category: Sports
-  links:
-    - link_name: Athletic
-      link_url: https://theathletic.com
-    - link_name: ESPN
-      link_url: https://espn.com
-    - link_name: ESPN Fantasy
-      link_url: https://www.espn.com/fantasy
-    #  - link_name: Yahoo Fantasy
-    #    link_url: https://football.fantasysports.yahoo.com/f1/308989/10
-    - link_name: Baseball-Ref
-      link_url: https://www.baseball-reference.com
-    - link_name: Rotowire
-      link_url: https://www.rotowire.com/myleagues/mlb/dashboard.php?id=233652
 
 - category: Apps
   links:
@@ -100,12 +87,25 @@
       link_url: https://app.raindrop.io/my/0
     - link_name: PO Box
       link_url: https://pobox.com
-    - link_name: Twingate
-      link_url: https://twingate.com/
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 
-- category: Reading
+- category: Sports
+  links:
+    - link_name: Athletic
+      link_url: https://theathletic.com
+    - link_name: ESPN
+      link_url: https://espn.com
+    - link_name: ESPN Fantasy
+      link_url: https://www.espn.com/fantasy
+    - link_name: Yahoo Fantasy
+      link_url: https://football.fantasysports.yahoo.com/f1/308989/10
+    - link_name: Baseball-Ref
+      link_url: https://www.baseball-reference.com
+    - link_name: Rotowire
+      link_url: https://www.rotowire.com/myleagues/mlb/dashboard.php?id=233652
+
+- category: News
   links:
     - link_name: CNN
       link_url: https://www.cnn.com
@@ -117,6 +117,34 @@
       link_url: https://www.texasmonthly.com
     - link_name: VOX
       link_url: https://www.vox.com
+    - link_name: Severe Weather
+      link_url: https://www.severeweatheroutlook.com/everything/
+
+- category: Edu
+  links:
+    - link_name: Blinkist
+      link_url: https://www.blinkist.com/en/app/for-you
+    - link_name: Percipio
+      link_url: https://cgi.percipio.com
+    - link_name: Snowflake
+      link_url: https://learn.snowflake.com/en/courses
+    - link_name: Streamlit
+      link_url: https://30days.streamlit.app
+    - link_name: Udemy
+      link_url: https://www.udemy.com/home/my-courses/learning/
+
+- category: Games
+  links:
+    - link_name: Puzzmo
+      link_url : https://www.puzzmo.com/today
+    - link_name: Video Poker
+      link_url: https://wizardofodds.com/play/video-poker/multi-hand/
+    - link_name: WB bigjim
+      link_url: https://itembrowser.com/profile.php?id=bigjim
+    - link_name: WB FinderBee
+      link_url: https://itembrowser.com/finderbee.php?lat=32.95963381112013&lng=-96.80489301681519&set=
+    - link_name: WB ItemBee
+      link_url: https://www.wallabeegame.com/tools/sets
 
 - category: Tech
   links:
@@ -153,16 +181,3 @@
       link_url: https://www.marriott.com
     - link_name: Southwest
       link_url: https://www.southwest.com
-
-- category: Edu
-  links:
-    - link_name: Blinkist
-      link_url: https://www.blinkist.com/en/app/for-you
-    - link_name: Percipio
-      link_url: https://cgi.percipio.com
-    - link_name: Snowflake
-      link_url: https://learn.snowflake.com/en/courses
-    - link_name: Streamlit
-      link_url: https://30days.streamlit.app
-    - link_name: Udemy
-      link_url: https://www.udemy.com/home/my-courses/learning/

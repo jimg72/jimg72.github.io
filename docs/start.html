@@ -1,18 +1,18 @@
 ---
-layout: grid
+layout: bootstrap
 title: "Start"
 permalink: /start.html
 ---
 
-<div class="container container-wide">
-    {% for bookmark in site.data.bookmarks %}
-    <div class="grid-item grid-item-wide">
-        <ul class="list-unstyled">
-            <li><strong>{{ bookmark.category }}</strong></li>
+<div class="container mx-auto">
+    <div class="row p-3">
+        {% for bookmark in site.data.bookmarks %}
+        <div class="col-3 pb-4 mono text-nowrap">
+            <strong>{{ bookmark.category }}</strong><br>
             {% for link in bookmark.links %}
-            <li><a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a></li>
+            <a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a><br>
             {% endfor %}
-        </ul>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
