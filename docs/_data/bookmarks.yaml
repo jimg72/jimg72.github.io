@@ -29,13 +29,17 @@
     - link_name: COMC Ole Miss
       link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/,sr
     - link_name: eBay
-      link_url: https://www.ebay.com/
+      link_url: https://www.ebay.com
+    - link_name: Kronozio
+      link_url: https://www.kronozio.com
     - link_name: My Slabs
-      link_url: https://myslabs.com/
+      link_url: https://myslabs.com
     - link_name: Pristine Auctions
-      link_url: https://www.pristineauction.com/
+      link_url: https://www.pristineauction.com
+    - link_name: Sports Lots
+      link_url: https://sportlots.com/index.tpl
     - link_name: Whatnot
-      link_url: https://www.whatnot.com/
+      link_url: https://www.whatnot.com
 
 - category: Entertainment
   links:
@@ -136,7 +140,7 @@
 - category: Games
   links:
     - link_name: Puzzmo
-      link_url : https://www.puzzmo.com/today
+      link_url: https://www.puzzmo.com/today
     - link_name: Video Poker
       link_url: https://wizardofodds.com/play/video-poker/multi-hand/
     - link_name: WB bigjim
