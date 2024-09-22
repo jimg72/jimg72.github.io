@@ -100,8 +100,8 @@
   comc_str: dawson+knox
   tcdb_str: dawson-knox
   searches:
-  - search_name: Rookies 2019
-    search_str: 2019
+    - search_name: Rookies 2019
+      search_str: 2019
 
 - player: Elijah Moore
   pid: 292120
@@ -109,8 +109,8 @@
   comc_str: elijah+moore
   tcdb_str: elijah-moore
   searches:
-  - search_name: Rookies 2021
-    search_str: 2021
+    - search_name: Rookies 2021
+      search_str: 2021
 
 - player: Evan Engram
   pid: 141612
@@ -129,3 +129,12 @@
   searches:
     - search_name: Rookies 2015
       search_str: 2016
+
+- player: Jaxson Dart
+  pid: 371911
+  comc_str: jaxson+dart
+  ebay_str: jaxson+dart
+  tcdb_str: jaxson-dart
+  searches:
+    - search_name: 2023 Bowman Auto
+      search_str: 2023 bowman chrome (auto,autograph)
