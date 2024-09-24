@@ -7,7 +7,7 @@ permalink: /start.html
 <div class="container mx-auto">
     <div class="row p-3">
         {% for bookmark in site.data.bookmarks %}
-        <div class="col-3 pb-4 font-monospace">
+        <div class="col col-3-lg pb-4 font-monospace">
             <strong>{{ bookmark.category }}</strong><br />
             {% for link in bookmark.links %}
             <a target="_blank" href="{{ link.link_url }}"
