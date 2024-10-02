@@ -12,7 +12,7 @@
 - player: Eli Manning
   pid: 11403
   comc_str: eli+manning
-  ebay_str: "eli manning"
+  ebay_str: eli+manning
   tcdb_str: eli-manning
   searches:
     - search_name: Rookies 2004
