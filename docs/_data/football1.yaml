@@ -1,7 +1,7 @@
 - player: Archie Manning
   pid: 11402
   comc_str: archie manning
-  ebay_str: archie+manning
+  ebay_str: '"archie manning"'
   tcdb_str: archie-manning
   searches:
     - search_name: Topps PSA 10
@@ -12,7 +12,7 @@
 - player: Eli Manning
   pid: 11403
   comc_str: eli+manning
-  ebay_str: eli+manning
+  ebay_str: '"eli manning"'
   tcdb_str: eli-manning
   searches:
     - search_name: Rookies 2004
@@ -64,7 +64,7 @@
 - player: Patrick Willis
   pid: 13520
   comc_str: patrick willis
-  ebay_str: patrick+willis
+  ebay_str: '"patrick+willis"'
   tcdb_str: patrick-willis
   searches:
     - search_name: Rookies 2007
@@ -87,7 +87,7 @@
 
 - player: Jonathan Mingo
   pid: 388581
-  ebay_str: jonathan mingo
+  ebay_str: '"jonathan mingo"'
   comc_str: jonathan+mingo
   tcdb_str: jonathan-mingo
   searches:
@@ -96,7 +96,7 @@
 
 - player: Dawson Knox
   pid: 218824
-  ebay_str: dawson knox
+  ebay_str: '"dawson knox"'
   comc_str: dawson+knox
   tcdb_str: dawson-knox
   searches:
@@ -105,8 +105,8 @@
 
 - player: Elijah Moore
   pid: 292120
-  ebay_str: elijah moore
   comc_str: elijah+moore
+  ebay_str: '"elijah moore"'
   tcdb_str: elijah-moore
   searches:
     - search_name: Rookies 2021
@@ -114,8 +114,8 @@
 
 - player: Evan Engram
   pid: 141612
-  ebay_str: evan engram
   comc_str: evan+engram
+  ebay_str: '"evan engram"'
   tcdb_str: evan-engram
   searches:
     - search_name: Rookies 2017
@@ -123,8 +123,8 @@
 
 - player: Laremy Tunsil
   pid: 95697
-  ebay_str: laremy tunsil
   comc_str: laremy+tunsil
+  ebay_str: '"laremy tunsil"'
   tcdb_str: laremy-tunsil
   searches:
     - search_name: Rookies 2015
@@ -133,7 +133,7 @@
 - player: Jaxson Dart
   pid: 371911
   comc_str: jaxson+dart
-  ebay_str: jaxson+dart
+  ebay_str: '"jaxson dart"'
   tcdb_str: jaxson-dart
   searches:
     - search_name: 2023 Bowman Auto
