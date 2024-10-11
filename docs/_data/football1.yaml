@@ -25,6 +25,8 @@
       search_str: national (treasure,treasures) -digital
     - search_name: White Sparkle
       search_str: white sparkle
+    - search_name: 2012 Topps Magic Mini
+      search_str: 2012 '"topps magic"' mini
 
 - player: Deuce McAllister
   pid: 11498
