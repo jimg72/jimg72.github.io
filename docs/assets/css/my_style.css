@@ -15,9 +15,9 @@ a:not([class]):hover {
 }
 
 ul li {
-    font-family: "Cascadia Mono", Menlo, Monaco, "Courier New", monospace;
-    font-size: 1.1rem;
-    line-height: 1.5;
+    font-family: Hack, Menlo, Monaco, "Courier New", monospace;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .list-unstyled {
