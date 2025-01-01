@@ -3,11 +3,6 @@
   comc_str: archie manning
   ebay_str: '"archie manning"'
   tcdb_str: archie-manning
-  searches:
-    - search_name: Topps PSA 10
-      search_str: topps psa 10 -(auto,autograph,bgs,sgc,signed)
-    - search_name: Modern
-      search_str: -(1972,1973,1974,1975,1976,1977,1978,1979) -(1980,1981,1982,1983)
 
 - player: Eli Manning
   pid: 11403
