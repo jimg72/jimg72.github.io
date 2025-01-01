@@ -30,12 +30,6 @@ permalink: /baseball.html
             |
             <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
                 target="_blank">graded</a>
-            <br />
-            {% for search in player.searches %} ebay
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+{{ search.search_str | string }}&_sop=10"
-                target="_blank">{{ search.search_name }}</a>
-            <br />
-            {% endfor %}
         </div>
         {% endfor %}
     </div>
@@ -65,12 +59,6 @@ permalink: /baseball.html
             |
             <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
                 target="_blank">graded</a>
-            <br />
-            {% for search in player.searches %} ebay
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+{{ search.search_str | string }}&_sop=10"
-                target="_blank">{{ search.search_name }}</a>
-            <br />
-            {% endfor %}
         </div>
         {% endfor %}
     </div>

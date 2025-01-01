@@ -3,242 +3,195 @@
   comc_str: kemp+alderman
   ebay_str: '"kemp alderman"'
   tcdb_str: kemp-alderman
-  searches:
-    - search_name: 2023 Bowman
-      search_str: 2023 Bowman
-    - search_name: 2024 Bowman
-      search_str: 2024 Bowman
-    - search_name: 2024 Topps Debut
-      search_str: 2024 Topps Debut
 
 - player: Anthony Alford
   pid: 60846
   comc_str: anthony+alford
   ebay_str: '"anthony alford"'
   tcdb_str: anthony-alford
-  searches:
 
 - player: Chris Coghlan
   pid: 28385
   comc_str: chris+coghlan
   ebay_str: '"chris coghlan"'
   tcdb_str: chris-coghlan
-  searches:
 
 - player: Zack Cozart
   pid: 33364
   comc_str: zack+cozart
   ebay_str: '"zack cozart"'
   tcdb_str: zack-cozart
-  searches:
 
 - player: Dylan DeLucia
   pid: 374745
   comc_str: dylan+delucia
   ebay_str: '"dylan delucia"'
   tcdb_str: dylan-delucia
-  searches:
 
 - player: David Dellucci
   pid: 1439
   comc_str: david+dellucci
   ebay_str: '"david dellucci"'
   tcdb_str: david-dellucci
-  searches:
 
 - player: Derek Diamond
   pid: 227101
   comc_str: derek+diamond
   ebay_str: '"derek diamond"'
   tcdb_str: derek-diamond
-  searches:
 
 - player: Thomas Dillard
   pid: 116833
   comc_str: thomas+dillard
   ebay_str: '"thomas dillard"'
   tcdb_str: thomas-dillard
-  searches:
 
 - player: Hayden Dunhurst
   pid: 249995
   comc_str: hayden+dunhurst
   ebay_str: '"hayden dunhurst"'
   tcdb_str: hayden-dunhurst
-  searches:
 
 - player: Tim Elko
   pid: 150638
   comc_str: tim+elko
   ebay_str: '"tim elko"'
   tcdb_str: tim-elko
-  searches:
 
 - player: Jeff Fassero
   pid: 1775
   comc_str: jeff+fassero
   ebay_str: '"jeff fassero"'
   tcdb_str: jeff-fassero
-  searches:
 
 - player: Nick Fortes
   pid: 108058
   comc_str: nick+fortes
   ebay_str: '"nick fortes"'
   tcdb_str: nick-fortes
-  searches:
 
 - player: Jacob Gonzalez
   pid: 387905
   comc_str: jacob+gonzalez
   ebay_str: '"jacob gonzalez"'
   tcdb_str: jacob-gonzalez
-  searches:
-    - search_name: 2023 Bowman
-      search_str: 2023 Bowman
-    - search_name: 2024 Bowman
-      search_str: 2024 Bowman
-    - search_name: 2024 Topps Debut
-      search_str: 2024 Topps Debut
 
 - player: Calvin Harris
   pid: 258572
   comc_str: calvin+harris
   ebay_str: '"calvin harris"'
   tcdb_str: calvin-harris
-  searches:
 
 - player: Gunnar Hoglund
   pid: 261309
   comc_str: gunnar+hoglund
   ebay_str: '"gunnar hoglund"'
   tcdb_str: gunnar-hoglund
-  searches:
 
 - player: Cooper Johnson
   pid: 99457
   comc_str: cooper+johnson
   ebay_str: '"cooper johnson"'
   tcdb_str: cooper-johnson
-  searches:
 
 - player: Don Kessinger
   pid: 3091
   comc_str: don+kessinger
   ebay_str: '"don kessinger"'
   tcdb_str: don-kessinger
-  searches:
-    - search_name: 2023 Topps Heritage
-      search_str: 2023 heritage
 
 - player: Grae Kessinger
   pid: 125559
   comc_str: grae+kessinger
   ebay_str: '"grae kessinger"'
   tcdb_str: grae-kessinger
-  searches:
 
 - player: Bobby Kielty
   pid: 3096
   comc_str: bobby+kielty
   ebay_str: '"bobby kielty"'
   tcdb_str: bobby-kielty
-  searches:
 
 - player: Lance Lynn
   pid: 3560
   comc_str: lance+lynn
   ebay_str: '"lance lynn"'
   tcdb_str: lance-lynn
-  searches:
 
 - player: James McArthur
   pid: 222954
   comc_str: james+mcarthur
   ebay_str: '"james mcarthur"'
   tcdb_str: james-mcarthur
-  searches:
 
 - player: Doug Nikhazy
   pid: 76482
   comc_str: doug+nikhazy
   ebay_str: '"doug nikhazy"'
   tcdb_str: doug-nikhazy
-  searches:
 
 - player: Drew Pomeranz
   pid: 36863
   comc_str: drew+pomeranz
   ebay_str: '"drew pomeranz"'
   tcdb_str: drew-pomeranz
-  searches:
 
 - player: Alex Presley
   pid: 37498
   comc_str: alex+presley
   ebay_str: '"alex presley"'
   tcdb_str: alex-presley
-  searches:
 
 - player: Ryan Rolison
   pid: 110875
   comc_str: ryan+rolison
   ebay_str: '"ryan rolison"'
   tcdb_str: ryan-rolison
-  searches:
 
 - player: Anthony Servideo
   pid: 248511
   comc_str: anthony+servideo
   ebay_str: '"anthony servideo"'
   tcdb_str: anthony-servideo
-  searches:
 
 - player: Seth Smith
   pid: 5491
   comc_str: seth+smith
   ebay_str: '"seth smith"'
   tcdb_str: seth-smith
-  searches:
 
 - player: Chris Snopek
   pid: 21570
   comc_str: chris+snopek
   ebay_str: '"chris snopek"'
   tcdb_str: chris-snopek
-  searches:
 
 - player: Matt Tolbert
   pid: 5894
   comc_str: matt+tolbert
   ebay_str: '"matt tolbert"'
   tcdb_str: matt-tolbert
-  searches:
 
 - player: Stuart Turner
   pid: 61318
   comc_str: stuart+turner
   ebay_str: '"stuart turner"'
   tcdb_str: stuart-turner
-  searches:
 
 - player: Jacob Waguespack
   pid: 182371
   comc_str: jacob+waguespack
   ebay_str: '"jacob waguespack"'
   tcdb_str: jacob-waguespack
-  searches:
 
 - player: Bobby Wahl
   pid: 61292
   comc_str: bobby+wahl
   ebay_str: '"bobby wahl"'
   tcdb_str: bobby-wahl
-  searches:
 
 - player: Alex Yarbrough
   pid: 48686
   comc_str: alex+yarbrough
   ebay_str: '"alex yarbrough"'
   tcdb_str: alex-yarbrough
-  searches:
