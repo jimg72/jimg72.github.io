@@ -1,12 +1,12 @@
 ---
 layout: bootstrap
-title: "COMC Searches"
-permalink: /comc.html
+title: "Card Searches"
+permalink: /searches.html
 ---
 
 <div class="container mx-auto">
     <div class="row p-3">
-        {% for bookmark in site.data.comc %}
+        {% for bookmark in site.data.searches %}
         <div class="col col-lg-3 pb-4 font-monospace text-nowrap">
             <strong>{{ bookmark.player }}</strong><br />
             {% for link in bookmark.links %}
