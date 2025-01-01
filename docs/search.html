@@ -1,12 +1,12 @@
 ---
 layout: bootstrap
 title: "Card Searches"
-permalink: /searches.html
+permalink: /search.html
 ---
 
 <div class="container mx-auto">
     <div class="row p-3">
-        {% for bookmark in site.data.searches %}
+        {% for bookmark in site.data.search %}
         <div class="col col-lg-3 pb-4 font-monospace text-nowrap">
             <strong>{{ bookmark.player }}</strong><br />
             {% for link in bookmark.links %}
