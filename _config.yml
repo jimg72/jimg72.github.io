@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jim Graham
+title: Jim's Notes
 # email:
 description: Mississippi expat chilling in Texas.
 baseurl: ""
