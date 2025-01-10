@@ -40,11 +40,12 @@ header_pages:
 show_downloads: false
 minima:
   skin: auto
+  social_links:
+    instagram: "https://www.instagram.com/bigjim"
+    x: "https://x.com/bigjim"
 date_format: "%Y-%m-%d"
 
-social_links:
-  instagram: "https://www.instagram.com/bigjim"
-  x: "https://x.com/bigjim"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
