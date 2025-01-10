@@ -38,13 +38,14 @@ plugins:
 header_pages:
   - about.md
 show_downloads: false
+
 minima:
   skin: auto
-  social_links:
-    instagram: "https://www.instagram.com/bigjim"
-    x: "https://x.com/bigjim"
-date_format: "%Y-%m-%d"
+  date_format: "%Y-%m-%d"
 
+  social_links:
+    - { platform: instagram,      user_url: "https://www.instagram.com/bigjim" }
+    - { platform: x,              user_url: "https://x.com/bigjim" }
 
 
 # Exclude from processing.
