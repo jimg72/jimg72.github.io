@@ -29,9 +29,10 @@ twitter_username: bigjim
 github_username:  jimg72
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
