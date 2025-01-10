@@ -32,7 +32,7 @@ github_username:  jimg72
 
 # Build settings
 theme: minima
-remote_theme: pages-themes/minima@v2.5.1
+remote_theme: jekyll/minima@v2.5.2
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
