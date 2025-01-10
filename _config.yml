@@ -29,11 +29,9 @@ twitter_username: bigjim
 github_username:  jimg72
 
 # Build settings
-theme: jekyll-theme-dinky
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 show_downloads: false
 
 # Exclude from processing.
