@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jim's Notes
-author: Jim Graham
+title: Jim
 description: Mississippi expat chilling in Texas.
 baseurl: ""
 domain: jimg72.github.io
