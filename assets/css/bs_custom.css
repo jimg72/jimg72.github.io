@@ -1,0 +1,14 @@
+body {
+    background: #f7f7f7 none;
+    color: #14213D;
+}
+
+a:not([class]) {
+    color: #006BA6;
+    text-decoration: none;
+}
+
+a:not([class]):hover {
+    color: #CE1126;
+    text-decoration: underline;
+}
