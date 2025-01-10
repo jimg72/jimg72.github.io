@@ -44,8 +44,9 @@ minima:
   date_format: "%Y-%m-%d"
 
   social_links:
-    - { platform: instagram,      user_url: "https://www.instagram.com/bigjim" }
-    - { platform: x,              user_url: "https://x.com/bigjim" }
+    - { platform: instagram, user_url: "https://www.instagram.com/bigjim" }
+    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/jgraham18/" }
+    - { platform: twitter,   user_url: "https://x.com/bigjim" }
 
 
 # Exclude from processing.
