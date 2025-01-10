@@ -20,8 +20,9 @@
 
 title: Jim's Notes
 author:
-  - name: Jim Graham
-  - email: jimg@pobox.com
+  name: Jim Graham
+  email: jimg@pobox.com
+
 description: Mississippi expat chilling in Texas.
 baseurl: ""
 domain: jimg72.github.io
@@ -33,7 +34,16 @@ github_username:  jimg72
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
 show_downloads: false
+minima:
+  skin: auto
+date_format: "%Y-%m-%d"
+
+social_links:
+  { platform: x,              user_url: "https://x.com/bigjim" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
