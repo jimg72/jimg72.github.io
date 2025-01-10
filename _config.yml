@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jim Graham
-email: jimg@pobox.com
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I am supposed to be writing stuff.
 baseurl: ""
