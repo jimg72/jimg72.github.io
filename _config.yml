@@ -43,8 +43,8 @@ minima:
 date_format: "%Y-%m-%d"
 
 social_links:
-  - { platform: instagram,      user_url: "https://www.instagram.com/bigjim" }
-  - { platform: x,              user_url: "https://x.com/bigjim" }
+  instagram: "https://www.instagram.com/bigjim"
+  x: "https://x.com/bigjim"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
