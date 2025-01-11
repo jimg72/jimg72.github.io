@@ -10,10 +10,10 @@ baseurl: ""
 domain: jimg72.github.io
 url: https://jimg72.github.io
 
-github_username:  jimg72
-instagram_username: bigjim
-linkedin_username: jgraham18
 twitter_username: bigjim
+instagram_username: bigjim
+github_username:  jimg72
+linkedin_username: jgraham18
 rss: rss
 
 # Build settings
