@@ -1,0 +1,43 @@
+- player:
+    name: Kemp Alderman
+    team: Miami Marlins
+    drafted: "2023, Rnd 2, #47"
+    ba_string: 18724-kemp-alderman
+    bb_ref_string: alderm000kem
+    mlb_string: kemp-alderman-694580
+    comc_string: kemp+alderman
+    ebay_string: '"kemp alderman"'
+    photo_path: assets/images/bb/kemp-alderman.png
+
+- player:
+    name: Brandon Johnson
+    team: Kansas City Royals
+    drafted: "2022, Rnd 9, #265"
+    ba_string: 19595-brandon-johnson
+    bb_ref_string: johnso025bra
+    mlb_string: brandon-johnson-699489
+    comc_string: none
+    ebay_string: none
+    photo_path: assets/images/bb/brandon-johnson.png
+
+- player:
+    name: Anthony Servideo
+    team: Baltimore Orioles
+    drafted: "2020, Rnd 3, #74"
+    ba_string: 7799-anthony-servideo
+    bb_ref_string: servid000ant
+    mlb_string: anthony-servideo-676545
+    comc_string: anthony+servideo
+    ebay_string: '"anthony servideo"'
+    photo_path: assets/images/bb/anthony-servideo.jpg
+
+- player:
+    name: Calvin Harris
+    team: Chicago White Sox
+    drafted: "2023, Rnd 4, #116"
+    ba_string: 18723-calvin-harris
+    bb_ref_string: harris001cal
+    mlb_string: calvin-harris-691941
+    comc_string: calvin+harris
+    ebay_string: '"calvin harris"'
+    photo_path: assets/images/bb/calvin-harris.jpg
