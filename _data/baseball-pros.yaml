@@ -1,12 +1,3 @@
-- player:
-    name: James McArthur
-    team: Kansas City Royals
-    drafted: "2018, Rnd 12, #347"
-    bb_ref_string: m/mcartja01
-    mlb_string: james-mcarthur-663704
-    comc_string: james+mcarthur
-    ebay_string: '"james mcarthur"'
-    photo_path: assets/images/bb/james-mcarthur.jpg
 
 - player:
     name: Nick Fortes
@@ -17,6 +8,8 @@
     comc_string: nick+fortes
     ebay_string: '"nick fortes"'
     photo_path: assets/images/bb/nick-fortes.jpg
+    instagram: nickfortes
+    twitter: none
 
 - player:
     name: Lance Lynn
@@ -27,6 +20,21 @@
     comc_string: lance+lynn
     ebay_string: '"lance lynn"'
     photo_path: assets/images/bb/lance-lynn.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: James McArthur
+    team: Kansas City Royals
+    drafted: "2018, Rnd 12, #347"
+    bb_ref_string: m/mcartja01
+    mlb_string: james-mcarthur-663704
+    comc_string: james+mcarthur
+    ebay_string: '"james mcarthur"'
+    photo_path: assets/images/bb/james-mcarthur.jpg
+    instagram: jamesmcarthur33
+    instagram: none
+    twitter: none
 
 - player:
     name: Jacob Waguespack
@@ -37,11 +45,5 @@
     comc_string: jacob+waguespack
     ebay_string: '"jacob waguespack"'
     photo_path: assets/images/bb/jacob-waguespack.jpg
-
-# player:
-#   name:
-#   bb_ref_string:
-#   mlb_string:
-#   comc_string:
-#   ebay_string:
-#   photo_path:
+    instagram: none
+    twitter: none

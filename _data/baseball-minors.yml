@@ -10,6 +10,17 @@
     photo_path: assets/images/bb/kemp-alderman.png
 
 - player:
+    name: Calvin Harris
+    team: Chicago White Sox
+    drafted: "2023, Rnd 4, #116"
+    ba_string: 18723-calvin-harris
+    bb_ref_string: harris001cal
+    mlb_string: calvin-harris-691941
+    comc_string: calvin+harris
+    ebay_string: '"calvin harris"'
+    photo_path: assets/images/bb/calvin-harris.jpg
+
+- player:
     name: Brandon Johnson
     team: Kansas City Royals
     drafted: "2022, Rnd 9, #265"
@@ -30,14 +41,3 @@
     comc_string: anthony+servideo
     ebay_string: '"anthony servideo"'
     photo_path: assets/images/bb/anthony-servideo.jpg
-
-- player:
-    name: Calvin Harris
-    team: Chicago White Sox
-    drafted: "2023, Rnd 4, #116"
-    ba_string: 18723-calvin-harris
-    bb_ref_string: harris001cal
-    mlb_string: calvin-harris-691941
-    comc_string: calvin+harris
-    ebay_string: '"calvin harris"'
-    photo_path: assets/images/bb/calvin-harris.jpg
