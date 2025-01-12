@@ -1,7 +1,7 @@
 - player:
     name: Kemp Alderman, OF
     team: Miami Marlins
-    drafted: "2023, Rnd 2, #47"
+    drafted: "2023, Round 2, #47"
     mlb: no
     ba_string: 18724-kemp-alderman
     bb_ref_string: register/player.fcgi?id=alderm000kem
@@ -15,7 +15,7 @@
 - player:
     name: Dylan DeLucia, P
     team: Cleveland Guardians
-    drafted: "2022, Rnd 6, #181"
+    drafted: "2022, Round 6, #181"
     mlb: no
     ba_string: 18390-dylan-delucia
     bb_ref_string: register/player.fcgi?id=deluci000dyl
@@ -29,7 +29,7 @@
 - player:
     name: Derek Diamond, P
     team: Pittsburgh Pirates
-    drafted: "2022, Rnd 6, #170"
+    drafted: "2022, Round 6, #170"
     mlb: no
     ba_string: 8165-derek-diamond
     bb_ref_string: register/player.fcgi?id=diamon000der
@@ -43,7 +43,7 @@
 - player:
     name: Tim Elko
     team: Chicago White Sox
-    drafted: ""
+    drafted: "2022, Round 10, #311"
     mlb: no
     ba_string: 1507733-tim-elko
     bb_ref_string: register/player.fcgi?id=elko--000tim
@@ -57,7 +57,7 @@
 - player:
     name: Jack Dougherty, P
     team: Minnesota Twins
-    drafted: "2023, Rnd 9, #267"
+    drafted: "2023, Round 9, #267"
     mlb: no
     ba_string: 19596-jack-dougherty
     bb_ref_string: register/player.fcgi?id=doughe002jac
@@ -71,7 +71,7 @@
 - player:
     name: Jacob Gonzalez, SS
     team: Chicago White Sox
-    drafted: "2023, Rnd 1, #15"
+    drafted: "2023, Round 1, #15"
     mlb: no
     ba_string: 8770-jacob-gonzalez
     bb_ref_string: register/player.fcgi?id=gonzal006jac
@@ -83,9 +83,23 @@
     twitter: none
 
 - player:
+    name: Kevin Graham, OF
+    team: Arizona Diamondbacks
+    drafted: "2022, Round 14, #408"
+    mlb: no
+    ba_string: 19599-kevin-graham
+    bb_ref_string: register/player.fcgi?id=graham000kev
+    mlb_string: kevin-graham-681184
+    comc_string: kevin+graham
+    ebay_string: '"kevin graham"'
+    photo_path: assets/images/bb/kevin-graham.png
+    instagram: kevgraham35
+    twitter: kevgraham11
+
+- player:
     name: Calvin Harris, C
     team: Chicago White Sox
-    drafted: "2023, Rnd 4, #116"
+    drafted: "2023, Round 4, #116"
     mlb: no
     ba_string: 18723-calvin-harris
     bb_ref_string: register/player.fcgi?id=harris001cal
@@ -99,7 +113,7 @@
 - player:
     name: Brandon Johnson, P
     team: Kansas City Royals
-    drafted: "2022, Rnd 9, #265"
+    drafted: "2022, Round 9, #265"
     mlb: no
     ba_string: 19595-brandon-johnson
     bb_ref_string: register/player.fcgi?id=johnso025bra
@@ -113,7 +127,7 @@
 - player:
     name: Ethan Ledge, 3B
     team: Pittsburgh Pirates
-    drafted: "2024, Rnd 15, #444"
+    drafted: "2024, Round 15, #444"
     mlb: no
     ba_string: none
     bb_ref_string: register/player.fcgi?id=lege--000eth
@@ -127,7 +141,7 @@
 - player:
     name: Anthony Servideo, SS
     team: Baltimore Orioles
-    drafted: "2020, Rnd 3, #74"
+    drafted: "2020, Round 3, #74"
     mlb: no
     ba_string: 7799-anthony-servideo
     bb_ref_string: register/player.fcgi?id=servid000ant

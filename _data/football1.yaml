@@ -3,6 +3,7 @@
   comc_str: archie manning
   ebay_str: '"archie manning"'
   tcdb_str: archie-manning
+  links:
     - link_name: Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
     - link_name: Prizm Draft Wantlist
@@ -24,6 +25,7 @@
   comc_str: deuce+mcallister
   ebay_str: (deuce,duece) (mcallister,mcalister)
   tcdb_str: deuce-mcallister
+  links:
     - link_name: Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
 

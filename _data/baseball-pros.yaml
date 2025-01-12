@@ -2,7 +2,7 @@
 - player:
     name: Nick Fortes
     team: Miami Marlins
-    drafted: "2018, Rnd 4, #117"
+    drafted: "2018, Round 4, #117"
     mlb: yes
     bb_ref_string: f/forteni01
     mlb_string: nick-fortes-663743
@@ -15,7 +15,7 @@
 - player:
     name: Lance Lynn
     team: St. Louis Cardinals
-    drafted: "2008, Rnd C-A, #39"
+    drafted: "2008, Round C-A, #39"
     mlb: yes
     bb_ref_string: l/lynnla01
     mlb_string: lance-lynn-458681
@@ -28,7 +28,7 @@
 - player:
     name: James McArthur
     team: Kansas City Royals
-    drafted: "2018, Rnd 12, #347"
+    drafted: "2018, Round 12, #347"
     mlb: yes
     bb_ref_string: m/mcartja01
     mlb_string: james-mcarthur-663704
@@ -41,7 +41,7 @@
 - player:
     name: Jacob Waguespack
     team: Tampa Bay Rays
-    drafted: "2012, Rnd 37, #1126"
+    drafted: "2012, Round 37, #1126"
     mlb: yes
     bb_ref_string: w/wagueja01
     mlb_string: jacob-waguespack-621097
