@@ -13,6 +13,20 @@
     twitter: KempAlderman
 
 - player:
+    name: Dylan DeLucia, P
+    team: Cleveland Guardians
+    drafted: "2022, Rnd 6, #181"
+    mlb: no
+    ba_string: 18390-dylan-delucia
+    bb_ref_string: register/player.fcgi?id=deluci000dyl
+    mlb_string: dylan-delucia-690626
+    comc_string: dylan+delucia
+    ebay_string: '"dylan delucia"'
+    photo_path: assets/images/bb/dylan-delucia.jpg
+    instagram: dylandelucia22
+    twitter: none
+
+- player:
     name: Derek Diamond, P
     team: Pittsburgh Pirates
     drafted: "2022, Rnd 6, #170"
@@ -25,6 +39,20 @@
     photo_path: assets/images/bb/derek-diamond.jpg
     instagram: dr.derek
     twitter: none
+
+- player:
+    name: Tim Elko
+    team: Chicago White Sox
+    drafted: ""
+    mlb: no
+    ba_string: 1507733-tim-elko
+    bb_ref_string: register/player.fcgi?id=elko--000tim
+    mlb_string: tim-elko-671284
+    comc_string: tim+elko
+    ebay_string: '"tim elko"'
+    photo_path: assets/images/bb/tim-elko.jpg
+    instagram: tim_elko
+    twitter: TimElko
 
 - player:
     name: Jack Dougherty, P
@@ -97,7 +125,7 @@
     twitter: none
 
 - player:
-    name: A. Servideo, SS
+    name: Anthony Servideo, SS
     team: Baltimore Orioles
     drafted: "2020, Rnd 3, #74"
     mlb: no

@@ -3,6 +3,10 @@
   comc_str: archie manning
   ebay_str: '"archie manning"'
   tcdb_str: archie-manning
+    - link_name: Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
 
 - player: Eli Manning
   pid: 11403
@@ -12,13 +16,16 @@
   links:
     - link_name: Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
 
 - player: Deuce McAllister
   pid: 11498
   comc_str: deuce+mcallister
   ebay_str: (deuce,duece) (mcallister,mcalister)
   tcdb_str: deuce-mcallister
-
+    - link_name: Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
 
 - player: A.J. Brown
   pid: 215446
