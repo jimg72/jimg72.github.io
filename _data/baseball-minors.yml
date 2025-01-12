@@ -1,43 +1,111 @@
 - player:
-    name: Kemp Alderman
+    name: Kemp Alderman, OF
     team: Miami Marlins
     drafted: "2023, Rnd 2, #47"
+    mlb: no
     ba_string: 18724-kemp-alderman
-    bb_ref_string: alderm000kem
+    bb_ref_string: register/player.fcgi?id=alderm000kem
     mlb_string: kemp-alderman-694580
     comc_string: kemp+alderman
     ebay_string: '"kemp alderman"'
     photo_path: assets/images/bb/kemp-alderman.png
+    instagram: kempalderman
+    twitter: KempAlderman
 
 - player:
-    name: Calvin Harris
+    name: Derek Diamond, P
+    team: Pittsburgh Pirates
+    drafted: "2022, Rnd 6, #170"
+    mlb: no
+    ba_string: 8165-derek-diamond
+    bb_ref_string: register/player.fcgi?id=diamon000der
+    mlb_string: derek-diamond-682981
+    comc_string: derek+diamond
+    ebay_string: '"derek diamond"'
+    photo_path: assets/images/bb/derek-diamond.jpg
+    instagram: dr.derek
+    twitter: none
+
+- player:
+    name: Jack Dougherty, P
+    team: Minnesota Twins
+    drafted: "2023, Rnd 9, #267"
+    mlb: no
+    ba_string: 19596-jack-dougherty
+    bb_ref_string: register/player.fcgi?id=doughe002jac
+    mlb_string: jack-dougherty-699491
+    comc_string: jack+dougherty
+    ebay_string: '"jack dougherty"'
+    photo_path: assets/images/bb/jack-dougherty.jpg
+    instagram: jack_dougherty2
+    twitter: none
+
+- player:
+    name: Jacob Gonzalez, SS
+    team: Chicago White Sox
+    drafted: "2023, Rnd 1, #15"
+    mlb: no
+    ba_string: 8770-jacob-gonzalez
+    bb_ref_string: register/player.fcgi?id=gonzal006jac
+    mlb_string: jacob-gonzalez-694378
+    comc_string: jacob+gonzalez
+    ebay_string: '"jacob gonzalez"'
+    photo_path: assets/images/bb/jacob-gonzalez.jpg
+    instagram: jake.jjg
+    twitter: none
+
+- player:
+    name: Calvin Harris, C
     team: Chicago White Sox
     drafted: "2023, Rnd 4, #116"
+    mlb: no
     ba_string: 18723-calvin-harris
-    bb_ref_string: harris001cal
+    bb_ref_string: register/player.fcgi?id=harris001cal
     mlb_string: calvin-harris-691941
     comc_string: calvin+harris
     ebay_string: '"calvin harris"'
     photo_path: assets/images/bb/calvin-harris.jpg
+    instagram: calvinjharris3
+    twitter: none
 
 - player:
-    name: Brandon Johnson
+    name: Brandon Johnson, P
     team: Kansas City Royals
     drafted: "2022, Rnd 9, #265"
+    mlb: no
     ba_string: 19595-brandon-johnson
-    bb_ref_string: johnso025bra
+    bb_ref_string: register/player.fcgi?id=johnso025bra
     mlb_string: brandon-johnson-699489
     comc_string: none
     ebay_string: none
     photo_path: assets/images/bb/brandon-johnson.png
+    instagram: brandon.johnson14
+    twitter: none
 
 - player:
-    name: Anthony Servideo
+    name: Ethan Ledge, 3B
+    team: Pittsburgh Pirates
+    drafted: "2024, Rnd 15, #444"
+    mlb: no
+    ba_string: none
+    bb_ref_string: register/player.fcgi?id=lege--000eth
+    mlb_string: ethan-lege-805356
+    comc_string: ethan+ledge
+    ebay_string: '"ethan ledge"'
+    photo_path: assets/images/bb/ethan-ledge.jpg
+    instagram: ethanlege
+    twitter: none
+
+- player:
+    name: A. Servideo, SS
     team: Baltimore Orioles
     drafted: "2020, Rnd 3, #74"
+    mlb: no
     ba_string: 7799-anthony-servideo
-    bb_ref_string: servid000ant
+    bb_ref_string: register/player.fcgi?id=servid000ant
     mlb_string: anthony-servideo-676545
     comc_string: anthony+servideo
     ebay_string: '"anthony servideo"'
     photo_path: assets/images/bb/anthony-servideo.jpg
+    instagram: anthony_servideo
+    twitter: none
