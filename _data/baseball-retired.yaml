@@ -14,7 +14,8 @@
     twitter: none
 
 - player:
-    name: Chris Coghlan, LF
+    name: Chris Coghlan
+    position: Left Field
     team: Chicago Cubs
     years: 2009-2017
     drafted: "2006, Round 1s, #36"
@@ -28,7 +29,8 @@
     twitter: none
 
 - player:
-    name: Zack Cozart, SS
+    name: Zack Cozart
+    position: Shortstop
     team: Cincinnati Reds
     years: 2011-2019
     drafted: "2007, Round 2, #79"
