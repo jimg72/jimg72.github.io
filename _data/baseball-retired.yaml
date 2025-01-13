@@ -1,5 +1,6 @@
 - player:
-    name: Mickey Callaway, P
+    name: Mickey Callaway
+    position: Pitcher
     team: New York Mets
     years: 1999-2004
     drafted: "1996, Round 7, #214"
@@ -41,7 +42,8 @@
     twitter: none
 
 - player:
-    name: David Dellucci, RF
+    name: David Dellucci
+    position: Right Field
     team: Arizona Diamondbacks
     years: 1997-2009
     drafted: "1995, Round 10, #276"
@@ -55,7 +57,8 @@
     twitter: none
 
 - player:
-    name: Jeff Fassero, P
+    name: Jeff Fassero
+    position: Pitcher
     team: Montreal Expos
     years: 1991-2006
     drafted: "1984, Round 22, #554"
@@ -69,7 +72,8 @@
     twitter: none
 
 - player:
-    name: Jim Hickman, RF
+    name: Jim Hickman
+    position: Right Field
     team: Chicago Cubs
     years: 1962-1974
     drafted: Undrafted
@@ -83,7 +87,8 @@
     twitter: none
 
 - player:
-    name: Don Kessinger, SS
+    name: Don Kessinger
+    position: Shortstop
     team: Chicago Cubs
     years: 1964-1979
     drafted: Undrafted
@@ -97,7 +102,8 @@
     twitter: none
 
 - player:
-    name: Seth Smith, LF
+    name: Seth Smith
+    position: Left Field
     team: Colorado Rockies
     years: 2007-2017
     drafted: "2004, Round 2, #50"

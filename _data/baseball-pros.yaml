@@ -1,6 +1,7 @@
 
 - player:
-    name: Nick Fortes, C
+    name: Nick Fortes
+    position: Catcher
     team: Miami Marlins
     drafted: "2018, Round 4, #117"
     mlb: yes
@@ -13,7 +14,8 @@
     twitter: none
 
 - player:
-    name: Lance Lynn, P
+    name: Lance Lynn
+    position: Pitcher
     team: St. Louis Cardinals
     drafted: "2008, Round C-A, #39"
     mlb: yes
@@ -26,7 +28,8 @@
     twitter: none
 
 - player:
-    name: Grae Kessinger, 3B
+    name: Grae Kessinger
+    position: Third Base
     team: Arizona Diamondbacks
     drafted: "2019, Round 2, #68"
     mlb: yes
@@ -39,7 +42,8 @@
     twitter: swagulater15
 
 - player:
-    name: James McArthur, P
+    name: James McArthur
+    position: Pitcher
     team: Kansas City Royals
     drafted: "2018, Round 12, #347"
     mlb: yes
@@ -52,7 +56,8 @@
     twitter: none
 
 - player:
-    name: Drew Pomeranz, P
+    name: Drew Pomeranz
+    position: Pitcher
     team: Seattle Mariners
     drafted: "2010, Round 1, #5"
     mlb: yes
@@ -65,7 +70,8 @@
     twitter: none
 
 - player:
-    name: Jacob Waguespack, P
+    name: Jacob Waguespack
+    position: Pitcher
     team: Tampa Bay Rays
     drafted: "2012, Round 37, #1126"
     mlb: yes

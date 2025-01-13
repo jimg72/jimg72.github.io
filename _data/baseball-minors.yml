@@ -1,5 +1,6 @@
 - player:
-    name: Kemp Alderman, OF
+    name: Kemp Alderman
+    position: Outfield
     team: Miami Marlins
     drafted: "2023, Round 2, #47"
     mlb: no
@@ -13,7 +14,8 @@
     twitter: KempAlderman
 
 - player:
-    name: Taylor Broadway, P
+    name: Taylor Broadway
+    position: Pitcher
     team: Boston Red Sox
     drafted: "2021, Round 6, #185"
     mlb: no
@@ -27,7 +29,8 @@
     twitter: none
 
 - player:
-    name: Dylan DeLucia, P
+    name: Dylan DeLucia
+    position: Pitcher
     team: Cleveland Guardians
     drafted: "2022, Round 6, #181"
     mlb: no
@@ -41,7 +44,8 @@
     twitter: none
 
 - player:
-    name: Derek Diamond, P
+    name: Derek Diamond
+    position: Pitcher
     team: Pittsburgh Pirates
     drafted: "2022, Round 6, #170"
     mlb: no
@@ -55,7 +59,8 @@
     twitter: none
 
 - player:
-    name: Tim Elko, 1B
+    name: Tim Elko
+    position: First Base
     team: Chicago White Sox
     drafted: "2022, Round 10, #311"
     mlb: no
@@ -69,7 +74,8 @@
     twitter: TimElko
 
 - player:
-    name: Jack Dougherty, P
+    name: Jack Dougherty
+    position: Pitcher
     team: Minnesota Twins
     drafted: "2023, Round 9, #267"
     mlb: no
@@ -83,7 +89,8 @@
     twitter: none
 
 - player:
-    name: Jacob Gonzalez, SS
+    name: Jacob Gonzalez
+    position: Shortstop
     team: Chicago White Sox
     drafted: "2023, Round 1, #15"
     mlb: no
@@ -97,7 +104,8 @@
     twitter: none
 
 - player:
-    name: Kevin Graham, OF
+    name: Kevin Graham
+    position: Outfield
     team: Arizona Diamondbacks
     drafted: "2022, Round 14, #408"
     mlb: no
@@ -111,7 +119,8 @@
     twitter: kevgraham11
 
 - player:
-    name: Calvin Harris, C
+    name: Calvin Harris
+    position: Catcher
     team: Chicago White Sox
     drafted: "2023, Round 4, #116"
     mlb: no
@@ -125,7 +134,8 @@
     twitter: none
 
 - player:
-    name: Gunnar Hoglund, P
+    name: Gunnar Hoglund
+    position: Pitcher
     team: "Oakland A's"
     drafted: "2021, Round 1, #19"
     mlb: no
@@ -139,7 +149,8 @@
     twitter: none
 
 - player:
-    name: Brandon Johnson, P
+    name: Brandon Johnson
+    position: Pitcher
     team: Kansas City Royals
     drafted: "2022, Round 9, #265"
     mlb: no
@@ -153,7 +164,8 @@
     twitter: none
 
 - player:
-    name: Cooper Johnson, C
+    name: Cooper Johnson
+    position: Catcher
     team: Texas Rangers
     drafted: "2019, Round 6, #172"
     mlb: no
@@ -167,7 +179,8 @@
     twitter: none
 
 - player:
-    name: Ethan Ledge, 3B
+    name: Ethan Ledge
+    position: Third Base
     team: Pittsburgh Pirates
     drafted: "2024, Round 15, #444"
     mlb: no
@@ -181,7 +194,8 @@
     twitter: none
 
 - player:
-    name: Doug Nikhazy, P
+    name: Doug Nikhazy
+    position: Pitcher
     team: Cleveland Indians
     drafted: "2021, Round 2, #58"
     mlb: no
@@ -195,7 +209,8 @@
     twitter: dougnikhazy
 
 - player:
-    name: Anthony Servideo, SS
+    name: Anthony Servideo
+    position: Shortstop
     team: Baltimore Orioles
     drafted: "2020, Round 3, #74"
     mlb: no
@@ -209,7 +224,8 @@
     twitter: none
 
 - player:
-    name: Cole Tolbert, P
+    name: Cole Tolbert
+    position: Pitcher
     team: Boston Red Sox
     drafted: "2024, Round 18, #537"
     mlb: no
