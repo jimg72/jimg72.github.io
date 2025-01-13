@@ -5,62 +5,89 @@ menu: none
 permalink: /baseball.html
 ---
 
-<div class="container mx-auto">
-    <div class="row p-3">
+<div class="container">
+    <div class="row">
         {% for player in site.data.baseball1 %}
-        <div class="col col-lg-3 py-4 font-monospace text-nowrap">
-            <strong>{{ player.player }}</strong><br />
-            TCDb
-            <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}" target="_blank">cards</a>
-            |
-            <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters&ColType=1&sYear=0&sTeam=&sCardNum=&sNote=&sSetName=&sBrand="
-                target="_blank">filter</a>
-            |
-            <a href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ player.pid }}/{{ player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
-                target="_blank">coll</a>
-            <br />
-            COMC
-            <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
-            <br />
-            eBay
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
-                target="_blank">new</a>
-            |
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
-                target="_blank">ending</a>
-            |
-            <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
-                target="_blank">graded</a>
+        <div class="col col-md-3 g-4">
+            <div class="card">
+                <div class="card-header">{{ player.player }}</div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        TCDb
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}"
+                            target="_blank">cards</a>
+                        |
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters&ColType=1&sYear=0&sTeam=&sCardNum=&sNote=&sSetName=&sBrand="
+                            target="_blank">filter</a>
+                        |
+                        <a href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ player.pid }}/{{ player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
+                            target="_blank">coll</a>
+                    </li>
+                    <li class="list-group-item">COMC
+                        <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
+                    </li>
+                    <li class="list-group-item">
+                        eBay
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
+                            target="_blank">new</a>
+                        |
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
+                            target="_blank">ending</a>
+                        |
+                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
+                            target="_blank">graded</a>
+                    </li>
+                    {% for link in player.links %}
+                    <li class="list-group-item">
+                        <a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
         {% endfor %}
     </div>
-    <hr />
-    <div class="row p-3">
+    <hr>
+    <div class="row">
         {% for player in site.data.baseball2 %}
-        <div class="col col-lg-3 py-4 font-monospace text-nowrap">
-            <strong>{{ player.player }}</strong><br />
-            TCDb
-            <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}" target="_blank">cards</a>
-            |
-            <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters&ColType=1&sYear=0&sTeam=&sCardNum=&sNote=&sSetName=&sBrand="
-                target="_blank">filter</a>
-            |
-            <a href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ player.pid }}/{{ player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
-                target="_blank">coll</a>
-            <br />
-            COMC
-            <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
-            <br />
-            eBay
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
-                target="_blank">new</a>
-            |
-            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
-                target="_blank">ending</a>
-            |
-            <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
-                target="_blank">graded</a>
+        <div class="col col-md-3 g-4">
+            <div class="card">
+                <div class="card-header">{{ player.player }}</div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        TCDb
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}"
+                            target="_blank">cards</a>
+                        |
+                        <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ player.pid }}?MODE=Filters&ColType=1&sYear=0&sTeam=&sCardNum=&sNote=&sSetName=&sBrand="
+                            target="_blank">filter</a>
+                        |
+                        <a href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ player.pid }}/{{ player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
+                            target="_blank">coll</a>
+                    </li>
+                    <li class="list-group-item">COMC
+                        <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
+                    </li>
+                    <li class="list-group-item">
+                        eBay
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
+                            target="_blank">new</a>
+                        |
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
+                            target="_blank">ending</a>
+                        |
+                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
+                            target="_blank">graded</a>
+                    </li>
+                    {% for link in player.links %}
+                    <li class="list-group-item">
+                        <a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
         {% endfor %}
     </div>
+    <hr>
 </div>
