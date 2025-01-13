@@ -1,0 +1,79 @@
+- player:
+    name: Justin Bench, SS
+    team: San Francisco Giants
+    drafted: "2022, Round 17, #526"
+    mlb: no
+    bb_ref_string: register/player.fcgi?id=bench-000jus
+    mlb_string: justin-bench-699478
+    comc_string: justin+bench
+    ebay_string: '"justin bench"'
+    photo_path: assets/images/bb/justin-bench.jpg
+    instagram: justin_bench
+    twitter: JBench_2
+
+- player:
+    name: Parker Caracci
+    team:
+    drafted: ""
+    mlb: no
+    ba_string:
+    bb_ref_string: register/player.fcgi?id=
+    mlb_string:
+    comc_string:
+    ebay_string: '""'
+    photo_path: assets/images/bb/
+    instagram: none
+    twitter: none
+
+- player:
+    name: Thomas Dillard, C
+    team: Milwaukee Brewers
+    drafted: "2019, Round 5, #163"
+    mlb: no
+    bb_ref_string: register/player.fcgi?id=dillar002tho
+    mlb_string: /thomas-dillard-666186
+    comc_string: thomas+dillard
+    ebay_string: '"thomas dillard"'
+    photo_path: assets/images/bb/thomas-dillard.jpg
+    instagram: t_dillard6
+    twitter: none
+
+- player:
+    name: Hayden Dunhurst, C
+    team: Kansas City Royals
+    drafted: "2022, Round 6, #125"
+    mlb: no
+    bb_ref_string: register/player.fcgi?id=dunhur000hay
+    mlb_string: hayden-dunhurst-683095
+    comc_string: hayden+dunhurst
+    ebay_string: '"hayden dunhurst"'
+    photo_path: assets/images/bb/hayden-dunhurst.jpg
+    instagram: haydendunhurst
+    twitter: none
+
+- player:
+    name: Will Ethridge, P
+    team: Colorado Rockies
+    drafted: "2019, Round 5, #155"
+    mlb: no
+    bb_ref_string: register/player.fcgi?id=ethrid000wil
+    mlb_string: will-ethridge-669100
+    comc_string: will+ethridge
+    ebay_string: '"will ethridge"'
+    photo_path: assets/images/bb/will-ethridge.jpg
+    instagram: willethridge_20
+    twitter: none
+
+- player:
+    name: Tyler Keenan, 3B
+    team: Seattle Mariners
+    drafted: "2020, Round 4, #107"
+    mlb: no
+    ba_string: none
+    bb_ref_string: register/player.fcgi?id=keenan000tyl
+    mlb_string: tyler-keenan-671157
+    comc_string: tyler+keenan
+    ebay_string: '"tyler keenan"'
+    photo_path: assets/images/bb/tyler-keenan.jpg
+    instagram: tk_21
+    twitter: none

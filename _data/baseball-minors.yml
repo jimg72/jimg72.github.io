@@ -13,6 +13,20 @@
     twitter: KempAlderman
 
 - player:
+    name: Taylor Broadway, P
+    team: Boston Red Sox
+    drafted: "2021, Round 6, #185"
+    mlb: no
+    ba_string: 19598-taylor-broadway
+    bb_ref_string: register/player.fcgi?id=broadw000tay
+    mlb_string: taylor-broadway-699479
+    comc_string: taylor+broadway
+    ebay_string: '"taylor broadway"'
+    photo_path: assets/images/bb/taylor-broadway.png
+    instagram: taylor_broadway07
+    twitter: none
+
+- player:
     name: Dylan DeLucia, P
     team: Cleveland Guardians
     drafted: "2022, Round 6, #181"
@@ -41,7 +55,7 @@
     twitter: none
 
 - player:
-    name: Tim Elko
+    name: Tim Elko, 1B
     team: Chicago White Sox
     drafted: "2022, Round 10, #311"
     mlb: no
@@ -111,6 +125,20 @@
     twitter: none
 
 - player:
+    name: Gunnar Hoglund, P
+    team: "Oakland A's"
+    drafted: "2021, Round 1, #19"
+    mlb: no
+    ba_string: register/player.fcgi?id=hoglun000gun
+    bb_ref_string: register/player.fcgi?id=7276-gunnar-hoglund
+    mlb_string: gunnar-hoglund-680684
+    comc_string: gunnar+hoglund
+    ebay_string: '"gunnar hoglund"'
+    photo_path: assets/images/bb/gunnar-hoglund.jpg
+    instagram: gunnarhoglund17
+    twitter: none
+
+- player:
     name: Brandon Johnson, P
     team: Kansas City Royals
     drafted: "2022, Round 9, #265"
@@ -122,6 +150,20 @@
     ebay_string: none
     photo_path: assets/images/bb/brandon-johnson.png
     instagram: brandon.johnson14
+    twitter: none
+
+- player:
+    name: Cooper Johnson, C
+    team: Texas Rangers
+    drafted: "2019, Round 6, #172"
+    mlb: no
+    ba_string: 10749-cooper-johnson
+    bb_ref_string: register/player.fcgi?id=johnso000coo
+    mlb_string: cooper-johnson-666194
+    comc_string: cooper+johnson
+    ebay_string: '"cooper johnson"'
+    photo_path: assets/images/bb/cooper-johnson.jpg
+    instagram: cooper__johnson
     twitter: none
 
 - player:
@@ -139,6 +181,20 @@
     twitter: none
 
 - player:
+    name: Doug Nikhazy, P
+    team: Cleveland Indians
+    drafted: "2021, Round 2, #58"
+    mlb: no
+    ba_string: 7903-doug-nikhazy
+    bb_ref_string: register/player.fcgi?id=nikhaz000dou
+    mlb_string: doug-nikhazy-680951
+    comc_string: doug+nikhazy
+    ebay_string: '"doug nikhazy"'
+    photo_path: assets/images/bb/doug-nikhazy.png
+    instagram: dougnikhazy
+    twitter: dougnikhazy
+
+- player:
     name: Anthony Servideo, SS
     team: Baltimore Orioles
     drafted: "2020, Round 3, #74"
@@ -150,4 +206,18 @@
     ebay_string: '"anthony servideo"'
     photo_path: assets/images/bb/anthony-servideo.jpg
     instagram: anthony_servideo
+    twitter: none
+
+- player:
+    name: Cole Tolbert, P
+    team: Boston Red Sox
+    drafted: "2024, Round 18, #537"
+    mlb: no
+    ba_string: 1453326-cole-tolbert
+    bb_ref_string: register/player.fcgi?id=tolber000col
+    mlb_string: cole-tolbert-824613
+    comc_string: cole+tolbert
+    ebay_string: '"cole tolbert"'
+    photo_path: assets/images/bb/cole-tolbert.jpg
+    instagram: coletolbert
     twitter: none

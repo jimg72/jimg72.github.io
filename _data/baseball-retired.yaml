@@ -1,0 +1,111 @@
+- player:
+    name: Mickey Callaway, P
+    team: New York Mets
+    years: 1999-2004
+    drafted: "1996, Round 7, #214"
+    mlb: yes
+    bb_ref_string: c/callami01
+    mlb_string: mickey-callaway-209068
+    comc_string: mickey+callaway
+    ebay_string: '"mickey callaway"'
+    photo_path: assets/images/bb/mickey-callaway.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Chris Coghlan, LF
+    team: Chicago Cubs
+    years: 2009-2017
+    drafted: "2006, Round 1s, #36"
+    mlb: yes
+    bb_ref_string: c/coghlch01
+    mlb_string: chris-coghlan-458085
+    comc_string: chris+coghlan
+    ebay_string: '"chris coghlan"'
+    photo_path: assets/images/bb/chris-coghlan.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Zack Cozart, SS
+    team: Cincinnati Reds
+    years: 2011-2019
+    drafted: "2007, Round 2, #79"
+    mlb: yes
+    bb_ref_string: c/cozarza01
+    mlb_string: zack-cozart-446359
+    comc_string: zack+cozart
+    ebay_string: '"zack cozart"'
+    photo_path: assets/images/bb/zack-cozart.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: David Dellucci, RF
+    team: Arizona Diamondbacks
+    years: 1997-2009
+    drafted: "1995, Round 10, #276"
+    mlb: yes
+    bb_ref_string: d/delluda01
+    mlb_string: david-dellucci-113240
+    comc_string: david+dellucci
+    ebay_string: '"david dellucci"'
+    photo_path: assets/images/bb/david-dellucci.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Jeff Fassero, P
+    team: Montreal Expos
+    years: 1991-2006
+    drafted: "1984, Round 22, #554"
+    mlb: yes
+    bb_ref_string: f/fasseje01
+    mlb_string: jeff-fassero-114032
+    comc_string: jeff+fassero
+    ebay_string: '"jeff fassero"'
+    photo_path: assets/images/bb/jeff-fassero.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Jim Hickman, RF
+    team: Chicago Cubs
+    years: 1962-1974
+    drafted: Undrafted
+    mlb: yes
+    bb_ref_string: h/hickmji02
+    mlb_string: jim-hickman-115896
+    comc_string: jim+hickman
+    ebay_string: '"jim hickman"'
+    photo_path: assets/images/bb/jim-hickman.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Don Kessinger, SS
+    team: Chicago Cubs
+    years: 1964-1979
+    drafted: Undrafted
+    mlb: yes
+    bb_ref_string: k/kessido01
+    mlb_string: don-kessinger-117024
+    comc_string: don+kessinger
+    ebay_string: '"don kessinger"'
+    photo_path: assets/images/bb/don-kessinger.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Seth Smith, LF
+    team: Colorado Rockies
+    years: 2007-2017
+    drafted: "2004, Round 2, #50"
+    mlb: yes
+    bb_ref_string: s/smithse01
+    mlb_string: seth-smith-452234
+    comc_string: seth-smith
+    ebay_string: '"seth smith"'
+    photo_path: assets/images/bb/seth-smith.jpg
+    instagram: none
+    twitter: none
