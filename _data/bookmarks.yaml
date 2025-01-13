@@ -193,3 +193,8 @@
       link_url: https://www.marriott.com
     - link_name: Southwest
       link_url: https://www.southwest.com
+
+- category: My Pages
+  links:
+    - link_name: Rebels in the Pros
+      link_url: baseball_rebel_pros.html
