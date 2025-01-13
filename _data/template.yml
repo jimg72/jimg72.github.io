@@ -1,0 +1,13 @@
+- player:
+    name:
+    team:
+    drafted: ""
+    mlb: no
+    ba_string:
+    bb_ref_string: register/player.fcgi?id=
+    mlb_string:
+    comc_string:
+    ebay_string: '""'
+    photo_path: assets/images/bb/
+    instagram: none
+    twitter: none
