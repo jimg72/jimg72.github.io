@@ -7,6 +7,7 @@
     mlb: yes
     bb_ref_string: c/callami01
     mlb_string: mickey-callaway-209068
+    wiki: Mickey_Callaway
     comc_string: mickey+callaway
     ebay_string: '"mickey callaway"'
     photo_path: assets/images/bb/mickey-callaway.jpg
@@ -22,10 +23,11 @@
     mlb: yes
     bb_ref_string: c/coghlch01
     mlb_string: chris-coghlan-458085
+    wiki: Chris_Coghlan
     comc_string: chris+coghlan
     ebay_string: '"chris coghlan"'
     photo_path: assets/images/bb/chris-coghlan.jpg
-    instagram: none
+    instagram: cogz08
     twitter: none
 
 - player:
@@ -37,10 +39,11 @@
     mlb: yes
     bb_ref_string: c/cozarza01
     mlb_string: zack-cozart-446359
+    wiki: Zack_Cozart
     comc_string: zack+cozart
     ebay_string: '"zack cozart"'
     photo_path: assets/images/bb/zack-cozart.jpg
-    instagram: none
+    instagram: z.cozart02
     twitter: none
 
 - player:
@@ -52,10 +55,11 @@
     mlb: yes
     bb_ref_string: d/delluda01
     mlb_string: david-dellucci-113240
+    wiki: David_Dellucci
     comc_string: david+dellucci
     ebay_string: '"david dellucci"'
     photo_path: assets/images/bb/david-dellucci.jpg
-    instagram: none
+    instagram: daviddellucci
     twitter: none
 
 - player:
@@ -67,10 +71,11 @@
     mlb: yes
     bb_ref_string: f/fasseje01
     mlb_string: jeff-fassero-114032
+    wiki: Jeff_Fassero
     comc_string: jeff+fassero
     ebay_string: '"jeff fassero"'
     photo_path: assets/images/bb/jeff-fassero.jpg
-    instagram: none
+    instagram: jefffassero
     twitter: none
 
 - player:
@@ -82,6 +87,7 @@
     mlb: yes
     bb_ref_string: h/hickmji02
     mlb_string: jim-hickman-115896
+    wiki: Jim_Hickman_(1960s_outfielder)
     comc_string: jim+hickman
     ebay_string: '"jim hickman"'
     photo_path: assets/images/bb/jim-hickman.jpg
@@ -97,10 +103,43 @@
     mlb: yes
     bb_ref_string: k/kessido01
     mlb_string: don-kessinger-117024
+    wiki: Don_Kessinger
     comc_string: don+kessinger
     ebay_string: '"don kessinger"'
     photo_path: assets/images/bb/don-kessinger.jpg
     instagram: none
+    twitter: none
+
+- player:
+    name: Bobby Kielty
+    position: Outfielder
+    team: Minnesoto Twins
+    years: 2001-2007
+    drafted: Undrafted
+    mlb: yes
+    bb_ref_string: k/kieltbo01
+    mlb_string: bobby-kielty-282878
+    wiki: Bobby_Kielty
+    comc_string: bobby+kielty
+    ebay_string: '"bobby kielty"'
+    photo_path: assets/images/bb/bobby-kielty.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Drew Pomeranz
+    position: Pitcher
+    team: Seattle Mariners
+    years: 2011-2024
+    drafted: "2010, Round 1, #5"
+    mlb: yes
+    bb_ref_string: p/pomerdr01
+    mlb_string: drew-pomeranz-519141
+    wiki: Drew_Pomeranz
+    comc_string: drew+pomeranz
+    ebay_string: '"drew pomeranz"'
+    photo_path: assets/images/bb/drew-pomeranz.jpg
+    instagram: drewpomeranz
     twitter: none
 
 - player:
@@ -112,8 +151,25 @@
     mlb: yes
     bb_ref_string: s/smithse01
     mlb_string: seth-smith-452234
+    wiki: Seth_Smith
     comc_string: seth-smith
     ebay_string: '"seth smith"'
     photo_path: assets/images/bb/seth-smith.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name: Chris Snopek
+    position: Third Base
+    team: Chicago White Sox
+    years: 1995-1998
+    drafted: "1992, Round 6, #176"
+    mlb: yes
+    bb_ref_string: s/snopech01
+    mlb_string: chris-snopek-122494
+    wiki: Chris_Snopek
+    comc_string: chris+snopek
+    ebay_string: '"chris snopek"'
+    photo_path: assets/images/bb/chris-snopek.jpg
     instagram: none
     twitter: none

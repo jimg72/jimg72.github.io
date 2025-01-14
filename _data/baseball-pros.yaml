@@ -7,6 +7,7 @@
     mlb: yes
     bb_ref_string: f/forteni01
     mlb_string: nick-fortes-663743
+    wiki: Nick_Fortes
     comc_string: nick+fortes
     ebay_string: '"nick fortes"'
     photo_path: assets/images/bb/nick-fortes.jpg
@@ -21,6 +22,7 @@
     mlb: yes
     bb_ref_string: l/lynnla01
     mlb_string: lance-lynn-458681
+    wiki: Lance_Lynn
     comc_string: lance+lynn
     ebay_string: '"lance lynn"'
     photo_path: assets/images/bb/lance-lynn.jpg
@@ -35,6 +37,7 @@
     mlb: yes
     bb_ref_string: k/kessigr01.shtml
     mlb_string: grae-kessinger-666197
+    wiki: Grae_Kessinger
     comc_string: grae+kessinger
     ebay_string: '"grae kessinger"'
     photo_path: assets/images/bb/grae-kessinger.jpg
@@ -49,6 +52,7 @@
     mlb: yes
     bb_ref_string: m/mcartja01
     mlb_string: james-mcarthur-663704
+    wiki: James_McArthur_(baseball)
     comc_string: james+mcarthur
     ebay_string: '"james mcarthur"'
     photo_path: assets/images/bb/james-mcarthur.jpg
@@ -56,27 +60,14 @@
     twitter: none
 
 - player:
-    name: Drew Pomeranz
-    position: Pitcher
-    team: Seattle Mariners
-    drafted: "2010, Round 1, #5"
-    mlb: yes
-    bb_ref_string: p/pomerdr01
-    mlb_string: drew-pomeranz-519141
-    comc_string: drew+pomeranz
-    ebay_string: '"drew pomeranz"'
-    photo_path: assets/images/bb/drew-pomeranz.jpg
-    instagram: drewpomeranz
-    twitter: none
-
-- player:
     name: Jacob Waguespack
     position: Pitcher
     team: Tampa Bay Rays
-    drafted: "2012, Round 37, #1126"
+    drafted: Undrafted
     mlb: yes
     bb_ref_string: w/wagueja01
     mlb_string: jacob-waguespack-621097
+    wiki: Jacob_Waguespack
     comc_string: jacob+waguespack
     ebay_string: '"jacob waguespack"'
     photo_path: assets/images/bb/jacob-waguespack.jpg

@@ -1,5 +1,6 @@
 - player:
     name:
+    position:
     team:
     drafted: ""
     mlb: no

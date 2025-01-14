@@ -11,17 +11,17 @@ permalink: /baseball_rebel_pros.html
             <img src="assets/images/bb/swayze.png" class="img-fluid" />
         </div>
     </div>
-</div>
-
-<div class="container">
     <div class="row">
         <div class="col">
             <h1>Rebels in the Majors</h1>
         </div>
     </div>
-    <div class="row">
+</div>
+
+<div class="container">
+    <div class="row row row-cols-2 row-cols-md-6">
         {% for p in site.data.baseball-pros %}
-        <div class="col-6 col-md-2 g-2">
+        <div class="col g-2">
             <div class="card">
                 <img src=" {{ p.player.photo_path }}" class="card-img-top" />
                 <div class="card-body">
@@ -71,6 +71,11 @@ permalink: /baseball_rebel_pros.html
                             <a href="http://www.x.com/{{ p.player.twitter }}"><img src="assets/icons/twitter-x.svg"
                                     alt="Twitter" class="me-2" width="20" height="20"></a>
                             {% endif %}
+                            {% if p.player.wiki != "none" %}
+                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}"><img
+                                    src="assets/icons/wikipedia.svg" alt="Twitter" class="me-2" width="20"
+                                    height="20"></a>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
@@ -86,17 +91,17 @@ permalink: /baseball_rebel_pros.html
             <hr>
         </div>
     </div>
-</div>
-
-<div class="container">
     <div class="row">
         <div class="col">
             <h1>Rebels in the Minors</h1>
         </div>
     </div>
-    <div class="row">
+</div>
+
+<div class="container">
+    <div class="row row row-cols-2 row-cols-md-6">
         {% for p in site.data.baseball-minors %}
-        <div class="col-6 col-md-2 g-2">
+        <div class="col g-2">
             <div class="card">
                 <img src=" {{ p.player.photo_path }}" class="card-img-top" />
                 <div class="card-body">
@@ -171,17 +176,17 @@ permalink: /baseball_rebel_pros.html
             <hr>
         </div>
     </div>
-</div>
-
-<div class="container">
     <div class="row">
         <div class="col">
             <h1>Rebels in the Majors (Retired)</h1>
         </div>
     </div>
-    <div class="row">
+</div>
+
+<div class="container">
+    <div class="row row row-cols-2 row-cols-md-6">
         {% for p in site.data.baseball-retired %}
-        <div class="col-6 col-md-2 g-2">
+        <div class="col g-2">
             <div class="card">
                 <img src=" {{ p.player.photo_path }}" class="card-img-top" />
                 <div class="card-body">
@@ -232,11 +237,21 @@ permalink: /baseball_rebel_pros.html
                             <a href="http://www.x.com/{{ p.player.twitter }}"><img src="assets/icons/twitter-x.svg"
                                     alt="Twitter" class="me-2" width="20" height="20"></a>
                             {% endif %}
+                            {% if p.player.wiki != "none" %}
+                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}"><img
+                                    src="assets/icons/wikipedia.svg" alt="Twitter" class="me-2" width="20"
+                                    height="20"></a>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col">
+            <hr>
+        </div>
     </div>
 </div>
