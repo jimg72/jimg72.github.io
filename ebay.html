@@ -6,13 +6,12 @@ permalink: /ebay.html
 ---
 
 <div class="container mx-auto">
-    <div class="row p-3">
+    <div class="row row-cols-2 row-cols-md-4">
         {% for groups in site.data.ebay %}
-        <div class="col col-lg-3 py-4 font-monospace text-nowrap">
+        <div class="col gt-4">
             <strong>{{ groups.group }}</strong><br />
             {% for urls in groups.searches %}
-            <a href="https://www.ebay.com/{{ urls.search_str }}"
-                target="_blank">{{ urls.search_name }}</a>
+            <a href="https://www.ebay.com/{{ urls.search_str }}" target="_blank">{{ urls.search_name }}</a>
             <br />
             {% endfor %}
         </div>
