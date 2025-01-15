@@ -89,6 +89,8 @@
 
 - category: Apps
   links:
+    - link_name: Fastmail
+      link_url: https://app.fastmail.com/
     - link_name: Ghost Archive
       link_url: https://ghostarchive.org
     - link_name: Github
@@ -97,8 +99,8 @@
       link_url: https://www.inoreader.com
     - link_name: Raindrop
       link_url: https://app.raindrop.io/my/0
-    - link_name: PO Box
-      link_url: https://pobox.com
+    - link_name: Sublime
+      link_url: https://sublime.app/library
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 
