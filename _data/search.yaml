@@ -5,12 +5,18 @@
 
 - player: Archie Manning
   links:
+    - link_name: eBay - 1978 Slim Jim
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
+    - link_name: eBay - Flawless
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+flawless&_from=R40&_sop=10
+    - link_name: eBay - Immaculate
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+immaculate&_from=R40&_sop=10
+    - link_name: eBay - National Treasures
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+%22national+treasures%22&_from=R40&_sop=10
     - link_name: eBay - Modern
       link_url: https://www.ebay.com/sch/261328/i.html?_fsrp=1&_from=R40&_nkw=%22archie+manning%22+-%281972%2C1973%2C1974%2C1975%2C1976%2C1977%2C1978%2C1979%29+-%281980%2C1981%2C1982%2C1983%29&_sacat=261328&_oaa=1&_dcat=261328&_sop=10
     - link_name: eBay - Topps PSA 10
       link_url:  https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22archie+manning%22+topps+psa+10+-%28auto%2Cautograph%2Cbgs%2Csgc%2Csigned%29&_sop=10
-    - link_name: eBay - 1978 Slim Jim
-      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
 
 - player: Eli Manning
   links:
@@ -19,9 +25,13 @@
     - link_name: eBay - 2004 Ungraded
       link_url: https://www.ebay.com/sch/i.html?Graded=No&_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_sacat=212&_dcat=261328&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
     - link_name: eBay - Flawless
-      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=“eli+manning”+flawless&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+flawless&_from=R40&_sop=10
+    - link_name: eBay - Immaculate
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+immaculate&_from=R40&_sop=10
+    - link_name: eBay - National Treasures
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+%22national+treasures%22&_from=R40&_sop=10
     - link_name: eBay - White Sparkle
-      link_url: https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22eli+manning%22+white%20sparkle&_sop=10
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+%22white+sparkle%22&_from=R40&_sop=10
 
 - player: AJ Brown
   links:
