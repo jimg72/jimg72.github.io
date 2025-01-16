@@ -143,6 +143,22 @@
     twitter: none
 
 - player:
+    name: Alex Presley
+    position: Outfielder
+    team: Pittsburgh Pirates
+    years: 2010-2017
+    drafted: "2006, Round 8, #230"
+    mlb: yes
+    bb_ref_string: p/preslal01
+    mlb_string: alex-presley-502100
+    wiki: Alex_Presley
+    comc_string: alex+presley
+    ebay_string: '"alex presley"'
+    photo_path: assets/images/bb/alex-presley.jpg
+    instagram: alex.presley
+    twitter: none
+
+- player:
     name: Seth Smith
     position: Left Field
     team: Colorado Rockies
