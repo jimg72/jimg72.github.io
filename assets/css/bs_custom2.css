@@ -1,0 +1,23 @@
+body {
+    background: #fff none;
+    color: #14213D;
+}
+
+a:not([class]) {
+    color: #006BA6;
+    text-decoration: none;
+}
+
+a:not([class]):hover {
+    color: #CE1126;
+    text-decoration: underline;
+}
+
+.card-header {
+    font-weight: bold;
+    padding: .25rem .5rem;
+}
+
+.list-group-item {
+    padding: .25rem .5rem;
+}
