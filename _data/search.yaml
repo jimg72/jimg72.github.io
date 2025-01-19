@@ -2,8 +2,7 @@
 #   links:
 #     - link_name:
 #       link_url:
-    - link_name:
-      link_url:
+
 - player: Archie Manning
   links:
     - link_name: eBay - ALL
@@ -42,6 +41,8 @@
   links:
     - link_name: eBay - ALL
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29&_from=R40&_sop=10
+    - link_name: eBay - 2001
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
 
 - player: AJ Brown
   links:
