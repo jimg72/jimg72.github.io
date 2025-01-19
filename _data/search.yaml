@@ -44,6 +44,17 @@
     - link_name: eBay - 2001
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
 
+- player: Jaxson Dart
+  links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart&_from=R40&_sop=10
+    - link_name: eBay - 2022
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2022&_from=R40&_sop=10
+    - link_name: eBay - 2023
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2023&_from=R40&_sop=10
+    - link_name: eBay - 2024
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2024&_from=R40&_sop=10
+
 - player: AJ Brown
   links:
     - link_name: eBay - ALL
