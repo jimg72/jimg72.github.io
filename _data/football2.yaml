@@ -310,6 +310,12 @@
   ebay_str: '"cliff dew"'
   tcdb_str: cliff-dew
 
+- player: Logan Diggs
+  pid: 378045
+  comc_str: logan+diggs
+  ebay_str: '"logan diggs"'
+  tcdb_str: logan-diggs
+
 - player: Kenny Dill
   pid: 139404
   comc_str: kenny+dill
