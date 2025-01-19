@@ -2,9 +2,12 @@
 #   links:
 #     - link_name:
 #       link_url:
-
+    - link_name:
+      link_url:
 - player: Archie Manning
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22&_from=R40&_sop=10
     - link_name: eBay - 1978 Slim Jim
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
     - link_name: eBay - Flawless
@@ -20,6 +23,8 @@
 
 - player: Eli Manning
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22&_from=R40&_sop=10
     - link_name: eBay - 2004 Graded
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_fcid=1&_sop=10&_stpos=75248&_svsrch=1&Graded=Yes&_oaa=1&_dcat=212
     - link_name: eBay - 2004 Ungraded
@@ -33,18 +38,29 @@
     - link_name: eBay - White Sparkle
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+%22white+sparkle%22&_from=R40&_sop=10
 
+- player: Deuce McAllister
+  links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29&_from=R40&_sop=10
+
 - player: AJ Brown
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28aj%2C+a.j.%29+brown&_from=R40&_sop=10
     - link_name: 2019 Prizm PSA 10
       link_url: https://www.ebay.com/sch/i.html?_nkw=%28aj%2Ca.j.%29+brown+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: DK Metcalf
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28dk%2C+d.k.%29+metcalf&_from=R40&_sop=10
     - link_name: 2019 Prizm PSA 10
       link_url: https://www.ebay.com/sch/i.html?_nkw=%28dk%2Cd.k.%29+metcalf+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Doug Nikhazy
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%doug+nikhazy%22&_from=R40&_sop=10
     - link_name: COMC - 2021 Bowman Chrome #BDC-143
       link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-143/Doug_Nikhazy/18198009
     - link_name: eBay - 2021 Bowman Gold /199
@@ -54,6 +70,8 @@
 
 - player: Gunnar Hoglund
   links:
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%gunnar+hoglund%22&_from=R40&_sop=10
     - link_name: COMC - 2022 Bowman Chrome #BDC-178
       link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-78/Gunnar_Hoglund/18197947
     - link_name: eBay - 2021 Bowman Auto Black /75
@@ -73,7 +91,9 @@
 
 - player: Jacob Gonzalez
   links:
-    - link_name: COMC - 2023 Bowman Chrome #BDC-167
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22jacob+gonzalez%22&_from=R40&_sop=10
+    - link_name: "COMC - 2023 Bowman Chrome #BDC-167"
       link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-167/Jacob_Gonzalez/24525449
     - link_name: COMC - 2023 Elite Extra Edition
       link_url: https://www.comc.com/Cards,sc,=jacob+gonzalez+2023+elite+extra+edition
@@ -102,7 +122,9 @@
 
 - player: Kemp Alderman
   links:
-    - link_name: COMC - 2023 Bowman Chrome #BDC-123
+    - link_name: eBay - ALL
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22kemp+alderman%22&_from=R40&_sop=10
+    - link_name: "COMC - 2023 Bowman Chrome #BDC-123"
       link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-123/Kemp_Alderman/24525405
     - link_name: eBay - 2023 Bowman Sapphire
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+sapphire+-%28auto%2Cautograph%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+yellow+75+-%28auto%2Cautograph%2Clunar%2Csapphire%29&_osacat=261328&_sop=15
