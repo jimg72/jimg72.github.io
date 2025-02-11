@@ -58,6 +58,10 @@
   comc_str: jaxson+dart
   ebay_str: '"jaxson dart"'
   tcdb_str: jaxson-dart
+    - link_name: Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/371911/Jaxson-Dart
+
+
 
 - player: Evan Engram
   pid: 141612

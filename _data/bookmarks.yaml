@@ -13,7 +13,7 @@
     - link_name: Player Searches
       link_url: https://jimg72.github.io/search.html
     - link_name: COMC Ole Miss
-      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/,sr
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sr
     - link_name: Rebels in the Pros
       link_url: baseball_rebel_pros.html
     - link_name: eBay Bids & Offers
@@ -55,6 +55,8 @@
 
 - category: Entertainment
   links:
+    - link_name: Calmly Leon
+      link_url: https://calmyleon.com
     - link_name: DisneyPlus
       link_url: https://www.disneyplus.com
     - link_name: HD Cars
@@ -101,6 +103,8 @@
       link_url: https://github.com
     - link_name: Inoreader
       link_url: https://www.inoreader.com
+    - link_name: Polymarket
+      link_url: https://polymarket.com
     - link_name: Raindrop
       link_url: https://app.raindrop.io/my/0
     - link_name: Sublime
@@ -153,6 +157,8 @@
 
 - category: Games
   links:
+    - link_name: Sports Connections
+      link_url: https://www.nytimes.com/athletic/connections-sports-edition?smtyp=cur&smid=tw-nytimes
     - link_name: Puzzmo
       link_url: https://www.puzzmo.com/today
     - link_name: Video Poker
@@ -193,6 +199,13 @@
     - link_name: Twitter
       link_url: https://twitter.com
 
+- category: Cool Links
+    - link_name: NeverSSL
+      link_url: http://neverssl.com/online/
+    - link_name: Speed
+      link_url: https://speed.cloudflare.com
+    - link_name: What's My Browser
+      link_url: https://www.whatsmybrowser.org
 - category: Travel
   links:
     - link_name: Marriott
