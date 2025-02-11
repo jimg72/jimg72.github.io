@@ -200,12 +200,14 @@
       link_url: https://twitter.com
 
 - category: Cool Links
+  links:
     - link_name: NeverSSL
       link_url: http://neverssl.com/online/
     - link_name: Speed
       link_url: https://speed.cloudflare.com
     - link_name: What's My Browser
       link_url: https://www.whatsmybrowser.org
+
 - category: Travel
   links:
     - link_name: Marriott
