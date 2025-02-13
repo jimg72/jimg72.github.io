@@ -4,10 +4,22 @@
   ebay_str: '"archie manning"'
   tcdb_str: archie-manning
   links:
-    - link_name: Prizm Wantlist
+    - link_name: TCDb - Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
-    - link_name: Prizm Draft Wantlist
+    - link_name: TCDb - Prizm Draft Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
+    - link_name: eBay - 1978 Slim Jim
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
+    - link_name: eBay - Flawless
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+flawless&_from=R40&_sop=10
+    - link_name: eBay - Immaculate
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+immaculate&_from=R40&_sop=10
+    - link_name: eBay - National Treasures
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+%22national+treasures%22&_from=R40&_sop=10
+    - link_name: eBay - Modern
+      link_url: https://www.ebay.com/sch/261328/i.html?_fsrp=1&_from=R40&_nkw=%22archie+manning%22+-%281972%2C1973%2C1974%2C1975%2C1976%2C1977%2C1978%2C1979%29+-%281980%2C1981%2C1982%2C1983%29&_sacat=261328&_oaa=1&_dcat=261328&_sop=10
+    - link_name: eBay - Topps PSA 10
+      link_url: https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22archie+manning%22+topps+psa+10+-%28auto%2Cautograph%2Cbgs%2Csgc%2Csigned%29&_sop=10
 
 - player: Eli Manning
   pid: 11403
@@ -15,9 +27,9 @@
   ebay_str: '"eli manning"'
   tcdb_str: eli-manning
   links:
-    - link_name: COMC Prizm Wantlist
+    - link_name: TCDb - Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
-    - link_name: COMC Prizm Draft Wantlist
+    - link_name: TCDb - Prizm Draft Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
     - link_name: eBay 2004 Graded
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_fcid=1&_sop=10&_stpos=75248&_svsrch=1&Graded=Yes&_oaa=1&_dcat=212
@@ -38,14 +50,19 @@
   ebay_str: (deuce,duece) (mcallister,mcalister)
   tcdb_str: deuce-mcallister
   links:
-    - link_name: Prizm Wantlist
+    - link_name: TCDb - Prizm Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: eBay - 2001
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
 
 - player: A.J. Brown
   pid: 215446
   ebay_str: (a.j.,aj) brown
   comc_str: a%7b46%7dj%7b46%7d+brown
   tcdb_str: aj-brown
+  links:
+    - link_name: 2019 Prizm PSA 10
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%28aj%2Ca.j.%29+brown+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Matt Corral
   pid: 224252
@@ -59,10 +76,14 @@
   ebay_str: '"jaxson dart"'
   tcdb_str: jaxson-dart
   links:
-    - link_name: Prizm Draft Wantlist
+    - link_name: TCDb - Prizm Draft Wantlist
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/371911/Jaxson-Dart
-
-
+    - link_name: eBay - 2022
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2022&_from=R40&_sop=10
+    - link_name: eBay - 2023
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2023&_from=R40&_sop=10
+    - link_name: eBay - 2024
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2024&_from=R40&_sop=10
 
 - player: Evan Engram
   pid: 141612
@@ -81,6 +102,9 @@
   ebay_str: (d.k.,dk) metcalf
   comc_str: D%7B46%7DK%7B46%7D+Metcalf
   tcdb_str: dk-metcalf
+  links:
+    - link_name: 2019 Prizm PSA 10
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%28dk%2Cd.k.%29+metcalf+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Jonathan Mingo
   pid: 388581
