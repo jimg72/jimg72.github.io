@@ -146,6 +146,8 @@
   links:
     - link_name: Blinkist
       link_url: https://www.blinkist.com/en/app/for-you
+    - link_name: Coursera
+      link_url: https://www.coursera.org
     - link_name: Percipio
       link_url: https://cgi.percipio.com
     - link_name: Snowflake
