@@ -35,7 +35,10 @@ permalink: /start.html
 </div>
 
 <div class="container">
-    <div class="row row-cols-2 row-cols-md-4">
+    <div
+        class="row row-cols-2 row-cols-md-4"
+        data-masonry='{"percentPosition": true }'
+    >
         {% for player in site.data.football1 %}
         <div class="col g-4">
             <div class="card">
@@ -109,7 +112,10 @@ permalink: /start.html
 </div>
 
 <div class="container">
-    <div class="row row-cols-2 row-cols-md-4">
+    <div
+        class="row row-cols-2 row-cols-md-4"
+        data-masonry='{"percentPosition": true }'
+    >
         {% for player in site.data.baseball1 %}
         <div class="col g-4">
             <div class="card">
