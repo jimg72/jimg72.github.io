@@ -54,6 +54,8 @@
       link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
     - link_name: eBay - 2001
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
+    - link_name: eBay - Prizm
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
 
 - player: A.J. Brown
   pid: 215446
