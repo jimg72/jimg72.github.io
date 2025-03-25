@@ -125,7 +125,7 @@
     - link_name: Baseball-Ref
       link_url: https://www.baseball-reference.com
     - link_name: Rotowire
-      link_url: https://www.rotowire.com/myleagues/nfl/
+      link_url: https://www.rotowire.com/myleagues/mlb/dashboard.php?id=291406
 
 - category: News
   links:
