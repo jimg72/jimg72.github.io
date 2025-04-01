@@ -1,23 +1,49 @@
 body {
     background: #fff none;
-    color: #14213D;
+    color: #14213d;
 }
 
 a:not([class]) {
-    color: #006BA6;
+    color: #006ba6;
     text-decoration: none;
 }
 
 a:not([class]):hover {
-    color: #CE1126;
+    color: #ce1126;
     text-decoration: underline;
 }
 
 .card-header {
     font-weight: bold;
-    padding: .25rem .5rem;
+    padding: 0.25rem 0.5rem;
 }
 
 .list-group-item {
-    padding: .25rem .5rem;
+    padding: 0.25rem 0.5rem;
+}
+
+body.dark-mode {
+    background: #76abae none;
+    color: #eee;
+}
+
+body.dark-mode .card,
+body.dark-mode ul li.list-group-item {
+    background: #31363f none;
+    color: #eee;
+}
+
+body.dark-mode .card-header {
+    background: #222831 none;
+    color: #eee;
+}
+
+body.dark-mode a:not([class]) {
+    color: #eee;
+    text-decoration: none;
+}
+
+body.dark-mode a:not([class]):hover {
+    color: #fff;
+    text-decoration: underline;
 }

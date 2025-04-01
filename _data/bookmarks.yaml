@@ -5,13 +5,13 @@
 - category: My Cards
   links:
     - link_name: Baseball Coll
-      link_url: https://jimg72.github.io/baseball.html
+      link_url: baseball.html
     - link_name: Football Coll
-      link_url: https://jimg72.github.io/football.html
+      link_url: football.html
     - link_name: eBay Searches
-      link_url: https://jimg72.github.io/ebay.html
+      link_url: ebay.html
     - link_name: Player Searches
-      link_url: https://jimg72.github.io/search.html
+      link_url: search.html
     - link_name: COMC Ole Miss
       link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sr
     - link_name: Rebels in the Pros
