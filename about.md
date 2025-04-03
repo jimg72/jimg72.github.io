@@ -16,8 +16,8 @@ Living in Dallas, I love discovering great new places to eat—particularly if i
 
 And last but definitely not least, I've got two adorable miniature dachshunds named Sippi and Ember, who keep life interesting and fun!
 
-![Sippi](assets/sippi.png)
+![Sippi](/assets/images/sippi.png)
 
-![Ember](assets/ember.png)
+![Ember](/assets/images/ember.png)
 
 Thanks for stopping by—I hope you enjoy the blog!
