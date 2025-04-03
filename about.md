@@ -14,7 +14,7 @@ Speaking of Ole Miss, I'm a huge Rebels fan, closely following football, basebal
 
 Living in Dallas, I love discovering great new places to eat—particularly if it's casual TexMex or an amazing burger spot. Fine dining isn't really my scene; give me a relaxed atmosphere and delicious comfort food any day.
 
-And last but definitely not least, I've got two adorable miniature dachshunds named Sippi and Ember, who keep life interesting and fun!
+Fun fact about me, my wife and I got married on Zoom in 2020 because of COVID. And last but definitely not least, I have two adorable miniature dachshunds named Sippi and Ember, who keep life interesting and fun!
 
 <div style="display: flex; justify-content: space-between; padding-bottom: 20px;">
   <img src="/assets/images/sippi.png" alt="Sippi" style="width: 48%;">
