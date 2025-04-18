@@ -103,12 +103,12 @@
       link_url: https://github.com
     - link_name: Inoreader
       link_url: https://www.inoreader.com
+    - link_name: Pinboard
+      link_url: https://pinboard.in
     - link_name: Polymarket
       link_url: https://polymarket.com
     - link_name: Raindrop
       link_url: https://app.raindrop.io/my/0
-    - link_name: Sublime
-      link_url: https://sublime.app/library
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 

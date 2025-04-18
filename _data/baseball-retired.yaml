@@ -127,6 +127,21 @@
     twitter: none
 
 - player:
+    name: Lance Lynn
+    position: Pitcher
+    team: St. Louis Cardinals
+    drafted: "2008, Round C-A, #39"
+    mlb: yes
+    bb_ref_string: l/lynnla01
+    mlb_string: lance-lynn-458681
+    wiki: Lance_Lynn
+    comc_string: lance+lynn
+    ebay_string: '"lance lynn"'
+    photo_path: assets/images/bb/lance-lynn.jpg
+    instagram: none
+    twitter: none
+
+- player:
     name: Drew Pomeranz
     position: Pitcher
     team: Seattle Mariners

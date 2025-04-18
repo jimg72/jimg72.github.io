@@ -1,4 +1,3 @@
-
 - player:
     name: Nick Fortes
     position: Catcher
@@ -15,21 +14,6 @@
     twitter: none
 
 - player:
-    name: Lance Lynn
-    position: Pitcher
-    team: St. Louis Cardinals
-    drafted: "2008, Round C-A, #39"
-    mlb: yes
-    bb_ref_string: l/lynnla01
-    mlb_string: lance-lynn-458681
-    wiki: Lance_Lynn
-    comc_string: lance+lynn
-    ebay_string: '"lance lynn"'
-    photo_path: assets/images/bb/lance-lynn.jpg
-    instagram: none
-    twitter: none
-
-- player:
     name: Grae Kessinger
     position: Third Base
     team: Arizona Diamondbacks
@@ -40,7 +24,7 @@
     wiki: Grae_Kessinger
     comc_string: grae+kessinger
     ebay_string: '"grae kessinger"'
-    photo_path: assets/images/bb/grae-kessinger.jpg
+    photo_path: assets/images/bb/grae-kessinger2.jpg
     instagram: grae_kessinger15
     twitter: swagulater15
 
@@ -55,7 +39,7 @@
     wiki: James_McArthur_(baseball)
     comc_string: james+mcarthur
     ebay_string: '"james mcarthur"'
-    photo_path: assets/images/bb/james-mcarthur.jpg
+    photo_path: assets/images/bb/james-mcarthur2.jpg
     instagram: jamesmcarthur33
     twitter: none
 
@@ -70,6 +54,6 @@
     wiki: Jacob_Waguespack
     comc_string: jacob+waguespack
     ebay_string: '"jacob waguespack"'
-    photo_path: assets/images/bb/jacob-waguespack.jpg
+    photo_path: assets/images/bb/jacob-waguespack2.jpg
     instagram: jacobwag15
     twitter: jacobwag15
