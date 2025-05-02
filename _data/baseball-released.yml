@@ -12,6 +12,21 @@
     twitter: JBench_2
 
 - player:
+    name: Taylor Broadway
+    position: Pitcher
+    team: Boston Red Sox
+    drafted: "2021, Round 6, #185"
+    mlb: no
+    ba_string: 19598-taylor-broadway
+    bb_ref_string: register/player.fcgi?id=broadw000tay
+    mlb_string: taylor-broadway-699479
+    comc_string: taylor+broadway
+    ebay_string: '"taylor broadway"'
+    photo_path: assets/images/bb/taylor-broadway.png
+    instagram: taylor_broadway07
+    twitter: none
+
+- player:
     name: Parker Caracci
     team:
     drafted: ""
