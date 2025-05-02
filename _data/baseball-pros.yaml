@@ -14,19 +14,19 @@
     twitter: none
 
 - player:
-    name: Grae Kessinger
-    position: Third Base
-    team: Arizona Diamondbacks
-    drafted: "2019, Round 2, #68"
+    name: Gunnar Hoglund
+    position: Pitcher
+    team: "Oakland A's"
+    drafted: "2021, Round 1, #19"
     mlb: yes
-    bb_ref_string: k/kessigr01.shtml
-    mlb_string: grae-kessinger-666197
-    wiki: Grae_Kessinger
-    comc_string: grae+kessinger
-    ebay_string: '"grae kessinger"'
-    photo_path: assets/images/bb/grae-kessinger2.jpg
-    instagram: grae_kessinger15
-    twitter: swagulater15
+    ba_string: register/player.fcgi?id=hoglun000gun
+    bb_ref_string: register/player.fcgi?id=7276-gunnar-hoglund
+    mlb_string: gunnar-hoglund-680684
+    comc_string: gunnar+hoglund
+    ebay_string: '"gunnar hoglund"'
+    photo_path: assets/images/bb/gunnar-hoglund2.jpg
+    instagram: gunnarhoglund17
+    twitter: none
 
 - player:
     name: James McArthur
@@ -42,18 +42,3 @@
     photo_path: assets/images/bb/james-mcarthur2.jpg
     instagram: jamesmcarthur33
     twitter: none
-
-- player:
-    name: Jacob Waguespack
-    position: Pitcher
-    team: Tampa Bay Rays
-    drafted: Undrafted
-    mlb: yes
-    bb_ref_string: w/wagueja01
-    mlb_string: jacob-waguespack-621097
-    wiki: Jacob_Waguespack
-    comc_string: jacob+waguespack
-    ebay_string: '"jacob waguespack"'
-    photo_path: assets/images/bb/jacob-waguespack2.jpg
-    instagram: jacobwag15
-    twitter: jacobwag15

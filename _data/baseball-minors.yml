@@ -133,20 +133,6 @@
     instagram: calvinjharris3
     twitter: none
 
-- player:
-    name: Gunnar Hoglund
-    position: Pitcher
-    team: "Oakland A's"
-    drafted: "2021, Round 1, #19"
-    mlb: no
-    ba_string: register/player.fcgi?id=hoglun000gun
-    bb_ref_string: register/player.fcgi?id=7276-gunnar-hoglund
-    mlb_string: gunnar-hoglund-680684
-    comc_string: gunnar+hoglund
-    ebay_string: '"gunnar hoglund"'
-    photo_path: assets/images/bb/gunnar-hoglund2.jpg
-    instagram: gunnarhoglund17
-    twitter: none
 
 - player:
     name: Brandon Johnson
@@ -177,6 +163,21 @@
     photo_path: assets/images/bb/cooper-johnson.jpg
     instagram: cooper__johnson
     twitter: none
+
+- player:
+    name: Grae Kessinger
+    position: Third Base
+    team: Arizona Diamondbacks
+    drafted: "2019, Round 2, #68"
+    mlb: yes
+    bb_ref_string: k/kessigr01.shtml
+    mlb_string: grae-kessinger-666197
+    wiki: Grae_Kessinger
+    comc_string: grae+kessinger
+    ebay_string: '"grae kessinger"'
+    photo_path: assets/images/bb/grae-kessinger2.jpg
+    instagram: grae_kessinger15
+    twitter: swagulater15
 
 - player:
     name: Ethan Lege
@@ -213,13 +214,13 @@
     position: Pitcher
     team: Cleveland Indians
     drafted: "2021, Round 2, #58"
-    mlb: no
+    mlb: yes
     ba_string: 7903-doug-nikhazy
-    bb_ref_string: register/player.fcgi?id=nikhaz000dou
+    bb_ref_string: n/nikhado01.shtml
     mlb_string: doug-nikhazy-680951
     comc_string: doug+nikhazy
     ebay_string: '"doug nikhazy"'
-    photo_path: assets/images/bb/doug-nikhazy2.png
+    photo_path: assets/images/bb/doug-nikhazy3.png
     instagram: dougnikhazy
     twitter: dougnikhazy
 
@@ -282,3 +283,18 @@
     photo_path: assets/images/bb/cole-tolbert.jpg
     instagram: coletolbert
     twitter: none
+
+- player:
+    name: Jacob Waguespack
+    position: Pitcher
+    team: Tampa Bay Rays
+    drafted: Undrafted
+    mlb: yes
+    bb_ref_string: w/wagueja01
+    mlb_string: jacob-waguespack-621097
+    wiki: Jacob_Waguespack
+    comc_string: jacob+waguespack
+    ebay_string: '"jacob waguespack"'
+    photo_path: assets/images/bb/jacob-waguespack2.jpg
+    instagram: jacobwag15
+    twitter: jacobwag15
