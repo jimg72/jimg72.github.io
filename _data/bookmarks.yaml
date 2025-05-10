@@ -13,7 +13,7 @@
     - link_name: Player Searches
       link_url: search.html
     - link_name: COMC Ole Miss
-      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sr
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sn,ot,aUngraded
     - link_name: Rebels in the Pros
       link_url: baseball_rebel_pros.html
     - link_name: eBay Bids & Offers
@@ -55,8 +55,6 @@
 
 - category: Entertainment
   links:
-    - link_name: Calmly Leon
-      link_url: https://calmyleon.com
     - link_name: DisneyPlus
       link_url: https://www.disneyplus.com
     - link_name: HD Cars
@@ -107,8 +105,6 @@
       link_url: https://pinboard.in
     - link_name: Polymarket
       link_url: https://polymarket.com
-    - link_name: Raindrop
-      link_url: https://app.raindrop.io/my/0
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
 
@@ -133,19 +129,13 @@
       link_url: https://www.cnn.com
     - link_name: Drudge Report
       link_url: https://www.drudgereport.com
-    - link_name: Five Thirty Eight
-      link_url: https://fivethirtyeight.com
     - link_name: Texas Monthly
       link_url: https://www.texasmonthly.com
-    - link_name: VOX
-      link_url: https://www.vox.com
     - link_name: Severe Weather
       link_url: https://www.severeweatheroutlook.com/everything/
 
 - category: Edu
   links:
-    - link_name: Blinkist
-      link_url: https://www.blinkist.com/en/app/for-you
     - link_name: Coursera
       link_url: https://www.coursera.org
     - link_name: Percipio
@@ -159,8 +149,6 @@
 
 - category: Games
   links:
-    - link_name: Sports Connections
-      link_url: https://www.nytimes.com/athletic/connections-sports-edition?smtyp=cur&smid=tw-nytimes
     - link_name: Puzzmo
       link_url: https://www.puzzmo.com/today
     - link_name: Video Poker
