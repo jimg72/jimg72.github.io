@@ -1,4 +1,19 @@
 - player:
+    name: Tim Elko
+    position: First Base
+    team: Chicago White Sox
+    drafted: "2022, Round 10, #311"
+    mlb: yes
+    ba_string: 1507733-tim-elko
+    bb_ref_string: e/elkoti01.shtml
+    mlb_string: tim-elko-671284
+    comc_string: tim+elko
+    ebay_string: '"tim elko"'
+    photo_path: assets/images/bb/tim-elko3.jpg
+    instagram: tim_elko
+    twitter: TimElko
+
+- player:
     name: Nick Fortes
     position: Catcher
     team: Miami Marlins
@@ -20,7 +35,7 @@
     drafted: "2021, Round 1, #19"
     mlb: yes
     ba_string: register/player.fcgi?id=hoglun000gun
-    bb_ref_string: register/player.fcgi?id=7276-gunnar-hoglund
+    bb_ref_string: h/hoglugu01.shtml
     mlb_string: gunnar-hoglund-680684
     comc_string: gunnar+hoglund
     ebay_string: '"gunnar hoglund"'
@@ -41,4 +56,19 @@
     ebay_string: '"james mcarthur"'
     photo_path: assets/images/bb/james-mcarthur2.jpg
     instagram: jamesmcarthur33
+    twitter: none
+
+- player:
+    name: Ryan Rolison
+    position: Pitcher
+    team: Colorado Rockies
+    drafted: "2018, Round 1, #22"
+    mlb: yes
+    ba_string:
+    bb_ref_string: register/player.fcgi?id=roliso000rya
+    mlb_string: ryan-rolison-669020
+    comc_string: ryan+rolison
+    ebay_string: '"ryan rolison"'
+    photo_path: assets/images/bb/ryan-rolison2.jpg
+    instagram: ryan.rolison
     twitter: none

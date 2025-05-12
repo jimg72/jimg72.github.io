@@ -44,21 +44,6 @@
     twitter: none
 
 - player:
-    name: Tim Elko
-    position: First Base
-    team: Chicago White Sox
-    drafted: "2022, Round 10, #311"
-    mlb: no
-    ba_string: 1507733-tim-elko
-    bb_ref_string: register/player.fcgi?id=elko--000tim
-    mlb_string: tim-elko-671284
-    comc_string: tim+elko
-    ebay_string: '"tim elko"'
-    photo_path: assets/images/bb/tim-elko2.jpg
-    instagram: tim_elko
-    twitter: TimElko
-
-- player:
     name: Jack Dougherty
     position: Pitcher
     team: Minnesota Twins
@@ -207,21 +192,6 @@
     photo_path: assets/images/bb/doug-nikhazy3.png
     instagram: dougnikhazy
     twitter: dougnikhazy
-
-- player:
-    name: Ryan Rolison
-    position: Pitcher
-    team: Colorado Rockies
-    drafted: "2018, Round 1, #22"
-    mlb: no
-    ba_string:
-    bb_ref_string: register/player.fcgi?id=roliso000rya
-    mlb_string: ryan-rolison-669020
-    comc_string: ryan+rolison
-    ebay_string: '"ryan rolison"'
-    photo_path: assets/images/bb/ryan-rolison2.jpg
-    instagram: ryan.rolison
-    twitter: none
 
 - player:
     name: Houston Roth
