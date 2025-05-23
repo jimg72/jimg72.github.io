@@ -164,6 +164,8 @@
   links:
     - link_name: Hacker News
       link_url: https://news.ycombinator.com
+    - link_name: Hacker News *
+      link_url: https://hcker.news/
     - link_name: Stack Overflow
       link_url: https://stackoverflow.com
     - link_name: Techmeme
