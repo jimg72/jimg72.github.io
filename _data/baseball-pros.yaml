@@ -59,6 +59,22 @@
     twitter: none
 
 - player:
+    name: Drew Pomeranz
+    position: Pitcher
+    team: Seattle Mariners
+    years: 2011-2024
+    drafted: "2010, Round 1, #5"
+    mlb: yes
+    bb_ref_string: p/pomerdr01
+    mlb_string: drew-pomeranz-519141
+    wiki: Drew_Pomeranz
+    comc_string: drew+pomeranz
+    ebay_string: '"drew pomeranz"'
+    photo_path: assets/images/bb/drew-pomeranz.jpg
+    instagram: drewpomeranz
+    twitter: none
+
+- player:
     name: Ryan Rolison
     position: Pitcher
     team: Colorado Rockies
