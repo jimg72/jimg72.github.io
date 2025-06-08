@@ -61,7 +61,7 @@
 - player:
     name: Drew Pomeranz
     position: Pitcher
-    team: Seattle Mariners
+    team: Chicago Cubs
     years: 2011-2024
     drafted: "2010, Round 1, #5"
     mlb: yes
@@ -70,7 +70,7 @@
     wiki: Drew_Pomeranz
     comc_string: drew+pomeranz
     ebay_string: '"drew pomeranz"'
-    photo_path: assets/images/bb/drew-pomeranz.jpg
+    photo_path: assets/images/bb/drew-pomeranz2.jpg
     instagram: drewpomeranz
     twitter: none
 
