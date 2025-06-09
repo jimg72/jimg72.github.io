@@ -5,28 +5,28 @@ menu: none
 permalink: /baseball_rebel_pros.html
 ---
 
-<div class="container">
+<div class="container px-2 px-md-3">
     <div class="row mb-4">
         <div class="col">
-            <img src="assets/images/bb/swayze.png" class="img-fluid" />
+            <img src="assets/images/bb/swayze.png" class="img-fluid" alt="Swayze Field" />
         </div>
     </div>
-    <div class="row">
+    <div class="row mb-4">
         <div class="col">
-            <h1>Rebels in the Majors</h1>
+            <h1 class="mb-0">Rebels in the Majors</h1>
         </div>
     </div>
 </div>
 
-<div class="container">
-    <div class="row row row-cols-2 row-cols-md-4">
+<div class="container px-2 px-md-3">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4">
         {% for p in site.data.baseball-pros %}
-        <div class="col g-2">
-            <div class="card">
-                <img src=" {{ p.player.photo_path }}" class="card-img-top" />
+        <div class="col">
+            <div class="card h-100">
+                <img src="{{ p.player.photo_path }}" class="card-img-top" alt="{{ p.player.name }}" />
                 <div class="card-body">
                     <div class="card-title">
-                        <h5>{{ p.player.name }}</h5>
+                        <h5 class="mb-2">{{ p.player.name }}</h5>
                     </div>
                     <div class="card-text pb-2">
                         {{ p.player.position }}<br>
@@ -36,45 +36,43 @@ permalink: /baseball_rebel_pros.html
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/mlb.svg" alt="MLB" class="me-2" width="32" height="18">
-                            <a href="https://www.mlb.com/player/{{ p.player.mlb_string}}" target="_blank">MLB.com</a>
+                            <a href="https://www.mlb.com/player/{{ p.player.mlb_string}}" target="_blank" class="text-decoration-none">MLB.com</a>
                         </div>
                     </div>
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
-                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32"
-                                height="18">
-                            <a href="https://www.baseball-reference.com/players/{{ p.player.bb_ref_string}}.shtml"
-                                target="_blank">Baseball Ref</a>
+                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32" height="18">
+                            <a href="https://www.baseball-reference.com/players/{{ p.player.bb_ref_string}}.shtml" target="_blank" class="text-decoration-none">Baseball Ref</a>
                         </div>
                     </div>
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/ebay_logo.svg" alt="eBay" class="me-2" width="32" height="18">
-                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10"
-                                target="_blank">eBay New</a><br>
+                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10" target="_blank" class="text-decoration-none">eBay New</a>
                         </div>
                     </div>
                     <div class="card-text pb-2">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/comc.svg" alt="COMC" class="me-2" width="32" height="18">
-                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank">COMC</a>
+                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank" class="text-decoration-none">COMC</a>
                         </div>
                     </div>
                     <div class="card-text">
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-center gap-2">
                             {% if p.player.instagram != "none" %}
-                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" alt="Instagram"
-                                target="_blank"><img src="assets/icons/instagram.svg" alt="Instagram" class="me-2"
-                                    width="20" height="20"></a>
+                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/instagram.svg" alt="Instagram" width="20" height="20">
+                            </a>
                             {% endif %}
                             {% if p.player.twitter != "none" %}
-                            <a href="http://www.x.com/{{ p.player.twitter }}"><img src="assets/icons/twitter-x.svg"
-                                    alt="Twitter" class="me-2" width="20" height="20"></a>
+                            <a href="http://www.x.com/{{ p.player.twitter }}" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/twitter-x.svg" alt="Twitter" width="20" height="20">
+                            </a>
                             {% endif %}
                             {% if p.player.wiki != "none" %}
-                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}"><img
-                                    src="assets/icons/wikipedia.svg" alt="Twitter" class="me-2" width="20"
-                                    height="20"></a>
+                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/wikipedia.svg" alt="Wikipedia" width="20" height="20">
+                            </a>
                             {% endif %}
                         </div>
                     </div>
@@ -85,28 +83,28 @@ permalink: /baseball_rebel_pros.html
     </div>
 </div>
 
-<div class="container">
+<div class="container px-2 px-md-3">
     <div class="row">
         <div class="col">
-            <hr>
+            <hr class="my-4">
         </div>
     </div>
-    <div class="row">
+    <div class="row mb-4">
         <div class="col">
-            <h1>Rebels in the Minors</h1>
+            <h1 class="mb-0">Rebels in the Minors</h1>
         </div>
     </div>
 </div>
 
-<div class="container">
-    <div class="row row row-cols-2 row-cols-md-4">
+<div class="container px-2 px-md-3">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4">
         {% for p in site.data.baseball-minors %}
-        <div class="col g-2">
-            <div class="card">
-                <img src=" {{ p.player.photo_path }}" class="card-img-top" />
+        <div class="col">
+            <div class="card h-100">
+                <img src="{{ p.player.photo_path }}" class="card-img-top" alt="{{ p.player.name }}" />
                 <div class="card-body">
                     <div class="card-title">
-                        <h5>{{ p.player.name }}</h5>
+                        <h5 class="mb-2">{{ p.player.name }}</h5>
                     </div>
                     <div class="card-text pb-2">
                         {{ p.player.position }}<br>
@@ -116,50 +114,46 @@ permalink: /baseball_rebel_pros.html
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/milb.svg" alt="MILB" class="me-2" width="32" height="18">
-                            <a href="https://www.milb.com/player/{{ p.player.mlb_string}}" target="_blank">MiLB.com</a>
+                            <a href="https://www.milb.com/player/{{ p.player.mlb_string}}" target="_blank" class="text-decoration-none">MiLB.com</a>
                         </div>
                     </div>
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
-                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32"
-                                height="18">
-                            <a href="https://www.baseball-reference.com/{{ p.player.bb_ref_string }}"
-                                target="_blank">Baseball Ref</a>
+                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32" height="18">
+                            <a href="https://www.baseball-reference.com/{{ p.player.bb_ref_string }}" target="_blank" class="text-decoration-none">Baseball Ref</a>
                         </div>
                     </div>
                     {% if p.player.ba_string != "none" %}
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/ba2.svg" alt="Baseball America" class="me-2" width="32" height="18">
-                            <a href="https://www.baseballamerica.com/players/{{ p.player.ba_string}}/"
-                                target="_blank">Baseball America</a>
+                            <a href="https://www.baseballamerica.com/players/{{ p.player.ba_string}}/" target="_blank" class="text-decoration-none">Baseball America</a>
                         </div>
                     </div>
-                    {% else %}<br>
                     {% endif %}
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/ebay_logo.svg" alt="eBay" class="me-2" width="32" height="18">
-                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10"
-                                target="_blank">eBay New</a><br>
+                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10" target="_blank" class="text-decoration-none">eBay New</a>
                         </div>
                     </div>
                     <div class="card-text pb-2">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/comc.svg" alt="COMC" class="me-2" width="32" height="18">
-                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank">COMC</a>
+                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank" class="text-decoration-none">COMC</a>
                         </div>
                     </div>
                     <div class="card-text">
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-center gap-2">
                             {% if p.player.instagram != "none" %}
-                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" alt="Instagram"
-                                target="_blank"><img src="assets/icons/instagram.svg" alt="Instagram" class="me-2"
-                                    width="20" height="20"></a>
+                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/instagram.svg" alt="Instagram" width="20" height="20">
+                            </a>
                             {% endif %}
                             {% if p.player.twitter != "none" %}
-                            <a href="http://www.x.com/{{ p.player.twitter }}"><img src="assets/icons/twitter-x.svg"
-                                    alt="Twitter" class="me-2" width="20" height="20"></a>
+                            <a href="http://www.x.com/{{ p.player.twitter }}" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/twitter-x.svg" alt="Twitter" width="20" height="20">
+                            </a>
                             {% endif %}
                         </div>
                     </div>
@@ -170,28 +164,28 @@ permalink: /baseball_rebel_pros.html
     </div>
 </div>
 
-<div class="container">
+<div class="container px-2 px-md-3">
     <div class="row">
         <div class="col">
-            <hr>
+            <hr class="my-4">
         </div>
     </div>
-    <div class="row">
+    <div class="row mb-4">
         <div class="col">
-            <h1>Rebels in the Majors (Retired)</h1>
+            <h1 class="mb-0">Rebels in the Majors (Retired)</h1>
         </div>
     </div>
 </div>
 
-<div class="container">
-    <div class="row row row-cols-2 row-cols-md-4">
+<div class="container px-2 px-md-3">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4">
         {% for p in site.data.baseball-retired %}
-        <div class="col g-2">
-            <div class="card">
-                <img src=" {{ p.player.photo_path }}" class="card-img-top" />
+        <div class="col">
+            <div class="card h-100">
+                <img src="{{ p.player.photo_path }}" class="card-img-top" alt="{{ p.player.name }}" />
                 <div class="card-body">
                     <div class="card-title">
-                        <h5>{{ p.player.name }}</h5>
+                        <h5 class="mb-2">{{ p.player.name }}</h5>
                     </div>
                     <div class="card-text pb-2">
                         {{ p.player.position }}<br>
@@ -202,45 +196,43 @@ permalink: /baseball_rebel_pros.html
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/mlb.svg" alt="MLB" class="me-2" width="32" height="18">
-                            <a href="https://www.mlb.com/player/{{ p.player.mlb_string}}" target="_blank">MLB.com</a>
+                            <a href="https://www.mlb.com/player/{{ p.player.mlb_string}}" target="_blank" class="text-decoration-none">MLB.com</a>
                         </div>
                     </div>
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
-                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32"
-                                height="18">
-                            <a href="https://www.baseball-reference.com/players/{{ p.player.bb_ref_string}}.shtml"
-                                target="_blank">Baseball Ref</a>
+                            <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32" height="18">
+                            <a href="https://www.baseball-reference.com/players/{{ p.player.bb_ref_string}}.shtml" target="_blank" class="text-decoration-none">Baseball Ref</a>
                         </div>
                     </div>
                     <div class="card-text pb-1">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/ebay_logo.svg" alt="eBay" class="me-2" width="32" height="18">
-                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10"
-                                target="_blank">eBay New</a><br>
+                            <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ p.player.ebay_string|cgi_escape }}&_sop=10" target="_blank" class="text-decoration-none">eBay New</a>
                         </div>
                     </div>
                     <div class="card-text pb-2">
                         <div class="d-flex align-items-center">
                             <img src="assets/icons/comc.svg" alt="COMC" class="me-2" width="32" height="18">
-                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank">COMC</a>
+                            <a href="https://www.comc.com/Cards,sr,={{ p.player.comc_string }}" target="_blank" class="text-decoration-none">COMC</a>
                         </div>
                     </div>
                     <div class="card-text">
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-center gap-2">
                             {% if p.player.instagram != "none" %}
-                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" alt="Instagram"
-                                target="_blank"><img src="assets/icons/instagram.svg" alt="Instagram" class="me-2"
-                                    width="20" height="20"></a>
+                            <a href="https://www.instagram.com/{{ p.player.instagram }}/" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/instagram.svg" alt="Instagram" width="20" height="20">
+                            </a>
                             {% endif %}
                             {% if p.player.twitter != "none" %}
-                            <a href="http://www.x.com/{{ p.player.twitter }}"><img src="assets/icons/twitter-x.svg"
-                                    alt="Twitter" class="me-2" width="20" height="20"></a>
+                            <a href="http://www.x.com/{{ p.player.twitter }}" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/twitter-x.svg" alt="Twitter" width="20" height="20">
+                            </a>
                             {% endif %}
                             {% if p.player.wiki != "none" %}
-                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}"><img
-                                    src="assets/icons/wikipedia.svg" alt="Twitter" class="me-2" width="20"
-                                    height="20"></a>
+                            <a href="https://en.wikipedia.org/wiki/{{ p.player.wiki }}" target="_blank" class="text-decoration-none">
+                                <img src="assets/icons/wikipedia.svg" alt="Wikipedia" width="20" height="20">
+                            </a>
                             {% endif %}
                         </div>
                     </div>
@@ -248,10 +240,5 @@ permalink: /baseball_rebel_pros.html
             </div>
         </div>
         {% endfor %}
-    </div>
-    <div class="row">
-        <div class="col">
-            <hr>
-        </div>
     </div>
 </div>
