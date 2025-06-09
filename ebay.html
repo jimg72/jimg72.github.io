@@ -6,10 +6,7 @@ permalink: /ebay.html
 ---
 
 <div class="container">
-    <div
-        class="row row-cols-2 row-cols-md-5"
-        data-masonry='{"percentPosition": true }'
-    >
+    <div class="row row-cols-2 row-cols-md-5" data-masonry='{"percentPosition": true }'>
         {% for groups in site.data.ebay %}
         <div class="col g-4">
             <div class="card">
@@ -17,11 +14,7 @@ permalink: /ebay.html
                 <ul class="list-group list-group-flush">
                     {% for urls in groups.searches %}
                     <li class="list-group-item">
-                        <a
-                            target="_blank"
-                            href="https://www.ebay.com/{{ urls.search_str }}"
-                            >{{ urls.search_name }}</a
-                        >
+                        <a target="_blank" href="https://www.ebay.com/{{ urls.search_str }}">{{ urls.search_name }}</a>
                     </li>
                     {% endfor %}
                 </ul>
