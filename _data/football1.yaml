@@ -98,6 +98,12 @@
   comc_str: matt+corral
   tcdb_str: matt-corral
 
+- player: Logan Diggs
+  pid: 378045
+  comc_str: logan+diggs
+  ebay_str: '"logan diggs"'
+  tcdb_str: logan-diggs
+
 - player: Evan Engram
   pid: 141612
   comc_str: evan+engram
