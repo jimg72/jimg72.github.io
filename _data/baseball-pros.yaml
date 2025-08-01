@@ -16,7 +16,7 @@
 - player:
     name: Nick Fortes
     position: Catcher
-    team: Miami Marlins
+    team: Tampa Bay Rays
     drafted: "2018, Round 4, #117"
     mlb: yes
     bb_ref_string: f/forteni01
@@ -24,7 +24,7 @@
     wiki: Nick_Fortes
     comc_string: nick+fortes
     ebay_string: '"nick fortes"'
-    photo_path: assets/images/bb/nick-fortes.jpg
+    photo_path: assets/images/bb/nick-fortes2.jpg
     instagram: nickfortes
     twitter: none
 
@@ -72,21 +72,6 @@
     ebay_string: '"drew pomeranz"'
     photo_path: assets/images/bb/drew-pomeranz2.jpg
     instagram: drewpomeranz
-    twitter: none
-
-- player:
-    name: Ryan Rolison
-    position: Pitcher
-    team: Colorado Rockies
-    drafted: "2018, Round 1, #22"
-    mlb: yes
-    ba_string:
-    bb_ref_string: r/rolisry01
-    mlb_string: ryan-rolison-669020
-    comc_string: ryan+rolison
-    ebay_string: '"ryan rolison"'
-    photo_path: assets/images/bb/ryan-rolison3.jpg
-    instagram: ryan.rolison
     twitter: none
 
 - player:
