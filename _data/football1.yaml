@@ -83,6 +83,12 @@
     - link_name: e - Prizm
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
 
+- player: Brandon Bolden
+  pid: 40109
+  comc_str: brandon+bolden
+  ebay_str: '"brandon bolden"'
+  tcdb_str: brandon-bolden
+
 - player: A.J. Brown
   pid: 215446
   ebay_str: (a.j.,aj) brown
@@ -142,6 +148,24 @@
   comc_str: laremy+tunsil
   ebay_str: '"laremy tunsil"'
   tcdb_str: laremy-tunsil
+
+- player: Bo Wallace
+  pid: 65691
+  comc_str: bo+wallace
+  ebay_str: '"bo wallace"'
+  tcdb_str: bo-wallace
+  
+- player: Mike Wallace
+  pid: 27766
+  comc_str: mike+wallace
+  ebay_str: '"mike wallace"'
+  tcdb_str: mike-wallace
+
+- player: Wesley Walls
+  pid: 13295
+  comc_str: wesley+walls
+  ebay_str: '"wesley walls"'
+  tcdb_str: wesley-walls
 
 - player: Patrick Willis
   pid: 13520

@@ -112,12 +112,6 @@
   ebay_str: '"travis blanchard"'
   tcdb_str: travis-blanchard
 
-- player: Brandon Bolden
-  pid: 40109
-  comc_str: brandon+bolden
-  ebay_str: '"brandon bolden"'
-  tcdb_str: brandon-bolden
-
 - player: Antonious Bonner
   pid: 179956
   comc_str: antonious+bonner
@@ -1137,24 +1131,6 @@
   comc_str: todd+wade
   ebay_str: '"todd wade"'
   tcdb_str: todd-wade
-
-- player: Bo Wallace
-  pid: 65691
-  comc_str: bo+wallace
-  ebay_str: '"bo wallace"'
-  tcdb_str: bo-wallace
-
-- player: Mike Wallace
-  pid: 27766
-  comc_str: mike+wallace
-  ebay_str: '"mike wallace"'
-  tcdb_str: mike-wallace
-
-- player: Wesley Walls
-  pid: 13295
-  comc_str: wesley+walls
-  ebay_str: '"wesley walls"'
-  tcdb_str: wesley-walls
 
 - player: Nate Wayne
   pid: 27791

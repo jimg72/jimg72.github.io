@@ -179,21 +179,6 @@
     twitter: dougnikhazy
 
 - player:
-    name: Houston Roth
-    position: Pitcher
-    team: Baltimore Orioles
-    drafted: "2019, Round 29, #858"
-    mlb: no
-    ba_string: 17701-houston-roth
-    bb_ref_string: register/player.fcgi?id=roth--000hou
-    mlb_string: houston-roth-674175
-    comc_string: houston+roth
-    ebay_string: '"houston roth"'
-    photo_path: assets/images/bb/houston-roth.jpg
-    instagram: houston_roth
-    twitter: none
-
-- player:
     name: Anthony Servideo
     position: Shortstop
     team: Baltimore Orioles
