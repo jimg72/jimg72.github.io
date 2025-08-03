@@ -118,6 +118,8 @@
       link_url: https://www.baseball-reference.com
     - link_name: Rotowire
       link_url: https://www.rotowire.com/myleagues/mlb/dashboard.php?id=291406
+    - link_name: Rebels 247
+      link_url: https://247sports.com/college/ole-miss/
 
 - category: News
   links:
