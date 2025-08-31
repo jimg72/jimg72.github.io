@@ -83,6 +83,12 @@
     - link_name: e - Prizm
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
 
+- player: Trey Amos
+  pid: 405604
+  comc_str: trey+amos
+  ebay_str: '"trey amos"'
+  tcdb_str: trey+amos
+
 - player: Brandon Bolden
   pid: 40109
   comc_str: brandon+bolden
@@ -116,6 +122,12 @@
   ebay_str: '"evan engram"'
   tcdb_str: evan-engram
 
+- player: Tre Harris
+  pid: 454520
+  comc_str: tre-harris
+  ebay_str: '"tre-harris"'
+  tcdb_str: tre-harris
+
 - player: Dawson Knox
   pid: 218824
   ebay_str: '"dawson knox"'
@@ -143,18 +155,30 @@
   ebay_str: '"elijah moore"'
   tcdb_str: elijah-moore
 
+- player: Walter Nolen
+  pid: 486008
+  comc_str: walter+nolen
+  ebay_str: '"walter nolen"'
+  tcdb_str: walter+nolen
+
 - player: Laremy Tunsil
   pid: 95697
   comc_str: laremy+tunsil
   ebay_str: '"laremy tunsil"'
   tcdb_str: laremy-tunsil
 
+- player: Princely Umanmielen
+  pid: 400941
+  comc_str: princely+umanmielen
+  ebay_str: '"princely umanmielen"'
+  tcdb_str: princely+umanmielen
+
 - player: Bo Wallace
   pid: 65691
   comc_str: bo+wallace
   ebay_str: '"bo wallace"'
   tcdb_str: bo-wallace
-  
+
 - player: Mike Wallace
   pid: 27766
   comc_str: mike+wallace
