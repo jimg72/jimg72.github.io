@@ -26,7 +26,7 @@
     wiki: Chris_Coghlan
     comc_string: chris+coghlan
     ebay_string: '"chris coghlan"'
-    photo_path: assets/images/bb/chris-coghlan.jpg
+    photo_path: assets/images/bb/chris-coghlan2.jpg
     instagram: cogz08
     twitter: none
 
@@ -42,7 +42,7 @@
     wiki: Zack_Cozart
     comc_string: zack+cozart
     ebay_string: '"zack cozart"'
-    photo_path: assets/images/bb/zack-cozart.jpg
+    photo_path: assets/images/bb/zack-cozart2.jpg
     instagram: z.cozart02
     twitter: none
 
@@ -113,7 +113,7 @@
 - player:
     name: Grae Kessinger
     position: Third Base
-    team: ???
+    team: Arizona Diamondbacks
     drafted: "2019, Round 2, #68"
     mlb: yes
     bb_ref_string: k/kessigr01.shtml
@@ -184,7 +184,7 @@
     wiki: Seth_Smith
     comc_string: seth-smith
     ebay_string: '"seth smith"'
-    photo_path: assets/images/bb/seth-smith.jpg
+    photo_path: assets/images/bb/seth-smith2.jpg
     instagram: none
     twitter: none
 
