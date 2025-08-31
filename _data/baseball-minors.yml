@@ -9,7 +9,7 @@
     mlb_string: kemp-alderman-694580
     comc_string: kemp+alderman
     ebay_string: '"kemp alderman"'
-    photo_path: assets/images/bb/kemp-alderman.png
+    photo_path: assets/images/bb/kemp-alderman2.jpg
     instagram: kempalderman
     twitter: KempAlderman
 
@@ -24,7 +24,7 @@
     mlb_string: dylan-delucia-690626
     comc_string: dylan+delucia
     ebay_string: '"dylan delucia"'
-    photo_path: assets/images/bb/dylan-delucia2.jpg
+    photo_path: assets/images/bb/dylan-delucia3.jpg
     instagram: dylandelucia22
     twitter: none
 
@@ -39,7 +39,7 @@
     mlb_string: derek-diamond-682981
     comc_string: derek+diamond
     ebay_string: '"derek diamond"'
-    photo_path: assets/images/bb/derek-diamond.jpg
+    photo_path: assets/images/bb/derek-diamond2.jpg
     instagram: dr.derek
     twitter: none
 
@@ -59,6 +59,21 @@
     twitter: none
 
 - player:
+    name: Tim Elko
+    position: First Base
+    team: Chicago White Sox
+    drafted: "2022, Round 10, #311"
+    mlb: yes
+    ba_string: 1507733-tim-elko
+    bb_ref_string: e/elkoti01
+    mlb_string: tim-elko-671284
+    comc_string: tim+elko
+    ebay_string: '"tim elko"'
+    photo_path: assets/images/bb/tim-elko3.jpg
+    instagram: tim_elko
+    twitter: TimElko
+
+- player:
     name: Jacob Gonzalez
     position: Shortstop
     team: Chicago White Sox
@@ -69,24 +84,9 @@
     mlb_string: jacob-gonzalez-694378
     comc_string: jacob+gonzalez
     ebay_string: '"jacob gonzalez"'
-    photo_path: assets/images/bb/jacob-gonzalez2.jpg
+    photo_path: assets/images/bb/jacob-gonzalez3.png
     instagram: jake.jjg
     twitter: none
-
-- player:
-    name: Kevin Graham
-    position: Outfield
-    team: Arizona Diamondbacks
-    drafted: "2022, Round 14, #408"
-    mlb: no
-    ba_string: 19599-kevin-graham
-    bb_ref_string: register/player.fcgi?id=graham000kev
-    mlb_string: kevin-graham-681184
-    comc_string: kevin+graham
-    ebay_string: '"kevin graham"'
-    photo_path: assets/images/bb/kevin-graham.png
-    instagram: kevgraham35
-    twitter: kevgraham11
 
 - player:
     name: Calvin Harris
@@ -114,7 +114,7 @@
     mlb_string: brandon-johnson-699489
     comc_string: none
     ebay_string: none
-    photo_path: assets/images/bb/brandon-johnson.png
+    photo_path: assets/images/bb/brandon-johnson2.jpg
     instagram: brandon.johnson14
     twitter: none
 
@@ -129,7 +129,7 @@
     mlb_string: cooper-johnson-666194
     comc_string: cooper+johnson
     ebay_string: '"cooper johnson"'
-    photo_path: assets/images/bb/cooper-johnson.jpg
+    photo_path: assets/images/bb/cooper-johnson2.png
     instagram: cooper__johnson
     twitter: none
 
@@ -192,20 +192,20 @@
     photo_path: assets/images/bb/ryan-rolison3.jpg
     instagram: ryan.rolison
     twitter: none
-    
+
 - player:
-    name: Anthony Servideo
-    position: Shortstop
+    name: Houston Roth
+    position: Pitcher
     team: Baltimore Orioles
-    drafted: "2020, Round 3, #74"
-    mlb: no
-    ba_string: 7799-anthony-servideo
-    bb_ref_string: register/player.fcgi?id=servid000ant
-    mlb_string: anthony-servideo-676545
-    comc_string: anthony+servideo
-    ebay_string: '"anthony servideo"'
-    photo_path: assets/images/bb/anthony-servideo2.jpg
-    instagram: anthony_servideo
+    drafted: "2019, Round 29, #858"
+    mlb: yes
+    ba_string: 17701-houston-roth
+    bb_ref_string: register/player.fcgi?id=roth--000hou
+    mlb_string: houston-roth-674175
+    comc_string: houston+roth
+    ebay_string: '"houston roth"'
+    photo_path: assets/images/bb/houston-roth2.jpg
+    instagram: houston_roth
     twitter: none
 
 - player:

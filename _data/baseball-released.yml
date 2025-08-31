@@ -80,6 +80,21 @@
     twitter: none
 
 - player:
+    name: Kevin Graham
+    position: Outfield
+    team: Arizona Diamondbacks
+    drafted: "2022, Round 14, #408"
+    mlb: no
+    ba_string: 19599-kevin-graham
+    bb_ref_string: register/player.fcgi?id=graham000kev
+    mlb_string: kevin-graham-681184
+    comc_string: kevin+graham
+    ebay_string: '"kevin graham"'
+    photo_path: assets/images/bb/kevin-graham.png
+    instagram: kevgraham35
+    twitter: kevgraham11
+
+- player:
     name: Tyler Keenan, 3B
     team: Seattle Mariners
     drafted: "2020, Round 4, #107"
@@ -91,4 +106,19 @@
     ebay_string: '"tyler keenan"'
     photo_path: assets/images/bb/tyler-keenan.jpg
     instagram: tk_21
+    twitter: none
+
+- player:
+    name: Anthony Servideo
+    position: Shortstop
+    team: Baltimore Orioles
+    drafted: "2020, Round 3, #74"
+    mlb: no
+    ba_string: 7799-anthony-servideo
+    bb_ref_string: register/player.fcgi?id=servid000ant
+    mlb_string: anthony-servideo-676545
+    comc_string: anthony+servideo
+    ebay_string: '"anthony servideo"'
+    photo_path: assets/images/bb/anthony-servideo2.jpg
+    instagram: anthony_servideo
     twitter: none

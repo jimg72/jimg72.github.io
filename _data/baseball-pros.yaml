@@ -1,19 +1,4 @@
 - player:
-    name: Tim Elko
-    position: First Base
-    team: Chicago White Sox
-    drafted: "2022, Round 10, #311"
-    mlb: yes
-    ba_string: 1507733-tim-elko
-    bb_ref_string: e/elkoti01
-    mlb_string: tim-elko-671284
-    comc_string: tim+elko
-    ebay_string: '"tim elko"'
-    photo_path: assets/images/bb/tim-elko3.jpg
-    instagram: tim_elko
-    twitter: TimElko
-
-- player:
     name: Nick Fortes
     position: Catcher
     team: Tampa Bay Rays
@@ -72,19 +57,4 @@
     ebay_string: '"drew pomeranz"'
     photo_path: assets/images/bb/drew-pomeranz2.jpg
     instagram: drewpomeranz
-    twitter: none
-
-- player:
-    name: Houston Roth
-    position: Pitcher
-    team: Baltimore Orioles
-    drafted: "2019, Round 29, #858"
-    mlb: yes
-    ba_string: 17701-houston-roth
-    bb_ref_string: register/player.fcgi?id=roth--000hou
-    mlb_string: houston-roth-674175
-    comc_string: houston+roth
-    ebay_string: '"houston roth"'
-    photo_path: assets/images/bb/houston-roth2.jpg
-    instagram: houston_roth
     twitter: none
