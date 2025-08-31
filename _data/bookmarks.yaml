@@ -121,16 +121,20 @@
     - link_name: Rebels 247
       link_url: https://247sports.com/college/ole-miss/
 
-- category: News
+- category: Tech
   links:
-    - link_name: CNN
-      link_url: https://www.cnn.com
-    - link_name: Drudge Report
-      link_url: https://www.drudgereport.com
-    - link_name: Texas Monthly
-      link_url: https://www.texasmonthly.com
-    - link_name: Severe Weather
-      link_url: https://www.severeweatheroutlook.com/everything/
+    - link_name: Hacker News
+      link_url: https://news.ycombinator.com
+    - link_name: Hacker News *
+      link_url: https://hcker.news
+    - link_name: Medium
+      link_url: https://medium.com
+    - link_name: Stack Overflow
+      link_url: https://stackoverflow.com
+    - link_name: Techmeme
+      link_url: https://techmeme.com
+    - link_name: The Verge
+      link_url: https://www.theverge.com
 
 - category: Edu
   links:
@@ -171,20 +175,16 @@
     - link_name: Leek Duck
       link_url: https://leekduck.com
 
-- category: Tech
+- category: News
   links:
-    - link_name: Hacker News
-      link_url: https://news.ycombinator.com
-    - link_name: Hacker News *
-      link_url: https://hcker.news
-    - link_name: Medium
-      link_url: https://medium.com
-    - link_name: Stack Overflow
-      link_url: https://stackoverflow.com
-    - link_name: Techmeme
-      link_url: https://techmeme.com
-    - link_name: The Verge
-      link_url: https://www.theverge.com
+    - link_name: CNN
+      link_url: https://www.cnn.com
+    - link_name: Drudge Report
+      link_url: https://www.drudgereport.com
+    - link_name: Texas Monthly
+      link_url: https://www.texasmonthly.com
+    - link_name: Severe Weather
+      link_url: https://www.severeweatheroutlook.com/everything/
 
 - category: Social
   links:
