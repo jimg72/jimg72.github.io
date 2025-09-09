@@ -24,26 +24,26 @@ a:not([class]):hover {
 
 body.dark-mode {
     background: #021526 none;
-    color: #E2E2B6;
+    color: #fff;
 }
 
 body.dark-mode .card,
 body.dark-mode ul li.list-group-item {
     background: #03346E none;
-    color: #E2E2B6;
+    color: #fff;
 }
 
 body.dark-mode .card-header {
     background: #6EACDA none;
-    color: #E2E2B6;
+    color: #03346E;
 }
 
 body.dark-mode a:not([class]) {
-    color: #E2E2B6;
+    color: #fff;
     text-decoration: none;
 }
 
 body.dark-mode a:not([class]):hover {
-    color: #fff;
+    color: #E2E2B6;
     text-decoration: underline;
 }
