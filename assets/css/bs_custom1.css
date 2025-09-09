@@ -23,23 +23,23 @@ a:not([class]):hover {
 }
 
 body.dark-mode {
-    background: #006BA6 none;
-    color: #eee;
+    background: #021526 none;
+    color: #E2E2B6;
 }
 
 body.dark-mode .card,
 body.dark-mode ul li.list-group-item {
-    background: #31363f none;
-    color: #eee;
+    background: #03346E none;
+    color: #E2E2B6;
 }
 
 body.dark-mode .card-header {
-    background: #222831 none;
-    color: #eee;
+    background: #6EACDA none;
+    color: #E2E2B6;
 }
 
 body.dark-mode a:not([class]) {
-    color: #eee;
+    color: #E2E2B6;
     text-decoration: none;
 }
 
