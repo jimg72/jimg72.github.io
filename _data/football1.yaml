@@ -196,3 +196,15 @@
   comc_str: patrick willis
   ebay_str: '"patrick+willis"'
   tcdb_str: patrick-willis
+
+- player: Luke Hasz
+  pid: 460612
+  comc_str: luke hasz
+  ebay_str: '"luke+hasz"'
+  tcdb_str: luke-hasz
+
+- player: De'Zhaun Stribling
+  pid: 496131
+  comc_str: De'Zhaun Stribling
+  ebay_str: '"De''Zhaun Stribling"'
+  tcdb_str: de'zhaun-stribling
