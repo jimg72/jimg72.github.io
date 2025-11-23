@@ -149,6 +149,21 @@
     twitter: none
 
 - player:
+    name: Josh Mallitz
+    position: Pitcher
+    team: San Diego Padres
+    drafted: Undrafted
+    mlb: no
+    ba_string: 19123-josh-mallitz
+    bb_ref_string: register/player.fcgi?id=mallit000jos
+    mlb_string: josh-mallitz-695256
+    comc_string: josh-mallitz
+    ebay_string: '"josh mallitz"'
+    photo_path: assets/images/bb/josh-mallitz.png
+    instagram: none
+    twitter: none
+
+- player:
     name: Drew McDaniel
     position: Pitcher
     team: Chicago White Sox
