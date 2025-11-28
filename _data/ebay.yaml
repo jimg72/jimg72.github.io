@@ -1,3 +1,26 @@
+- group: Eli Manning
+  searches:
+    - search name: 2012 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Cgreen)+2012+prizm+%23124+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2013 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Cpurple)+2013+prizm+%23124+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2014 Prizm I Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2C+camo%2C+gold%2C+pink)+2014+prizm+%2323+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2014 Prizm II Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(team%2Clogo%2C+tiedyed%2Ctie%2Cdyed)+2014+prizm+%2323+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2015 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Csparkle%2Ctiedyed%2Ctie%2Cdyed)+2015+prizm+%2310+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2016 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Ccamo%2Cgold)+2016+prizm+%23186+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2017 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgold%2Cbronze%2Cred%2Cwhite)+2017+prizm+%23150+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2018 Prizm Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgold%2Cred%2Cwhite%2Csilver)+2018+prizm+%2357+-scope+-lazer+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
+    - search name: 2016 Prizm Draft Wantlist
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(16%2C2016)+prizm+%2337+(5%2C10%2C23%2C25%2C49)
+
+https://www.ebay.com/sch/i.html?_nkw=&_sacat=212&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=%22eli+manning%22+(blue%2Cgold%2Cred%2Cwhite%2Csilver)+2018+prizm+%2357+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick&_osacat=212&_sop=10
+
 - group: Ole Miss
   searches:
     - search_name: Autographs
@@ -9,7 +32,7 @@
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2016+panini+ole+miss+black&_sacat=212&_sop=10
     - search_name: 2016 Panini Gold
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2016+panini+ole+miss+gold&_sacat=212&_sop=10
-    - search_name: "Collegiate"
+    - search_name: Collegiate
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=collegiate&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
     - search_name: Draft
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=draft&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
@@ -50,5 +73,5 @@
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2023+prizm%20-absolute%20-chrome%20-classics%20-contenders%20-donruss%20-leaf%20-legacy%20-luminance%20-mosaic%20-optic%20-phoenix%20-playbook%20-prestige%20-score%20-select%20-spectra%20-topps%20-zenith%20-pick&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
     - search_name: 2024 Prizm Football
       search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2024+prizm%20-absolute%20-chrome%20-classics%20-contenders%20-donruss%20-leaf%20-legacy%20-luminance%20-mosaic%20-optic%20-phoenix%20-playbook%20-prestige%20-score%20-select%20-spectra%20-topps%20-zenith%20-pick&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
-    - search_name: 2024 Prizm Football
-      search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2024+prizm%20-absolute%20-chrome%20-classics%20-contenders%20-donruss%20-leaf%20-legacy%20-luminance%20-mosaic%20-optic%20-phoenix%20-playbook%20-prestige%20-score%20-select%20-spectra%20-topps%20-zenith%20-pick&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
+    - search_name: 2025 Prizm Football
+      search_str: sch/212/i.html?_dcat=261328&_fsrp=1&Sport=Football&_from=R40&_nkw=2025+prizm%20-absolute%20-chrome%20-classics%20-contenders%20-donruss%20-leaf%20-legacy%20-luminance%20-mosaic%20-optic%20-phoenix%20-playbook%20-prestige%20-score%20-select%20-spectra%20-topps%20-zenith%20-pick&_sacat=212&Team=Ole%2520Miss%2520Rebels&_sop=10
