@@ -20,6 +20,7 @@
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgreen%2Cgold%2Cgreen%2Cpink%2Cred%2Cwhite)+2019+prizm+%2345+-ice+-wave++-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
 
 - group: Eli Manning Prizm Draft
+  searches:
     - search name: 2016 Prizm Draft
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(16%2C2016)+prizm+%2337+(5%2C10%2C23%2C25%2C49)
 
