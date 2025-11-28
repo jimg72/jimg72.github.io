@@ -1,25 +1,27 @@
-- group: Eli Manning
+- group: Eli Manning Prizm
   searches:
-    - search name: 2012 Prizm Wantlist
+    - search name: 2012 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Cgreen)+2012+prizm+%23124+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2013 Prizm Wantlist
+    - search name: 2013 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Cpurple)+2013+prizm+%23124+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2014 Prizm I Wantlist
+    - search name: 2014 Prizm I
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2C+camo%2C+gold%2C+pink)+2014+prizm+%2323+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2014 Prizm II Wantlist
+    - search name: 2014 Prizm II
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(team%2Clogo%2C+tiedyed%2Ctie%2Cdyed)+2014+prizm+%2323+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2015 Prizm Wantlist
+    - search name: 2015 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(gold%2Csparkle%2Ctiedyed%2Ctie%2Cdyed)+2015+prizm+%2310+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2016 Prizm Wantlist
+    - search name: 2016 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Ccamo%2Cgold)+2016+prizm+%23186+-red+-light+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2017 Prizm Wantlist
+    - search name: 2017 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgold%2Cbronze%2Cred%2Cwhite)+2017+prizm+%23150+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2018 Prizm Wantlist
+    - search name: 2018 Prizm
       search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgold%2Cred%2Cwhite%2Csilver)+2018+prizm+%2357+-scope+-lazer+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
-    - search name: 2016 Prizm Draft Wantlist
-      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(16%2C2016)+prizm+%2337+(5%2C10%2C23%2C25%2C49)
+    - search name: 2019 Prizm
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(blue%2Cgreen%2Cgold%2Cgreen%2Cpink%2Cred%2Cwhite)+2019+prizm+%2345+-ice+-wave++-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick
 
-https://www.ebay.com/sch/i.html?_nkw=&_sacat=212&_from=R40&_trksid=m570.l1313&_fsrp=1&_odkw=%22eli+manning%22+(blue%2Cgold%2Cred%2Cwhite%2Csilver)+2018+prizm+%2357+-light+-wave+-absolute+-chrome+-classics+-contenders+-donruss+-leaf+-legacy+-luminance+-mosaic+-optic+-phoenix+-playbook+-prestige+-score+-select+-spectra+-topps+-zenith+-pick&_osacat=212&_sop=10
+- group: Eli Manning Prizm Draft
+    - search name: 2016 Prizm Draft
+      search_str: sch/261328/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw=%22eli+manning%22+(16%2C2016)+prizm+%2337+(5%2C10%2C23%2C25%2C49)
 
 - group: Ole Miss
   searches:
