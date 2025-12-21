@@ -10,8 +10,6 @@
       link_url: baseball.html
     - link_name: Card Ladder
       link_url: https://app.cardladder.com/dashboard
-    - link_name: COMC Ole Miss
-      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sn,ot,aUngraded
     - link_name: eBay Searches
       link_url: ebay.html
     - link_name: eBay Watch List
@@ -35,6 +33,8 @@
       link_url: https://marketplace.beckett.com
     - link_name: COMC
       link_url: https://www.comc.com
+    - link_name: COMC Ole Miss
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sn,ot,aUngraded
     - link_name: Fanatics Collect
       link_url: https://www.fanaticscollect.com
     - link_name: My Slabs
