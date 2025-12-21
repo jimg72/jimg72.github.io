@@ -2,52 +2,49 @@
 #   links:
 #     - link_name:
 #       link_url:
+
+
 - category: My Cards
   links:
     - link_name: Baseball Coll
       link_url: baseball.html
-    - link_name: Football Coll
-      link_url: football.html
-    - link_name: eBay Searches
-      link_url: ebay.html
-    - link_name: Player Searches
-      link_url: search.html
-    - link_name: COMC Ole Miss
-      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sn,ot,aUngraded
-    - link_name: Rebels in the Pros
-      link_url: baseball_rebel_pros.html
-    - link_name: eBay Watch List
-      link_url: https://www.ebay.com/mye/myebay/watchlist?custom_list_id=WATCH_LIST&filter=listing_status:ACTIVE
-
-- category: Cards
-  links:
     - link_name: Card Ladder
       link_url: https://app.cardladder.com/dashboard
-    - link_name: TCDb
-      link_url: https://www.tcdb.com/Collection.cfm/member/Rebels72/collection/1
-    - link_name: 130 Point
-      link_url: https://130point.com
-    - link_name: Pop Report
-      link_url: https://www.psacard.com/pop
+    - link_name: COMC Ole Miss
+      link_url: https://www.comc.com/Teams/Football/Mississippi_Rebels/c3240/Cards,sn,ot,aUngraded
+    - link_name: eBay Searches
+      link_url: ebay.html
+    - link_name: eBay Watch List
+      link_url: https://www.ebay.com/mye/myebay/watchlist?custom_list_id=WATCH_LIST&filter=listing_status:ACTIVE
+    - link_name: Football Coll
+      link_url: football.html
+    - link_name: Player Searches
+      link_url: search.html
+    - link_name: Rebels in the Pros
+      link_url: baseball_rebel_pros.html
     - link_name: Set Registry
       link_url: https://www.psacard.com/psasetregistry/mysetregistry/dashboard
-    - link_name: Terapeak
-      link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
+    - link_name: TCDb
+      link_url: https://www.tcdb.com/Collection.cfm/member/Rebels72/collection/1
 
-- category: Buy Cards
+- category: Card Shopping
   links:
-    - link_name: COMC
-      link_url: https://www.comc.com
-    - link_name: eBay
-      link_url: https://www.ebay.com
+    - link_name: 130 Point
+      link_url: https://130point.com
     - link_name: Beckett Mktplace
       link_url: https://marketplace.beckett.com
+    - link_name: COMC
+      link_url: https://www.comc.com
     - link_name: Fanatics Collect
       link_url: https://www.fanaticscollect.com
     - link_name: My Slabs
       link_url: https://myslabs.com
+    - link_name: Pop Report
+      link_url: https://www.psacard.com/pop
     - link_name: Pristine
       link_url: https://www.pristineauction.com
+    - link_name: Terapeak
+      link_url: https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
     - link_name: Whatnot
       link_url: https://www.whatnot.com
 
@@ -68,6 +65,23 @@
     - link_name: YouTube TV
       link_url: https://tv.youtube.com
 
+- category: Shopping
+  links:
+    - link_name: Amazon
+      link_url: https://www.amazon.com
+    - link_name: Best Buy
+      link_url: https://www.bestbuy.com
+    - link_name: Camel
+      link_url: https://camelcamelcamel.com
+    - link_name: eBay
+      link_url: https://www.ebay.com
+    - link_name: Nordstrom
+      link_url: https://www.nordstrom.com
+    - link_name: Nordstrom Rack
+      link_url: https://www.nordstromrack.com
+    - link_name: WireCutter
+      link_url: https://thewirecutter.com
+
 - category: Edu
   links:
     - link_name: Coursera
@@ -82,21 +96,6 @@
       link_url: https://30days.streamlit.app
     - link_name: Udemy
       link_url: https://www.udemy.com/home/my-courses/learning/
-
-- category: Shopping
-  links:
-    - link_name: Amazon
-      link_url: https://www.amazon.com
-    - link_name: Best Buy
-      link_url: https://www.bestbuy.com
-    - link_name: Camel
-      link_url: https://camelcamelcamel.com
-    - link_name: Nordstrom
-      link_url: https://www.nordstrom.com
-    - link_name: Nordstrom Rack
-      link_url: https://www.nordstromrack.com
-    - link_name: WireCutter
-      link_url: https://thewirecutter.com
 
 - category: Apps
   links:
@@ -126,6 +125,8 @@
 
 - category: Pokemon
   links:
+    - link_name: Leek Duck
+      link_url: https://leekduck.com
     - link_name: Pokemon Go Hub
       link_url: https://pokemongohub.net
     - link_name: PokemonDB
@@ -134,8 +135,19 @@
       link_url: https://pokemongo.gamepress.gg
     - link_name: PVPoke Home
       link_url: https://pvpoke.com
-    - link_name: Leek Duck
-      link_url: https://leekduck.com
+
+- category: Sports
+  links:
+    - link_name: Athletic
+      link_url: https://theathletic.com
+    - link_name: Baseball-Ref
+      link_url: https://www.baseball-reference.com
+    - link_name: ESPN
+      link_url: https://espn.com
+    - link_name: ESPN Fantasy
+      link_url: https://www.espn.com/fantasy
+    - link_name: Rebels 247
+      link_url: https://247sports.com/college/ole-miss/
 
 - category: Tech
   links:
@@ -150,38 +162,16 @@
     - link_name: Techmeme
       link_url: https://techmeme.com
 
-- category: Sports
-  links:
-    - link_name: Athletic
-      link_url: https://theathletic.com
-    - link_name: ESPN
-      link_url: https://espn.com
-    - link_name: ESPN Fantasy
-      link_url: https://www.espn.com/fantasy
-    - link_name: Baseball-Ref
-      link_url: https://www.baseball-reference.com
-    - link_name: Rebels 247
-      link_url: https://247sports.com/college/ole-miss/
-
 - category: News
   links:
     - link_name: CNN
       link_url: https://www.cnn.com
     - link_name: Drudge Report
       link_url: https://www.drudgereport.com
-    - link_name: Texas Monthly
-      link_url: https://www.texasmonthly.com
     - link_name: Severe Weather
       link_url: https://www.severeweatheroutlook.com/everything/
-
-- category: Social
-  links:
-    - link_name: Instagram
-      link_url: https://www.instagram.com
-    - link_name: Telegram
-      link_url: https://web.telegram.org/#/im
-    - link_name: Twitter
-      link_url: https://twitter.com
+    - link_name: Texas Monthly
+      link_url: https://www.texasmonthly.com
 
 - category: Cool Links
   links:
@@ -191,6 +181,15 @@
       link_url: https://speed.cloudflare.com
     - link_name: What's My Browser
       link_url: https://www.whatsmybrowser.org
+
+- category: Social
+  links:
+    - link_name: Instagram
+      link_url: https://www.instagram.com
+    - link_name: Telegram
+      link_url: https://web.telegram.org/#/im
+    - link_name: Twitter
+      link_url: https://twitter.com
 
 - category: Travel
   links:
