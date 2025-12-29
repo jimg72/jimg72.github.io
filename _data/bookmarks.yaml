@@ -82,21 +82,6 @@
     - link_name: WireCutter
       link_url: https://thewirecutter.com
 
-- category: Edu
-  links:
-    - link_name: Coursera
-      link_url: https://www.coursera.org
-    - link_name: Data Camp
-      link_url: https://app.datacamp.com
-    - link_name: Percipio
-      link_url: https://cgi.percipio.com
-    - link_name: Snowflake
-      link_url: https://learn.snowflake.com/en/courses
-    - link_name: Streamlit
-      link_url: https://30days.streamlit.app
-    - link_name: Udemy
-      link_url: https://www.udemy.com/home/my-courses/learning/
-
 - category: Apps
   links:
     - link_name: Fastmail
@@ -109,19 +94,6 @@
       link_url: https://polymarket.com
     - link_name: Wikipedia
       link_url: https://en.wikipedia.org
-
-- category: Games
-  links:
-    - link_name: Puzzmo
-      link_url: https://www.puzzmo.com/today
-    - link_name: Video Poker
-      link_url: https://wizardofodds.com/play/video-poker/multi-hand/
-    - link_name: WB bigjim
-      link_url: https://itembrowser.com/profile.php?id=bigjim
-    - link_name: WB FinderBee
-      link_url: https://itembrowser.com/finderbee.php?lat=32.95963381112013&lng=-96.80489301681519&set=
-    - link_name: WB ItemBee
-      link_url: https://www.wallabeegame.com/tools/sets
 
 - category: Pokemon
   links:
@@ -162,6 +134,19 @@
     - link_name: Techmeme
       link_url: https://techmeme.com
 
+- category: Training
+  links:
+    - link_name: Coursera
+      link_url: https://www.coursera.org
+    - link_name: Data Camp
+      link_url: https://app.datacamp.com
+    - link_name: Percipio
+      link_url: https://cgi.percipio.com
+    - link_name: Snowflake
+      link_url: https://learn.snowflake.com/en/courses
+    - link_name: Udemy
+      link_url: https://www.udemy.com/home/my-courses/learning/
+
 - category: News
   links:
     - link_name: CNN
@@ -172,6 +157,15 @@
       link_url: https://www.severeweatheroutlook.com/everything/
     - link_name: Texas Monthly
       link_url: https://www.texasmonthly.com
+
+- category: 3D Printing
+  links:
+    - link_name: MakerWorld
+      link_url: https://makerworld.com/en
+    - link_name: Printables
+      link_url: https://www.printables.com
+    - link_name: Thingiverse
+      link_url: https://www.thingiverse.com
 
 - category: Cool Links
   links:
