@@ -22,6 +22,47 @@ a:not([class]):hover {
     padding: 0.25rem 0.5rem;
 }
 
+/* eBay badge links */
+.ebay-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    align-items: center;
+}
+
+.ebay-links .badge {
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 0.3em 0.5em;
+}
+
+.ebay-links .badge:hover {
+    opacity: 0.8;
+}
+
+/* Masonry grid - prevent layout flash before JS loads */
+[data-masonry] {
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+[data-masonry].masonry {
+    opacity: 1;
+}
+
+/* Mobile responsive */
+@media (max-width: 576px) {
+    body {
+        font-size: 16px;
+    }
+
+    .container {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+}
+
+/* Dark mode */
 body.dark-mode {
     background: #021526 none;
     color: #6EACDA;
@@ -46,4 +87,9 @@ body.dark-mode a:not([class]) {
 body.dark-mode a:not([class]):hover {
     color: #E2E2B6;
     text-decoration: underline;
+}
+
+body.dark-mode .ebay-links .badge {
+    background-color: #6EACDA !important;
+    color: #03346E;
 }

@@ -1,0 +1,37 @@
+<div class="col g-4">
+    <div class="card">
+        <div class="card-header">{{ include.player.player }}</div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                TCDb
+                <a href="https://www.tcdb.com/Person.cfm/pid/{{ include.player.pid }}/col/1/yea/0/{{ include.player.tcdb_str }}?PageIndex=1&Sort=DESC"
+                    target="_blank">cards</a>
+                |
+                <a href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ include.player.pid }}?MODE=Filters&ColType=1&sYear=0&sTeam=&sCardNum=&sNote=&sSetName=&sBrand="
+                    target="_blank">filter</a>
+                |
+                <a href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ include.player.pid }}/{{ include.player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
+                    target="_blank">coll</a>
+            </li>
+            <li class="list-group-item">
+                COMC
+                <a href="https://www.comc.com/Cards,sr,={{ include.player.comc_str }}" target="_blank">Newly Added</a>
+            </li>
+            <li class="list-group-item ebay-links">
+                <a class="badge bg-secondary" href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sop=10"
+                    target="_blank">new</a>
+                <a class="badge bg-secondary" href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sop=1"
+                    target="_blank">ending</a>
+                <a class="badge bg-secondary" href="https://www.ebay.com/sch/i.html?LH_Auction=1&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sacat=261328&_sop=44"
+                    target="_blank">bids</a>
+                <a class="badge bg-secondary" href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sacat=261328&_sop=10&Graded=Yes"
+                    target="_blank">graded</a>
+            </li>
+            {% for link in include.player.links %}
+            <li class="list-group-item">
+                <a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

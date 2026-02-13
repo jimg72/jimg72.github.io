@@ -62,7 +62,14 @@
             src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"
             integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D"
             crossorigin="anonymous"
-            async
         ></script>
+        <script>
+            // Fallback: if masonry doesn't load, still show the grid
+            setTimeout(function () {
+                document.querySelectorAll("[data-masonry]").forEach(function (el) {
+                    el.style.opacity = "1";
+                });
+            }, 1000);
+        </script>
     </body>
 </html>
