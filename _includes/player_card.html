@@ -28,11 +28,13 @@
                 <a class="badge bg-secondary" href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sacat=261328&_sop=10&Graded=Yes"
                     target="_blank">graded</a>
             </li>
+            {% if include.show_links %}
             {% for link in include.player.links %}
             <li class="list-group-item">
                 <a target="_blank" href="{{ link.link_url }}">{{ link.link_name }}</a>
             </li>
             {% endfor %}
+            {% endif %}
         </ul>
     </div>
 </div>

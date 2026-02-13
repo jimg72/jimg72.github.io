@@ -9,7 +9,7 @@ permalink: /baseball.html
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4" data-masonry='{"percentPosition": true }'>
         {% assign priority_players = site.data.baseball | where: "priority", true %}
         {% for player in priority_players %}
-        {% include player_card.html player=player %}
+        {% include player_card.html player=player show_links=true %}
         {% endfor %}
     </div>
     <div class="row">
@@ -20,7 +20,7 @@ permalink: /baseball.html
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4" data-masonry='{"percentPosition": true }'>
         {% assign other_players = site.data.baseball | where_exp: "player", "player.priority != true" %}
         {% for player in other_players %}
-        {% include player_card.html player=player %}
+        {% include player_card.html player=player show_links=true %}
         {% endfor %}
     </div>
     <div class="row">
