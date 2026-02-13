@@ -35,7 +35,7 @@
   tcdb_str: buddy-alliston
 
 - player: Trey Amos
-  priority: true
+  priority: false
   pid: 405604
   comc_str: trey+amos
   ebay_str: '"trey amos"'
@@ -360,7 +360,7 @@
   tcdb_str: cliff-dew
 
 - player: Logan Diggs
-  priority: true
+  priority: false
   pid: 378045
   comc_str: logan+diggs
   ebay_str: '"logan diggs"'
@@ -1299,7 +1299,7 @@
   tcdb_str: laremy-tunsil
 
 - player: Princely Umanmielen
-  priority: true
+  priority: false
   pid: 400941
   comc_str: princely+umanmielen
   ebay_str: '"princely umanmielen"'
@@ -1336,7 +1336,7 @@
   tcdb_str: todd-wade
 
 - player: Bo Wallace
-  priority: true
+  priority: false
   pid: 65691
   comc_str: bo+wallace
   ebay_str: '"bo wallace"'

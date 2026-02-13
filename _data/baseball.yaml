@@ -417,7 +417,7 @@
   tcdb_str: joe-evans
 
 - player: Jeff Fassero
-  priority: true
+  priority: false
   pid: 1775
   comc_str: jeff+fassero
   ebay_str: '"jeff fassero"'
@@ -742,7 +742,7 @@
   tcdb_str: don-kessinger
 
 - player: Grae Kessinger
-  priority: true
+  priority: false
   pid: 125559
   comc_str: grae+kessinger
   ebay_str: '"grae kessinger"'
@@ -1261,7 +1261,7 @@
   tcdb_str: jude-voltz
 
 - player: Jacob Waguespack
-  priority: true
+  priority: false
   pid: 182371
   comc_str: jacob+waguespack
   ebay_str: '"jacob waguespack"'
