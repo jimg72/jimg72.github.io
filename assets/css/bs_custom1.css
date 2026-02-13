@@ -22,21 +22,21 @@ a:not([class]):hover {
     padding: 0.25rem 0.5rem;
 }
 
-/* eBay badge links */
-.ebay-links {
+/* Badge links for TCDb, COMC, eBay rows */
+.site-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0.25rem;
     align-items: center;
 }
 
-.ebay-links .badge {
+.site-links .badge {
     text-decoration: none;
     font-size: 0.75rem;
     padding: 0.3em 0.5em;
 }
 
-.ebay-links .badge:hover {
+.site-links .badge:hover {
     opacity: 0.8;
 }
 
@@ -89,7 +89,7 @@ body.dark-mode a:not([class]):hover {
     text-decoration: underline;
 }
 
-body.dark-mode .ebay-links .badge {
+body.dark-mode .site-links .badge {
     background-color: #6EACDA !important;
     color: #03346E;
 }
