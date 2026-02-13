@@ -16,6 +16,26 @@
   ebay_str: '"tom afenir"'
   tcdb_str: tom-afenir
 
+- player: Kemp Alderman
+  priority: true
+  pid: 262090
+  comc_str: kemp+alderman
+  ebay_str: '"kemp alderman"'
+  tcdb_str: kemp-alderman
+  links:
+    - link_name: c - 23 Bwmn #BDC-123
+      link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-123/Kemp_Alderman/24525405
+    - link_name: e - 23 Bwmn Sapphire
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+sapphire+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+yellow+75+-%28auto%2autograph%2autographs%2Clunar%2Csapphire%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Rose Gold /10
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+rose+gold+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+red+lava+5+-%28auto%2Cautograph%2Cautographs%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Sparkle
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+sparkle+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+rose+gold+-%28auto%2Cautograph%2Cautographs%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Yellow /75
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+yellow+75+-%28auto%2autograph%2autographs%2Clunar%2Csapphire%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+yellow+75+-%28auto%2Cautograph%2Cautographs%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Saph Yellow /75
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22kemp+alderman%22+2023+bowman+yellow+75+-%28auto%2autograph%2autographs%2Clunar%2Csapphire%29&_sacat=261328&_odkw=%22kemp+alderman%22+2023+bowman+sapphire+yellow+75+-%28auto%2Cautograph%2Cautographs%29&_osacat=261328&_sop=15
+
 - player: Ramon Alejo
   pid: 177100
   comc_str: ramon+alejo
@@ -220,6 +240,13 @@
   ebay_str: '"dave clements"'
   tcdb_str: dave-clements
 
+- player: Chris Coghlan
+  priority: true
+  pid: 28385
+  comc_str: chris+coghlan
+  ebay_str: '"chris coghlan"'
+  tcdb_str: chris-coghlan
+
 - player: Popeye Cole
   pid: 51957
   comc_str: popeye+cole
@@ -250,6 +277,13 @@
   ebay_str: '"kris cox"'
   tcdb_str: kris-cox
 
+- player: Zack Cozart
+  priority: true
+  pid: 33364
+  comc_str: zack+cozart
+  ebay_str: '"zack cozart"'
+  tcdb_str: zack-cozart
+
 - player: Joey Cramblitt
   pid: 119307
   comc_str: joey+cramblitt
@@ -273,6 +307,20 @@
   comc_str: anthony+cupps
   ebay_str: '"anthony cupps"'
   tcdb_str: anthony-cupps
+
+- player: David Dellucci
+  priority: true
+  pid: 1439
+  comc_str: david+dellucci
+  ebay_str: '"david dellucci"'
+  tcdb_str: david-dellucci
+
+- player: Dylan DeLucia
+  priority: true
+  pid: 374745
+  comc_str: dylan+delucia
+  ebay_str: '"dylan delucia"'
+  tcdb_str: dylan-delucia
 
 - player: Dan Deyoung
   pid: 116226
@@ -334,6 +382,16 @@
   ebay_str: '"jerrion ealy"'
   tcdb_str: jerrion-ealy
 
+- player: Tim Elko
+  priority: true
+  pid: 150638
+  comc_str: tim+elko
+  ebay_str: '"tim elko"'
+  tcdb_str: tim-elko
+  links:
+    - link_name: e - 2025
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22tim+elko%22+2025&_from=R40&_sop=10
+
 - player: Hunter Elliott
   pid: 340057
   comc_str: hunter+elliott
@@ -358,6 +416,13 @@
   ebay_str: '"joe evans"'
   tcdb_str: joe-evans
 
+- player: Jeff Fassero
+  priority: true
+  pid: 1775
+  comc_str: jeff+fassero
+  ebay_str: '"jeff fassero"'
+  tcdb_str: jeff-fassero
+
 - player: Brady Feigl
   pid: 199901
   comc_str: brady+feigl
@@ -375,6 +440,13 @@
   comc_str: tim+ferguson
   ebay_str: '"tim ferguson"'
   tcdb_str: tim-ferguson
+
+- player: Nick Fortes
+  priority: true
+  pid: 108058
+  comc_str: nick+fortes
+  ebay_str: '"nick fortes"'
+  tcdb_str: nick-fortes
 
 - player: Eric Fowler
   pid: 28740
@@ -423,6 +495,30 @@
   comc_str: will+golsan
   ebay_str: '"will golsan"'
   tcdb_str: will-golsan
+
+- player: Jacob Gonzalez
+  priority: true
+  pid: 387905
+  comc_str: jacob+gonzalez
+  ebay_str: '"jacob gonzalez"'
+  tcdb_str: jacob-gonzalez
+  links:
+    - link_name: c - 23 Bwmn #BDC-167
+      link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-167/Jacob_Gonzalez/24525449
+    - link_name: c - 23 Elite Extra Edition
+      link_url: https://www.comc.com/Cards,sc,=jacob+gonzalez+2023+elite+extra+edition
+    - link_name: e - 23 Bwmn Sapphire
+      link_url: https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22jacob+gonzalez%22+2023+bowman+sapphire&_sop=10
+    - link_name: e - 23 Bwmn HTA/Japan
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%22jacob+gonzalez%22+2023+bowman+chrome+%28japan%2C+hta%29+-%28auto%2C+autograph%2C+autographs%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Orange /25
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%22jacob+gonzalez%22+2023+bowman+chrome+orange+25+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_from=R40&_trksid=m570.l1313&_odkw=%22jacob+gonzalez%22+2023+bowman+chrome+orange+25+-%28auto%2Cautographs%2Cautographs%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Pearl
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%22jacob+gonzalez%22+2023+bowman+chrome+pearl+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_from=R40&_trksid=m570.l1313&_odkw=%22jacob+gonzalez%22+2023+bowman+chrome+pearl+-%28auto*utograph*utographs%2Cglass%29&_osacat=261328&_sop=15
+    - link_name: e - 23 Bwmn Nugget /49
+      link_url: https://www.ebay.com/sch/i.html?_sacat=261328&_from=R40&_osacat=261328&_sop=15&_nkw=%22jacob%20gonzalez%22%202023%20bowman%20chrome%2049%20%28nugget%2Cprospector%29%20-%28auto%2Cautograph%2Cautographs%29
+    - link_name: e - 23 Bwmn Yellow /75
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_nkw=%22jacob+gonzalez%22+2023+bowman+chrome+yellow+75+-%28auto%2autograph%2autographs%2Cglass%29&_sacat=261328&_sop=15&rt=nc
 
 - player: Kevin Graham
   pid: 404524
@@ -538,6 +634,22 @@
   ebay_str: '"rj hively"'
   tcdb_str: rj-hively
 
+- player: Gunnar Hoglund
+  priority: true
+  pid: 261309
+  comc_str: gunnar+hoglund
+  ebay_str: '"gunnar hoglund"'
+  tcdb_str: gunnar-hoglund
+  links:
+    - link_name: c - 21 Bwmn Chrome #BDC-178
+      link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-78/Gunnar_Hoglund/18197947
+    - link_name: e - 21 Bwmn Auto Gold /50
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_nkw=%22gunnar+hoglund%22+2021+bowman+gold+%28auto%2Cautograph%2Cautographs%29+-%28class%2Cgenesis%2Cbest%29&_sacat=212&_sop=15
+    - link_name: e - 21 Bwmn Auto Orange /25
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_nkw=%22gunnar+hoglund%22+2021+bowman+orange+%28auto%2Cautograph%2Cautographs%29+-%28class%2Cgenesis%2Cbest%29&_sacat=212&_sop=15
+    - link_name: e - 21 Bwmn Sapphire
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22gunnar+hoglund%22+2021+bowman+sapphire+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_sop=15
+
 - player: Mark Holliman
   pid: 33461
   comc_str: mark+holliman
@@ -616,17 +728,25 @@
   ebay_str: '"brayden jones"'
   tcdb_str: brayden-jones
 
-- player: Matt K. Smith
-  pid: 156288
-  comc_str: matt+k. smith
-  ebay_str: '"matt k. smith"'
-  tcdb_str: matt-k.-smith
-
 - player: Tyler Keenan
   pid: 260701
   comc_str: tyler+keenan
   ebay_str: '"tyler keenan"'
   tcdb_str: tyler-keenan
+
+- player: Don Kessinger
+  priority: true
+  pid: 3091
+  comc_str: don+kessinger
+  ebay_str: '"don kessinger"'
+  tcdb_str: don-kessinger
+
+- player: Grae Kessinger
+  priority: true
+  pid: 125559
+  comc_str: grae+kessinger
+  ebay_str: '"grae kessinger"'
+  tcdb_str: grae-kessinger
 
 - player: Keith Kessinger
   pid: 20796
@@ -706,6 +826,13 @@
   ebay_str: '"jason lowe"'
   tcdb_str: jason-lowe
 
+- player: Lance Lynn
+  priority: true
+  pid: 3560
+  comc_str: lance+lynn
+  ebay_str: '"lance lynn"'
+  tcdb_str: lance-lynn
+
 - player: Josh Mallitz
   pid: 262490
   comc_str: josh+mallitz
@@ -748,17 +875,17 @@
   ebay_str: '"james mcarthur"'
   tcdb_str: james-mcarthur
 
-- player: TJ McCants
-  pid: 262706
-  comc_str: tj+mccants
-  ebay_str: '"tj mccants"'
-  tcdb_str: tj-mccants
-
 - player: Jeffrey Mcavoy
   pid: 89550
   comc_str: jeffrey+mcavoy
   ebay_str: '"jeffrey mcavoy"'
   tcdb_str: jeffrey-mcavoy
+
+- player: TJ McCants
+  pid: 262706
+  comc_str: tj+mccants
+  ebay_str: '"tj mccants"'
+  tcdb_str: tj-mccants
 
 - player: Andrew Mcdaniel
   pid: 260011
@@ -844,6 +971,20 @@
   ebay_str: '"mason nichols"'
   tcdb_str: mason-nichols
 
+- player: Doug Nikhazy
+  priority: true
+  pid: 76482
+  comc_str: doug+nikhazy
+  ebay_str: '"doug nikhazy"'
+  tcdb_str: doug-nikhazy
+  links:
+    - link_name: c - 21 Bwmn #BDC-143
+      link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-143/Doug_Nikhazy/18198009
+    - link_name: e - 21 Bwmn Gold /199
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=%22doug+nikhazy%22+2021+bowman+gold+50+-%28auto%2Cautograph%2Cautographs%29&_sacat=0&_sop=15
+    - link_name: e - 21 Bwmn Sapphire
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22doug+nikhazy%22+2021+bowman+sapphire+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_sop=15
+
 - player: Cooper Osteen
   pid: 131961
   comc_str: cooper+osteen
@@ -904,6 +1045,13 @@
   ebay_str: '"jr pickens"'
   tcdb_str: j.r.-pickens
 
+- player: Drew Pomeranz
+  priority: true
+  pid: 36863
+  comc_str: drew+pomeranz
+  ebay_str: '"drew pomeranz"'
+  tcdb_str: drew-pomeranz
+
 - player: Jordan Poole
   pid: 100652
   comc_str: jordan+poole
@@ -951,6 +1099,13 @@
   comc_str: craig+rodriguez
   ebay_str: '"craig rodriguez"'
   tcdb_str: craig-rodriguez
+
+- player: Ryan Rolison
+  priority: true
+  pid: 110875
+  comc_str: ryan+rolison
+  ebay_str: '"ryan rolison"'
+  tcdb_str: ryan-rolison
 
 - player: Mike Rosamond
   pid: 30076
@@ -1006,11 +1161,31 @@
   ebay_str: '"larry simcox"'
   tcdb_str: larry-simcox
 
+- player: Seth Smith
+  priority: true
+  pid: 5491
+  comc_str: seth+smith
+  ebay_str: '"seth smith"'
+  tcdb_str: seth-smith
+
+- player: Matt K. Smith
+  pid: 156288
+  comc_str: matt+k. smith
+  ebay_str: '"matt k. smith"'
+  tcdb_str: matt-k.-smith
+
 - player: Chad Smith
   pid: 218551
   comc_str: chad+smith
   ebay_str: '"chad smith"'
   tcdb_str: chad-smith
+
+- player: Chris Snopek
+  priority: true
+  pid: 21570
+  comc_str: chris+snopek
+  ebay_str: '"chris snopek"'
+  tcdb_str: chris-snopek
 
 - player: Matt Snyder
   pid: 220598
@@ -1084,6 +1259,13 @@
   comc_str: jude+voltz
   ebay_str: '"jude voltz"'
   tcdb_str: jude-voltz
+
+- player: Jacob Waguespack
+  priority: true
+  pid: 182371
+  comc_str: jacob+waguespack
+  ebay_str: '"jacob waguespack"'
+  tcdb_str: jacob-waguespack
 
 - player: Bobby Wahl
   pid: 61292

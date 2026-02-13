@@ -25,15 +25,17 @@ Deployed automatically by GitHub Pages on push to `master`.
 
 ## Architecture
 
-Pages like `baseball.html`, `football.html`, `ebay.html`, `search.html`, and `start.html` are **data-driven**: they iterate over YAML files in `_data/` to render link grids using Bootstrap card layouts. To add/modify links, edit the corresponding YAML file rather than the HTML.
+Data-driven pages live in `pages/` and iterate over YAML files in `_data/` to render link grids using Bootstrap card layouts. Each page has a `permalink:` in its front matter so URLs are stable regardless of file location. To add/modify links, edit the corresponding YAML file rather than the HTML.
 
 Key data file mappings:
-- `baseball.html` → `baseball1.yaml`, `baseball2.yaml`
-- `baseball_rebel_pros.html` → `baseball-pros.yaml`, `baseball-minors.yaml`, `baseball-released.yaml`, `baseball-retired.yaml`
-- `football.html` → `football1.yaml`, `football2.yaml`
-- `ebay.html` → `ebay.yaml`
-- `search.html` → `search.yaml`
-- `start.html` → `bookmarks.yaml`, `football1.yaml`, `baseball1.yaml`
+- `pages/baseball.html` → `baseball.yaml` (uses `priority` field to split into two sections)
+- `pages/football.html` → `football.yaml` (uses `priority` field to split into two sections)
+- `pages/baseball_rebel_pros.html` → `baseball-pros.yaml`, `baseball-minors.yaml`, `baseball-released.yaml`, `baseball-retired.yaml`
+- `pages/ebay.html` → `ebay.yaml`
+- `pages/search.html` → `search.yaml`
+- `pages/start.html` → `bookmarks.yaml`, plus priority players from `football.yaml` and `baseball.yaml`
+
+Player data files (`baseball.yaml`, `football.yaml`) use a `priority: true` field to distinguish primary collection players from the full list. Pages filter with `{% assign priority_players = site.data.baseball | where: "priority", true %}`.
 
 Blog posts go in `_posts/` using standard Jekyll front matter and the Minima theme layout.
 

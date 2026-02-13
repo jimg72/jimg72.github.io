@@ -7,7 +7,8 @@ permalink: /football.html
 
 <div class="container">
     <div class="row row-cols-2 row-cols-md-4" data-masonry='{"percentPosition": true }'>
-        {% for player in site.data.football1 %}
+        {% assign priority_players = site.data.football | where: "priority", true %}
+        {% for player in priority_players %}
         <div class="col g-4">
             <div class="card">
                 <div class="card-header">{{ player.player }}</div>
@@ -57,7 +58,8 @@ permalink: /football.html
         </div>
     </div>
     <div class="row row-cols-2 row-cols-md-4" data-masonry='{"percentPosition": true }'>
-        {% for player in site.data.football2 %}
+        {% assign other_players = site.data.football | where_exp: "player", "player.priority != true" %}
+        {% for player in other_players %}
         <div class="col g-4">
             <div class="card">
                 <div class="card-header">{{ player.player }}</div>

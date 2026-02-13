@@ -1,21 +1,3 @@
-- player: Deuce Alexander
-  pid: 472497
-  comc_str: deuce alexander
-  ebay_str: '"deuce+alexander"'
-  tcdb_str: deuce-alexander
-
-- player: Luke Hasz
-  pid: 460612
-  comc_str: luke hasz
-  ebay_str: '"luke+hasz"'
-  tcdb_str: luke-hasz
-
-- player: De'Zhaun Stribling
-  pid: 496131
-  comc_str: De'Zhaun Stribling
-  ebay_str: '"De''Zhaun Stribling"'
-  tcdb_str: de'zhaun-stribling
-
 - player: Gary Abide
   pid: 265230
   comc_str: gary+abide
@@ -34,6 +16,12 @@
   ebay_str: '"quincy adeboyejo"'
   tcdb_str: quincy-adeboyejo
 
+- player: Deuce Alexander
+  pid: 472497
+  comc_str: deuce alexander
+  ebay_str: '"deuce+alexander"'
+  tcdb_str: deuce-alexander
+
 - player: Warner Alford
   pid: 139413
   comc_str: warner+alford
@@ -45,6 +33,13 @@
   comc_str: buddy+alliston
   ebay_str: '"buddy alliston"'
   tcdb_str: buddy-alliston
+
+- player: Trey Amos
+  priority: true
+  pid: 405604
+  comc_str: trey+amos
+  ebay_str: '"trey amos"'
+  tcdb_str: trey+amos
 
 - player: Dwayne Amos
   pid: 265231
@@ -130,6 +125,13 @@
   ebay_str: '"travis blanchard"'
   tcdb_str: travis-blanchard
 
+- player: Brandon Bolden
+  priority: true
+  pid: 40109
+  comc_str: brandon+bolden
+  ebay_str: '"brandon bolden"'
+  tcdb_str: brandon-bolden
+
 - player: Antonious Bonner
   pid: 179956
   comc_str: antonious+bonner
@@ -171,6 +173,16 @@
   comc_str: nick+broeker
   ebay_str: '"nick broeker"'
   tcdb_str: nick-roeker
+
+- player: A.J. Brown
+  priority: true
+  pid: 215446
+  ebay_str: (a.j.,aj) brown
+  comc_str: a%7b46%7dj%7b46%7d+brown
+  tcdb_str: aj-brown
+  links:
+    - link_name: 2019 Prizm PSA 10
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%28aj%2Ca.j.%29+brown+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Allen Brown
   pid: 139403
@@ -274,6 +286,13 @@
   ebay_str: '"cody core"'
   tcdb_str: cody-core
 
+- player: Matt Corral
+  priority: true
+  pid: 224252
+  ebay_str: matt (corral,coral)
+  comc_str: matt+corral
+  tcdb_str: matt-corral
+
 - player: Paige Cothren
   pid: 9427
   comc_str: paige+cothren
@@ -304,6 +323,24 @@
   ebay_str: '"john darnell"'
   tcdb_str: john-darnell
 
+- player: Jaxson Dart
+  priority: true
+  pid: 371911
+  comc_str: jaxson+dart
+  ebay_str: '"jaxson dart"'
+  tcdb_str: jaxson-dart
+  links:
+    - link_name: TCDb - Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/371911/col/1/yea/0/Jaxson-Dart?sCardNum=147
+    - link_name: e - 2022
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2022&_from=R40&_sop=10
+    - link_name: e - 2023
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2023&_from=R40&_sop=10
+    - link_name: e - 2024
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2024&_from=R40&_sop=10
+    - link_name: e - 2025
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2025&_from=R40&_sop=10
+
 - player: Paul Davis
   pid: 139393
   comc_str: paul+davis
@@ -321,6 +358,13 @@
   comc_str: cliff+dew
   ebay_str: '"cliff dew"'
   tcdb_str: cliff-dew
+
+- player: Logan Diggs
+  priority: true
+  pid: 378045
+  comc_str: logan+diggs
+  ebay_str: '"logan diggs"'
+  tcdb_str: logan-diggs
 
 - player: Kenny Dill
   pid: 139404
@@ -381,6 +425,13 @@
   comc_str: trae+elston
   ebay_str: '"trae elston"'
   tcdb_str: trae-elston
+
+- player: Evan Engram
+  priority: true
+  pid: 141612
+  comc_str: evan+engram
+  ebay_str: '"evan engram"'
+  tcdb_str: evan-engram
 
 - player: Mike Espy
   pid: 26345
@@ -514,11 +565,24 @@
   ebay_str: '"greg hardy"'
   tcdb_str: greg-hardy
 
+- player: Tre Harris
+  priority: true
+  pid: 454520
+  comc_str: tre-harris
+  ebay_str: '"tre-harris"'
+  tcdb_str: tre-harris
+
 - player: Harry Harrison
   pid: 139407
   comc_str: harry+harrison
   ebay_str: '"harry harrison"'
   tcdb_str: harry-harrison
+
+- player: Luke Hasz
+  pid: 460612
+  comc_str: luke hasz
+  ebay_str: '"luke+hasz"'
+  tcdb_str: luke-hasz
 
 - player: Marquis Haynes
   pid: 185764
@@ -670,6 +734,13 @@
   ebay_str: '"bruiser kinard"'
   tcdb_str: bruiser-kinard
 
+- player: Dawson Knox
+  priority: true
+  pid: 218824
+  ebay_str: '"dawson knox"'
+  comc_str: dawson+knox
+  tcdb_str: dawson-knox
+
 - player: Frank Lambert
   pid: 11156
   comc_str: frank+lambert
@@ -742,6 +813,55 @@
   ebay_str: '"kris mangum"'
   tcdb_str: kris-mangum
 
+- player: Archie Manning
+  priority: true
+  pid: 11402
+  comc_str: archie manning
+  ebay_str: '"archie manning"'
+  tcdb_str: archie-manning
+  links:
+    - link_name: TCDb - Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: TCDb - Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
+    - link_name: e - 1978 Slim Jim
+      link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
+    - link_name: e - Flawless
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+flawless&_from=R40&_sop=10
+    - link_name: e - Immaculate
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+immaculate&_from=R40&_sop=10
+    - link_name: e - National Treasures
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22archie+manning%22+%22national+treasures%22&_from=R40&_sop=10
+    - link_name: e - Modern
+      link_url: https://www.ebay.com/sch/261328/i.html?_fsrp=1&_from=R40&_nkw=%22archie+manning%22+-%281972%2C1973%2C1974%2C1975%2C1976%2C1977%2C1978%2C1979%29+-%281980%2C1981%2C1982%2C1983%29&_sacat=261328&_oaa=1&_dcat=261328&_sop=10
+    - link_name: e - Topps PSA 10
+      link_url: https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw=%22archie+manning%22+topps+psa+10+-%28auto%2Cautograph%2Cbgs%2Csgc%2Csigned%29&_sop=10
+
+- player: Eli Manning
+  priority: true
+  pid: 11403
+  comc_str: eli+manning
+  ebay_str: '"eli manning"'
+  tcdb_str: eli-manning
+  links:
+    - link_name: TCDb - Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: TCDb - Prizm Draft Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
+    - link_name: e - 2004 Graded
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_fcid=1&_sop=10&_stpos=75248&_svsrch=1&Graded=Yes&_oaa=1&_dcat=212
+    - link_name: e - 2004 Ungraded
+      link_url: https://www.ebay.com/sch/i.html?Graded=No&_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_sacat=212&_dcat=261328&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
+    - link_name: e - Flawless
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+flawless&_from=R40&_sop=10
+    - link_name: e - Immaculate
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+immaculate&_from=R40&_sop=10
+    - link_name: e - National Treasures
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+%22national+treasures%22&_from=R40&_sop=10
+    - link_name: e - White Sparkle
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+%22white+sparkle%22&_from=R40&_sop=10
+
+
 - player: Cooper Manning
   pid: 86462
   comc_str: cooper+manning
@@ -766,11 +886,19 @@
   ebay_str: '"itavius mathers"'
   tcdb_str: i'tavius-mathers
 
-- player: Dexter McCluster
-  pid: 33851
-  comc_str: dexter+mccluster
-  ebay_str: '"dexter mccluster"'
-  tcdb_str: dexter-mccluster
+- player: Deuce McAllister
+  priority: true
+  pid: 11498
+  comc_str: deuce+mcallister
+  ebay_str: (deuce,duece) (mcallister,mcalister)
+  tcdb_str: deuce-mcallister
+  links:
+    - link_name: TCDb - Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+    - link_name: e - 2001
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
+    - link_name: e - Prizm
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
 
 - player: Trumaine Mcbride
   pid: 27024
@@ -784,6 +912,12 @@
   ebay_str: '"ronald mcclendon"'
   tcdb_str: ronald-mcclendon
 
+- player: Dexter McCluster
+  pid: 33851
+  comc_str: dexter+mccluster
+  ebay_str: '"dexter mccluster"'
+  tcdb_str: dexter-mccluster
+
 - player: Buford Mcgee
   pid: 11560
   comc_str: buford+mcgee
@@ -795,6 +929,16 @@
   comc_str: jeremy+mcgee
   ebay_str: '"jeremy mcgee"'
   tcdb_str: jeremy-mcgee
+
+- player: D.K. Metcalf
+  priority: true
+  pid: 145446
+  ebay_str: (d.k.,dk) metcalf
+  comc_str: D%7B46%7DK%7B46%7D+Metcalf
+  tcdb_str: dk-metcalf
+  links:
+    - link_name: 2019 Prizm PSA 10
+      link_url: https://www.ebay.com/sch/i.html?_nkw=%28dk%2Cd.k.%29+metcalf+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Terrence Metcalf
   pid: 259789
@@ -814,6 +958,13 @@
   ebay_str: '"romaro miller"'
   tcdb_str: romaro-miller
 
+- player: Jonathan Mingo
+  priority: true
+  pid: 388581
+  ebay_str: '"jonathan mingo"'
+  comc_str: jonathan+mingo
+  tcdb_str: jonathan-mingo
+
 - player: Chris Mitchell
   pid: 139409
   comc_str: chris+mitchell
@@ -832,6 +983,13 @@
   ebay_str: '"tyrone montgomery"'
   tcdb_str: tyrone-montgomery
 
+- player: Elijah Moore
+  priority: true
+  pid: 292120
+  comc_str: elijah+moore
+  ebay_str: '"elijah moore"'
+  tcdb_str: elijah-moore
+
 - player: Stevon Moore
   pid: 19033
   comc_str: stevon+moore
@@ -849,6 +1007,13 @@
   comc_str: robert+nkemdiche
   ebay_str: '"robert nkemdiche"'
   tcdb_str: robert-nkemdiche
+
+- player: Walter Nolen
+  priority: true
+  pid: 486008
+  comc_str: walter+nolen
+  ebay_str: '"walter nolen"'
+  tcdb_str: walter+nolen
 
 - player: Freddie Joe Nunn
   pid: 11950
@@ -1078,6 +1243,12 @@
   ebay_str: '"charles stackhouse"'
   tcdb_str: charles-stackhouse
 
+- player: De'Zhaun Stribling
+  pid: 496131
+  comc_str: De'Zhaun Stribling
+  ebay_str: '"De''Zhaun Stribling"'
+  tcdb_str: de'zhaun-stribling
+
 - player: Bill Stribling
   pid: 88192
   comc_str: bill+stribling
@@ -1120,6 +1291,20 @@
   ebay_str: '"laquon treadwell"'
   tcdb_str: laquon-treadwell
 
+- player: Laremy Tunsil
+  priority: true
+  pid: 95697
+  comc_str: laremy+tunsil
+  ebay_str: '"laremy tunsil"'
+  tcdb_str: laremy-tunsil
+
+- player: Princely Umanmielen
+  priority: true
+  pid: 400941
+  comc_str: princely+umanmielen
+  ebay_str: '"princely umanmielen"'
+  tcdb_str: princely+umanmielen
+
 - player: Jim Urbanek
   pid: 139420
   comc_str: jim+urbanek
@@ -1149,6 +1334,27 @@
   comc_str: todd+wade
   ebay_str: '"todd wade"'
   tcdb_str: todd-wade
+
+- player: Bo Wallace
+  priority: true
+  pid: 65691
+  comc_str: bo+wallace
+  ebay_str: '"bo wallace"'
+  tcdb_str: bo-wallace
+
+- player: Mike Wallace
+  priority: true
+  pid: 27766
+  comc_str: mike+wallace
+  ebay_str: '"mike wallace"'
+  tcdb_str: mike-wallace
+
+- player: Wesley Walls
+  priority: true
+  pid: 13295
+  comc_str: wesley+walls
+  ebay_str: '"wesley walls"'
+  tcdb_str: wesley-walls
 
 - player: Nate Wayne
   pid: 27791
@@ -1185,6 +1391,13 @@
   comc_str: sam+williams
   ebay_str: '"sam williams"'
   tcdb_str: sam-williams
+
+- player: Patrick Willis
+  priority: true
+  pid: 13520
+  comc_str: patrick willis
+  ebay_str: '"patrick+willis"'
+  tcdb_str: patrick-willis
 
 - player: Kenny Yeboah
   pid: 292137

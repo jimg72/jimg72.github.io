@@ -1,13 +1,38 @@
 ---
 layout: bootstrap_grid1
-title: Baseball Cards
+title: Start
 menu: none
-permalink: /baseball.html
+permalink: /start.html
 ---
 
 <div class="container">
+    <div class="row row-cols-2 row-cols-md-5" data-masonry='{"percentPosition": true }'>
+        {% for bookmark in site.data.bookmarks %}
+        <div class="col g-4">
+            <div class="card">
+                <div class="card-header">{{ bookmark.category }}</div>
+                <ul class="list-group list-group-flush">
+                    {% for link in bookmark.links %}
+                    <li class="list-group-item">
+                        <a target="_blank" href="{{ link.link_url }}">{{ link.link_name}}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col">
+            <hr />
+        </div>
+    </div>
+</div>
+
+<div class="container">
     <div class="row row-cols-2 row-cols-md-4" data-masonry='{"percentPosition": true }'>
-        {% for player in site.data.baseball1 %}
+        {% assign priority_football = site.data.football | where: "priority", true %}
+        {% for player in priority_football %}
         <div class="col g-4">
             <div class="card">
                 <div class="card-header">{{ player.player }}</div>
@@ -24,21 +49,21 @@ permalink: /baseball.html
                             target="_blank">coll</a>
                     </li>
                     <li class="list-group-item">
-                        COMC
+                        c -
                         <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
                     </li>
                     <li class="list-group-item">
                         eBay
-                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sop=10"
                             target="_blank">n</a>
                         |
-                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sop=1"
                             target="_blank">e</a>
                         |
-                        <a href="https://www.ebay.com/sch/i.html?LH_Auction=1&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=44"
+                        <a href="https://www.ebay.com/sch/i.html?LH_Auction=1&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sacat=261328&_sop=44"
                             target="_blank">b</a>
                         |
-                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
+                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sacat=261328&_sop=10&Graded=Yes"
                             target="_blank">g</a>
                     </li>
                     {% for link in player.links %}
@@ -56,8 +81,12 @@ permalink: /baseball.html
             <hr />
         </div>
     </div>
+</div>
+
+<div class="container">
     <div class="row row-cols-2 row-cols-md-4" data-masonry='{"percentPosition": true }'>
-        {% for player in site.data.baseball2 %}
+        {% assign priority_baseball = site.data.baseball | where: "priority", true %}
+        {% for player in priority_baseball %}
         <div class="col g-4">
             <div class="card">
                 <div class="card-header">{{ player.player }}</div>
@@ -74,21 +103,21 @@ permalink: /baseball.html
                             target="_blank">coll</a>
                     </li>
                     <li class="list-group-item">
-                        COMC
+                        c -
                         <a href="https://www.comc.com/Cards,sr,={{ player.comc_str }}" target="_blank">Newly Added</a>
                     </li>
                     <li class="list-group-item">
                         eBay
-                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=10"
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sop=10"
                             target="_blank">n</a>
                         |
-                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sop=1"
+                        <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sop=1"
                             target="_blank">e</a>
                         |
-                        <a href="https://www.ebay.com/sch/i.html?LH_Auction=1&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=44"
+                        <a href="https://www.ebay.com/sch/i.html?LH_Auction=1&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sacat=261328&_sop=44"
                             target="_blank">b</a>
                         |
-                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}&_sacat=261328&_sop=10&Graded=Yes"
+                        <a href="https://www.ebay.com/sch/i.html?_dcat=261328&_fsrp=1&rt=nc&_from=R40&_nkw={{ player.ebay_str|cgi_escape }}+-custom+-customs+-digital+-chase+-chasers&_sacat=261328&_sop=10&Graded=Yes"
                             target="_blank">g</a>
                     </li>
                     {% for link in player.links %}
