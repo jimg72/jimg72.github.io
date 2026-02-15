@@ -1,34 +1,40 @@
 - player: Gary Abide
+  priority: false
   pid: 265230
   comc_str: gary+abide
   ebay_str: '"gary abide"'
   tcdb_str: gary-abide
 
 - player: Billy Ray Adams
+  priority: false
   pid: 139417
   comc_str: billy ray+adams
   ebay_str: '"billy ray adams"'
   tcdb_str: billy-ray-adams
 
 - player: Quincy Adeboyejo
+  priority: false
   pid: 144895
   comc_str: quincy+adeboyejo
   ebay_str: '"quincy adeboyejo"'
   tcdb_str: quincy-adeboyejo
 
 - player: Deuce Alexander
+  priority: false
   pid: 472497
   comc_str: deuce alexander
   ebay_str: '"deuce+alexander"'
   tcdb_str: deuce-alexander
 
 - player: Warner Alford
+  priority: false
   pid: 139413
   comc_str: warner+alford
   ebay_str: '"warner alford"'
   tcdb_str: warner-alford
 
 - player: Buddy Alliston
+  priority: false
   pid: 137626
   comc_str: buddy+alliston
   ebay_str: '"buddy alliston"'
@@ -42,84 +48,98 @@
   tcdb_str: trey+amos
 
 - player: Dwayne Amos
+  priority: false
   pid: 265231
   comc_str: dwayne+amos
   ebay_str: '"dwayne amos"'
   tcdb_str: dwayne-amos
 
 - player: Charlie Anderson
+  priority: false
   pid: 46342
   comc_str: charlie+anderson
   ebay_str: '"charlie anderson"'
   tcdb_str: charlie-anderson
 
 - player: Stacy Andrews
+  priority: false
   pid: 8584
   comc_str: stacy+andrews
   ebay_str: '"stacy andrews"'
   tcdb_str: stacy-andrews
 
 - player: Jason Armstead
+  priority: false
   pid: 107882
   comc_str: jason+armstead
   ebay_str: '"jason armstead"'
   tcdb_str: jason-armstead
 
 - player: Tyji Armstrong
+  priority: false
   pid: 18187
   comc_str: tyji+armstrong
   ebay_str: '"tyji armstrong"'
   tcdb_str: tyji-armstrong
 
 - player: Tyrone Ashley
+  priority: false
   pid: 83818
   comc_str: tyrone+ashley
   ebay_str: '"tyrone ashley"'
   tcdb_str: tyrone-ashley
 
 - player: Kent Austin
+  priority: false
   pid: 59141
   comc_str: kent+austin
   ebay_str: '"kent austin"'
   tcdb_str: kent-austin
 
 - player: John Avery
+  priority: false
   pid: 25835
   comc_str: john+avery
   ebay_str: '"john avery"'
   tcdb_str: john-avery
 
 - player: Randy Baldwin
+  priority: false
   pid: 18206
   comc_str: randy+baldwin
   ebay_str: '"randy baldwin"'
   tcdb_str: randy-baldwin
 
 - player: Ed Beatty
+  priority: false
   pid: 8750
   comc_str: ed+beatty
   ebay_str: '"ed beatty"'
   tcdb_str: ed-beatty
 
 - player: Tony Bennett
+  priority: false
   pid: 8792
   comc_str: tony+bennett
   ebay_str: '"tony bennett"'
   tcdb_str: tony-bennett
 
 - player: Darron Billings
+  priority: false
   pid: 265232
   comc_str: darron+billings
   ebay_str: '"darron billings"'
   tcdb_str: darron-billings
 
 - player: George Blair
+  priority: false
   pid: 8859
   comc_str: george+blair
   ebay_str: '"george blair"'
   tcdb_str: george-blair
 
 - player: Travis Blanchard
+  priority: false
   pid: 254060
   comc_str: travis+blanchard
   ebay_str: '"travis blanchard"'
@@ -133,42 +153,49 @@
   tcdb_str: brandon-bolden
 
 - player: Antonious Bonner
+  priority: false
   pid: 179956
   comc_str: antonious+bonner
   ebay_str: '"antonious bonner"'
   tcdb_str: antonious-bonner
 
 - player: Tim Bowens
+  priority: false
   pid: 21921
   comc_str: tim+bowens
   ebay_str: '"tim bowens"'
   tcdb_str: tim-bowens
 
 - player: Billy Brewer
+  priority: false
   pid: 139415
   comc_str: billy+brewer
   ebay_str: '"billy brewer"'
   tcdb_str: billy-brewer
 
 - player: John Brewer
+  priority: false
   pid: 8963
   comc_str: john+brewer
   ebay_str: '"john brewer"'
   tcdb_str: john-brewer
 
 - player: Alundis Brice
+  priority: false
   pid: 21930
   comc_str: alundis+brice
   ebay_str: '"alundis brice"'
   tcdb_str: alundis-brice
 
 - player: Lester Brinkley
+  priority: false
   pid: 147871
   comc_str: lester+brinkley
   ebay_str: '"lester brinkley"'
   tcdb_str: lester-brinkley
 
 - player: Nick Broeker
+  priority: false
   pid: 334117
   comc_str: nick+broeker
   ebay_str: '"nick broeker"'
@@ -185,102 +212,119 @@
       link_url: https://www.ebay.com/sch/i.html?_nkw=%28aj%2Ca.j.%29+brown+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Allen Brown
+  priority: false
   pid: 139403
   comc_str: allen+brown
   ebay_str: '"allen brown"'
   tcdb_str: allen-brown
 
 - player: Vincent Brownlee
+  priority: false
   pid: 265234
   comc_str: vincent+brownlee
   ebay_str: '"vincent brownlee"'
   tcdb_str: vincent-brownlee
 
 - player: Derrick Burgess
+  priority: false
   pid: 9093
   comc_str: derrick+burgess
   ebay_str: '"derrick burgess"'
   tcdb_str: derrick-burgess
 
 - player: Chance Campbell
+  priority: false
   pid: 383504
   comc_str: chance+campbell
   ebay_str: '"chance campbell"'
   tcdb_str: chance-campbell
 
 - player: Charles Childers
+  priority: false
   pid: 139406
   comc_str: charles+childers
   ebay_str: '"charles childers"'
   tcdb_str: charles-childers
 
 - player: Kendrick Clancy
+  priority: false
   pid: 26137
   comc_str: kendrick+clancy
   ebay_str: '"kendrick clancy"'
   tcdb_str: kendrick-clancy
 
 - player: Ben Claxton
+  priority: false
   pid: 145240
   comc_str: ben+claxton
   ebay_str: '"ben claxton"'
   tcdb_str: ben-claxton
 
 - player: Shawn Cobb
+  priority: false
   pid: 139410
   comc_str: shawn+cobb
   ebay_str: '"shawn cobb"'
   tcdb_str: shawn-cobb
 
 - player: Khari Coleman
+  priority: false
   pid: 334082
   comc_str: khari+coleman
   ebay_str: '"khari coleman"'
   tcdb_str: khari-coleman
 
 - player: Pat Coleman
+  priority: false
   pid: 18384
   comc_str: pat+coleman
   ebay_str: '"pat coleman"'
   tcdb_str: pat-coleman
 
 - player: Tony Collier
+  priority: false
   pid: 138514
   comc_str: tony+collier
   ebay_str: '"tony collier"'
   tcdb_str: tony-collier
 
 - player: Chris Collins
+  priority: false
   pid: 48461
   comc_str: chris+collins
   ebay_str: '"chris collins"'
   tcdb_str: chris-collins
 
 - player: Charley Conerly
+  priority: false
   pid: 9390
   comc_str: charley+conerly
   ebay_str: '"charley conerly"'
   tcdb_str: charley-conerly
 
 - player: Clint Conlee
+  priority: false
   pid: 265237
   comc_str: clint+conlee
   ebay_str: '"clint conlee"'
   tcdb_str: clint-conlee
 
 - player: Snoop Conner
+  priority: false
   pid: 357468
   comc_str: snoop+conner
   ebay_str: '"snoop conner"'
   tcdb_str: jarod-conner
 
 - player: Tony Conner
+  priority: false
   pid: 146923
   comc_str: tony+conner
   ebay_str: '"tony conner"'
   tcdb_str: tony-conner
 
 - player: Cody Core
+  priority: false
   pid: 97921
   comc_str: cody+core
   ebay_str: '"cody core"'
@@ -294,30 +338,35 @@
   tcdb_str: matt-corral
 
 - player: Paige Cothren
+  priority: false
   pid: 9427
   comc_str: paige+cothren
   ebay_str: '"paige cothren"'
   tcdb_str: paige-cothren
 
 - player: Milt Crain
+  priority: false
   pid: 90991
   comc_str: milt+crain
   ebay_str: '"milt crain"'
   tcdb_str: milt-crain
 
 - player: Bob Crespino
+  priority: false
   pid: 171233
   comc_str: bob+crespino
   ebay_str: '"bob crespino"'
   tcdb_str: bob-crespino
 
 - player: Doug Cunningham
+  priority: false
   pid: 9496
   comc_str: doug+cunningham
   ebay_str: '"doug cunningham"'
   tcdb_str: doug-cunningham
 
 - player: John Darnell
+  priority: false
   pid: 139414
   comc_str: john+darnell
   ebay_str: '"john darnell"'
@@ -342,18 +391,21 @@
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2025&_from=R40&_sop=10
 
 - player: Paul Davis
+  priority: false
   pid: 139393
   comc_str: paul+davis
   ebay_str: '"paul davis"'
   tcdb_str: paul-davis
 
 - player: Eagle Day
+  priority: false
   pid: 59356
   comc_str: eagle+day
   ebay_str: '"eagle day"'
   tcdb_str: eagle-day
 
 - player: Cliff Dew
+  priority: false
   pid: 265239
   comc_str: cliff+dew
   ebay_str: '"cliff dew"'
@@ -367,60 +419,70 @@
   tcdb_str: logan-diggs
 
 - player: Kenny Dill
+  priority: false
   pid: 139404
   comc_str: kenny+dill
   ebay_str: '"kenny dill"'
   tcdb_str: kenny-dill
 
 - player: Dewayne Dotson
+  priority: false
   pid: 139506
   comc_str: dewayne+dotson
   ebay_str: '"dewayne dotson"'
   tcdb_str: dewayne-dotson
 
 - player: Zach Dotson
+  priority: false
   pid: 72013
   comc_str: zach+dotson
   ebay_str: '"zach dotson"'
   tcdb_str: zach-dotson
 
 - player: John Dottley
+  priority: false
   pid: 9698
   comc_str: john+dottley
   ebay_str: '"john dottley"'
   tcdb_str: john-dottley
 
 - player: Dontario Drummond
+  priority: false
   pid: 337717
   comc_str: dontario+drummond
   ebay_str: '"dontario drummond"'
   tcdb_str: dontario-drummond
 
 - player: Jim Dunaway
+  priority: false
   pid: 9737
   comc_str: jim+dunaway
   ebay_str: '"jim dunaway"'
   tcdb_str: jim-dunaway
 
 - player: Perry Lee Dunn
+  priority: false
   pid: 9742
   comc_str: perry lee+dunn
   ebay_str: '"perry lee dunn"'
   tcdb_str: perry-lee-dunn
 
 - player: Jerrion Ealy
+  priority: false
   pid: 333587
   comc_str: jerrion+ealy
   ebay_str: '"jerrion ealy"'
   tcdb_str: jerrion-ealy
 
 - player: Doug Elmore
+  priority: false
   pid: 139411
   comc_str: doug+elmore
   ebay_str: '"doug elmore"'
   tcdb_str: doug-elmore
 
 - player: Trae Elston
+  priority: false
   pid: 95715
   comc_str: trae+elston
   ebay_str: '"trae elston"'
@@ -434,132 +496,154 @@
   tcdb_str: evan-engram
 
 - player: Mike Espy
+  priority: false
   pid: 26345
   comc_str: mike+espy
   ebay_str: '"mike espy"'
   tcdb_str: mike-espy
 
 - player: Lorenval Donta Evans
+  priority: false
   pid: 134477
   comc_str: lorenval donta+evans
   ebay_str: '"lorenval donta evans"'
   tcdb_str: lorenval-donta-evans
 
 - player: Zach Evans
+  priority: false
   pid: 339345
   comc_str: zach+evans
   ebay_str: '"zach evans"'
   tcdb_str: zach-evans
 
 - player: Julian Fagan
+  priority: false
   pid: 9851
   comc_str: julian+fagan
   ebay_str: '"julian fagan"'
   tcdb_str: julian-fagan
 
 - player: Ken Farragut
+  priority: false
   pid: 9866
   comc_str: ken+farragut
   ebay_str: '"ken farragut"'
   tcdb_str: ken-farragut
 
 - player: Charlie Flowers
+  priority: false
   pid: 9937
   comc_str: charlie+flowers
   ebay_str: '"charlie flowers"'
   tcdb_str: charlie-flowers
 
 - player: John Fourcade
+  priority: false
   pid: 9971
   comc_str: john+fourcade
   ebay_str: '"john fourcade"'
   tcdb_str: john-fourcade
 
 - player: Bobby Franklin
+  priority: false
   pid: 171235
   comc_str: bobby+franklin
   ebay_str: '"bobby franklin"'
   tcdb_str: bobby-franklin
 
 - player: Rufus French
+  priority: false
   pid: 26428
   comc_str: rufus+french
   ebay_str: '"rufus french"'
   tcdb_str: rufus-french
 
 - player: Kline Gilbert
+  priority: false
   pid: 10108
   comc_str: kline+gilbert
   ebay_str: '"kline gilbert"'
   tcdb_str: kline-gilbert
 
 - player: Austin Golson
+  priority: false
   pid: 185717
   comc_str: austin+golson
   ebay_str: '"austin golson"'
   tcdb_str: austin-golson
 
 - player: Senquez Golson
+  priority: false
   pid: 70611
   comc_str: senquez+golson
   ebay_str: '"senquez golson"'
   tcdb_str: senquez-golson
 
 - player: Larry Grantham
+  priority: false
   pid: 10198
   comc_str: larry+grantham
   ebay_str: '"larry grantham"'
   tcdb_str: larry-grantham
 
 - player: Allen Green
+  priority: false
   pid: 26518
   comc_str: allen+green
   ebay_str: '"allen green"'
   tcdb_str: allen-green
 
 - player: Willie Green
+  priority: false
   pid: 18632
   comc_str: willie+green
   ebay_str: '"willie green"'
   tcdb_str: willie-green
 
 - player: BenJarvus Green-Ellis
+  priority: false
   pid: 26530
   comc_str: benjarvus+green-ellis
   ebay_str: '"benjarvus green-ellis"'
   tcdb_str: benjarvus-green-ellis
 
 - player: Glynn Griffing
+  priority: false
   pid: 128051
   comc_str: glynn+griffing
   ebay_str: '"glynn griffing"'
   tcdb_str: glynn-griffing
 
 - player: Mac Haik
+  priority: false
   pid: 54406
   comc_str: mac+haik
   ebay_str: '"mac haik"'
   tcdb_str: mac-haik
 
 - player: Parker Hall
+  priority: false
   pid: 139402
   comc_str: parker+hall
   ebay_str: '"parker hall"'
   tcdb_str: parker-hall
 
 - player: Norman Hand
+  priority: false
   pid: 26578
   comc_str: norman+hand
   ebay_str: '"norman hand"'
   tcdb_str: norman-hand
 
 - player: Merle Hapes
+  priority: false
   pid: 137586
   comc_str: merle+hapes
   ebay_str: '"merle hapes"'
   tcdb_str: merle-hapes
 
 - player: Greg Hardy
+  priority: false
   pid: 49422
   comc_str: greg+hardy
   ebay_str: '"greg hardy"'
@@ -573,162 +657,189 @@
   tcdb_str: tre-harris
 
 - player: Harry Harrison
+  priority: false
   pid: 139407
   comc_str: harry+harrison
   ebay_str: '"harry harrison"'
   tcdb_str: harry-harrison
 
 - player: Luke Hasz
+  priority: false
   pid: 460612
   comc_str: luke hasz
   ebay_str: '"luke+hasz"'
   tcdb_str: luke-hasz
 
 - player: Marquis Haynes
+  priority: false
   pid: 185764
   comc_str: marquis+haynes
   ebay_str: '"marquis haynes"'
   tcdb_str: marquis-haynes
 
 - player: Ronnie Heard
+  priority: false
   pid: 26631
   comc_str: ronnie+heard
   ebay_str: '"ronnie heard"'
   tcdb_str: ronnie-heard
 
 - player: Malik Heath
+  priority: false
   pid: 398989
   comc_str: malik+heath
   ebay_str: '"malik heath"'
   tcdb_str: malik-heath
 
 - player: Jeff Herrod
+  priority: false
   pid: 10523
   comc_str: jeff+herrod
   ebay_str: '"jeff herrod"'
   tcdb_str: jeff-herrod
 
 - player: Gene Hickerson
+  priority: false
   pid: 10531
   comc_str: gene+hickerson
   ebay_str: '"gene hickerson"'
   tcdb_str: gene-hickerson
 
 - player: Mike Hilton
+  priority: false
   pid: 182131
   comc_str: mike+hilton
   ebay_str: '"mike hilton"'
   tcdb_str: mike-hilton
 
 - player: Stan Hindman
+  priority: false
   pid: 54417
   comc_str: stan+hindman
   ebay_str: '"stan hindman"'
   tcdb_str: stan-hindman
 
 - player: Shay Hodge
+  priority: false
   pid: 36086
   comc_str: shay+hodge
   ebay_str: '"shay hodge"'
   tcdb_str: shay-hodge
 
 - player: Paul Hofer
+  priority: false
   pid: 10596
   comc_str: paul+hofer
   ebay_str: '"paul hofer"'
   tcdb_str: paul-hofer
 
 - player: Walker Howard
+  priority: false
   pid: 357642
   comc_str: walker+howard
   ebay_str: '"walker howard"'
   tcdb_str: walker-howard
 
 - player: Von Hutchins
+  priority: false
   pid: 49214
   comc_str: von+hutchins
   ebay_str: '"von hutchins"'
   tcdb_str: von-hutchins
 
 - player: Dou Innocent
+  priority: false
   pid: 22137
   comc_str: dou+innocent
   ebay_str: '"dou innocent"'
   tcdb_str: dou-innocent
 
 - player: Doug Jacobs
+  priority: false
   pid: 139405
   comc_str: doug+jacobs
   ebay_str: '"doug jacobs"'
   tcdb_str: doug-jacobs
 
 - player: John Jerry
+  priority: false
   pid: 145760
   comc_str: john+jerry
   ebay_str: '"john jerry"'
   tcdb_str: john-jerry
 
 - player: Peria Jerry
+  priority: false
   pid: 26767
   comc_str: peria+jerry
   ebay_str: '"peria jerry"'
   tcdb_str: peria-jerry
 
 - player: Belton Johnson
+  priority: false
   pid: 147035
   comc_str: belton+johnson
   ebay_str: '"belton johnson"'
   tcdb_str: belton-johnson
 
 - player: Marcus Johnson
+  priority: false
   pid: 259820
   comc_str: marcus+johnson
   ebay_str: '"marcus johnson"'
   tcdb_str: marcus-johnson
 
 - player: Benito Jones
+  priority: false
   pid: 258413
   comc_str: benito+jones
   ebay_str: '"benito jones"'
   tcdb_str: benito-jones
 
 - player: DJ Jones
+  priority: false
   pid: 273839
   comc_str: dj+jones
   ebay_str: '"dj jones"'
   tcdb_str: d.j.-jones
 
 - player: Quinshon Judkins
+  priority: false
   pid: 395898
   comc_str: quinshon+judkins
   ebay_str: '"quinshon judkins"'
   tcdb_str: quinshon-judkins
 
 - player: Chad Kelly
+  priority: false
   pid: 143670
   comc_str: chad+kelly
   ebay_str: '"chad kelly"'
   tcdb_str: chad-kelly
 
 - player: Jim Keyes
+  priority: false
   pid: 11047
   comc_str: jim+keyes
   ebay_str: '"jim keyes"'
   tcdb_str: jim-keyes
 
 - player: Bob Khayat
+  priority: false
   pid: 11051
   comc_str: bob+khayat
   ebay_str: '"bob khayat"'
   tcdb_str: bob-khayat
 
 - player: Billy Kinard
+  priority: false
   pid: 11059
   comc_str: billy+kinard
   ebay_str: '"billy kinard"'
   tcdb_str: billy-kinard
 
 - player: Bruiser Kinard
+  priority: false
   pid: 11060
   comc_str: bruiser+kinard
   ebay_str: '"bruiser kinard"'
@@ -742,72 +853,84 @@
   tcdb_str: dawson-knox
 
 - player: Frank Lambert
+  priority: false
   pid: 11156
   comc_str: frank+lambert
   ebay_str: '"frank lambert"'
   tcdb_str: frank-lambert
 
 - player: Ted Laurent
+  priority: false
   pid: 143543
   comc_str: ted+laurent
   ebay_str: '"ted laurent"'
   tcdb_str: ted-laurent
 
 - player: Deane Leonard
+  priority: false
   pid: 350775
   comc_str: deane+leonard
   ebay_str: '"deane leonard"'
   tcdb_str: deane-leonard
 
 - player: Kendrick Lewis
+  priority: false
   pid: 254101
   comc_str: kendrick+lewis
   ebay_str: '"kendrick lewis"'
   tcdb_str: kendrick-lewis
 
 - player: Everett Lindsay
+  priority: false
   pid: 18896
   comc_str: everett+lindsay
   ebay_str: '"everett lindsay"'
   tcdb_str: everett-lindsay
 
 - player: Greg Little
+  priority: false
   pid: 269677
   comc_str: greg+little
   ebay_str: '"greg little"'
   tcdb_str: greg-little
 
 - player: Kentrell Lockett
+  priority: false
   pid: 102973
   comc_str: kentrell+lockett
   ebay_str: '"kentrell lockett"'
   tcdb_str: kentrell-lockett
 
 - player: DaMarkus Lodge
+  priority: false
   pid: 216133
   comc_str: damarkus+lodge
   ebay_str: '"damarkus lodge"'
   tcdb_str: damarkus-lodge
 
 - player: Billy Lott
+  priority: false
   pid: 11336
   comc_str: billy+lott
   ebay_str: '"billy lott"'
   tcdb_str: billy-lott
 
 - player: Michael Lowery
+  priority: false
   pid: 63542
   comc_str: michael+lowery
   ebay_str: '"michael lowery"'
   tcdb_str: michael-lowery
 
 - player: Ken Lucas
+  priority: false
   pid: 26937
   comc_str: ken+lucas
   ebay_str: '"ken lucas"'
   tcdb_str: ken-lucas
 
 - player: Kris Mangum
+  priority: false
   pid: 26970
   comc_str: kris+mangum
   ebay_str: '"kris mangum"'
@@ -863,24 +986,28 @@
 
 
 - player: Cooper Manning
+  priority: false
   pid: 86462
   comc_str: cooper+manning
   ebay_str: '"cooper manning"'
   tcdb_str: cooper-manning
 
 - player: Jeremiah Masoli
+  priority: false
   pid: 141497
   comc_str: jeremiah+masoli
   ebay_str: '"jeremiah masoli"'
   tcdb_str: jeremiah-masoli
 
 - player: Bobby Massie
+  priority: false
   pid: 78920
   comc_str: bobby+massie
   ebay_str: '"bobby massie"'
   tcdb_str: bobby-massie
 
 - player: Itavius Mathers
+  priority: false
   pid: 143934
   comc_str: itavius+mathers
   ebay_str: '"itavius mathers"'
@@ -901,30 +1028,35 @@
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
 
 - player: Trumaine Mcbride
+  priority: false
   pid: 27024
   comc_str: trumaine+mcbride
   ebay_str: '"trumaine mcbride"'
   tcdb_str: trumaine-mcbride
 
 - player: Ronald Mcclendon
+  priority: false
   pid: 181014
   comc_str: ronald+mcclendon
   ebay_str: '"ronald mcclendon"'
   tcdb_str: ronald-mcclendon
 
 - player: Dexter McCluster
+  priority: false
   pid: 33851
   comc_str: dexter+mccluster
   ebay_str: '"dexter mccluster"'
   tcdb_str: dexter-mccluster
 
 - player: Buford Mcgee
+  priority: false
   pid: 11560
   comc_str: buford+mcgee
   ebay_str: '"buford mcgee"'
   tcdb_str: buford-mcgee
 
 - player: Jeremy Mcgee
+  priority: false
   pid: 190440
   comc_str: jeremy+mcgee
   ebay_str: '"jeremy mcgee"'
@@ -941,18 +1073,21 @@
       link_url: https://www.ebay.com/sch/i.html?_nkw=%28dk%2Cd.k.%29+metcalf+2019+prizm+-%28optic%2Cdonruss%2Cselect%2Clegacy%2Cspectra%2Cmosaic%2Cphoenix%2Cbox%29+-%28base%2Cgear%2Cchronicles%2Cpremier%2Ccrusade%29&_sacat=212&Professional%2520Grader=Professional%2520Sports%2520Authenticator%2520%2528PSA%2529&_dcat=212&Grade=10&_fcid=1&_sop=10&_stpos=75248&_svsrch=1
 
 - player: Terrence Metcalf
+  priority: false
   pid: 259789
   comc_str: terrence+metcalf
   ebay_str: '"terrence metcalf"'
   tcdb_str: terrence-metcalf
 
 - player: Jim Miller
+  priority: false
   pid: 90194
   comc_str: jim+miller
   ebay_str: '"jim miller"'
   tcdb_str: jim-miller
 
 - player: Romaro Miller
+  priority: false
   pid: 110263
   comc_str: romaro+miller
   ebay_str: '"romaro miller"'
@@ -966,18 +1101,21 @@
   tcdb_str: jonathan-mingo
 
 - player: Chris Mitchell
+  priority: false
   pid: 139409
   comc_str: chris+mitchell
   ebay_str: '"chris mitchell"'
   tcdb_str: chris-mitchell
 
 - player: Donte Moncrief
+  priority: false
   pid: 48824
   comc_str: donte+moncrief
   ebay_str: '"donte moncrief"'
   tcdb_str: donte-moncrief
 
 - player: Tyrone Montgomery
+  priority: false
   pid: 22299
   comc_str: tyrone+montgomery
   ebay_str: '"tyrone montgomery"'
@@ -991,18 +1129,21 @@
   tcdb_str: elijah-moore
 
 - player: Stevon Moore
+  priority: false
   pid: 19033
   comc_str: stevon+moore
   ebay_str: '"stevon moore"'
   tcdb_str: stevon-moore
 
 - player: Jonathan Nichols
+  priority: false
   pid: 259822
   comc_str: jonathan+nichols
   ebay_str: '"jonathan nichols"'
   tcdb_str: jonathan-nichols
 
 - player: Robert Nkemdiche
+  priority: false
   pid: 95761
   comc_str: robert+nkemdiche
   ebay_str: '"robert nkemdiche"'
@@ -1016,276 +1157,322 @@
   tcdb_str: walter+nolen
 
 - player: Freddie Joe Nunn
+  priority: false
   pid: 11950
   comc_str: freddie joe+nunn
   ebay_str: '"freddie joe nunn"'
   tcdb_str: freddie-joe-nunn
 
 - player: Michael Oher
+  priority: false
   pid: 27222
   comc_str: michael+oher
   ebay_str: '"michael oher"'
   tcdb_str: michael-oher
 
 - player: Darrick Owens
+  priority: false
   pid: 19077
   comc_str: darrick+owens
   ebay_str: '"darrick owens"'
   tcdb_str: darrick-owens
 
 - player: Ashlee Palmer
+  priority: false
   pid: 145662
   comc_str: ashlee+palmer
   ebay_str: '"ashlee palmer"'
   tcdb_str: ashlee-palmer
 
 - player: Jermey Parnell
+  priority: false
   pid: 182129
   comc_str: jermey+parnell
   ebay_str: '"jermey parnell"'
   tcdb_str: jermey-parnell
 
 - player: Javon Patterson
+  priority: false
   pid: 128686
   comc_str: javon+patterson
   ebay_str: '"javon patterson"'
   tcdb_str: javon-patterson
 
 - player: Jim Patton
+  priority: false
   pid: 12092
   comc_str: jim+patton
   ebay_str: '"jim patton"'
   tcdb_str: jim-patton
 
 - player: Vashon Pearson
+  priority: false
   pid: 27271
   comc_str: vashon+pearson
   ebay_str: '"vashon pearson"'
   tcdb_str: vashon-pearson
 
 - player: Leon Perry
+  priority: false
   pid: 12139
   comc_str: leon+perry
   ebay_str: '"leon perry"'
   tcdb_str: leon-perry
 
 - player: Scottie Phillips
+  priority: false
   pid: 251477
   comc_str: scottie+phillips
   ebay_str: '"scottie phillips"'
   tcdb_str: scottie-phillips
 
 - player: Cory Philpot
+  priority: false
   pid: 57229
   comc_str: cory+philpot
   ebay_str: '"cory philpot"'
   tcdb_str: cory-philpot
 
 - player: Barney Poole
+  priority: false
   pid: 12208
   comc_str: barney+poole
   ebay_str: '"barney poole"'
   tcdb_str: barney-poole
 
 - player: Jim Poole
+  priority: false
   pid: 137744
   comc_str: jim+poole
   ebay_str: '"jim poole"'
   tcdb_str: jim-poole
 
 - player: Ray Poole
+  priority: false
   pid: 12210
   comc_str: ray+poole
   ebay_str: '"ray poole"'
   tcdb_str: ray-poole
 
 - player: Jerrell Powe
+  priority: false
   pid: 254100
   comc_str: jerrell+powe
   ebay_str: '"jerrell powe"'
   tcdb_str: jerrell-powe
 
 - player: Roell Preston
+  priority: false
   pid: 22367
   comc_str: roell+preston
   ebay_str: '"roell preston"'
   tcdb_str: roell-preston
 
 - player: Cody Prewitt
+  priority: false
   pid: 70595
   comc_str: cody+prewitt
   ebay_str: '"cody prewitt"'
   tcdb_str: cody-prewitt
 
 - player: Kelvin Pritchett
+  priority: false
   pid: 19130
   comc_str: kelvin+pritchett
   ebay_str: '"kelvin pritchett"'
   tcdb_str: kelvin-pritchett
 
 - player: Dawson Pruett
+  priority: false
   pid: 139412
   comc_str: dawson+pruett
   ebay_str: '"dawson pruett"'
   tcdb_str: dawson-pruett
 
 - player: Rick Razzano
+  priority: false
   pid: 27360
   comc_str: rick+razzano
   ebay_str: '"rick razzano"'
   tcdb_str: rick-razzano
 
 - player: Gerald Rivers
+  priority: false
   pid: 254099
   comc_str: gerald+rivers
   ebay_str: '"gerald rivers"'
   tcdb_str: gerald-rivers
 
 - player: Tavius Robinson
+  priority: false
   pid: 395071
   comc_str: tavius+robinson
   ebay_str: '"tavius robinson"'
   tcdb_str: tavius-robinson
 
 - player: Andre Rone
+  priority: false
   pid: 27409
   comc_str: andre+rone
   ebay_str: '"andre rone"'
   tcdb_str: andre-rone
 
 - player: Braylon Sanders
+  priority: false
   pid: 359171
   comc_str: braylon+sanders
   ebay_str: '"braylon sanders"'
   tcdb_str: braylon-sanders
 
 - player: Todd Sandroni
+  priority: false
   pid: 139408
   comc_str: todd+sandroni
   ebay_str: '"todd sandroni"'
   tcdb_str: todd-sandroni
 
 - player: Jamarca Sanford
+  priority: false
   pid: 33870
   comc_str: jamarca+sanford
   ebay_str: '"jamarca sanford"'
   tcdb_str: jamarca-sanford
 
 - player: Mohamed Sanogo
+  priority: false
   pid: 224520
   comc_str: mohamed+sanogo
   ebay_str: '"mohamed sanogo"'
   tcdb_str: mohamed-sanogo
 
 - player: Qaadir Sheppard
+  priority: false
   pid: 262591
   comc_str: qaadir+sheppard
   ebay_str: '"qaadir sheppard"'
   tcdb_str: qaadir-sheppard
 
 - player: Jackie Simpson
+  priority: false
   pid: 83638
   comc_str: jackie+simpson
   ebay_str: '"jackie simpson"'
   tcdb_str: jackie-simpson
 
 - player: Bill Smith
+  priority: false
   pid: 86127
   comc_str: bill+smith
   ebay_str: '"bill smith"'
   tcdb_str: bill-smith
 
 - player: Ralph Smith
+  priority: false
   pid: 322707
   comc_str: ralph+smith
   ebay_str: '"ralph smith"'
   tcdb_str: ralph-smith
 
 - player: Jevan Snead
+  priority: false
   pid: 33878
   comc_str: jevan+snead
   ebay_str: '"jevan snead"'
   tcdb_str: jevan-snead
 
 - player: Bradley Sowell
+  priority: false
   pid: 162840
   comc_str: bradley+sowell
   ebay_str: '"bradley sowell"'
   tcdb_str: bradley-sowell
 
 - player: Breeland Speaks
+  priority: false
   pid: 185722
   comc_str: breeland+speaks
   ebay_str: '"breeland speaks"'
   tcdb_str: breeland-speaks
 
 - player: Armegis Spearman
+  priority: false
   pid: 27585
   comc_str: armegis+spearman
   ebay_str: '"armegis spearman"'
   tcdb_str: armegis-spearman
 
 - player: Chris Spencer
+  priority: false
   pid: 27589
   comc_str: chris+spencer
   ebay_str: '"chris spencer"'
   tcdb_str: chris-spencer
 
 - player: Jake Springer
+  priority: false
   pid: 350780
   comc_str: jake+springer
   ebay_str: '"jake springer"'
   tcdb_str: jake-springer
 
 - player: Charles Stackhouse
+  priority: false
   pid: 27602
   comc_str: charles+stackhouse
   ebay_str: '"charles stackhouse"'
   tcdb_str: charles-stackhouse
 
 - player: De'Zhaun Stribling
+  priority: false
   pid: 496131
   comc_str: De'Zhaun Stribling
   ebay_str: '"De''Zhaun Stribling"'
   tcdb_str: de'zhaun-stribling
 
 - player: Bill Stribling
+  priority: false
   pid: 88192
   comc_str: bill+stribling
   ebay_str: '"bill stribling"'
   tcdb_str: bill-stribling
 
 - player: Timothy Strickland
+  priority: false
   pid: 108276
   comc_str: timothy+strickland
   ebay_str: '"timothy strickland"'
   tcdb_str: timothy-strickland
 
 - player: Damoreea Stringfellow
+  priority: false
   pid: 143730
   comc_str: damoreea+stringfellow
   ebay_str: '"damoreea stringfellow"'
   tcdb_str: damore'ea-stringfellow
 
 - player: Jordan Taamu
+  priority: false
   pid: 218775
   comc_str: jordan+taamu
   ebay_str: '"jordan taamu"'
   tcdb_str: jordan-ta'amu
 
 - player: Marvin Terrell
+  priority: false
   pid: 13052
   comc_str: marvin+terrell
   ebay_str: '"marvin terrell"'
   tcdb_str: marvin-terrell
 
 - player: Andre Townsend
+  priority: false
   pid: 19379
   comc_str: andre+townsend
   ebay_str: '"andre townsend"'
   tcdb_str: andre-townsend
 
 - player: Laquon Treadwell
+  priority: false
   pid: 95752
   comc_str: laquon+treadwell
   ebay_str: '"laquon treadwell"'
@@ -1306,30 +1493,35 @@
   tcdb_str: princely+umanmielen
 
 - player: Jim Urbanek
+  priority: false
   pid: 139420
   comc_str: jim+urbanek
   ebay_str: '"jim urbanek"'
   tcdb_str: jim-urbanek
 
 - player: Cassius Vaughn
+  priority: false
   pid: 197394
   comc_str: cassius+vaughn
   ebay_str: '"cassius vaughn"'
   tcdb_str: cassius-vaughn
 
 - player: Gerald Vaughn
+  priority: false
   pid: 109013
   comc_str: gerald+vaughn
   ebay_str: '"gerald vaughn"'
   tcdb_str: gerald-vaughn
 
 - player: Keydrick Vincent
+  priority: false
   pid: 46371
   comc_str: keydrick+vincent
   ebay_str: '"keydrick vincent"'
   tcdb_str: keydrick-vincent
 
 - player: Todd Wade
+  priority: false
   pid: 27751
   comc_str: todd+wade
   ebay_str: '"todd wade"'
@@ -1357,36 +1549,42 @@
   tcdb_str: wesley-walls
 
 - player: Nate Wayne
+  priority: false
   pid: 27791
   comc_str: nate+wayne
   ebay_str: '"nate wayne"'
   tcdb_str: nate-wayne
 
 - player: Curtis Weathers
+  priority: false
   pid: 27794
   comc_str: curtis+weathers
   ebay_str: '"curtis weathers"'
   tcdb_str: curtis-weathers
 
 - player: Barry Wilburn
+  priority: false
   pid: 13446
   comc_str: barry+wilburn
   ebay_str: '"barry wilburn"'
   tcdb_str: barry-wilburn
 
 - player: Jordan Wilkins
+  priority: false
   pid: 190993
   comc_str: jordan+wilkins
   ebay_str: '"jordan wilkins"'
   tcdb_str: jordan-wilkins
 
 - player: Ben Williams
+  priority: false
   pid: 13462
   comc_str: ben+williams
   ebay_str: '"ben williams"'
   tcdb_str: ben-williams
 
 - player: Sam Williams
+  priority: false
   pid: 351024
   comc_str: sam+williams
   ebay_str: '"sam williams"'
@@ -1400,13 +1598,22 @@
   tcdb_str: patrick-willis
 
 - player: Kenny Yeboah
+  priority: false
   pid: 292137
   comc_str: kenny+yeboah
   ebay_str: '"kenny yeboah"'
   tcdb_str: kenny-yeboah
 
 - player: Mark Young
+  priority: false
   pid: 139416
   comc_str: mark+young
   ebay_str: '"mark young"'
   tcdb_str: mark-young
+
+- player: Preston Stone
+  priority: true
+  pid: 330971
+  comc_str: preston stone
+  ebay_str: '"preston+stone"'
+  tcdb_str: preston-stone
