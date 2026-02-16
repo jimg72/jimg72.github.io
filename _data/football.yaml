@@ -8,7 +8,7 @@
 - player: Billy Ray Adams
   priority: false
   pid: 139417
-  comc_str: billy ray+adams
+  comc_str: billy+ray+adams
   ebay_str: '"billy ray adams"'
   tcdb_str: billy-ray-adams
 
@@ -22,7 +22,7 @@
 - player: Deuce Alexander
   priority: false
   pid: 472497
-  comc_str: deuce alexander
+  comc_str: deuce+alexander
   ebay_str: '"deuce+alexander"'
   tcdb_str: deuce-alexander
 
@@ -45,7 +45,7 @@
   pid: 405604
   comc_str: trey+amos
   ebay_str: '"trey amos"'
-  tcdb_str: trey+amos
+  tcdb_str: trey-amos
 
 - player: Dwayne Amos
   priority: false
@@ -463,7 +463,7 @@
 - player: Perry Lee Dunn
   priority: false
   pid: 9742
-  comc_str: perry lee+dunn
+  comc_str: perry+lee+dunn
   ebay_str: '"perry lee dunn"'
   tcdb_str: perry-lee-dunn
 
@@ -505,7 +505,7 @@
 - player: Lorenval Donta Evans
   priority: false
   pid: 134477
-  comc_str: lorenval donta+evans
+  comc_str: lorenval+donta+evans
   ebay_str: '"lorenval donta evans"'
   tcdb_str: lorenval-donta-evans
 
@@ -666,7 +666,7 @@
 - player: Luke Hasz
   priority: false
   pid: 460612
-  comc_str: luke hasz
+  comc_str: luke+hasz
   ebay_str: '"luke+hasz"'
   tcdb_str: luke-hasz
 
@@ -939,7 +939,7 @@
 - player: Archie Manning
   priority: true
   pid: 11402
-  comc_str: archie manning
+  comc_str: archie+manning
   ebay_str: '"archie manning"'
   tcdb_str: archie-manning
   links:
@@ -1154,12 +1154,12 @@
   pid: 486008
   comc_str: walter+nolen
   ebay_str: '"walter nolen"'
-  tcdb_str: walter+nolen
+  tcdb_str: walter-nolen
 
 - player: Freddie Joe Nunn
   priority: false
   pid: 11950
-  comc_str: freddie joe+nunn
+  comc_str: freddie+joe+nunn
   ebay_str: '"freddie joe nunn"'
   tcdb_str: freddie-joe-nunn
 
@@ -1425,7 +1425,7 @@
 - player: De'Zhaun Stribling
   priority: false
   pid: 496131
-  comc_str: De'Zhaun Stribling
+  comc_str: de%27zhaun+stribling
   ebay_str: '"De''Zhaun Stribling"'
   tcdb_str: de'zhaun-stribling
 
@@ -1490,7 +1490,7 @@
   pid: 400941
   comc_str: princely+umanmielen
   ebay_str: '"princely umanmielen"'
-  tcdb_str: princely+umanmielen
+  tcdb_str: princely-umanmielen
 
 - player: Jim Urbanek
   priority: false
@@ -1593,7 +1593,7 @@
 - player: Patrick Willis
   priority: true
   pid: 13520
-  comc_str: patrick willis
+  comc_str: patrick+willis
   ebay_str: '"patrick+willis"'
   tcdb_str: patrick-willis
 
@@ -1614,6 +1614,6 @@
 - player: Preston Stone
   priority: true
   pid: 330971
-  comc_str: preston stone
+  comc_str: preston+stone
   ebay_str: '"preston+stone"'
   tcdb_str: preston-stone

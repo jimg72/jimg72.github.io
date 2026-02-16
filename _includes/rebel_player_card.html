@@ -1,0 +1,86 @@
+<div class="col">
+    <div class="card h-100">
+        <img src="{{ include.player.photo_path }}" class="card-img-top" alt="{{ include.player.name }}" />
+        <div class="card-body">
+            <div class="card-title">
+                <h5 class="mb-2">{{ include.player.name }}</h5>
+            </div>
+            <div class="card-text pb-2">
+                {{ include.player.position }}<br>
+                {{ include.player.team }}<br>
+                {% if include.level == "retired" %}
+                {{ include.player.years }}<br>
+                {% endif %}
+                {{ include.player.drafted }}
+            </div>
+
+            {% if include.level == "minors" %}
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/milb.svg" alt="MILB" class="me-2" width="32" height="18">
+                    <a href="https://www.milb.com/player/{{ include.player.mlb_string}}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">MiLB.com</a>
+                </div>
+            </div>
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32" height="18">
+                    <a href="https://www.baseball-reference.com/{{ include.player.bb_ref_string }}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">Baseball Ref</a>
+                </div>
+            </div>
+            {% if include.player.ba_string != "none" %}
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/ba2.svg" alt="Baseball America" class="me-2" width="32" height="18">
+                    <a href="https://www.baseballamerica.com/players/{{ include.player.ba_string}}/" target="_blank" rel="noopener noreferrer" class="text-decoration-none">Baseball America</a>
+                </div>
+            </div>
+            {% endif %}
+            {% else %}
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/mlb.svg" alt="MLB" class="me-2" width="32" height="18">
+                    <a href="https://www.mlb.com/player/{{ include.player.mlb_string}}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">MLB.com</a>
+                </div>
+            </div>
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/br-logo.svg" alt="Baseball Reference" class="me-2" width="32" height="18">
+                    <a href="https://www.baseball-reference.com/players/{{ include.player.bb_ref_string}}.shtml" target="_blank" rel="noopener noreferrer" class="text-decoration-none">Baseball Ref</a>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="card-text pb-1">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/ebay_logo.svg" alt="eBay" class="me-2" width="32" height="18">
+                    <a href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ include.player.ebay_string|cgi_escape }}&_sop=10" target="_blank" rel="noopener noreferrer" class="text-decoration-none">eBay New</a>
+                </div>
+            </div>
+            <div class="card-text pb-2">
+                <div class="d-flex align-items-center">
+                    <img src="assets/icons/comc.svg" alt="COMC" class="me-2" width="32" height="18">
+                    <a href="https://www.comc.com/Cards,sr,={{ include.player.comc_string }}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">COMC</a>
+                </div>
+            </div>
+            <div class="card-text">
+                <div class="d-flex align-items-center gap-2">
+                    {% if include.player.instagram != "none" %}
+                    <a href="https://www.instagram.com/{{ include.player.instagram }}/" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                        <img src="assets/icons/instagram.svg" alt="Instagram" width="20" height="20">
+                    </a>
+                    {% endif %}
+                    {% if include.player.twitter != "none" %}
+                    <a href="https://x.com/{{ include.player.twitter }}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                        <img src="assets/icons/twitter-x.svg" alt="Twitter" width="20" height="20">
+                    </a>
+                    {% endif %}
+                    {% if include.level != "minors" and include.player.wiki != "none" %}
+                    <a href="https://en.wikipedia.org/wiki/{{ include.player.wiki }}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                        <img src="assets/icons/wikipedia.svg" alt="Wikipedia" width="20" height="20">
+                    </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
