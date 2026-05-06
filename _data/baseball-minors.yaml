@@ -104,6 +104,21 @@
     twitter: none
 
 - player:
+    name:  luke hill
+    position: Pitcher
+    team: Cleveland Guardians
+    drafted: "2025, Round 4, #132"
+    mlb: no
+    ba_string: 20297-luke-hill/
+    bb_ref_string: register/player.fcgi?id=hill--000luk
+    mlb_string: luke-hill-702619
+    comc_string: will+mccausland
+    ebay_string: '"luke hill"'
+    photo_path: assets/images/bb/luke-hill.jpg
+    instagram: none
+    twitter: none
+
+- player:
     name: Brandon Johnson
     position: Pitcher
     team: Kansas City Royals
@@ -133,6 +148,20 @@
     instagram: cooper__johnson
     twitter: none
 
+- player:
+    name:  Riley Maddox
+    position: Pitcher
+    team: Washington Nationals
+    drafted: "2025, Round 8, #231"
+    mlb: no
+    ba_string: 1448610-riley-maddox
+    bb_ref_string: register/player.fcgi?id=maddox001ril
+    mlb_string: riley-maddox-824600
+    comc_string: riley+maddox
+    ebay_string: '"riley maddox"'
+    photo_path: assets/images/bb/riley-maddoxjpg
+    instagram: none
+    twitter: none
 
 - player:
     name: Josh Mallitz
@@ -146,6 +175,21 @@
     comc_string: josh-mallitz
     ebay_string: '"josh mallitz"'
     photo_path: assets/images/bb/josh-mallitz2.jpg
+    instagram: none
+    twitter: none
+
+- player:
+    name:  Will McCausland
+    position: Pitcher
+    team: Cleveland Guardians
+    drafted: "2025, Round 7, #222"
+    mlb: no
+    ba_string: 1710382-will-mccausland
+    bb_ref_string: register/player.fcgi?id=mccaus002wil
+    mlb_string: will-mccausland-823790
+    comc_string: will+mccausland
+    ebay_string: '"will mccausland"'
+    photo_path: assets/images/bb/will-mccausland.jpg
     instagram: none
     twitter: none
 
@@ -165,6 +209,21 @@
     twitter: none
 
 - player:
+    name: Mason Morris
+    position: Pitcher
+    team: Cincinnati Reds
+    drafted: "2025, Round 3, #83"
+    mlb: no
+    ba_string: 1736851-mason-morris
+    bb_ref_string: register/player.fcgi?id=morris001mas
+    mlb_string: mason-morris-702568
+    comc_string: mason+morris
+    ebay_string: '"mason morris"'
+    photo_path: assets/images/bb/mason-morris.jpg
+    instagram: none
+    twitter: none
+
+- player:
     name: Doug Nikhazy
     position: Pitcher
     team: Chicago Cubs
@@ -178,6 +237,21 @@
     photo_path: assets/images/bb/doug-nikhazy5.png
     instagram: dougnikhazy
     twitter: dougnikhazy
+
+- player:
+    name: Jackson Ross
+    position: Third Base
+    team: Washington Nationals
+    drafted: "2024, Round 9, #260"
+    mlb: no
+    ba_string: 1448796-jackson-ross
+    bb_ref_string: register/player.fcgi?id=ross--005jac
+    mlb_string: jackson-ross-824605
+    comc_string: jackson+ross
+    ebay_string: '"jackson ross"'
+    photo_path: assets/images/bb/jackson-ross.jpg
+    instagram: none
+    twitter: none
 
 - player:
     name: Houston Roth
