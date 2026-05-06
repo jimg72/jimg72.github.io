@@ -108,6 +108,22 @@
     instagram: tk_21
     twitter: none
 
+
+- player:
+    name: Ethan Lege
+    position: Third Base
+    team: Pittsburgh Pirates
+    drafted: "2024, Round 15, #444"
+    mlb: no
+    ba_string: 1508294-ethan-lege
+    bb_ref_string: register/player.fcgi?id=lege--000eth
+    mlb_string: ethan-lege-805356
+    comc_string: ethan+lege
+    ebay_string: '"ethan lege"'
+    photo_path: assets/images/bb/ethan-lege2.jpg
+    instagram: ethanlege
+    twitter: none
+
 - player:
     name: Anthony Servideo
     position: Shortstop

@@ -39,7 +39,7 @@
     mlb_string: derek-diamond-682981
     comc_string: derek+diamond
     ebay_string: '"derek diamond"'
-    photo_path: assets/images/bb/derek-diamond2.jpg
+    photo_path: assets/images/bb/derek-diamond3.jpg
     instagram: dr.derek
     twitter: none
 
@@ -99,7 +99,7 @@
     mlb_string: calvin-harris-691941
     comc_string: calvin+harris
     ebay_string: '"calvin harris"'
-    photo_path: assets/images/bb/calvin-harris.jpg
+    photo_path: assets/images/bb/calvin-harris3.jpg
     instagram: calvinjharris3
     twitter: none
 
@@ -114,7 +114,7 @@
     mlb_string: brandon-johnson-699489
     comc_string: none
     ebay_string: none
-    photo_path: assets/images/bb/brandon-johnson2.jpg
+    photo_path: assets/images/bb/brandon-johnson3.png
     instagram: brandon.johnson14
     twitter: none
 
@@ -129,24 +129,10 @@
     mlb_string: cooper-johnson-666194
     comc_string: cooper+johnson
     ebay_string: '"cooper johnson"'
-    photo_path: assets/images/bb/cooper-johnson2.png
+    photo_path: assets/images/bb/cooper-johnson3.png
     instagram: cooper__johnson
     twitter: none
 
-- player:
-    name: Ethan Lege
-    position: Third Base
-    team: Pittsburgh Pirates
-    drafted: "2024, Round 15, #444"
-    mlb: no
-    ba_string: 1508294-ethan-lege
-    bb_ref_string: register/player.fcgi?id=lege--000eth
-    mlb_string: ethan-lege-805356
-    comc_string: ethan+lege
-    ebay_string: '"ethan lege"'
-    photo_path: assets/images/bb/ethan-lege.jpg
-    instagram: ethanlege
-    twitter: none
 
 - player:
     name: Josh Mallitz
@@ -159,7 +145,7 @@
     mlb_string: josh-mallitz-695256
     comc_string: josh-mallitz
     ebay_string: '"josh mallitz"'
-    photo_path: assets/images/bb/josh-mallitz.jpg
+    photo_path: assets/images/bb/josh-mallitz2.jpg
     instagram: none
     twitter: none
 
@@ -222,18 +208,3 @@
     photo_path: assets/images/bb/cole-tolbert.jpg
     instagram: coletolbert
     twitter: none
-
-- player:
-    name: Jacob Waguespack
-    position: Pitcher
-    team: Tampa Bay Rays
-    drafted: Undrafted
-    mlb: yes
-    bb_ref_string: w/wagueja01
-    mlb_string: jacob-waguespack-621097
-    wiki: Jacob_Waguespack
-    comc_string: jacob+waguespack
-    ebay_string: '"jacob waguespack"'
-    photo_path: assets/images/bb/jacob-waguespack3.jpg
-    instagram: jacobwag15
-    twitter: jacobwag15

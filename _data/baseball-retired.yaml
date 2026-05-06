@@ -203,3 +203,18 @@
     photo_path: assets/images/bb/chris-snopek.jpg
     instagram: none
     twitter: none
+
+- player:
+    name: Jacob Waguespack
+    position: Pitcher
+    team: Tampa Bay Rays
+    drafted: Undrafted
+    mlb: yes
+    bb_ref_string: w/wagueja01
+    mlb_string: jacob-waguespack-621097
+    wiki: Jacob_Waguespack
+    comc_string: jacob+waguespack
+    ebay_string: '"jacob waguespack"'
+    photo_path: assets/images/bb/jacob-waguespack3.jpg
+    instagram: jacobwag15
+    twitter: jacobwag15
