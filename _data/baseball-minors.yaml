@@ -104,7 +104,7 @@
     twitter: none
 
 - player:
-    name:  luke hill
+    name:  Luke Hill
     position: Pitcher
     team: Cleveland Guardians
     drafted: "2025, Round 4, #132"
@@ -159,7 +159,7 @@
     mlb_string: riley-maddox-824600
     comc_string: riley+maddox
     ebay_string: '"riley maddox"'
-    photo_path: assets/images/bb/riley-maddoxjpg
+    photo_path: assets/images/bb/riley-maddox.jpg
     instagram: none
     twitter: none
 
@@ -219,7 +219,7 @@
     mlb_string: mason-morris-702568
     comc_string: mason+morris
     ebay_string: '"mason morris"'
-    photo_path: assets/images/bb/mason-morris.jpg
+    photo_path: assets/images/bb/mason-morris.png
     instagram: none
     twitter: none
 
