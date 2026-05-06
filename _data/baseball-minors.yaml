@@ -9,7 +9,7 @@
     mlb_string: kemp-alderman-694580
     comc_string: kemp+alderman
     ebay_string: '"kemp alderman"'
-    photo_path: assets/images/bb/kemp-alderman3.jpg
+    photo_path: assets/images/bb/kemp-alderman4.jpg
     instagram: kempalderman
     twitter: KempAlderman
 
@@ -24,7 +24,7 @@
     mlb_string: dylan-delucia-690626
     comc_string: dylan+delucia
     ebay_string: '"dylan delucia"'
-    photo_path: assets/images/bb/dylan-delucia3.jpg
+    photo_path: assets/images/bb/dylan-delucia4.jpg
     instagram: dylandelucia22
     twitter: none
 
@@ -84,7 +84,7 @@
     mlb_string: jacob-gonzalez-694378
     comc_string: jacob+gonzalez
     ebay_string: '"jacob gonzalez"'
-    photo_path: assets/images/bb/jacob-gonzalez3.png
+    photo_path: assets/images/bb/jacob-gonzalez4.png
     instagram: jake.jjg
     twitter: none
 
@@ -181,7 +181,7 @@
 - player:
     name: Doug Nikhazy
     position: Pitcher
-    team: Cleveland Indians
+    team: Chicago Cubs
     drafted: "2021, Round 2, #58"
     mlb: yes
     ba_string: 7903-doug-nikhazy
@@ -189,24 +189,9 @@
     mlb_string: doug-nikhazy-680951
     comc_string: doug+nikhazy
     ebay_string: '"doug nikhazy"'
-    photo_path: assets/images/bb/doug-nikhazy4.png
+    photo_path: assets/images/bb/doug-nikhazy5.png
     instagram: dougnikhazy
     twitter: dougnikhazy
-
-- player:
-    name: Ryan Rolison
-    position: Pitcher
-    team: Colorado Rockies
-    drafted: "2018, Round 1, #22"
-    mlb: yes
-    ba_string:
-    bb_ref_string: r/rolisry01
-    mlb_string: ryan-rolison-669020
-    comc_string: ryan+rolison
-    ebay_string: '"ryan rolison"'
-    photo_path: assets/images/bb/ryan-rolison4.png
-    instagram: ryan.rolison
-    twitter: none
 
 - player:
     name: Houston Roth
@@ -249,6 +234,6 @@
     wiki: Jacob_Waguespack
     comc_string: jacob+waguespack
     ebay_string: '"jacob waguespack"'
-    photo_path: assets/images/bb/jacob-waguespack2.jpg
+    photo_path: assets/images/bb/jacob-waguespack3.jpg
     instagram: jacobwag15
     twitter: jacobwag15
