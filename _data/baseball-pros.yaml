@@ -14,6 +14,20 @@
     twitter: none
 
 - player:
+    name: Jacob Gonzalez
+    position: Shortstop
+    team: Chicago White Sox
+    drafted: "2023, Round 1, #15"
+    mlb: yes
+    bb_ref_string: g/gonzal006jac
+    mlb_string: jacob-gonzalez-694378
+    comc_string: jacob+gonzalez
+    ebay_string: '"jacob gonzalez"'
+    photo_path: assets/images/bb/jacob-gonzalez5.jpg
+    instagram: jake.jjg
+    twitter: none
+
+- player:
     name: Gunnar Hoglund
     position: Pitcher
     team: "Oakland A's"
