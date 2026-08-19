@@ -114,12 +114,14 @@
       link_url: https://theathletic.com
     - link_name: Baseball-Ref
       link_url: https://www.baseball-reference.com
+    - link_name: Boxscore
+      link_url: https://boxscore.email
     - link_name: ESPN
       link_url: https://espn.com
     - link_name: ESPN Fantasy
       link_url: https://www.espn.com/fantasy
-    - link_name: Rebels 247
-      link_url: https://247sports.com/college/ole-miss/
+    - link_name: Roto Baller
+      link_url: https://www.rotoballer.com/premium-fantasy-sports-subscriber-services
 
 - category: Tech
   links:
