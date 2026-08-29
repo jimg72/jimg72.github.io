@@ -1,0 +1,525 @@
+---
+layout: null
+title: Frozen Tundra Fantasy League — Owner Career Summary
+description: Twenty-two seasons of Frozen Tundra Fantasy League history, organized by owner rather than team name.
+permalink: /fantasy-football/owner-career-summary/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description }}">
+  <meta name="theme-color" content="#102a2a">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <title>{{ page.title }}</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --ink: #f6f1df;
+      --muted: #aebfba;
+      --field: #102a2a;
+      --field-deep: #081a1c;
+      --panel: #163638;
+      --panel-soft: #1c4141;
+      --line: rgba(230, 223, 191, 0.16);
+      --gold: #e2bd63;
+      --gold-soft: #f0d995;
+      --green: #63ad78;
+      --red: #e17d75;
+      --shadow: 0 24px 64px rgba(0, 0, 0, 0.28);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 12% 0%, rgba(77, 137, 103, 0.18), transparent 34rem),
+        radial-gradient(circle at 92% 22%, rgba(226, 189, 99, 0.08), transparent 26rem),
+        var(--field-deep);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    a { color: inherit; }
+
+    .site-shell {
+      width: min(1440px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 56px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      padding: clamp(28px, 5vw, 64px);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.035), transparent 46%),
+        var(--field);
+      box-shadow: var(--shadow);
+    }
+
+    .hero::after {
+      position: absolute;
+      top: -4rem;
+      right: -3rem;
+      width: 18rem;
+      height: 18rem;
+      border: 1px solid rgba(226, 189, 99, 0.18);
+      border-radius: 50%;
+      box-shadow: 0 0 0 2rem rgba(226, 189, 99, 0.025), 0 0 0 5rem rgba(226, 189, 99, 0.018);
+      content: "";
+      pointer-events: none;
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--gold-soft);
+      font-size: 0.77rem;
+      font-weight: 800;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      max-width: 900px;
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2.5rem, 7vw, 6.6rem);
+      font-weight: 700;
+      letter-spacing: -0.055em;
+      line-height: 0.94;
+    }
+
+    .hero-copy {
+      max-width: 720px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 1.8vw, 1.2rem);
+    }
+
+    .stat-strip {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 34px;
+    }
+
+    .stat {
+      min-height: 116px;
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(4, 18, 19, 0.34);
+    }
+
+    .stat-value {
+      display: block;
+      color: var(--gold-soft);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-variant-numeric: tabular-nums;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 0.76rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .leaders {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+      margin: 18px 0 34px;
+    }
+
+    .leader-card {
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background: var(--panel);
+      box-shadow: 0 14px 40px rgba(0, 0, 0, 0.16);
+    }
+
+    .leader-kicker {
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .leader-name {
+      margin: 7px 0 2px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.55rem;
+    }
+
+    .leader-detail { color: var(--gold-soft); font-weight: 750; }
+
+    .panel {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background: var(--field);
+      box-shadow: var(--shadow);
+    }
+
+    .panel-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 26px 28px 20px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    h2 {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.8rem, 3vw, 2.6rem);
+      letter-spacing: -0.03em;
+    }
+
+    .panel-note {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    .search-wrap { position: relative; width: min(100%, 330px); }
+
+    .search-wrap svg {
+      position: absolute;
+      top: 50%;
+      left: 14px;
+      width: 18px;
+      transform: translateY(-50%);
+      color: var(--muted);
+      pointer-events: none;
+    }
+
+    #owner-search {
+      width: 100%;
+      height: 44px;
+      padding: 0 14px 0 42px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      outline: none;
+      color: var(--ink);
+      background: rgba(3, 15, 16, 0.52);
+      font: inherit;
+    }
+
+    #owner-search:focus {
+      border-color: var(--gold);
+      box-shadow: 0 0 0 3px rgba(226, 189, 99, 0.14);
+    }
+
+    .table-scroll { overflow-x: auto; }
+
+    table {
+      width: 100%;
+      min-width: 1160px;
+      border-collapse: collapse;
+      font-size: 0.91rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    th, td {
+      padding: 13px 14px;
+      border-bottom: 1px solid var(--line);
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    th:first-child, td:first-child { text-align: left; }
+
+    th {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      padding-top: 14px;
+      padding-bottom: 14px;
+      color: #d9e5df;
+      background: #1c4141;
+      font-size: 0.7rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .sort-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 0;
+      border: 0;
+      color: inherit;
+      background: none;
+      font: inherit;
+      letter-spacing: inherit;
+      text-transform: inherit;
+      cursor: pointer;
+    }
+
+    .sort-button::after { color: #8da49c; content: "↕"; font-size: 0.75rem; }
+    th[aria-sort="ascending"] .sort-button::after { color: var(--gold); content: "↑"; }
+    th[aria-sort="descending"] .sort-button::after { color: var(--gold); content: "↓"; }
+
+    tbody tr { transition: background 120ms ease; }
+    tbody tr:hover { background: rgba(255, 255, 255, 0.035); }
+    tbody tr:last-child td { border-bottom: 0; }
+
+    .owner-name { font-weight: 780; }
+
+    .champ-count {
+      display: inline-flex;
+      min-width: 28px;
+      height: 28px;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      color: #271d07;
+      background: var(--gold);
+      font-weight: 900;
+    }
+
+    .champ-count.zero { color: var(--muted); background: rgba(255, 255, 255, 0.06); }
+    .positive { color: #83d599; }
+    .negative { color: #f39a92; }
+
+    .tenure {
+      color: #c4d5cf;
+      font-size: 0.82rem;
+    }
+
+    .empty-state {
+      display: none;
+      padding: 40px 28px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .methodology {
+      display: grid;
+      grid-template-columns: 0.8fr 1.2fr;
+      gap: 32px;
+      margin-top: 24px;
+      padding: 30px;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      background: rgba(16, 42, 42, 0.72);
+    }
+
+    .methodology p { margin: 0; color: var(--muted); }
+
+    .methodology ul {
+      margin: 0;
+      padding-left: 1.15rem;
+      color: #d0ddd7;
+    }
+
+    .methodology li + li { margin-top: 8px; }
+
+    footer {
+      padding: 28px 8px 0;
+      color: #80948d;
+      font-size: 0.8rem;
+      text-align: center;
+    }
+
+    @media (max-width: 900px) {
+      .stat-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .leaders { grid-template-columns: 1fr; }
+      .panel-head { align-items: stretch; flex-direction: column; }
+      .search-wrap { width: 100%; }
+      .methodology { grid-template-columns: 1fr; gap: 14px; }
+    }
+
+    @media (max-width: 560px) {
+      .site-shell { width: min(100% - 20px, 1440px); padding-top: 10px; }
+      .hero { padding: 26px 20px; border-radius: 20px; }
+      .stat-strip { grid-template-columns: 1fr 1fr; gap: 8px; }
+      .stat { min-height: 100px; padding: 16px; }
+      .panel { border-radius: 18px; }
+      .panel-head { padding: 22px 18px 18px; }
+      th, td { padding: 12px; }
+      .methodology { padding: 22px 18px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="site-shell">
+    <section class="hero" aria-labelledby="page-title">
+      <p class="eyebrow">Frozen Tundra Fantasy League · 2004–2025</p>
+      <h1 id="page-title">Owner career<br>summary</h1>
+      <p class="hero-copy">Twenty-two seasons of wins, heartbreak, and questionable roster decisions—organized by the people who made them, no matter how often their team names changed.</p>
+      <div class="stat-strip" aria-label="League history totals">
+        <div class="stat"><span class="stat-value">22</span><span class="stat-label">Seasons</span></div>
+        <div class="stat"><span class="stat-value">20</span><span class="stat-label">Owners</span></div>
+        <div class="stat"><span class="stat-value">264</span><span class="stat-label">Team seasons</span></div>
+        <div class="stat"><span class="stat-value">12</span><span class="stat-label">Teams each year</span></div>
+      </div>
+    </section>
+
+    <section class="leaders" aria-label="Career leaders">
+      <article class="leader-card">
+        <div class="leader-kicker">Most career wins</div>
+        <div class="leader-name">Richard Brown</div>
+        <div class="leader-detail">182 wins</div>
+      </article>
+      <article class="leader-card">
+        <div class="leader-kicker">Best win percentage</div>
+        <div class="leader-name">Richard Brown</div>
+        <div class="leader-detail">59.4% · 22 seasons</div>
+      </article>
+      <article class="leader-card">
+        <div class="leader-kicker">Championship lead</div>
+        <div class="leader-name">Four-way tie</div>
+        <div class="leader-detail">3 titles each</div>
+      </article>
+    </section>
+
+    <section class="panel" aria-labelledby="standings-title">
+      <div class="panel-head">
+        <div>
+          <h2 id="standings-title">The record book</h2>
+          <p class="panel-note">Select a heading to sort. Win percentage counts ties as half a win.</p>
+        </div>
+        <label class="search-wrap" for="owner-search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+          <input id="owner-search" type="search" placeholder="Find an owner…" autocomplete="off">
+        </label>
+      </div>
+      <div class="table-scroll" tabindex="0" aria-label="Scrollable owner career summary table">
+        <table id="career-table">
+          <thead>
+            <tr>
+              <th><button class="sort-button" data-key="owner" data-type="text">Owner</button></th>
+              <th><button class="sort-button" data-key="seasons" data-type="number">Seasons</button></th>
+              <th aria-sort="descending"><button class="sort-button" data-key="championships" data-type="number">Titles</button></th>
+              <th><button class="sort-button" data-key="runner" data-type="number">Runner-up</button></th>
+              <th><button class="sort-button" data-key="top3" data-type="number">Top 3</button></th>
+              <th><button class="sort-button" data-key="avg" data-type="number">Avg finish</button></th>
+              <th><button class="sort-button" data-key="wins" data-type="number">W</button></th>
+              <th><button class="sort-button" data-key="losses" data-type="number">L</button></th>
+              <th><button class="sort-button" data-key="ties" data-type="number">T</button></th>
+              <th><button class="sort-button" data-key="pct" data-type="number">Win %</button></th>
+              <th><button class="sort-button" data-key="pf" data-type="number">Points for</button></th>
+              <th><button class="sort-button" data-key="diff" data-type="number">Point diff</button></th>
+              <th><button class="sort-button" data-key="pfg" data-type="number">Avg PF/G</button></th>
+              <th><button class="sort-button" data-key="first" data-type="number">Tenure</button></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr data-owner="Richard Brown" data-seasons="22" data-championships="3" data-runner="6" data-top3="13" data-avg="4.09" data-wins="182" data-losses="124" data-ties="2" data-pct="59.4" data-pf="33426.9" data-diff="2036.6" data-pfg="108.1" data-first="2004"><td><span class="owner-name">Richard Brown</span></td><td>22</td><td><span class="champ-count" title="Championship seasons: 2012, 2013, 2016">3</span></td><td>6</td><td>13</td><td>4.09</td><td>182</td><td>124</td><td>2</td><td>59.4%</td><td>33,426.9</td><td class="positive">+2,036.6</td><td>108.1</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Scott Keating" data-seasons="22" data-championships="3" data-runner="0" data-top3="7" data-avg="5.45" data-wins="159" data-losses="145" data-ties="4" data-pct="52.3" data-pf="31858.1" data-diff="398.2" data-pfg="103.1" data-first="2004"><td><span class="owner-name">Scott Keating</span></td><td>22</td><td><span class="champ-count" title="Championship seasons: 2010, 2018, 2023">3</span></td><td>0</td><td>7</td><td>5.45</td><td>159</td><td>145</td><td>4</td><td>52.3%</td><td>31,858.1</td><td class="positive">+398.2</td><td>103.1</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Shawn Kostelak" data-seasons="22" data-championships="3" data-runner="0" data-top3="7" data-avg="6.18" data-wins="169" data-losses="135" data-ties="4" data-pct="55.5" data-pf="32265.1" data-diff="1046.4" data-pfg="104.4" data-first="2004"><td><span class="owner-name">Shawn Kostelak</span></td><td>22</td><td><span class="champ-count" title="Championship seasons: 2017, 2019, 2021">3</span></td><td>0</td><td>7</td><td>6.18</td><td>169</td><td>135</td><td>4</td><td>55.5%</td><td>32,265.1</td><td class="positive">+1,046.4</td><td>104.4</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Thomas Patin" data-seasons="22" data-championships="3" data-runner="0" data-top3="3" data-avg="7.23" data-wins="139" data-losses="167" data-ties="2" data-pct="45.5" data-pf="30929.4" data-diff="-485.8" data-pfg="100.1" data-first="2004"><td><span class="owner-name">Thomas Patin</span></td><td>22</td><td><span class="champ-count" title="Championship seasons: 2005, 2015, 2024">3</span></td><td>0</td><td>3</td><td>7.23</td><td>139</td><td>167</td><td>2</td><td>45.5%</td><td>30,929.4</td><td class="negative">−485.8</td><td>100.1</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Hilton McManus" data-seasons="12" data-championships="2" data-runner="1" data-top3="3" data-avg="5.33" data-wins="98" data-losses="69" data-ties="1" data-pct="58.6" data-pf="18591.8" data-diff="930.9" data-pfg="109.9" data-first="2014"><td><span class="owner-name">Hilton McManus</span></td><td>12</td><td><span class="champ-count" title="Championship seasons: 2014, 2020">2</span></td><td>1</td><td>3</td><td>5.33</td><td>98</td><td>69</td><td>1</td><td>58.6%</td><td>18,591.8</td><td class="positive">+930.9</td><td>109.9</td><td class="tenure">2014–2025</td></tr>
+            <tr data-owner="Jerry Tung" data-seasons="20" data-championships="2" data-runner="1" data-top3="6" data-avg="6.85" data-wins="144" data-losses="132" data-ties="4" data-pct="52.1" data-pf="29620.4" data-diff="468.9" data-pfg="105.4" data-first="2006"><td><span class="owner-name">Jerry Tung</span></td><td>20</td><td><span class="champ-count" title="Championship seasons: 2009, 2011">2</span></td><td>1</td><td>6</td><td>6.85</td><td>144</td><td>132</td><td>4</td><td>52.1%</td><td>29,620.4</td><td class="positive">+468.9</td><td>105.4</td><td class="tenure">2006–2025</td></tr>
+            <tr data-owner="Phil Monteleone" data-seasons="22" data-championships="2" data-runner="3" data-top3="8" data-avg="6.09" data-wins="161" data-losses="146" data-ties="1" data-pct="52.4" data-pf="32720.3" data-diff="1093.4" data-pfg="105.9" data-first="2004"><td><span class="owner-name">Phil Monteleone</span></td><td>22</td><td><span class="champ-count" title="Championship seasons: 2007, 2008">2</span></td><td>3</td><td>8</td><td>6.09</td><td>161</td><td>146</td><td>1</td><td>52.4%</td><td>32,720.3</td><td class="positive">+1,093.4</td><td>105.9</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Danny Cattan" data-seasons="22" data-championships="1" data-runner="3" data-top3="4" data-avg="7.32" data-wins="142" data-losses="162" data-ties="4" data-pct="46.8" data-pf="30625.1" data-diff="-1335.1" data-pfg="99.1" data-first="2004"><td><span class="owner-name">Danny Cattan</span></td><td>22</td><td><span class="champ-count" title="Championship season: 2004">1</span></td><td>3</td><td>4</td><td>7.32</td><td>142</td><td>162</td><td>4</td><td>46.8%</td><td>30,625.1</td><td class="negative">−1,335.1</td><td>99.1</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Jim Graham" data-seasons="22" data-championships="1" data-runner="1" data-top3="3" data-avg="6.45" data-wins="147" data-losses="160" data-ties="1" data-pct="47.9" data-pf="30969.6" data-diff="-470.9" data-pfg="100.2" data-first="2004"><td><span class="owner-name">Jim Graham</span></td><td>22</td><td><span class="champ-count" title="Championship season: 2025">1</span></td><td>1</td><td>3</td><td>6.45</td><td>147</td><td>160</td><td>1</td><td>47.9%</td><td>30,969.6</td><td class="negative">−470.9</td><td>100.2</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Koy Nichols" data-seasons="5" data-championships="1" data-runner="0" data-top3="1" data-avg="7.20" data-wins="33" data-losses="37" data-ties="0" data-pct="47.1" data-pf="6259.0" data-diff="-84.0" data-pfg="89.4" data-first="2004"><td><span class="owner-name">Koy Nichols</span></td><td>5</td><td><span class="champ-count" title="Championship season: 2006">1</span></td><td>0</td><td>1</td><td>7.20</td><td>33</td><td>37</td><td>0</td><td>47.1%</td><td>6,259.0</td><td class="negative">−84.0</td><td>89.4</td><td class="tenure">2004–2008</td></tr>
+            <tr data-owner="Paul Nelson" data-seasons="22" data-championships="1" data-runner="4" data-top3="5" data-avg="6.86" data-wins="141" data-losses="165" data-ties="2" data-pct="46.1" data-pf="30775.1" data-diff="-1179.8" data-pfg="99.6" data-first="2004"><td><span class="owner-name">Paul Nelson</span></td><td>22</td><td><span class="champ-count" title="Championship season: 2022">1</span></td><td>4</td><td>5</td><td>6.86</td><td>141</td><td>165</td><td>2</td><td>46.1%</td><td>30,775.1</td><td class="negative">−1,179.8</td><td>99.6</td><td class="tenure">2004–2025</td></tr>
+            <tr data-owner="Ashley Davis" data-seasons="1" data-championships="0" data-runner="0" data-top3="0" data-avg="8.00" data-wins="5" data-losses="9" data-ties="0" data-pct="35.7" data-pf="1498.6" data-diff="-110.7" data-pfg="107.0" data-first="2025"><td><span class="owner-name">Ashley Davis</span></td><td>1</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>8.00</td><td>5</td><td>9</td><td>0</td><td>35.7%</td><td>1,498.6</td><td class="negative">−110.7</td><td>107.0</td><td class="tenure">2025</td></tr>
+            <tr data-owner="Brad Justice" data-seasons="2" data-championships="0" data-runner="0" data-top3="0" data-avg="10.50" data-wins="8" data-losses="20" data-ties="0" data-pct="28.6" data-pf="2444.0" data-diff="-280.0" data-pfg="87.3" data-first="2008"><td><span class="owner-name">Brad Justice</span></td><td>2</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>10.50</td><td>8</td><td>20</td><td>0</td><td>28.6%</td><td>2,444.0</td><td class="negative">−280.0</td><td>87.3</td><td class="tenure">2008–2009</td></tr>
+            <tr data-owner="David Perlis" data-seasons="3" data-championships="0" data-runner="0" data-top3="0" data-avg="6.33" data-wins="18" data-losses="22" data-ties="2" data-pct="45.2" data-pf="3994.0" data-diff="-105.0" data-pfg="95.1" data-first="2008"><td><span class="owner-name">David Perlis</span></td><td>3</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>6.33</td><td>18</td><td>22</td><td>2</td><td>45.2%</td><td>3,994.0</td><td class="negative">−105.0</td><td>95.1</td><td class="tenure">2008–2010</td></tr>
+            <tr data-owner="Edward Richards" data-seasons="2" data-championships="0" data-runner="0" data-top3="0" data-avg="9.00" data-wins="10" data-losses="17" data-ties="1" data-pct="37.5" data-pf="2405.0" data-diff="-342.0" data-pfg="85.9" data-first="2004"><td><span class="owner-name">Edward Richards</span></td><td>2</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>9.00</td><td>10</td><td>17</td><td>1</td><td>37.5%</td><td>2,405.0</td><td class="negative">−342.0</td><td>85.9</td><td class="tenure">2004–2005</td></tr>
+            <tr data-owner="Greg Mallery" data-seasons="9" data-championships="0" data-runner="0" data-top3="0" data-avg="7.67" data-wins="57" data-losses="67" data-ties="2" data-pct="46.0" data-pf="11839.0" data-diff="-351.0" data-pfg="93.9" data-first="2004"><td><span class="owner-name">Greg Mallery</span></td><td>9</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>7.67</td><td>57</td><td>67</td><td>2</td><td>46.0%</td><td>11,839.0</td><td class="negative">−351.0</td><td>93.9</td><td class="tenure">2004–2012</td></tr>
+            <tr data-owner="Leslie Nettleton" data-seasons="16" data-championships="0" data-runner="1" data-top3="3" data-avg="7.25" data-wins="106" data-losses="117" data-ties="1" data-pct="47.5" data-pf="23242.2" data-diff="138.7" data-pfg="103.3" data-first="2009"><td><span class="owner-name">Leslie Nettleton</span></td><td>16</td><td><span class="champ-count zero">0</span></td><td>1</td><td>3</td><td>7.25</td><td>106</td><td>117</td><td>1</td><td>47.5%</td><td>23,242.2</td><td class="positive">+138.7</td><td>103.3</td><td class="tenure">2009–2024</td></tr>
+            <tr data-owner="Marc Matranga" data-seasons="4" data-championships="0" data-runner="0" data-top3="0" data-avg="9.25" data-wins="18" data-losses="38" data-ties="0" data-pct="32.1" data-pf="5381.0" data-diff="-451.0" data-pfg="96.1" data-first="2010"><td><span class="owner-name">Marc Matranga</span></td><td>4</td><td><span class="champ-count zero">0</span></td><td>0</td><td>0</td><td>9.25</td><td>18</td><td>38</td><td>0</td><td>32.1%</td><td>5,381.0</td><td class="negative">−451.0</td><td>96.1</td><td class="tenure">2010–2013</td></tr>
+            <tr data-owner="Rickey Dantin" data-seasons="13" data-championships="0" data-runner="2" data-top3="2" data-avg="7.23" data-wins="85" data-losses="96" data-ties="1" data-pct="47.0" data-pf="18744.1" data-diff="-782.8" data-pfg="102.4" data-first="2013"><td><span class="owner-name">Rickey Dantin</span></td><td>13</td><td><span class="champ-count zero">0</span></td><td>2</td><td>2</td><td>7.23</td><td>85</td><td>96</td><td>1</td><td>47.0%</td><td>18,744.1</td><td class="negative">−782.8</td><td>102.4</td><td class="tenure">2013–2025</td></tr>
+            <tr data-owner="Rodney Cuevas" data-seasons="5" data-championships="0" data-runner="0" data-top3="1" data-avg="6.80" data-wins="33" data-losses="37" data-ties="0" data-pct="47.1" data-pf="6241.0" data-diff="-338.0" data-pfg="89.2" data-first="2004"><td><span class="owner-name">Rodney Cuevas</span></td><td>5</td><td><span class="champ-count zero">0</span></td><td>0</td><td>1</td><td>6.80</td><td>33</td><td>37</td><td>0</td><td>47.1%</td><td>6,241.0</td><td class="negative">−338.0</td><td>89.2</td><td class="tenure">2004–2008</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="empty-state" id="empty-state">No owner matches that search.</div>
+    </section>
+
+    <section class="methodology" aria-labelledby="methodology-title">
+      <div>
+        <p class="eyebrow">About the numbers</p>
+        <h2 id="methodology-title">Built around owners,<br>not team names.</h2>
+      </div>
+      <ul>
+        <li>Final rank follows ESPN’s Final Standings order; rank 1 is counted as the champion.</li>
+        <li>Each distinct co-owner receives credit for a shared season. The underlying league still contains 264 team-seasons.</li>
+        <li>Abbreviated or duplicate ESPN manager labels were consolidated under one canonical owner name.</li>
+        <li>Career points and average points per game preserve the values shown in the season screenshots.</li>
+      </ul>
+    </section>
+
+    <footer>Frozen Tundra Fantasy League historical archive · Updated through the 2025 season</footer>
+  </main>
+
+  <script>
+    (() => {
+      const table = document.querySelector('#career-table');
+      const body = table.tBodies[0];
+      const rows = [...body.rows];
+      const search = document.querySelector('#owner-search');
+      const empty = document.querySelector('#empty-state');
+      let sortKey = 'championships';
+      let sortDirection = -1;
+
+      const compare = (a, b, key, type) => {
+        const av = a.dataset[key] ?? '';
+        const bv = b.dataset[key] ?? '';
+        if (type === 'number') return Number(av) - Number(bv);
+        return av.localeCompare(bv, undefined, { sensitivity: 'base' });
+      };
+
+      const applyFilter = () => {
+        const query = search.value.trim().toLowerCase();
+        let visible = 0;
+        rows.forEach(row => {
+          const match = row.dataset.owner.toLowerCase().includes(query);
+          row.hidden = !match;
+          if (match) visible += 1;
+        });
+        empty.style.display = visible ? 'none' : 'block';
+      };
+
+      document.querySelectorAll('.sort-button').forEach(button => {
+        button.addEventListener('click', () => {
+          const key = button.dataset.key;
+          const type = button.dataset.type;
+          sortDirection = key === sortKey ? sortDirection * -1 : (type === 'text' ? 1 : -1);
+          sortKey = key;
+          document.querySelectorAll('.sort-button').forEach(item => item.closest('th').removeAttribute('aria-sort'));
+          button.closest('th').setAttribute('aria-sort', sortDirection === 1 ? 'ascending' : 'descending');
+          rows.sort((a, b) => {
+            const primary = compare(a, b, key, type) * sortDirection;
+            return primary || a.dataset.owner.localeCompare(b.dataset.owner);
+          }).forEach(row => body.appendChild(row));
+        });
+      });
+
+      search.addEventListener('input', applyFilter);
+    })();
+  </script>
+</body>
+</html>
