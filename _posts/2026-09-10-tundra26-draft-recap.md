@@ -15,7 +15,7 @@ excerpt: "Twelve men entered. Twelve rosters were assembled. One of them has T.J
 .tundra-trophy{font-size:1.15em;margin:1.2em 0 .3em}
 </style>
 
-Gentlemen. The board is cleared, the wings are gone, and somebody's brother-in-law
+Gentlemen. The board is cleared, the wings are gone, and somebody
 still doesn't understand what superflex means. Sixteen rounds, 192 picks, and a
 truly heroic amount of confidence from men who have not been right about a running
 back since the Obama administration.
