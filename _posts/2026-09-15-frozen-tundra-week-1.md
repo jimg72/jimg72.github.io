@@ -15,8 +15,6 @@ The NFL supplied the perfect backdrop: **Chicago hung 59 on Carolina**, a Bears 
 
 It's Week 1. Nobody has a dynasty, nobody has a meaningful streak, and nobody gets to say “I've been telling you all year.” You have been telling us for approximately one weekend. Sit down, preferably somewhere Hilton hasn't already stored 30 points.
 
-*Scoring desk: Hilton's confirmed final score is 148.7, making Thomas's winning margin 6.2. Individual player figures come from the earlier screenshots. Hilton's hypothetical lineup totals below carry forward the extra point, assuming it belongs to a player retained in those lineups; the exact totals depend on which player was adjusted. Either featured substitution still wins comfortably.*
-
 <!--more-->
 
 ## 📊 THE SCOREBOARD
@@ -27,7 +25,7 @@ It's Week 1. Nobody has a dynasty, nobody has a meaningful streak, and nobody ge
 
 Jim got **27.3 from Jaxson Dart, 23.7 from Amon-Ra St. Brown, and 22.9 from Brock Purdy**. Those three supplied 73.9 points while the rest of the lineup debated whether attendance was mandatory. Colston Loveland posted a zero. Rico Dowdle managed 3.1. George Pickens contributed 4.3. Seattle's defense and Tyler Loop added 25.0 together, which is a nice way of saying the support staff had to finish the presentation.
 
-Jerry had Justin Jefferson's 27.2 and a perfectly usable path to victory sitting nearby. **Chuba Hubbard over RJ Harvey adds 16.1**, leaving Jerry just **0.7 short**. Add **Jakobi Meyers over Emeka Egbuka for another 2.4**, and the Clan wins **116.4–114.7**. The screenshot projections even favored Hubbard over Harvey, 10.99 to 7.02, making that the more supportable second-guess. Egbuka over Meyers was defensible before the results; unfortunately, the standings don't award partial credit for a coherent argument.
+Jerry had Justin Jefferson's 27.2 and a perfectly usable path to victory sitting nearby. **Chuba Hubbard over RJ Harvey adds 16.1**, leaving Jerry just **0.7 short**. Add **Jakobi Meyers over Emeka Egbuka for another 2.4**, and the Clan wins **116.4–114.7**. The projections even favored Hubbard over Harvey, 10.99 to 7.02, making that the more supportable second-guess. Egbuka over Meyers was defensible before the results; unfortunately, the standings don't award partial credit for a coherent argument.
 
 Jim's counter-exhibit is Jalen Coker's **29.8** on the bench, plus Kyle Monangai's **19.4**. His best legal lineup could have scored **158.1**. Instead, he won by 16.8 and gets to pretend this was load management. Chicago ran for **291 yards**, including **124 and three touchdowns from Swift** and **100 and a score from Monangai**. Hilton and Jim had front-row access to that ground game and mostly used it as patio furniture. ([Bears recap](https://www.chicagobears.com/news/game-recap-bears-offense-shines-in-season-opening-win-over-panthers))
 
@@ -45,7 +43,7 @@ Phil got **23.4 from Patrick Mahomes**, whose return from last season's knee inj
 
 **Two Winning Tickets, Both Left in the Glove Box**
 
-Thomas survived the week's best matchup behind **Derrick Henry's 34.8, Jalen Hurts's 25.6, and Javonte Williams's 21.7**. The screenshot running-back totals favored Thomas **56.5–23.4**, a **33.1-point difference** before the unidentified adjustment. That's where Hilton's league-best individual performance, **Caleb Williams's 38.2**, got swallowed. Isaiah Likely added 23.8 for Hilton; this was a legitimately strong losing lineup, not nine guys stumbling into a flattering total. Henry's **144 rushing yards and three touchdowns** also took him past Marcus Allen into **third all-time with 125 rushing TDs**. Thomas hired a man who spent Sunday moving up the history books and moving Hilton down the standings. ([Ravens player report](https://www.baltimoreravens.com/team/players-roster/derrick-henry-x7588/))
+Thomas survived the week's best matchup behind **Derrick Henry's 34.8, Jalen Hurts's 25.6, and Javonte Williams's 21.7**. The running-back totals favored Thomas **56.5–23.4**, a **33.1-point difference** before the unidentified adjustment. That's where Hilton's league-best individual performance, **Caleb Williams's 38.2**, got swallowed. Isaiah Likely added 23.8 for Hilton; this was a legitimately strong losing lineup, not nine guys stumbling into a flattering total. Henry's **144 rushing yards and three touchdowns** also took him past Marcus Allen into **third all-time with 125 rushing TDs**. Thomas hired a man who spent Sunday moving up the history books and moving Hilton down the standings. ([Ravens player report](https://www.baltimoreravens.com/team/players-roster/derrick-henry-x7588/))
 
 Then we open the bench. Swift over Omarion Hampton: **+22.6**, turning the result into an estimated **171.3–154.9 Hilton win**. Watson over Rashee Rice: **+20.8**, producing an estimated **169.5–154.9 win**. Both changes together yield approximately **192.1** under the scoring-note assumption. Hilton didn't need a perfect lineup. He needed to find either of two very large doors marked EXIT.
 
@@ -145,7 +143,7 @@ The team named **Oh Shoughs!** scored 77.9 while **Tyler Shough scored 27.8 for 
 **Cost:** **20.8 points**
 **Estimated result with the swap:** **169.5–154.9 win**
 
-Both are straight position-for-position moves. Combined, that's **43.4 recoverable points in the screenshot scoring**, subject to the adjustment noted above. The projections favored Hilton's actual starters in both cases, so this is the museum of painful hindsight, not proof of an indefensible decision. Nevertheless, the museum has named an entire wing after him.
+Both are straight position-for-position moves. Combined, that's **43.4 recoverable points**, subject to the adjustment noted above. The projections favored Hilton's actual starters in both cases, so this is the museum of painful hindsight, not proof of an indefensible decision. Nevertheless, the museum has named an entire wing after him.
 
 ### 2. Jerry / Egbuka's Clan — The Two-Step That Never Happened
 
@@ -167,7 +165,7 @@ Hubbard's displayed projection was **3.97 higher than Harvey's**, making this th
 **Benched:** Jalen Coker — **29.8 points**
 **Cost:** **25.5 points**
 
-Pickens had the higher displayed projection, so the initial choice was understandable. The result was still expensive: **140.2** with this change alone. Add Monangai over Dowdle for **16.3** and Aaron Jones over James Cook for **1.6**, and Jim reaches **158.1**, recovering **43.4 total**. Same recoverable gap as Hilton in the screenshot scoring, radically different Monday mood.
+Pickens had the higher displayed projection, so the initial choice was understandable. The result was still expensive: **140.2** with this change alone. Add Monangai over Dowdle for **16.3** and Aaron Jones over James Cook for **1.6**, and Jim reaches **158.1**, recovering **43.4 total**. Same recoverable gap as Hilton in the scoring, radically different Monday mood.
 
 **A superflex footnote:** Rush over Murray was a legal **+8.4 in hindsight**, but Murray's in-game concussion makes this an injury outcome, not a lineup crime. Even a perfect roster rearrangement leaves Shawn well short of Rickey.
 
