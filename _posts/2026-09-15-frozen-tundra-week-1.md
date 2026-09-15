@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Frozen Tundra Fantasy League — Week 1 Newsletter"
+title: "FTFFL — Week 1 Newsletter"
 date: 2026-09-15 12:00:00 -0500
 categories: [fantasy-football]
 tags: [frozen-tundra, 2026, week-1]
 description: "Hilton benches an escape route, Scott nearly aces his lineup, and Danny discovers the basement has a basement."
 ---
 
-# 🏈 Frozen Tundra Fantasy League — WEEK 1 NEWSLETTER
-
-## Hilton Had the Answers. Unfortunately, They Were Sitting Down.
+# 🏈 Hilton Had the Answers. Unfortunately, They Were Sitting Down.
 
 Welcome back to the Frozen Tundra, where twelve managers spent the offseason preparing to make informed decisions and several immediately requested a refund on the information. Scott opened with a league-leading **166.7**. Ashley handed Danny a **67.9-point demolition**. And Hilton scored enough to beat eight of his eleven possible opponents, drew Thomas, and left two separate escape routes on the bench. That's a Greek tragedy with a lineup-edit button.
 
@@ -137,26 +135,26 @@ The team named **Oh Shoughs!** scored 77.9 while **Tyler Shough scored 27.8 for 
 
 ### 1. Hilton / LiquidRice;SolidScat — Two Separate Ways to Win
 
-**Started:** Omarion Hampton — **9.3 points**  
-**Benched:** D'Andre Swift — **31.9 points**  
-**Cost:** **22.6 points**  
+**Started:** Omarion Hampton — **9.3 points**
+**Benched:** D'Andre Swift — **31.9 points**
+**Cost:** **22.6 points**
 **Estimated result with the swap:** **171.3–154.9 win**
 
-**Started:** Rashee Rice — **8.9 points**  
-**Benched:** Christian Watson — **29.7 points**  
-**Cost:** **20.8 points**  
+**Started:** Rashee Rice — **8.9 points**
+**Benched:** Christian Watson — **29.7 points**
+**Cost:** **20.8 points**
 **Estimated result with the swap:** **169.5–154.9 win**
 
 Both are straight position-for-position moves. Combined, that's **43.4 recoverable points in the screenshot scoring**, subject to the adjustment noted above. The projections favored Hilton's actual starters in both cases, so this is the museum of painful hindsight, not proof of an indefensible decision. Nevertheless, the museum has named an entire wing after him.
 
 ### 2. Jerry / Egbuka's Clan — The Two-Step That Never Happened
 
-**Started:** RJ Harvey — **6.1 points**  
-**Benched:** Chuba Hubbard — **22.2 points**  
+**Started:** RJ Harvey — **6.1 points**
+**Benched:** Chuba Hubbard — **22.2 points**
 **Cost:** **16.1 points**
 
-**Started:** Emeka Egbuka — **8.8 points**  
-**Benched:** Jakobi Meyers — **11.2 points**  
+**Started:** Emeka Egbuka — **8.8 points**
+**Benched:** Jakobi Meyers — **11.2 points**
 **Additional cost:** **2.4 points**
 
 **Combined gain: 18.5. Revised result: 116.4–114.7, Jerry wins by 1.7.** Hubbard alone doesn't flip it; he takes Jerry to 114.0. That's why we're showing both steps instead of arresting arithmetic for the sake of a joke.
@@ -165,8 +163,8 @@ Hubbard's displayed projection was **3.97 higher than Harvey's**, making this th
 
 ### 3. Jim / Mighty Wieners — Acquitted on a Scheduling Technicality
 
-**Started:** George Pickens — **4.3 points**  
-**Benched:** Jalen Coker — **29.8 points**  
+**Started:** George Pickens — **4.3 points**
+**Benched:** Jalen Coker — **29.8 points**
 **Cost:** **25.5 points**
 
 Pickens had the higher displayed projection, so the initial choice was understandable. The result was still expensive: **140.2** with this change alone. Add Monangai over Dowdle for **16.3** and Aaron Jones over James Cook for **1.6**, and Jim reaches **158.1**, recovering **43.4 total**. Same recoverable gap as Hilton in the screenshot scoring, radically different Monday mood.
