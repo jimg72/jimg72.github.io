@@ -64,14 +64,14 @@ a:not([class]):hover {
 
 /* Dark mode */
 body.dark-mode {
-    background: #021526 none;
-    color: #6EACDA;
+    background: #003 none;
+    color: #0cf;
 }
 
 body.dark-mode .card,
 body.dark-mode ul li.list-group-item {
-    background: #03346E none;
-    color: #6EACDA;
+    background: #003 none;
+    color: #0cf;
 }
 
 body.dark-mode .card-header {
