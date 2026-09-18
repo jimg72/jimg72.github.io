@@ -64,18 +64,18 @@ a:not([class]):hover {
 
 /* Dark mode */
 body.dark-mode {
-    background: #003 none;
+    background: #036 none;
     color: #0cf;
 }
 
 body.dark-mode .card,
 body.dark-mode ul li.list-group-item {
-    background: #003 none;
+    background: #036 none;
     color: #0cf;
 }
 
 body.dark-mode .card-header {
-    background: #003 none;
+    background: #036 none;
     color: #0cf;
 }
 
@@ -85,11 +85,11 @@ body.dark-mode a:not([class]) {
 }
 
 body.dark-mode a:not([class]):hover {
-    color: #f0f;
+    color: #ff0;
     text-decoration: underline;
 }
 
 body.dark-mode .site-links .badge {
-    background-color: #6EACDA !important;
-    color: #03346E;
+    background-color: #036 !important;
+    color: #ff0;
 }
