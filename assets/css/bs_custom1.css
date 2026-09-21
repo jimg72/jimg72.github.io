@@ -40,6 +40,10 @@ a:not([class]):hover {
     opacity: 0.8;
 }
 
+.card {
+    border: 0;
+}
+
 /* Masonry grid - prevent layout flash before JS loads */
 [data-masonry] {
     opacity: 0;
