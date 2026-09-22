@@ -69,19 +69,19 @@ a:not([class]):hover {
 
 /* Dark mode */
 body.dark-mode {
-    background: #036 none;
+    background: #333 none;
     color: #0cf;
 }
 
 body.dark-mode .card,
 body.dark-mode ul li.list-group-item {
-    background: #036 none;
+    background: #333 none;
     color: #0cf;
 }
 
 body.dark-mode .card-header {
-    background: #036 none;
-    color: #0cf;
+    background: #333 none;
+    color: #fff;
 }
 
 body.dark-mode a:not([class]) {
@@ -95,6 +95,6 @@ body.dark-mode a:not([class]):hover {
 }
 
 body.dark-mode .site-links .badge {
-    background-color: #036 !important;
+    background-color: #333 !important;
     color: #ff0;
 }
