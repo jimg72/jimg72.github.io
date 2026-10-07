@@ -7,9 +7,7 @@ tags: [frozen-tundra, 2026, week-2]
 description: "Danny escapes the basement, Rickey takes over the lease, and the league's quarterbacks send everyone scrambling."
 ---
 
-# 🏈 FTFFL — Week 2 Newsletter
-
-## Danny Escapes the Basement. Rickey Asks If the Couch Is Included.
+# 🏈 Danny Escapes the Basement. Rickey Asks If the Couch Is Included.
 
 Last week, we measured the basement for Danny. This week, he scored a league-high **135.8**, handed Richard a **36.9-point beating**, and left the keys under the mat for Rickey. The Slow Jamz answered a 151.4-point opener with **83.6**, a 67.8-point collapse. That's not a sophomore slump. That's somebody unplugging the jukebox because the bartender needs to hear the police scanner.
 

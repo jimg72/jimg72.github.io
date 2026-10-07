@@ -7,9 +7,7 @@ tags: [frozen-tundra, 2026, week-4]
 description: "Jim's undefeated run ends on the bench, Scott survives by 0.3, Paul ships Hilton a beating, and Shawn finally has a newsletter worth reading."
 ---
 
-# 🏈 FTFFL — Week 4 Newsletter
-
-## The Wieners Go Limp. Scott Survives by Three-Tenths of a Prayer.
+# 🏈 The Wieners Go Limp. Scott Survives by Three-Tenths of a Prayer.
 
 The undefeated table is down to one chair. **Thomas beat Jim 118.0–94.8**, ending the Mighty Wieners' perfect start while Kyle Monangai spent Sunday running through NFL defenders and watching Jim's fantasy season from the bench. Meanwhile, **Scott survived Rickey by 0.3**, a margin so thin he could paint over it with one coat. Scott's victory message was appropriately measured: “I win by .3 points. 4-0!!” Somewhere, Rickey is still staring at Tyler Shough's final total like the missing points might be under the couch.
 
@@ -137,27 +135,27 @@ These are the three most consequential bench misses, ranked by the points needed
 
 ### 1. Jim — Two Open Seats, One Closed Tab
 
-**Started:** Jeremiyah Love — 6.0; Jordan Addison — 7.1  
-**Benched:** Kyle Monangai — 27.5; Deebo Samuel — 15.5  
-**Cost:** 29.9 points together  
+**Started:** Jeremiyah Love — 6.0; Jordan Addison — 7.1
+**Benched:** Kyle Monangai — 27.5; Deebo Samuel — 15.5
+**Cost:** 29.9 points together
 **Result with those two swaps:** **124.7–118.0 win**
 
 Monangai alone still loses. Add Deebo and Thomas's victory turns into Jim's fourth straight. The league's nerdy AI guy has found a way to automate his own public humiliation.
 
 ### 2. Ashley — The Kamara Sample Was Sitting Right There
 
-**Started:** Jacory Croskey-Merritt — 6.0  
-**Benched:** Alvin Kamara — 20.3  
-**Cost:** 14.3 points  
+**Started:** Jacory Croskey-Merritt — 6.0
+**Benched:** Alvin Kamara — 20.3
+**Cost:** 14.3 points
 **Result with the swap:** **130.1–120.9 win**
 
 Ashley also had a second independent escape hatch: Shaheed over Adams adds 6.6 and wins by 1.5. Two doors marked EXIT, and he climbed into the supply closet.
 
 ### 3. Phil — Put AA Ron in the Mahomes Column
 
-**Started:** Patrick Mahomes — 17.9  
-**Benched:** Aaron Rodgers — 24.6  
-**Cost:** 6.7 points  
+**Started:** Patrick Mahomes — 17.9
+**Benched:** Aaron Rodgers — 24.6
+**Cost:** 6.7 points
 **Result with the swap:** **132.0–128.2 win**
 
 Starting Mahomes isn't an absurd decision. Losing with Rodgers sitting there still hurts, especially after correctly identifying it yourself in the chat. This week's balance sheet comes with a complimentary shot of regret.

@@ -7,9 +7,7 @@ tags: [frozen-tundra, 2026, week-3]
 description: "Rickey Bobby goes from last to first, Thomas leaves a win on the bench, and Danny renews his subscription to Kyle Pitts."
 ---
 
-# 🏈 FTFFL — Week 3 Newsletter
-
-## Rickey Bobby: “If You Ain’t First, You’re Last.” Apparently Those Are His Only Settings.
+# 🏈 Rickey Bobby: “If You Ain’t First, You’re Last.” Apparently Those Are His Only Settings.
 
 Last week: **83.6, dead last**. This week: **154.8, first**, with Jerry eating a **55.6-point beating**. Rickey apparently watched *Talladega Nights*, took “if you ain’t first, you’re last” as a roster-management policy, and decided second through eleventh were for people who brake before the turn. A **71.2-point rebound** later, Luther Vandross Slow Jamz has traded the broken jukebox for a stock car. Shake and bake, you magnificent pain in the ass.
 
