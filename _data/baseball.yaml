@@ -278,7 +278,7 @@
   tcdb_str: dave-clements
 
 - player: Chris Coghlan
-  priority: true
+  priority: false
   pid: 28385
   comc_str: chris+coghlan
   ebay_str: '"chris coghlan"'
@@ -320,7 +320,7 @@
   tcdb_str: kris-cox
 
 - player: Zack Cozart
-  priority: true
+  priority: false
   pid: 33364
   comc_str: zack+cozart
   ebay_str: '"zack cozart"'
@@ -355,14 +355,14 @@
   tcdb_str: anthony-cupps
 
 - player: David Dellucci
-  priority: true
+  priority: false
   pid: 1439
   comc_str: david+dellucci
   ebay_str: '"david dellucci"'
   tcdb_str: david-dellucci
 
 - player: Dylan DeLucia
-  priority: true
+  priority: false
   pid: 374745
   comc_str: dylan+delucia
   ebay_str: '"dylan delucia"'
@@ -839,7 +839,7 @@
   tcdb_str: tyler-keenan
 
 - player: Don Kessinger
-  priority: true
+  priority: false
   pid: 3091
   comc_str: don+kessinger
   ebay_str: '"don kessinger"'
@@ -944,7 +944,7 @@
   tcdb_str: jason-lowe
 
 - player: Lance Lynn
-  priority: true
+  priority: false
   pid: 3560
   comc_str: lance+lynn
   ebay_str: '"lance lynn"'
@@ -1196,7 +1196,7 @@
   tcdb_str: j.r.-pickens
 
 - player: Drew Pomeranz
-  priority: true
+  priority: false
   pid: 36863
   comc_str: drew+pomeranz
   ebay_str: '"drew pomeranz"'
@@ -1329,7 +1329,7 @@
   tcdb_str: larry-simcox
 
 - player: Seth Smith
-  priority: true
+  priority: false
   pid: 5491
   comc_str: seth+smith
   ebay_str: '"seth smith"'
@@ -1350,7 +1350,7 @@
   tcdb_str: chad-smith
 
 - player: Chris Snopek
-  priority: true
+  priority: false
   pid: 21570
   comc_str: chris+snopek
   ebay_str: '"chris snopek"'

@@ -146,7 +146,7 @@
   tcdb_str: travis-blanchard
 
 - player: Brandon Bolden
-  priority: true
+  priority: false
   pid: 40109
   comc_str: brandon+bolden
   ebay_str: '"brandon bolden"'
@@ -331,7 +331,7 @@
   tcdb_str: cody-core
 
 - player: Matt Corral
-  priority: true
+  priority: false
   pid: 224252
   ebay_str: matt (corral,coral)
   comc_str: matt+corral
@@ -489,7 +489,7 @@
   tcdb_str: trae-elston
 
 - player: Evan Engram
-  priority: true
+  priority: false
   pid: 141612
   comc_str: evan+engram
   ebay_str: '"evan engram"'
@@ -650,7 +650,7 @@
   tcdb_str: greg-hardy
 
 - player: Tre Harris
-  priority: true
+  priority: false
   pid: 454520
   comc_str: tre-harris
   ebay_str: '"tre-harris"'
@@ -846,7 +846,7 @@
   tcdb_str: bruiser-kinard
 
 - player: Dawson Knox
-  priority: true
+  priority: false
   pid: 218824
   ebay_str: '"dawson knox"'
   comc_str: dawson+knox
@@ -1094,7 +1094,7 @@
   tcdb_str: romaro-miller
 
 - player: Jonathan Mingo
-  priority: true
+  priority: false
   pid: 388581
   ebay_str: '"jonathan mingo"'
   comc_str: jonathan+mingo
@@ -1122,7 +1122,7 @@
   tcdb_str: tyrone-montgomery
 
 - player: Elijah Moore
-  priority: true
+  priority: false
   pid: 292120
   comc_str: elijah+moore
   ebay_str: '"elijah moore"'
@@ -1150,7 +1150,7 @@
   tcdb_str: robert-nkemdiche
 
 - player: Walter Nolen
-  priority: true
+  priority: false
   pid: 486008
   comc_str: walter+nolen
   ebay_str: '"walter nolen"'
@@ -1479,7 +1479,7 @@
   tcdb_str: laquon-treadwell
 
 - player: Laremy Tunsil
-  priority: true
+  priority: false
   pid: 95697
   comc_str: laremy+tunsil
   ebay_str: '"laremy tunsil"'
@@ -1535,14 +1535,14 @@
   tcdb_str: bo-wallace
 
 - player: Mike Wallace
-  priority: true
+  priority: false
   pid: 27766
   comc_str: mike+wallace
   ebay_str: '"mike wallace"'
   tcdb_str: mike-wallace
 
 - player: Wesley Walls
-  priority: true
+  priority: false
   pid: 13295
   comc_str: wesley+walls
   ebay_str: '"wesley walls"'
@@ -1610,10 +1610,3 @@
   comc_str: mark+young
   ebay_str: '"mark young"'
   tcdb_str: mark-young
-
-- player: Preston Stone
-  priority: true
-  pid: 330971
-  comc_str: preston+stone
-  ebay_str: '"preston+stone"'
-  tcdb_str: preston-stone
