@@ -1423,7 +1423,7 @@
   tcdb_str: charles-stackhouse
 
 - player: De'Zhaun Stribling
-  priority: false
+  priority: true
   pid: 496131
   comc_str: de%27zhaun+stribling
   ebay_str: '"De''Zhaun Stribling"'
