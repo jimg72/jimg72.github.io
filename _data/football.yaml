@@ -20,7 +20,7 @@
   tcdb_str: quincy-adeboyejo
 
 - player: Deuce Alexander
-  priority: false
+  priority: true
   pid: 472497
   comc_str: deuce+alexander
   ebay_str: '"deuce+alexander"'
@@ -844,7 +844,7 @@
   tcdb_str: bruiser-kinard
 
 - player: Dawson Knox
-  priority: false
+  priority: true
   pid: 218824
   ebay_str: '"dawson knox"'
   comc_str: dawson+knox
@@ -1490,7 +1490,7 @@
   tcdb_str: laquon-treadwell
 
 - player: Laremy Tunsil
-  priority: false
+  priority: true
   pid: 95697
   comc_str: laremy+tunsil
   ebay_str: '"laremy tunsil"'

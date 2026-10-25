@@ -989,6 +989,13 @@
   ebay_str: '"matt tolbert"'
   tcdb_str: matt-tolbert
 
+- player: Cade Townsend
+  priority: false
+  pid: 387815
+  comc_str: cade+townsend
+  ebay_str: '"cade townsend"'
+  tcdb_str: cade-townsend
+
 - player: Matt Tracy
   priority: false
   pid: 71862
