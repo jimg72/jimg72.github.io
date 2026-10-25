@@ -648,7 +648,7 @@
   tcdb_str: greg-hardy
 
 - player: Tre Harris
-  priority: false
+  priority: true
   pid: 454520
   comc_str: tre-harris
   ebay_str: '"tre-harris"'
@@ -1203,12 +1203,25 @@
   ebay_str: '"jim patton"'
   tcdb_str: jim-patton
 
+- player: Chris Paul Jr.
+  priority: false
+  comc_str:
+  ebay_str: chris+paul
+  tcdb_str: Chris-Paul-Jr.
+
 - player: Vashon Pearson
   priority: false
   pid: 27271
   comc_str: vashon+pearson
   ebay_str: '"vashon pearson"'
   tcdb_str: vashon-pearson
+
+- player: JJ Pegues
+  priority: false
+  pid: 484358
+  comc_str: jj+pegues
+  ebay_str: '"pegues"'
+  tcbd_str: jj-pegues
 
 - player: Leon Perry
   priority: false
@@ -1545,6 +1558,13 @@
   comc_str: wesley+walls
   ebay_str: '"wesley walls"'
   tcdb_str: wesley-walls
+
+- player: Jordan Watkins
+  priority: true
+  pid: 494075
+  comc_str: jordan+watkins
+  ebay_str: '"jordan watkins"'
+  tcdb_str: jordan-watkins
 
 - player: Nate Wayne
   priority: false
