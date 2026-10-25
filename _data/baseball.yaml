@@ -26,8 +26,10 @@
   ebay_str: '"kemp alderman"'
   tcdb_str: kemp-alderman
   links:
-    - link_name: c - 23 Bwmn #BDC-123
+    - link_name: c - 2023 Bowman #BDC-123
       link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-123/Kemp_Alderman/24525405
+    - link_name: e - 2023 Bowman
+      link_url: https://www.ebay.com/sch/261328/i.html?_nkw=kemp+alderman+%2823%2C2023%29+bowman+%285%2C10%2C25%2C50%29&_from=R40&_osacat=0
 
 - player: Tim Elko
   priority: true
@@ -36,7 +38,7 @@
   ebay_str: '"tim elko"'
   tcdb_str: tim-elko
   links:
-    - link_name: e - 2025 RC
+    - link_name: e - 2025 Rookies
       link_url: https://www.ebay.com/sch/i.html?_nkw=tim+elko+%285%2C10%2C25%29+2025+-bulk+-buy+-complete+-lot&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_stpos=75248&_odkw=elko+%285%2C10%2C25%2C50%29+2025+-bulk+-buy+-complete+-lot&_osacat=0&_sop=10
 
 - player: Hunter Elliott
@@ -165,8 +167,10 @@
   ebay_str: '"jacob gonzalez"'
   tcdb_str: jacob-gonzalez
   links:
-    - link_name: c - 23 Bwmn #BDC-167
+    - link_name: c - 2023 Bowman #BDC-167
       link_url: https://www.comc.com/Cards/Baseball/2023/Bowman_Draft_-_Chrome/BDC-167/Jacob_Gonzalez/24525449
+    - link_name: e - 2023 Bowman
+      link_url: https://www.ebay.com/sch/i.html?_nkw=jacob+gonzalez+%2823%2C2023%29+bowman+%285%2C10%2C25%2C50%29&_sacat=0&_from=R40&_osacat=261328
 
 - player: Kevin Graham
   priority: false
@@ -308,15 +312,15 @@
   ebay_str: '"gunnar hoglund"'
   tcdb_str: gunnar-hoglund
   links:
-    - link_name: c - 21 Bwmn Chrome #BDC-178
+    - link_name: c - 2021 Bowman Chrome #BDC-178
       link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-78/Gunnar_Hoglund/18197947
-    - link_name: e - 21 Bwmn Auto Gold /50
+    - link_name: e - 2021 Bowman Auto Gold /50
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_nkw=%22gunnar+hoglund%22+2021+bowman+gold+%28auto%2Cautograph%2Cautographs%29+-%28class%2Cgenesis%2Cbest%29&_sacat=212&_sop=15
-    - link_name: e - 21 Bwmn Auto Orange /25
+    - link_name: e - 2021 Bowman Auto Orange /25
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_nkw=%22gunnar+hoglund%22+2021+bowman+orange+%28auto%2Cautograph%2Cautographs%29+-%28class%2Cgenesis%2Cbest%29&_sacat=212&_sop=15
-    - link_name: e - 21 Bwmn Sapphire
+    - link_name: e - 2021 Bowman Sapphire
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22gunnar+hoglund%22+2021+bowman+sapphire+-%28auto%2Cautograph%2Cautographs%29&_sacat=261328&_sop=15
-    - link_name : e - 25 RC
+    - link_name : e - 2025 Rookies
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28gunnar%2Cgunner%29+%28hogland%2Choglund%29++%285%2C10%2C25%29+2025+-bulk+-buy+-complete+-lot&_from=R40&_stpos=75248&_sop=10
 
 - player: Mark Holliman
@@ -697,9 +701,9 @@
   ebay_str: '"doug nikhazy"'
   tcdb_str: doug-nikhazy
   links:
-    - link_name: c - 21 Bwmn #BDC-143
+    - link_name: c - 2021 Bowman #BDC-143
       link_url: https://www.comc.com/Cards/Baseball/2021/Bowman_Draft_-_Chrome/BDC-143/Doug_Nikhazy/18198009
-    - link_name: e - 25 RC
+    - link_name: e - 2025 Rookies
       link_url: https://www.ebay.com/sch/i.html?_nkw=doug+nikhazy+%285%2C10%2C25%29+2025+-bulk+-buy+-complete+-lot&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_stpos=75248&_odkw=tim+elko+%285%2C10%2C25%2C50%29+2025+-bulk+-buy+-complete+-lot&_osacat=0&_sop=10&_fcid=1
 
 - player: Cooper Osteen
@@ -842,7 +846,7 @@
   ebay_str: '"ryan rolison"'
   tcdb_str: ryan-rolison
   links:
-    - link_name: 25 RC
+    - link_name: e - 2025 Rookies
       link_url: https://www.ebay.com/sch/i.html?_nkw=ryan+rolison+%285%2C10%2C25%29+2025+-bulk+-buy+-complete+-lot&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_stpos=75248&_odkw=ryan+rolison+%285%2C10%2C25%2C50%29+2025+-bulk+-buy+-complete+-lot&_osacat=0&_sop=10
 
 - player: Mike Rosamond
