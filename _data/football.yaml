@@ -386,6 +386,8 @@
   ebay_str: '"jaxson dart"'
   tcdb_str: jaxson-dart
   links:
+    - link_name: TCDb - Prizm Wantlist
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/371911?sTeam=723&sBrand=Panini+Prizm&Filter=W
     - link_name: e - 2022
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28jaxson%2C+jackson%29+dart+2022&_from=R40&_sop=10
     - link_name: e - 2023
@@ -956,9 +958,9 @@
   tcdb_str: archie-manning
   links:
     - link_name: TCDb - Prizm Wantlist
-      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402?sTeam=198&sBrand=Panini+Prizm&Filter=W
     - link_name: TCDb - Prizm Draft Wantlist
-      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11402?sTeam=723&sBrand=Panini+Prizm&Filter=W
     - link_name: e - 1978 Slim Jim
       link_url: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=%22archie+manning%22+1978+%28slim%2Cslimjim%29&_sacat=261328&_stpos=75248&_odkw=%22archie+manning%22+1978+%28slim%2Cjim%2Cslimjim%29&_osacat=261328&_sop=10&_fcid=1
     - link_name: e - Flawless
@@ -980,9 +982,9 @@
   tcdb_str: eli-manning
   links:
     - link_name: TCDb - Prizm Wantlist
-      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403?sTeam=199&sBrand=Panini+Prizm&Filter=W
     - link_name: TCDb - Prizm Draft Wantlist
-      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm%20Draft%20Picks
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11403?sTeam=723&sBrand=Panini+Prizm&Filter=W
     - link_name: e - 2004 Graded
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%22eli+manning%22+2004+-%28press%2Csage%2Creprint%2Czenith%29&_fcid=1&_sop=10&_stpos=75248&_svsrch=1&Graded=Yes&_oaa=1&_dcat=212
     - link_name: e - 2004 Ungraded
@@ -1033,7 +1035,7 @@
   tcdb_str: deuce-mcallister
   links:
     - link_name: TCDb - Prizm Wantlist
-      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498/col/1/yea/0?sTeam=&sCardNum=&sNote=&sSetName=&sBrand=Panini%20Prizm
+      link_url: https://www.tcdb.com/ViewCollectionP.cfm/pid/11498?sBrand=Panini+Prizm&Filter=W
     - link_name: e - 2001
       link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
     - link_name: e - Prizm
