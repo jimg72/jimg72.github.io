@@ -239,6 +239,13 @@
   ebay_str: '"chance campbell"'
   tcdb_str: chance-campbell
 
+- player: Trinidad Chambliss
+  priority: true
+  pid: 528896
+  comc_str: trinidad+chambliss
+  ebay_str: '"trinidad chambliss"'
+  tcdb_str: trinidad-chambliss
+
 - player: Charles Childers
   priority: false
   pid: 139406
@@ -849,6 +856,13 @@
   ebay_str: '"dawson knox"'
   comc_str: dawson+knox
   tcdb_str: dawson-knox
+
+- player: Kewan Lacy
+  priority: true
+  pid: 465176
+  comc_str: kewan+lacy
+  ebay_str: '"kewan lacy"'
+  tcdb_str: kewan-lacy
 
 - player: Frank Lambert
   priority: false
