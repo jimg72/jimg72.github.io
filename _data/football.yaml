@@ -1221,7 +1221,10 @@
 
 - player: Chris Paul Jr.
   priority: false
-  comc_str:
+  # Verified: https://www.tcdb.com/Person.cfm/pid/494714/Chris-Paul-Jr.
+  pid: 494714
+  comc_unavailable: No matching COMC listing verified on 2026-10-29; recheck before enabling.
+  comc_str: null
   ebay_str: chris+paul
   tcdb_str: Chris-Paul-Jr.
 
@@ -1237,7 +1240,7 @@
   pid: 484358
   comc_str: jj+pegues
   ebay_str: '"pegues"'
-  tcbd_str: jj-pegues
+  tcdb_str: jj-pegues
 
 - player: Leon Perry
   priority: false

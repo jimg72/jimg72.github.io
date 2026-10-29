@@ -1,20 +1,29 @@
+{% assign tcdb_pid = include.player.pid | plus: 0 %}
+{% assign tcdb_name = include.player.tcdb_str | default: '' | strip %}
+{% assign comc_search = include.player.comc_str | default: '' | strip %}
 <div class="col g-4">
     <div class="card">
         <div class="card-header">{{ include.player.player }}</div>
         <ul class="list-group list-group-flush">
+            {% if tcdb_pid > 0 %}
             <li class="list-group-item site-links">
                 TCDb
                 <a class="badge bg-secondary" href="https://www.tcdb.com/ViewCollectionP.cfm/pid/{{ include.player.pid }}"
                     target="_blank" rel="noopener noreferrer">cards</a>
+                {% if tcdb_name != empty %}
                 <a class="badge bg-secondary" href="https://www.tcdb.com/CollectionBrowseP.cfm/pid/{{ include.player.pid }}/{{ include.player.tcdb_str }}?Member=Rebels72&CollectionID=1&Filter=G"
                     target="_blank" rel="noopener noreferrer">coll</a>
+                {% endif %}
             </li>
+            {% endif %}
+            {% if comc_search != empty %}
             <li class="list-group-item site-links">
                 COMC
                 <a class="badge bg-danger" href="https://www.comc.com/Cards,sr,={{ include.player.comc_str }}" target="_blank" rel="noopener noreferrer">new</a>
                 <a class="badge bg-danger" href="https://www.comc.com/Cards,so,={{ include.player.comc_str }}" target="_blank" rel="noopener noreferrer">oldest</a>
                 <a class="badge bg-danger" href="https://www.comc.com/Cards,sq,={{ include.player.comc_str }}" target="_blank" rel="noopener noreferrer">sn</a>
             </li>
+            {% endif %}
             <li class="list-group-item site-links">
                 eBay
                 <a class="badge bg-primary" href="https://www.ebay.com/sch/261328/i.html?_from=R40&_nkw={{ include.player.ebay_str|cgi_escape }}{{ include.ebay_exclude }}&_sop=10"
