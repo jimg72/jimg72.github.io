@@ -1,0 +1,21 @@
+---
+layout: bootstrap_grid1
+title: Deuce McAllister eBay Links
+menu: none
+permalink: /deuce.html
+---
+
+<div class="container my-4">
+    <h1 class="h3 mb-4">{{ page.title | escape }}</h1>
+    <div class="card">
+        <ul class="list-group list-group-flush">
+            {% for link in site.data.deuce %}
+            <li class="list-group-item">
+                <a target="_blank" rel="noopener noreferrer" href="{{ link.link_url | escape }}">{{ link.link_name | escape }}</a>
+            </li>
+            {% else %}
+            <li class="list-group-item">No eBay links added yet.</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
