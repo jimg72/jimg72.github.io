@@ -1,7 +1,55 @@
-# Add eBay links using link_name and the full link_url.
+# Add eBay links using link_name, the full link_url, and an optional link_note.
 - link_name: All Cards
+  link_note: ""
   link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29&_from=R40&_sop=10
 - link_name: 2001
+  link_note: ""
   link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10
 - link_name: Prizm
+  link_note: ""
   link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10
+- link_name: 2001 Donruss Elite
+  link_note: "look for /22, /25, Turn of the Century"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+donruss+elite&_sacat=0&_from=R40&_sop=10
+- link_name: 2001 Fleer Authority Prominence
+  link_note: "SN25 and SN75"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+fleer+authority+prominence&_from=R40&_sop=10
+- link_name: "2001 Fleer Premium - Star Rubies #SR 238 PR, SN125"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+fleer+premium+star&_from=R40&_sop=10
+- link_name: 2001 Leaf Certified Materials
+  link_note: "Red or Gold"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+leaf+certified+%28red%2C+gold%29&_from=R40&_sop=10
+- link_name: "2001 Leaf Rookies & Stars - Freshman Orientation Class Officers #FO8 MEM, SN50"
+  link_note: "Class Officers"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+leaf+freshman+orientation&_from=R40&_sop=10
+- link_name: "2001 Pacific Canvas Impressions #183 SN117"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+impressions+117&_from=R40&_sop=10
+- link_name: "2001 Pacific Dynagon - Promos #105"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+dynagon+%28promo%2Cpromos%29&_from=R40&_sop=10
+- link_name: "2001 Pacific Invincible - Premiere Date #275 SN55"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+invincible+premiere&_from=R40&_sop=10
+- link_name: "2001 Pacific Invincible - Red #275 SN199"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+invincible+red&_from=R40&_sop=10
+- link_name: "2001 Pacific Prism Atomic #178"
+  link_note: "SN116, SN310, SN506"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+prism+atomic+%23178&_from=R40&_sop=10
+- link_name: "2001 Pacific Private Stock - Premiere Date #140 SN95"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+private+stock+premiere+date&_from=R40&_sop=10
+- link_name: "2001 Pacific Private Stock - Silver Framed #140 SN99"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+private+stock+99&_from=R40&_sop=10
+- link_name: "2001 Pacific Private Stock Titanium - Double-Sided Dual Game-Worn Jersey Patches #22 Ojo"
+  link_note: "Patch ONLY"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+private+stock+titanium+ojo&_from=R40&_sop=10
+- link_name: "2001 Pacific Private Stock Titanium Postseason Edition"
+  link_note: "#P53, #65"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+Pacific+Private+Stock+Titanium+postseason&_from=R40&_sop=10
+- link_name: "2001 Pacific Vanguard - Premiere Date #128"
+  link_note: "SN10, SN115"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+Pacific+Vanguard+%23128+%28115%2C10%29&_from=R40&_sop=10

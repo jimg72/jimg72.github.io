@@ -12,6 +12,9 @@ permalink: /deuce.html
             {% for link in site.data.deuce %}
             <li class="list-group-item">
                 <a target="_blank" rel="noopener noreferrer" href="{{ link.link_url | escape }}">{{ link.link_name | escape }}</a>
+                {% if link.link_note and link.link_note != empty %}
+                <span class="ms-2">({{ link.link_note | escape }})</span>
+                {% endif %}
             </li>
             {% else %}
             <li class="list-group-item">No eBay links added yet.</li>
