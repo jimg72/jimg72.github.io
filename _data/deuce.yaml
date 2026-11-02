@@ -5,9 +5,9 @@
 - link_name: 2001
   link_note: ""
   link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001&_from=R40&_sop=10&_dmd=2
-- link_name: Prizm
-  link_note: ""
-  link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+Prizm&_from=R40&_sop=10&_dmd=2
+- link_name: Flawless
+  link_note: "5,6,8,10"
+  link_url: https://www.ebay.com/sch/261328/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+flawless+%285%2C6%2C8%2C10%29&_from=R40&_sop=10&_dmd=2
 - link_name: 2001 Donruss Elite
   link_note: "look for /22, /25, Turn of the Century"
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+donruss+elite&_sacat=0&_from=R40&_sop=10&_dmd=2
@@ -36,7 +36,7 @@
   link_note: ""
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+pacific+invincible+red&_from=R40&_sop=10&_dmd=2
 - link_name: "2001 Pacific Prism Atomic #178"
-  link_note: "SN116, SN310, SN506"
+  link_note: "116, 310, 506"
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+prism+atomic+%23178&_from=R40&_sop=10&_dmd=2
 - link_name: "2001 Pacific Private Stock - Premiere Date #140 SN95"
   link_note: ""
@@ -51,8 +51,29 @@
   link_note: "#P53, #65"
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+Pacific+Private+Stock+Titanium+postseason&_from=R40&_sop=10&_dmd=2
 - link_name: "2001 Pacific Vanguard - Premiere Date #128"
-  link_note: "SN10, SN115"
+  link_note: "10, 115"
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2001+Pacific+Vanguard+%23128+%28115%2C10%29&_from=R40&_sop=10&_dmd=2
-- link_name: "2022 Score"
-  link_note: "(6,10,20,35,99,125,199,225,399)"
+- link_name: "2014 Upper Deck Exquisite"
+  link_note: "2,3,4,5,6,7"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2014+exquisite+%282%2C3%2C4%2C5%2C6%2C7%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2022 Panini Certified"
+  link_note: "6,10,20,35,99,125,199,225,399"
   link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2022+score+%286%2C10%2C20%2C35%2C99%2C125%2C199%2C225%2C399%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2022 Panini Legacy Auto"
+  link_note: "10,15,35,50"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2022+legacy+%2810%2C15%2C35%2C50%29+%28auto%2Cautograph%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2022 Panini Legacy Violet No Auto"
+  link_note: ""
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2022+legacy+%28violet%2Cpurple%29+-%28auto%2Cautograph%2Cautographs%29%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2022 Score"
+  link_note: "5,15,20,30,35,40,45"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2022+certified+%285%2C15%2C20%2C30%2C35%2C40%2C45%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2023 Panini Immacualate Collection"
+  link_note: "10,99"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+%282023%2C2025%29+immaculate+%2899%2C10%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2024 Panini Inception"
+  link_note: "10,50,75,99,125,green"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2024+inception+%2810%2C50%2C75%2C99%2C125%2Cgreen%29&_from=R40&_sop=10&_dmd=2
+- link_name: "2024 Topps Chrome Sapphire"
+  link_note: "5,10,15,50"
+  link_url: https://www.ebay.com/sch/i.html?_nkw=%28deuce%2C+duece%29+%28mcallister%2C+mcalister%29+2024+sapphire+%285%2C10%2C15%2C50%29&_from=R40&_sop=10&_dmd=2
