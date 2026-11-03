@@ -1,0 +1,188 @@
+{
+  "source": "https://github.com/jimg72/jimg72.github.io/blob/master/_posts/2026-10-27-frozen-tundra-week-7.md",
+  "teams": [
+    "Scott",
+    "Rickey",
+    "Richard",
+    "Phil",
+    "Ashley",
+    "Paul",
+    "Jerry",
+    "Jim",
+    "Shawn",
+    "Thomas",
+    "Hilton",
+    "Danny"
+  ],
+  "checkpoint": {
+    "through_week": 7,
+    "actual_records": {
+      "Scott": [
+        7,
+        0,
+        0
+      ],
+      "Rickey": [
+        5,
+        2,
+        0
+      ],
+      "Richard": [
+        5,
+        2,
+        0
+      ],
+      "Phil": [
+        4,
+        3,
+        0
+      ],
+      "Ashley": [
+        3,
+        4,
+        0
+      ],
+      "Paul": [
+        3,
+        4,
+        0
+      ],
+      "Jerry": [
+        4,
+        3,
+        0
+      ],
+      "Jim": [
+        3,
+        4,
+        0
+      ],
+      "Shawn": [
+        3,
+        4,
+        0
+      ],
+      "Thomas": [
+        2,
+        5,
+        0
+      ],
+      "Hilton": [
+        2,
+        5,
+        0
+      ],
+      "Danny": [
+        1,
+        6,
+        0
+      ]
+    },
+    "all_play": {
+      "Scott": [
+        53,
+        23,
+        1
+      ],
+      "Rickey": [
+        51,
+        26,
+        0
+      ],
+      "Richard": [
+        51,
+        26,
+        0
+      ],
+      "Phil": [
+        47,
+        29,
+        1
+      ],
+      "Ashley": [
+        39,
+        38,
+        0
+      ],
+      "Paul": [
+        38,
+        39,
+        0
+      ],
+      "Jerry": [
+        37,
+        40,
+        0
+      ],
+      "Jim": [
+        34,
+        43,
+        0
+      ],
+      "Shawn": [
+        31,
+        46,
+        0
+      ],
+      "Thomas": [
+        30,
+        47,
+        0
+      ],
+      "Hilton": [
+        28,
+        49,
+        0
+      ],
+      "Danny": [
+        22,
+        55,
+        0
+      ]
+    },
+    "last_week": {
+      "week": 7,
+      "scores": {
+        "Scott": "115.4",
+        "Rickey": "119.1",
+        "Richard": "122.7",
+        "Phil": "104.9",
+        "Ashley": "108.5",
+        "Paul": "109.1",
+        "Jerry": "107.3",
+        "Jim": "91.4",
+        "Shawn": "106.4",
+        "Thomas": "94.5",
+        "Hilton": "96.7",
+        "Danny": "97.6"
+      },
+      "matchups": [
+        [
+          "Ashley",
+          "Phil"
+        ],
+        [
+          "Scott",
+          "Danny"
+        ],
+        [
+          "Richard",
+          "Shawn"
+        ],
+        [
+          "Rickey",
+          "Paul"
+        ],
+        [
+          "Jerry",
+          "Thomas"
+        ],
+        [
+          "Hilton",
+          "Jim"
+        ]
+      ]
+    }
+  },
+  "weeks": []
+}

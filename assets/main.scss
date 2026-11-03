@@ -25,3 +25,20 @@ a:visited {
 a:hover {
     color: #ce1126;
 }
+
+h1 {
+    color: #006ba6;
+}
+
+h2 {
+    color: #ce1126;
+    border-bottom: 1px solid #006ba6;
+}
+
+.site-header {
+    border-top: 5px solid #006ba6;
+    border-bottom: 1px solid #006ba6;
+    min-height: 55.95px;
+    position: relative;
+    background-color: #f0f0f0;
+}
