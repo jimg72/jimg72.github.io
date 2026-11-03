@@ -7,7 +7,7 @@ tags: [frozen-tundra, 2026, week-8]
 description: "Richard makes it three weekly highs in a row, Scott reaches 8–0, and Jim discovers that even his imaginary lineup loses."
 ---
 
-# Three for Richard and No Fun for Jim
+# 🏈 Three for Richard and No Fun for Jim
 
 **Richard has won the week three straight times. Scott is still fucking winning. I'm still fucking losing. Welcome to the newsletter I voluntarily signed up to write.**
 
@@ -19,7 +19,7 @@ Scott is **8–0**. Phil benched **49.4 recoverable points** and still beat me. 
 
 <!--more-->
 
-## THE SCOREBOARD
+## 📊 THE SCOREBOARD
 
 ### Jed York Trailer Park MVP's 151.6 vs SolidScat Again 129.5
 
@@ -103,7 +103,7 @@ Michael Wilson scored **22.8** for Thomas, Derrick Henry 13.0 and Cincinnati's d
 
 DJ Moore 15.6 and Wan'Dale Robinson 13.7 could have replaced Tucker and Mason, lifting Thomas to 90.5. Still 6.8 short. His **63.2** was the league low, his fourth straight loss, and his third straight score below 95. The trailer park boys are now applying for basement zoning.
 
-## WEEKLY AWARDS
+## 🏆 WEEKLY AWARDS
 
 **Big Winner — Richard.** 151.6, third straight weekly high, sixth straight win. Historical significance remains deliberately unresearched. Current irritation is fully verified.
 
@@ -123,7 +123,7 @@ DJ Moore 15.6 and Wan'Dale Robinson 13.7 could have replaced Tucker and Mason, l
 
 **Dumpster Fire — Thomas.** 63.2. Jim thanks him for taking the basement while continuing to provide absolutely no convincing argument that he belongs upstairs.
 
-## SURVIVOR POOL
+## 🏝️ SURVIVOR POOL
 
 **Ashley is eliminated at 71.1. Paul survives at 84.3, a 13.2-point cushion.** Thomas and Jim scored poorly too, but both were already out. Survivor does not allow repeat evictions, no matter how hard we campaign.
 
@@ -142,7 +142,7 @@ DJ Moore 15.6 and Wan'Dale Robinson 13.7 could have replaced Tucker and Mason, l
 
 Gainwell's 14.0 for Kamara's zero lifts Ashley to **85.1**, enough to survive by 0.8 and eliminate Paul instead. No complicated superflex origami. One active running back for one on a scheduled bye. Ashley couldn't beat Scott with any legal lineup, but he absolutely could have kept his seat on the island. Instead, he started two players whose teams weren't playing and turned a preventable zero into an actual elimination. Paul should send him a thank-you card and a calendar.
 
-## THE BENCH RECEIPT
+## 🪑 THE BENCH RECEIPT
 
 *Hindsight audit of actual Week 8 rosters, excluding IR. Nine legal starters: QB, two RBs, two WRs, TE, superflex, D/ST and K. Superflex permits QB/RB/WR/TE. Each player is used once. Opponents' actual lineups stay fixed in counterfactuals. Left behind means legal improvement, not raw bench points.*
 
@@ -177,7 +177,7 @@ Gainwell's 14.0 for Kamara's zero lifts Ashley to **85.1**, enough to survive by
 
 **Jim:** Addison for Pickens adds 4.3; Aaron Jones for Love adds 2.7. The entire alternate universe is worth seven points. I would like a different universe.
 
-## HEATING UP AND CIRCLING THE DRAIN
+## 📈 HEATING UP AND CIRCLING THE DRAIN
 
 **Richard:** Six consecutive wins and 783.7 points across them. Three straight weekly highs. 99.4% efficiency this week. We have run out of productive ways to ask him to calm down.
 
@@ -191,7 +191,7 @@ Gainwell's 14.0 for Kamara's zero lifts Ashley to **85.1**, enough to survive by
 
 **Paul and Thomas:** Four straight losses each. Paul's 84.3 was good enough to survive only because Ashley declined to use 14 perfectly legal points. Thomas's 63.2 didn't even have that secondary competition left to disappoint him.
 
-## STANDINGS
+## 📋 STANDINGS
 
 *Established divisions; teams tied on record are ordered here by points scored. This presentation does not assert playoff seeding or a clinch.*
 
@@ -212,7 +212,7 @@ Gainwell's 14.0 for Kamara's zero lifts Ashley to **85.1**, enough to survive by
 
 Scott leads Red by three wins. Rickey leads Blue by one, and Richard leads White by three. Hilton has **920.0 points**, more than Phil's 918.6, but three fewer wins. His league-high 1,010.1 points against may explain why he isn't enjoying this either.
 
-## LUCK INDEX
+## 🍀 LUCK INDEX
 
 *Eight weeks, 88 all-play comparisons per owner. All-play compares each score against all 11 other teams each week. Expected wins=(season all-play wins+half the ties)÷11. Luck=actual wins minus that unrounded expectation. Displayed values round to one decimal; the Week 6 Scott–Phil scoring tie remains included.*
 
@@ -239,7 +239,7 @@ Danny's **−1.4** is the worst luck rating, followed by Hilton's **−1.3**. Ne
 
 The league scored **1,255.5**, down 18.1 from last week. Every winner cleared his opponent by at least 22.1. The suspense budget was spent on wondering which unused player would make the next paragraph.
 
-## POWER RANKINGS
+## 💪 POWER RANKINGS
 
 *Editorial blend of production, all-play and recent form, not official standings or a forecast based on Tuesday's unfinished lineups.*
 
@@ -267,7 +267,7 @@ The league scored **1,255.5**, down 18.1 from last week. Every winner cleared hi
 
 **12. Danny · 1–7 · Last week 12.** Perfect lineup. Six straight losses. We have praised the process; somebody please send the process better players.
 
-## NEXT WEEK
+## 🔮 NEXT WEEK
 
 **Scott 8–0 vs Paul 3–5.** The unbeaten team meets four straight losses. Paul is one of four remaining survivors and can finally perform a public service by making Scott experience an ordinary human emotion.
 
