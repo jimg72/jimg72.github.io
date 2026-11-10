@@ -20,22 +20,43 @@ Source: [October 27 Week 7 newsletter](../../_posts/2026-10-27-frozen-tundra-wee
 The checkpoint transcribes its cumulative totals; it does not independently
 reconstruct Weeks 1–6. Week 7 scores sum to **1,273.6**. Each cumulative record has
 77 comparisons. Scott's 53–23–1 yields 4.9 expected wins and +2.1 luck.
-No Week 8 scores or results are supplied.
+## Reproduce Week 8
+
+Source: [November 3 Week 8 newsletter](../../_posts/2026-11-03-frozen-tundra-week-8.md).
+The verified `examples/week8-scores.json` contains all 12 final scores and six
+matchups. Append it exactly once to the Week 7 checkpoint:
+
+```bash
+python3 scripts/fantasy/all_play.py \\
+  scripts/fantasy/examples/week7-checkpoint.json \\
+  --week scripts/fantasy/examples/week8-scores.json \\
+  --save-checkpoint through-week8.json
+```
+
+Week 8 totals **1,255.5** points. All 12 weekly and cumulative all-play records,
+actual records, expected wins, and luck match the published newsletter. Each
+owner has 88 cumulative comparisons; Scott and Phil retain their historical tie.
+The Week 7 display section is already counted and does not increment totals.
+
+The committed `examples/week8-checkpoint.json` is the calculator's unmodified
+checkpoint export. It is ready for Week 9 and contains exact integer records,
+without old weekly scores or rounded metrics. Use the Week 7 checkpoint plus
+Week 8 fixture above when you want to reproduce the weekly Week 8 table.
 
 ## Add the next completed week
 
-Copy `scripts/fantasy/examples/week7-scores.json` to a working file such as
-`week8.json`. Replace the week number, **every score**, and all six matchup pairs
-with final results for that week. Do not reuse Week 7 values as placeholders.
+Copy `scripts/fantasy/examples/week8-scores.json` to a working file such as
+`week9.json`. Replace the week number, **every score**, and all six matchup pairs
+with final results for that week. Do not reuse Week 8 values as placeholders.
 The utility checks completeness and consistency, but cannot determine whether
 scores are final or match the league provider.
 
 ```bash
 python3 scripts/fantasy/all_play.py \
-  scripts/fantasy/examples/week7-checkpoint.json \
-  --week week8.json \
-  --output week8-tables.md \
-  --save-checkpoint through-week8.json
+  scripts/fantasy/examples/week8-checkpoint.json \
+  --week week9.json \
+  --output week9-tables.md \
+  --save-checkpoint through-week9.json
 ```
 
 Then use `through-week8.json --week week9.json` for the next completed week.
@@ -118,3 +139,6 @@ expected-win/luck figures, Scott and Phil's historical tie, checkpoint replay,
 record-based input, checkpoint export, Markdown/CLI output, malformed input,
 and synthetic tied-score scenarios. Synthetic cases use Week 1 and are not
 presented as real league results.
+
+Week 8 regressions also verify every published row, the 1,255.5-point total,
+CLI checkpoint export, saved checkpoint replay, and rejection of duplicate Week 8.

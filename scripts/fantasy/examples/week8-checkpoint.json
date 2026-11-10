@@ -1,0 +1,144 @@
+{
+  "teams": [
+    "Scott",
+    "Rickey",
+    "Richard",
+    "Phil",
+    "Ashley",
+    "Paul",
+    "Jerry",
+    "Jim",
+    "Shawn",
+    "Thomas",
+    "Hilton",
+    "Danny"
+  ],
+  "checkpoint": {
+    "through_week": 8,
+    "actual_records": {
+      "Scott": [
+        8,
+        0,
+        0
+      ],
+      "Rickey": [
+        6,
+        2,
+        0
+      ],
+      "Richard": [
+        6,
+        2,
+        0
+      ],
+      "Phil": [
+        5,
+        3,
+        0
+      ],
+      "Ashley": [
+        3,
+        5,
+        0
+      ],
+      "Paul": [
+        3,
+        5,
+        0
+      ],
+      "Jerry": [
+        5,
+        3,
+        0
+      ],
+      "Jim": [
+        3,
+        5,
+        0
+      ],
+      "Shawn": [
+        4,
+        4,
+        0
+      ],
+      "Thomas": [
+        2,
+        6,
+        0
+      ],
+      "Hilton": [
+        2,
+        6,
+        0
+      ],
+      "Danny": [
+        1,
+        7,
+        0
+      ]
+    },
+    "all_play": {
+      "Scott": [
+        62,
+        25,
+        1
+      ],
+      "Rickey": [
+        58,
+        30,
+        0
+      ],
+      "Richard": [
+        62,
+        26,
+        0
+      ],
+      "Phil": [
+        53,
+        34,
+        1
+      ],
+      "Ashley": [
+        40,
+        48,
+        0
+      ],
+      "Paul": [
+        41,
+        47,
+        0
+      ],
+      "Jerry": [
+        47,
+        41,
+        0
+      ],
+      "Jim": [
+        36,
+        52,
+        0
+      ],
+      "Shawn": [
+        36,
+        52,
+        0
+      ],
+      "Thomas": [
+        30,
+        58,
+        0
+      ],
+      "Hilton": [
+        36,
+        52,
+        0
+      ],
+      "Danny": [
+        26,
+        62,
+        0
+      ]
+    }
+  },
+  "weeks": []
+}
