@@ -27,9 +27,9 @@ The verified `examples/week8-scores.json` contains all 12 final scores and six
 matchups. Append it exactly once to the Week 7 checkpoint:
 
 ```bash
-python3 scripts/fantasy/all_play.py \\
-  scripts/fantasy/examples/week7-checkpoint.json \\
-  --week scripts/fantasy/examples/week8-scores.json \\
+python3 scripts/fantasy/all_play.py \
+  scripts/fantasy/examples/week7-checkpoint.json \
+  --week scripts/fantasy/examples/week8-scores.json \
   --save-checkpoint through-week8.json
 ```
 
@@ -59,7 +59,17 @@ python3 scripts/fantasy/all_play.py \
   --save-checkpoint through-week9.json
 ```
 
-Then use `through-week8.json --week week9.json` for the next completed week.
+Once Week 10 is final, create `week10.json` with `"week": 10`, all 12 final
+scores, and the six Week 10 matchups. Start from the checkpoint saved above:
+
+```bash
+python3 scripts/fantasy/all_play.py \
+  through-week9.json \
+  --week week10.json \
+  --output week10-tables.md \
+  --save-checkpoint through-week10.json
+```
+
 Saved checkpoints contain cumulative integer records without rounded metrics.
 They omit old weekly scores; keep your weekly files if you need that history.
 You can instead repeat `--week` in order, or place weekly objects inside the
