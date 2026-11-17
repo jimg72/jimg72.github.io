@@ -7,7 +7,7 @@ tags: [frozen-tundra, 2026, week-10]
 description: "Shawn ends Scott’s perfect season by three tenths, Jerry steals high score, and the island is down to two."
 ---
 
-# Three Tenths and a Funeral
+# 🏈 Three Tenths and a Funeral
 
 **Scott finally lost. Shawn finally exhaled. The rest of us finally got something worth staying up for.**
 
