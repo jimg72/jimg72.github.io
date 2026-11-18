@@ -1,0 +1,43 @@
+{
+  "week": 10,
+  "scores": {
+    "Shawn": "92.6",
+    "Scott": "92.3",
+    "Jerry": "164.8",
+    "Richard": "102.0",
+    "Jim": "162.3",
+    "Paul": "87.0",
+    "Hilton": "152.8",
+    "Danny": "120.7",
+    "Phil": "141.0",
+    "Rickey": "111.2",
+    "Ashley": "91.1",
+    "Thomas": "82.0"
+  },
+  "matchups": [
+    [
+      "Shawn",
+      "Scott"
+    ],
+    [
+      "Jerry",
+      "Richard"
+    ],
+    [
+      "Jim",
+      "Paul"
+    ],
+    [
+      "Hilton",
+      "Danny"
+    ],
+    [
+      "Phil",
+      "Rickey"
+    ],
+    [
+      "Ashley",
+      "Thomas"
+    ]
+  ]
+}
